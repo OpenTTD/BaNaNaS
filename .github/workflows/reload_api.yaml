@@ -1,0 +1,20 @@
+name: Reload API database
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  reload:
+    name: Reload API database
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Reload API database
+      run: |
+        aws lambda invoke --region ${{ secrets.AWS_REGION }} --function-name "${{ secrets.API_FUNCTION_NAME }}" --payload='{"secret":"${{ secrets.API_RELOAD_SECRET }}"}' output.txt
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.API_AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.API_AWS_SECRET_ACCESS_KEY }}
+      if: github.actor != 'DorpsGek'

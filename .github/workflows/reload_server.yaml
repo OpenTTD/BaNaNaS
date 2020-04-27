@@ -1,0 +1,19 @@
+name: Reload server database
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  reload:
+    name: Reload server database
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Reload server database
+      run: |
+        aws lambda invoke --region ${{ secrets.AWS_REGION }} --function-name "${{ secrets.SERVER_FUNCTION_NAME }}" --payload='{"secret":"${{ secrets.SERVER_RELOAD_SECRET }}"}' output.txt
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.SERVER_AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SERVER_AWS_SECRET_ACCESS_KEY }}
