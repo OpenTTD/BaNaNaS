@@ -1,0 +1,19 @@
+version: "0.7.11"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2012-11-25T06:22:09Z
+md5sum-partial: "aaa24354"
+filesize: 83067
+availability: "savegames-only"
+
+description: |-
+  Korean Trains including KTX, Saemaeul, Mugunghwa, Seoul subway(metro/underground), Incheon metro, electric locomotives of Korail.
+
+  * Graphic by skyu / Programmed by TELK
+tags:
+- "korea"
+- "korea train set"
+- "kts"
+- "ktx"
+- "mugunghwa"
+- "saemaeul"
+- "seoul"

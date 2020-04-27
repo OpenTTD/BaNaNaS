@@ -1,0 +1,13 @@
+name: "SuperLib"
+description: |-
+  SuperLib contains functions for
+  * Simplifying tasks (tiles, direction, signs, money, log messages ..)
+  * Get better understanding of the world (vehicle, engine, industry, town, station, airport ..)
+  * Build infrastructure (road, station, airport, ..)
+
+  Originally this library was created to reduce code duplication among AIs created by Zuu.
+
+  Note that this is the AI edition of the library. For Game Scripts, you need the GS edition.
+
+  Author: Zuu
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=47525"

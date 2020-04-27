@@ -1,0 +1,17 @@
+name: "betabridges"
+description: |-
+  Better bridges parameters:
+  1. first grid, suspension and cantilever bridge available in half of XIX century;
+  2. spread and ratio of speeds and costs, tweaked for TTRS/TBRS/ARRS
+  3. base costs of bridge construction, ground levelling, tunnel building and water clearing increased slightly;
+  4. similar properties of road suspension and rail cantilever bridges;
+  5. short bridges can be 4 tiles long (+ 2 bridge heads);
+  6. silicon bridge for very fast trains (vacuum tube etc).
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=72830&sid=a4b9ff12829e20b955536b7ae16863dd"
+tags:
+- "bridge"
+- "cost"
+- "fast"
+- "replacement"
+- "tube"
+- "vacuum"

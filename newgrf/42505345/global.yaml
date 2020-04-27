@@ -1,0 +1,5 @@
+name: "Buy, process, sell (ECS)"
+description: "Pay for primary cargoes, process them, sell goods, food and gasoline. Pax, mail & gold pays a little and you won't earn with it."
+url: "http://ttd.nn.lv"
+tags:
+- "economy"

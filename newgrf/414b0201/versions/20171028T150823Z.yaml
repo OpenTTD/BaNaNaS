@@ -1,0 +1,11 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2017-10-28T15:08:23Z
+md5sum-partial: "fac9d432"
+filesize: 342739
+availability: "savegames-only"
+
+description: |-
+  A GRF that currently contains the Class 143 "Pacer" available in GWR Green, Wessex Trains "Visit Bristol" and First Local Lines.
+
+  Graphics drawn and coded by StarRaid

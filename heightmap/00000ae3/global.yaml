@@ -1,0 +1,7 @@
+name: "Europe (4096 x 4096)"
+description: |-
+  A bigger heightmap of Europe, 4096 pixels long and wide. Why? So if you have the extra-large-map patch (OR EVEN: OpenTTD 1.4.0 beta-5!!!) you can use this if you think the 2048 x 2048 map of Europe is too small. Of course, this map can be downscaled (with good quality) if you prefer playing at a smaller map for faster gameplay.
+
+  ---Changelog---
+  V4 - Fixed heights so no land goes underwater
+url: "http://www.tt-forums.net/memberlist.php?mode=viewprofile&u=67503"

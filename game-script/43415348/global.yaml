@@ -1,0 +1,8 @@
+name: "CashDrainGS"
+description: |-
+  With this GS you will not get paid based on distance cargo is transported or based on the time it took to transport cargo. Instead you will get paid based on amount of cargo you delivered to industries and towns.
+
+  The payment is currently not dependent on NewGRFs. Instead it is just a constant equal for all cargo types. You can change this in the GS settings window.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=71606"
+tags:
+- "money"

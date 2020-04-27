@@ -1,0 +1,20 @@
+name: "Simple City Builder"
+description: |-
+  Simple City Builder
+
+  by The Dude of Novapolis team
+  http://novapolis.net
+
+  Easily configured city builder script.
+
+  - Choose what cargos towns will require to grow (up to all 32 cargos if defined)
+  - Claim towns by placing company headquaters
+  - Deliver cargo to your town to grow it
+  - ECS, FIRS and YETI supported
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=69014"
+tags:
+- "builder"
+- "city"
+- "cool"
+- "ginger"
+- "town"

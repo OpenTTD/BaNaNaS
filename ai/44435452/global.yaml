@@ -1,0 +1,12 @@
+name: "DictatorAI"
+description: |-
+  http://www.tt-forums.net/viewtopic.php?f=65&t=52982
+
+  Features are : upgrade stations & airports, upgrade vehicles, handle traffic jam (and try to not do too much jam), repair damage route, save/load, newgrfs vehicles
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=52982"
+tags:
+- "aircraft"
+- "bus"
+- "chopper"
+- "save"
+- "truck"

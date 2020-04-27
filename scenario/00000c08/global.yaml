@@ -1,0 +1,19 @@
+name: "4k Europe"
+archived: true
+description: |-
+  Version needed: 26275M (see URL)
+  Map size: 4096x4096
+  Starting year: 1950
+  Number of towns: 400-500
+  Climate: Temperate
+  Industries: Not included (generate them with scenario editor)
+  Rivers/Lakes: 40% Done
+
+
+  Made by: LSky, 2014
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=69912"
+tags:
+- "4096"
+- "europe"
+- "large"
+- "scenario"

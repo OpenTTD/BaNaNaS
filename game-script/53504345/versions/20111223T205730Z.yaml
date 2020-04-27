@@ -1,0 +1,12 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2011-12-23T20:57:30Z
+md5sum-partial: "5432db17"
+filesize: 10870
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+description: "Very simple gamescript which deems companies 'owner' of towns based on which company has the best station ratings.  Companies will have to compete to be the owner of the city."

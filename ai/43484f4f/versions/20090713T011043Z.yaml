@@ -1,0 +1,16 @@
+version: "301"
+license: "GPL v2"
+upload-date: 2009-07-13T01:10:43Z
+md5sum-partial: "092c58e6"
+filesize: 25806
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+tags:
+- "train"

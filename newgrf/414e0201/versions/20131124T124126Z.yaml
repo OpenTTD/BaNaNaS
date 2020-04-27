@@ -1,0 +1,12 @@
+version: "squid-alpha-2"
+license: "GPL v2"
+upload-date: 2013-11-24T12:41:26Z
+md5sum-partial: "32a87de0"
+filesize: 669242
+availability: "savegames-only"
+
+description: |-
+  Squid Ate FISH!
+
+  Alpha release.  Some stuff is known broken, but gameplay feedback would be useful.
+tags: []

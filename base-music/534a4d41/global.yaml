@@ -1,0 +1,10 @@
+name: "Scott Joplin Anthology"
+description: |-
+  The Scott Joplin Anthology is a Base Music set replacement for the in-game music for OpenTTD 1.0.0 or greater. The set is a collection of 31 musical works from American composer Scott Joplin, a/k/a "the King of Ragtime".
+
+  Part of the OpenTTD Music Replacement Project. Please visit the website, http://wiki.openttd.org/Music_replacement_project for more info, as well as view the Readme, License an Changelog files.
+url: "http://kam-net.com/openttd/scott-joplin-anthology/"
+tags:
+- "old music"
+- "piano"
+- "ragtime"

@@ -1,0 +1,12 @@
+version: "1.0.0"
+license: "GPL v2"
+upload-date: 2019-01-04T16:08:09Z
+md5sum-partial: "6761fb32"
+filesize: 26572639
+availability: "savegames-only"
+
+name: "CZTR EMU"
+description: |-
+  Set nakladnich automobilu ve 32bpp s extrazoomem. Obsahuje zvuky. Vice informaci na TT-foru nebo nasem FB (OTTD-Czech realistic replacement). Autori: CZTR Team
+
+  Set of Czech trucks in 32 bpp + extrazoom. Sounds include. More info in TT-forum in URL or our FB page (OTTD-Czech realistic replacement). By CZTR Team

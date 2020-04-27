@@ -1,0 +1,10 @@
+name: "Dutch Catenary"
+description: |-
+  Replaces the overhead wires (catenary) of electrified railways with Dutch-style catenary.
+
+  Made by Purno
+  Thanks to Lakie, Patchman and the Dutch Trainset Team.
+url: ""
+tags:
+- "catenary"
+- "dutch"

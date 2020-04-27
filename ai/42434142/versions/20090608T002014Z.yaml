@@ -1,0 +1,24 @@
+version: "1.18a6"
+license: "GPL v2"
+upload-date: 2009-06-08T00:20:14Z
+md5sum-partial: "83005eb4"
+filesize: 65230
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: |-
+  Bleeding edge version of NoCAB, this version is not compatible with the latest stable release of OpenTTD and can only be played by the trunk version.
+
+  This version will be used for testing and parts of it will eventually integrate with the main NoCAB releases as new versions of OpenTTD are released.
+
+  This branch is based on the 1.17 version of NoCAB.
+tags:
+- "aircraft"
+- "bus"
+- "performance"
+- "save/load"
+- "ship"
+- "truck"

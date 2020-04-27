@@ -1,0 +1,7 @@
+name: "ECS Industry Add-on"
+description: "Ecs support for non-industry accepting cargos."
+url: ""
+tags:
+- "cargo"
+- "ecs"
+- "industry"

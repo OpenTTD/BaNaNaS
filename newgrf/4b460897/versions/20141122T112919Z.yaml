@@ -1,0 +1,10 @@
+version: "2"
+license: "Custom"
+upload-date: 2014-11-22T11:29:19Z
+md5sum-partial: "b248d127"
+filesize: 8631
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

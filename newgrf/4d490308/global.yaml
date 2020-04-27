@@ -1,0 +1,17 @@
+name: "CZTR Bridges"
+replaced-by:
+  unique-id: "4d490320"
+description: |-
+  Created by Zley_Muffle
+
+  Set of 5 replacements of original RAILROAD bridges in 32bpp designed to fit with other CZTR Sets. Set is released as only temporary measure.
+
+  WARNING: Cantilever bridges are designed for maximum bridgelenght of 6, otherwise they look unrealistically strong because of the invisible pillars! (still WIP though). WIP in many areas, in fact :D
+
+  Changelog:
+  - removed dependency on CZTR Rails
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
+tags:
+- "bridge"
+- "cztr"
+- "platform"

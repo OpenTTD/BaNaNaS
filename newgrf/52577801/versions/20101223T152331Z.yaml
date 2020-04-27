@@ -1,0 +1,13 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2010-12-23T15:23:31Z
+md5sum-partial: "7c993adf"
+filesize: 99268
+availability: "savegames-only"
+
+tags:
+- "big"
+- "double"
+- "gui"
+- "opengfx"
+- "zephyris"

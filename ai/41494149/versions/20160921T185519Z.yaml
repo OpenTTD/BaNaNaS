@@ -1,0 +1,29 @@
+version: "kappa97"
+license: "GPL v2"
+upload-date: 2016-09-21T18:55:19Z
+md5sum-partial: "0d23bf1d"
+filesize: 73605
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+- content-type: "ai-library"
+  unique-id: "7363704e"
+  md5sum-partial: "07ecd3d8"
+- content-type: "ai-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "a354aea1"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "ca75d8b4"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

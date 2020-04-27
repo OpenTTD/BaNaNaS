@@ -1,0 +1,12 @@
+version: "0.9.0"
+license: "GPL v2"
+upload-date: 2018-02-04T19:30:11Z
+md5sum-partial: "814931a0"
+filesize: 2757742
+availability: "savegames-only"
+
+name: "CZTR Bus set BETA"
+description: |-
+  Set autobusů z České republiky ve verzi 32bpp + extrazoom. Zahrnuje ozvučení vozidel. Více informací na TT-foru nebo našem FB (OTTD-Czech realistic replacement). Autoři: stefino_cz, Couda
+
+  Set of buses from Czech republic in 32 bpp + extrazoom. Sounds include. More info in TT-forum in URL or our FB page (OTTD-Czech realistic replacement). By stefino_cz and Couda

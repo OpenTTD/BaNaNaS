@@ -1,0 +1,15 @@
+version: "squid-rc-4"
+license: "GPL v2"
+upload-date: 2014-08-25T14:21:47Z
+md5sum-partial: "1c666b44"
+filesize: 466176
+availability: "savegames-only"
+
+description: |-
+  Squid Ate FISH!
+
+  Release Candidate 4.  "Mostly bug free"
+
+  Includes one roster of ships: This Sceptred Isle (British-ish ships).
+  Parameter for ship speed.
+  Parameter for reduced canal construction costs.

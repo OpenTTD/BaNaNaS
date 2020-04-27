@@ -1,0 +1,22 @@
+version: "0.7.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2019-12-21T14:37:37Z
+md5sum-partial: "6043f512"
+filesize: 192714
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4b570002"
+  md5sum-partial: "b906818c"
+
+tags:
+- "kiwitree"
+- "kor"
+- "korea"
+- "s. korea"
+- "south korea"
+- "station"
+- "남한"
+- "대한민국"
+- "역"
+- "한국"

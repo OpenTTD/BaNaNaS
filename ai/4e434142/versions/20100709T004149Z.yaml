@@ -1,0 +1,18 @@
+version: "2.1.0"
+license: "GPL v2"
+upload-date: 2010-07-09T00:41:49Z
+md5sum-partial: "bfd2aaff"
+filesize: 94566
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: |-
+  NoCAB is a competitive AI that tries to compete with other AIs and human players. If features a custom pathfinder and data structures for maximal performance. It can handle trains, road vehicles, aircraft, and ships.
+
+  Update:
+  2.1.0: Some bug fixes and ready for the trunk version of OpenTTD.
+
+  Enjoy! :)

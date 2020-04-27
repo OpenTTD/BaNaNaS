@@ -1,0 +1,19 @@
+version: "85"
+license: "GPL v2"
+upload-date: 2013-07-02T16:18:00Z
+md5sum-partial: "82c3ca7a"
+filesize: 61907
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "47514648"
+  md5sum-partial: "6d8a2b4f"
+- content-type: "game-script-library"
+  unique-id: "47514248"
+  md5sum-partial: "98b83fdd"
+- content-type: "game-script-library"
+  unique-id: "4747412a"
+  md5sum-partial: "d8868b0f"
+- content-type: "game-script-library"
+  unique-id: "5046524f"
+  md5sum-partial: "ac98ad57"

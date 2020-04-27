@@ -1,0 +1,8 @@
+version: "nightly-v5092"
+license: "GPL v2"
+upload-date: 2013-12-10T23:20:05Z
+md5sum-partial: "4e1c1f57"
+filesize: 3452066
+availability: "savegames-only"
+
+description: "The OpenGFX Graphics Base Set is the free base graphics for OpenTTD. You can switch base graphics sets via the Game Options dialog in the main menu. See the do-not-readme at http://bundles.openttdcoop.org/opengfx/releases/LATEST/readme.txt  OpenGFX is licensed under the GNU General Public License version 2.0."

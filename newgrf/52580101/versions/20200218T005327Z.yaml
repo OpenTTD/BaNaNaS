@@ -1,0 +1,12 @@
+version: "0.1.6"
+license: "GPL v2"
+upload-date: 2020-02-18T00:53:27Z
+md5sum-partial: "b9a0a30e"
+filesize: 412630
+availability: "savegames-only"
+
+description: |-
+  Industry and miscellaneous tiles as objects, to expand and prettify/grungify your industrial areas. You don't need FIRS or CHIPS to use this NewGRF, but why wouldn't you use them?
+
+  Graphics used: FIRS and CHIPS by andythenorth, FooBar, planetmaker, Terkhen, Yexo and many others.
+  Some graphical edits and variants by me.

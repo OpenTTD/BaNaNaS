@@ -1,0 +1,14 @@
+version: "2218"
+license: "GPL v2"
+upload-date: 2018-11-14T15:01:02Z
+md5sum-partial: "b02d79b0"
+filesize: 369371
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "ac1d0101"
+  md5sum-partial: "acd9ae07"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

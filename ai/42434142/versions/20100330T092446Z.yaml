@@ -1,0 +1,15 @@
+version: "2.0a21"
+license: "GPL v2"
+upload-date: 2010-03-30T09:24:46Z
+md5sum-partial: "e25cba95"
+filesize: 88544
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: |-
+  Bleeding edge version of NoCAB, this version will be used for testing and parts of it will eventually integrate with the main NoCAB releases as it stabilizes over time.
+
+  Not in use at the moment...

@@ -1,0 +1,16 @@
+version: "0.11"
+license: "GPL v3"
+upload-date: 2018-03-02T13:01:46Z
+md5sum-partial: "5f4f62a7"
+filesize: 18379
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  A little AI written by me DrReVaN :)
+  Supports trucks only and transports different cargos.
+
+  Update: Depot building should now work as intended.

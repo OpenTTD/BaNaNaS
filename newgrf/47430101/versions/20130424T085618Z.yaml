@@ -1,0 +1,13 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2013-04-24T08:56:18Z
+md5sum-partial: "907cd9be"
+filesize: 8601
+availability: "savegames-only"
+
+description: |-
+  Random Scottish Gaelic Town Names
+
+  These files avoid problems with the genitive case for the Gaelic translation as well.
+
+  I have no idea which is the minimum version of OpenTTD that supports this.

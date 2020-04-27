@@ -1,0 +1,12 @@
+version: "1.0.3"
+license: "GPL v2"
+upload-date: 2014-03-22T11:50:50Z
+md5sum-partial: "fb07018c"
+filesize: 11142
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: "A road AI that completes subsidies and bus lines, still in Beta and buggy, and anyone who wants to improve it and upload it, go ahead."

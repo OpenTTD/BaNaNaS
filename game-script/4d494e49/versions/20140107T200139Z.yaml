@@ -1,0 +1,15 @@
+version: "6"
+license: "CC-0 v1.0"
+upload-date: 2014-01-07T20:01:39Z
+md5sum-partial: "47fff1d9"
+filesize: 11163
+availability: "savegames-only"
+
+description: |-
+  Make cities growth depend upon cargos delivered to them.
+
+  This game script requires FIRS industry replacement set.
+tags:
+- "growth"
+- "limiter"
+- "real"

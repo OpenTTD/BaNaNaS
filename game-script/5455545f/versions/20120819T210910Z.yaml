@@ -1,0 +1,25 @@
+version: "8"
+license: "GPL v2"
+upload-date: 2012-08-19T21:09:10Z
+md5sum-partial: "f8d6dd86"
+filesize: 34629
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "544c424c"
+  md5sum-partial: "70db7b52"
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "43a07526"
+- content-type: "scenario"
+  unique-id: "000007aa"
+  md5sum-partial: "b3c35742"
+
+name: "Beginner Tutorial"
+description: |-
+  This is the Script part of the Beginner Tutorial. It's actually here most of the logic sits. The scenario is just a ... scenario to ensure that you get a good start. :-)
+
+  Feedback or helping out is welcome.
+
+
+  Ensure you download both this script and the scenario named "Beginner Tutorial". Then click on play scenario in the start menu to play the tutorial.

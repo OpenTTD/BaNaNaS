@@ -1,0 +1,11 @@
+name: "OpenSFX"
+description: |-
+  The OpenSFX Sound Pack is an open source replacement for the original Transport Tycoon Deluxe sounds used by OpenTTD.
+
+  You can switch base sounds sets via the Game Options dialog in the main menu.
+
+  OpenSFX is licensed under the Creative Commons Sampling Plus 1.0 License.
+url: "http://dev.openttdcoop.org/projects/opensfx"
+tags:
+- "opensfx"
+- "sound"

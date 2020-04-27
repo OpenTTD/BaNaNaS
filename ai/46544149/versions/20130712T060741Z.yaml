@@ -1,0 +1,37 @@
+version: "130711"
+license: "GPL v2"
+upload-date: 2013-07-12T06:07:41Z
+md5sum-partial: "5f28d269"
+filesize: 56510
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "41494245"
+  md5sum-partial: "4c4e7263"
+- content-type: "ai-library"
+  unique-id: "434c5346"
+  md5sum-partial: "61b8396e"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+
+  ** Update 130711
+  - Uses Own heap
+  ** Update 130630
+  Feature: We have 14 name combination
+  Close #1643: Implement AI save/load
+  Fix : Updated to API 1.3
+  Fix: Don't crash on calling XRail class. It's there but not ready to handle rail vehicle yet
+  Codechange : Uses AILibrary : Common V.2 & List V.3
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "simple"
+- "tram"
+- "truck"

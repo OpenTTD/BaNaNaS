@@ -1,0 +1,17 @@
+version: "32"
+license: "Custom"
+upload-date: 2020-01-18T02:29:56Z
+md5sum-partial: "51a6a6c6"
+filesize: 64581
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "4356524f"
+  md5sum-partial: "77416e84"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

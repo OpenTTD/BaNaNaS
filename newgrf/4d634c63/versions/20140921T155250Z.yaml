@@ -1,0 +1,8 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2014-09-21T15:52:50Z
+md5sum-partial: "67550f4b"
+filesize: 18085
+availability: "savegames-only"
+
+description: "Logging camp replaces original forest, then cut trees like lumber mill but is available for temperate and arctic climate. Unlike lumber mill, forest logging camps appears randomly on the map and thus keep tree growth balanced (especially useful for large multiplayer maps)."

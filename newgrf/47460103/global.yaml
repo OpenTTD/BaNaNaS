@@ -1,0 +1,12 @@
+name: "8/32bpp SH40 2CC"
+archived: true
+description: |-
+  DEPRICATED!!!
+
+  This is the source project that creates a NewGRF that replaces the OpenTTD SH40 with a 8/32bpp Extra Zoom 2CC version of the graphics and adds extra functionality through the setting of the NewGRF parameters
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=59332"
+tags:
+- "2cc"
+- "32bpp"
+- "newgrf"
+- "sh40"

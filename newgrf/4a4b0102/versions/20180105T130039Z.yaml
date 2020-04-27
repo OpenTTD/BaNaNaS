@@ -1,0 +1,17 @@
+version: "v1.14"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-01-05T13:00:39Z
+md5sum-partial: "98142d5e"
+filesize: 126262
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v1.14]
+  * New City Bus : Daewoo BS110 Royal Non-step (2004~)
+  * New Express Bus : Daewoo FX Series (2006~)
+  * New Express Bus : Kia Granbird (1993~)
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporations.

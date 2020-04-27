@@ -1,0 +1,8 @@
+version: "r9"
+license: "GPL v3"
+upload-date: 2010-03-22T23:07:19Z
+md5sum-partial: "616502e9"
+filesize: 18997
+availability: "savegames-only"
+
+description: "An incomplete set of light road vehicles that includes four vehicles up to now, only one with graphics for all cargo types. Coded and drawn by neg using GRFMaker."

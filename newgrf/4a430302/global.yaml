@@ -1,0 +1,8 @@
+name: "NOHAB"
+description: |-
+  The NOHAB is a diesel locomotive designed by Electro-Motive Diesel and built in Sweden by Nydqvist och Holm A.B. (NoHAB). This NewGRF includes both the 'A' version (for freight traffic) and the 'B' version (for passenger duties).
+
+  Texture is based on the Kelling 3100 from the OpenGFX project.
+
+  Please report any bugs on the Github.
+url: "https://github.com/RAD750/openttdstuff/tree/master/nohab"

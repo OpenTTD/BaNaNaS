@@ -1,0 +1,19 @@
+version: "1.2.0"
+license: "GPL v2"
+upload-date: 2013-05-18T06:00:54Z
+md5sum-partial: "433c292e"
+filesize: 352377
+availability: "savegames-only"
+
+description: |-
+  Provides new road infrastructure graphics based on the road design used in The United States of America. Replaces all road tiles, including bridges, tunnels, level crossings, and more.
+
+  Designed to work with OpenGFX, including support for OpenGFX+ Landscape. Original TTD graphics are not supported, though use of other NewGRFs can minimize the problems. See readme for details.
+
+  By Andrew350
+tags:
+- "american"
+- "opengfx"
+- "road"
+- "united states"
+- "usa"

@@ -1,0 +1,26 @@
+name: "Dutch Stations As Waypoints DSA"
+replaced-by:
+  unique-id: "44536157"
+description: |-
+  Dutch Stations as Waypoints
+
+  Does, as it says on the tin. It turns the basic dutch station platforms into waypoints, as well as "overlapping" waypoints
+  which allow for junctions in stations as well as signals along platforms.
+
+  GPL v2, Gwyd. Original graphics from Dutch Stations.
+url: "https://www.tt-forums.net/viewtopic.php?t=83886"
+tags:
+- "america"
+- "american"
+- "have_a_fishy_stick"
+- "master"
+- "nats"
+- "nek0"
+- "neko"
+- "neko-master"
+- "nekomaster"
+- "north"
+- "north american track set"
+- "railtype"
+- "set"
+- "track"

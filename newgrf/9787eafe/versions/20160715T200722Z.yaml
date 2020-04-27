@@ -1,0 +1,24 @@
+version: "beta-5"
+license: "GPL v2"
+upload-date: 2016-07-15T20:07:22Z
+md5sum-partial: "777f9d77"
+filesize: 295397
+availability: "savegames-only"
+
+description: |-
+  Road Hog!  A big fat road vehicle set.
+
+  * Highway trucks
+  * Buses and coaches
+  * Passenger trams
+  * Freight trams
+  * Off-highway trucks
+
+  * Intro dates 1860-2000
+  * Supports 2 company colours
+  * Compatible with all known cargos
+  * Autorefit support
+  * Parameter for vehicle capacity
+
+  beta-2: more done than beta 1
+  Not savegame compatible with previous versions.

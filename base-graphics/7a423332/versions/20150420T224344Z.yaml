@@ -1,0 +1,10 @@
+version: "v5588"
+license: "GPL v2"
+upload-date: 2015-04-20T22:43:44Z
+md5sum-partial: "cbfb394e"
+filesize: 286603033
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

@@ -1,0 +1,9 @@
+name: "Dutch Trainset Cargo Extension"
+description: |-
+  The Dutch Trainset Cargo Extension adds refit options to the Dutch Trainset such that it is compatible with industry sets. The Dutch Trainset Cargo Extension is designed specifically to work with FIRS and ECS, but should work with other industry sets as well.
+
+  The Dutch Trainset Cargo Extension DOES NOT add additional cargo graphics, it just adds the refit options.
+url: "http://www.tt-forums.net/viewtopic.php?t=55872"
+tags:
+- "cargo"
+- "dutch"

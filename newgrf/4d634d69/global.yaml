@@ -1,0 +1,15 @@
+name: "Manpower ogfx-industries"
+description: |-
+  Manpower fork of OpenGFX+ Industries implement worker crew idea
+  as passenger stockpile levels - once crew level is achieved, production level of primary industry steps up.
+
+  Extractive industry have limited resources and before its life end, production level will drop to the lowest one.
+
+  Additionally there are switches to controll industry closure/creation and cargo payment modifiers.
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=71105"
+tags:
+- "industry"
+- "manpower"
+- "passengers"
+- "replacement"
+- "tree"

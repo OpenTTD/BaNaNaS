@@ -1,0 +1,14 @@
+version: "0.0.8 Pre Alpha"
+license: "GPL v2"
+upload-date: 2020-03-28T17:10:54Z
+md5sum-partial: "c4338ff8"
+filesize: 82608
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "494e4432"
+  md5sum-partial: "0e1757d2"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

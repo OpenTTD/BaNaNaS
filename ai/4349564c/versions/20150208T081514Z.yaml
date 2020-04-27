@@ -1,0 +1,17 @@
+version: "5"
+license: "Custom"
+upload-date: 2015-02-08T08:15:14Z
+md5sum-partial: "f4936600"
+filesize: 15499
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: "An AI which builds a road network and fills it with buses and town cars."
+tags:
+- "air"
+- "bus"
+- "pikka"
+- "road"

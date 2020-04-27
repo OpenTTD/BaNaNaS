@@ -1,0 +1,3 @@
+name: "Experts hard - industries"
+description: "Experts hard servers supporting grf - industries. Behavior of all secondary industries is changed. Cargo is processed over time, and every secondary industry has it's own production limit. Changes cargo payment rates and production multipliers to make all cargo types interesting for multiplayer games."
+url: ""

@@ -1,0 +1,14 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2010-03-18T21:27:54Z
+md5sum-partial: "59e46900"
+filesize: 13175
+availability: "savegames-only"
+
+description: |-
+  As you might know CluelessPlus, PAXLink and TownCars are all created by the same author. To reduce code duplication among these AIs, this library has been created. Over time code that two or more of these three AIs share will be moved to this library.
+
+  SuperLib is organized in several sub libraries. In version 1 these sub libraries are included:
+  * Helper
+  * Tile
+  * Direction

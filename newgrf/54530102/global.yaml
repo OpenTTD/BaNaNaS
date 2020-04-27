@@ -1,0 +1,17 @@
+name: "CFL Trains: Luxembourgish Train"
+description: |-
+  CFL Set: Trains - Trains that are used on the Luxembourgish Railroads. Design and coding by Phreeze.
+
+  Passenger engine starts 1949, Cargo engine 1954 !
+  Default trains are disabled.
+  Cargo Waggons added in 1.04, should be widely compatible with FIRS and ECS
+
+
+  Some sprites based on sprites from 2CC, DACH, Dutch Trainset. Released under GPLv 2, refer to readme.txt.
+url: "https://dev.openttdcoop.org/projects/cfl-trains"
+tags:
+- "ecs"
+- "firs"
+- "luxembourg"
+- "realistic"
+- "trains"

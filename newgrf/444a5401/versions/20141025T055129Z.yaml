@@ -1,0 +1,16 @@
+version: "r239"
+license: "GPL v2"
+upload-date: 2014-10-25T05:51:29Z
+md5sum-partial: "1447fb2c"
+filesize: 91556
+availability: "savegames-only"
+
+description: |-
+  Contains many new track types, each with a different speed limit and cost that can both be adjusted.
+
+  r239: Sorting order added.
+  r237: Alignment problems fixed.
+tags:
+- "rails"
+- "railtypes"
+- "tracks"

@@ -1,0 +1,14 @@
+version: "1.8"
+license: "GPL v3"
+upload-date: 2014-06-13T16:02:08Z
+md5sum-partial: "602306c2"
+filesize: 45642
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d560000"
+  md5sum-partial: "a420b01e"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

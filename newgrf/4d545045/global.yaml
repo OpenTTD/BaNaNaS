@@ -1,0 +1,5 @@
+name: "Max tiles paid (ECS)"
+description: "Define a maximum number of tiles that will be paid per trip. Package for ECS."
+url: "http://ttd.nn.lv"
+tags:
+- "economy"

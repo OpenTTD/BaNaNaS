@@ -1,0 +1,18 @@
+version: "eta - bananas"
+license: "GPL v2"
+upload-date: 2011-11-21T20:23:26Z
+md5sum-partial: "876af265"
+filesize: 58435
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "febc8da9"
+
+description: "AIAI - Automatic Idiot AI. That version uses road vehicles and planes. Support for all newgrfs. Tested with various plane and truck sets, works perfectly with FIRS, works with ECS, should work also with other newgrfs."

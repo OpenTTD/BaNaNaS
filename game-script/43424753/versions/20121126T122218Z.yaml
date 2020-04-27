@@ -1,0 +1,22 @@
+version: "16"
+license: "GPL v2"
+upload-date: 2012-11-26T12:22:18Z
+md5sum-partial: "b79c88bf"
+filesize: 40957
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "54455854"
+  md5sum-partial: "e9465dbf"
+- content-type: "game-script-library"
+  unique-id: "47514648"
+  md5sum-partial: "6d8a2b4f"
+- content-type: "game-script-library"
+  unique-id: "47514248"
+  md5sum-partial: "98b83fdd"
+- content-type: "game-script-library"
+  unique-id: "4747412a"
+  md5sum-partial: "d8868b0f"
+- content-type: "game-script-library"
+  unique-id: "544c424c"
+  md5sum-partial: "70db7b52"

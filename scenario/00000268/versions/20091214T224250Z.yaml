@@ -1,0 +1,15 @@
+version: "0.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-12-14T22:42:50Z
+md5sum-partial: "c3f70079"
+filesize: 5248700
+availability: "savegames-only"
+
+description: |-
+  A realistic scenario based on the southeast portion of the US (industry placement not yet complete).
+
+  This scenario includes all of Florida, Georgia, Alabama, South Carolina, North Carolina, and Tennessee, as well as parts of Kentucky, Missouri, West Virginia, Mississippi, Louisiana, and Virginia.
+
+  - Compatible with 0.7.4 or higher.
+
+  - Requires all ECS Vector NewGRF's.

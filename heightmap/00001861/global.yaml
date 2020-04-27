@@ -1,0 +1,20 @@
+name: "Mumbai"
+description: |-
+  Heightmap of the city of Mumbai, India.
+
+  Size: 1024x512
+
+  Set Heightmap Rotation: Counter-clockwise for the correct direction orientation.
+
+  If you want the heightmap with the suburbs places accurately, check for "Mumbai - Suburbs" in Scenarios, and "Mumbai - Industries" in Scenarios for an industry oriented gameplay.
+
+  By Seedorsi.
+url: ""
+tags:
+- "1024"
+- "512"
+- "asia"
+- "heightmap"
+- "india"
+- "mumbai"
+- "subcontinent"

@@ -1,0 +1,29 @@
+name: "YST Set"
+description: |-
+  YST production sprite
+  Japan : Shinkansen 500, N700, 800, E5, E6, E7
+  China : CRH1, CRH3
+  Europe : Eurostar, Eurostar E320, ICE3, TGV
+  Korea : GTX(Future Railway), ICE-Sancheon(Future Railway)
+
+  YST-only vehicles
+  HMX, NKX, YTX, VTX, YFX
+  It is a vehicle that should never be copied.
+
+  Remaking vehicles
+  ITX-Saemaeul, KTX-Sancheon 2F
+  Remaking GRF: Korean train set
+
+  Vehicle with sprite support (nickname)
+  EMU250, EMU300 (Kingger)
+  CHR380D (Tree of the day)
+  HEMU430X (Las)
+url: ""
+tags:
+- "crh"
+- "high"
+- "ktx"
+- "speed"
+- "tgv"
+- "train"
+- "yst"

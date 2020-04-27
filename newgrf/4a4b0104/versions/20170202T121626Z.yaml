@@ -1,0 +1,23 @@
+version: "v3"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2017-02-02T12:16:26Z
+md5sum-partial: "e5ca53f3"
+filesize: 30224
+availability: "savegames-only"
+
+description: |-
+  Adds unique ships and aircraft.
+
+  (v3)
+  * running cost of aircraft are Increased (mostly x1.75).
+  * cost of aircraft are Increased (mostly x2).
+  + Daewon 220 Family
+  Daewon 220 Family has three types :
+  Daewon 220-200
+  Daewon 220-200ER
+  Daewon 220-300ER
+  * Some sprite's changing for Pencil 800, 822
+
+  (v2)
+  + Dongun Pencil 200, 800, 820, 822, 1000, 1020 (aircraft)
+  + Nodong 1-ho (ships)

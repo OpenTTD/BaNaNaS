@@ -1,0 +1,6 @@
+name: "trAIns"
+description: "trAIns is a competitive AI that plays only with trains. It creates and manages railroad routes that connects industries and railroad routes that connects two towns. The last can transport passengers. It is also partially compatible with NARS and 2CC."
+url: "http://www.luisrios.eti.br/public/en_us/research/trains/"
+tags:
+- "passengers"
+- "train"

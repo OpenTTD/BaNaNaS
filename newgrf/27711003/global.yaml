@@ -1,0 +1,16 @@
+name: "2cc Trainset"
+description: |-
+  --THIS SET IS OUTDATED--
+
+  Please start all new games with 2CCTrainsInNML instead. This version is for legacy support of older savegames only.
+
+  Known bugs:
+  - Some flags have flashing pixels.
+  - Some wagons are misaligned or have white bars.
+url: "http://users.tt-forums.net/2cc/"
+tags:
+- "2cc"
+- "metro"
+- "train"
+- "trainset"
+- "world"

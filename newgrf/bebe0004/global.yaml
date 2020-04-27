@@ -1,0 +1,6 @@
+name: "EmptyGRF"
+description: "A simply NewGRF that contains various OpenTTD tiles as placeable NewObjects."
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=57962"
+tags:
+- "eyecandy"
+- "objects"

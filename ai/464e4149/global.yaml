@@ -1,0 +1,10 @@
+name: "FanAI"
+archived: true
+description: |-
+  An AI written by Fanioz.
+  Obsoleted, please use Trans, instead
+url: ""
+tags:
+- "ai"
+- "road"
+- "simple"

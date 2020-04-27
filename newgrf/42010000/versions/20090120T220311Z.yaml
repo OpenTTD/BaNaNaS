@@ -1,0 +1,11 @@
+version: "0.3"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-01-20T22:03:11Z
+md5sum-partial: "45292df1"
+filesize: 15600
+availability: "savegames-only"
+
+description: |-
+  A set of German light signals.
+  This set is still work in progress.
+  PBS support since version 0.3

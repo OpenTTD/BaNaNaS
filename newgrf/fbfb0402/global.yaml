@@ -1,0 +1,8 @@
+name: "Metro Track Set"
+description: "The Metro Track Set adds third rail tracks to OpenTTD. It can add Metro Tracks as a new railtype or at your option replace monorail or maglev with Metro Tracks instead. You should be able to use it in combination with any trainset providing metro vehicles. Three different railtypes are provided: regular metro, metro with catenary and \"underground\" tracks."
+url: "http://www.tt-forums.net/viewtopic.php?t=49476"
+tags:
+- "3rd rail"
+- "metro"
+- "third rail"
+- "underground"

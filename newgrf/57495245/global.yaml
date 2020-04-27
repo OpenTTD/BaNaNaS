@@ -1,0 +1,12 @@
+name: "WIRES"
+description: |-
+  WIRES-Welcome Innovation Regarding Electricity Shipment.
+
+  This is a test grf for electricity transmission; Electricity produced at power stations is transmitted by wires to substations located near towns. That's currently it; electricity has no special effect on town growth, industry production, etc. Note that there are numerous known issues, please see the forum thread for more info.
+
+  While there are currently no plans for further development, this could change depending on user interest.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=63356"
+tags:
+- "electricity"
+- "test"
+- "wires"

@@ -1,0 +1,3 @@
+name: "Random English Town Names"
+description: "Generates random town names that look like they wouldn't be out of place in the sleepy English countryside. Uses data from Wikipedia and the Random English Village Name Generator."
+url: "https://github.com/Ketsuban/random-english-town-names"

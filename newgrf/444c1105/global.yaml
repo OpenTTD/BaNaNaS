@@ -1,0 +1,14 @@
+name: "DACH Trains"
+description: |-
+  DACH train set
+  contains some swiss, german and austrian trains
+
+  drawn by Yoshi
+  coded by Dwight_K_Schrute and Yoshi
+url: "http://dev.openttdcoop.org/projects/dach"
+tags:
+- "austria"
+- "dach"
+- "german"
+- "swiss"
+- "tars"

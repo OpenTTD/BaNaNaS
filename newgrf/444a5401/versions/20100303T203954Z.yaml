@@ -1,0 +1,13 @@
+version: "r24"
+license: "GPL v2"
+upload-date: 2010-03-03T20:39:54Z
+md5sum-partial: "bfc89576"
+filesize: 8109
+availability: "savegames-only"
+
+description: |-
+  New Tracks with different properties and costs.
+  Intended to use with the 2cc trainset nightly/upcomeing version 2 :)
+tags:
+- "new"
+- "tracks"

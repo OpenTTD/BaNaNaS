@@ -1,0 +1,12 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2011-12-27T01:12:58Z
+md5sum-partial: "8ea94400"
+filesize: 11690
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+description: "Gamescript which deems companies 'dominator' of towns based on which company has the best overall station ratings.  Companies will have to compete to dominate of the city.  See the forum thread for changes."

@@ -1,0 +1,13 @@
+version: "r85"
+license: "GPL v2"
+upload-date: 2010-07-10T10:17:12Z
+md5sum-partial: "96212c85"
+filesize: 284165
+availability: "savegames-only"
+
+description: |-
+  New Tracks with different properties and costs.
+  Intended to use with the 2cc trainset nightly/upcomeing version 2 :)
+tags:
+- "new"
+- "tracks"

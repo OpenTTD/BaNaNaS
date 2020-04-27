@@ -1,0 +1,20 @@
+version: "2.03"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-04-21T14:31:52Z
+md5sum-partial: "a63330b4"
+filesize: 60761
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44503000"
+  md5sum-partial: "0bf5a485"
+
+description: |-
+  ☆Now GRF name changed to
+  Unofficial Japanese Trains Addon☆
+  This NewGRF adds trains of Keio and Keihan corporation into your game.
+  //2.03Update(Bugs fixed)//
+  2018.Apr.21
+  Graphics:RIPper(sixplag1103@naver.com)
+  Code:kiwitree(kiwitreekor@gmail.com)
+  Please Enjoy :)

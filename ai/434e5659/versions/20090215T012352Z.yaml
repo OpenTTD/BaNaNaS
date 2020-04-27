@@ -1,0 +1,10 @@
+version: "V10a"
+license: "Custom"
+upload-date: 2009-02-15T01:23:52Z
+md5sum-partial: "86d37d6b"
+filesize: 15801
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"

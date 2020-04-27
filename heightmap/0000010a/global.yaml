@@ -1,0 +1,15 @@
+name: "The World"
+description: |-
+  2048*1024
+  Heightmap of the planet Earth, centred on the prime-meridian.
+
+  By Moriarty.
+url: ""
+tags:
+- "1024"
+- "2048"
+- "earth"
+- "heightmap"
+- "moriarty"
+- "planet"
+- "world"

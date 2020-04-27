@@ -1,0 +1,13 @@
+name: "Slovakia"
+description: |-
+  This is is a 1024x2048 map of Slovak republic based on real world terrain from Google Earth.
+  Industries are basic, for infrastructure and vehicles and stations you will need some GFS, however.
+
+  Contains most of the slovak cities and towns. Hungary, Czech rep.,Austria and Poland are less populated.
+
+  Later when more height levels are available for the terrain, I will update version in arctic mode with higher alpine mountains. (height now is loughable)
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=71166"
+tags:
+- "europe"
+- "slovakia"
+- "temperate"

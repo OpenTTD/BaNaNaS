@@ -1,0 +1,11 @@
+name: "StreetTraffic1"
+description: |-
+  A successor for the TownCars 3 AI.
+  This AI will create a configurable amount of traffic on the roads.
+  This AI distributes the cars in a more naturally way, using configurable delays and the town's population. It also keeps one depot in each selected town to allow vehicle maintenance and renewal.
+  This AI's purpose is not to make money, but to enjoy you with some eye-candy.
+url: ""
+tags:
+- "eye candy"
+- "load/save"
+- "traffic"

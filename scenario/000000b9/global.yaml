@@ -1,0 +1,13 @@
+name: "Wales and Westengland (Renewal)"
+description: |-
+  Wales and Westengland - A scenario which was part of OpenTTD, some time ago.
+  I renewed this scenario to 0.7.0-beta2, added highways, freeformedges and some other things.
+  v1->v1.1 Street fixes
+  v1.1->v2 Landscape fixes
+url: "http://www.tt-ms.de/forum/showthread.php?tid=3883"
+tags:
+- "england"
+- "renewal"
+- "wales"
+- "west"
+- "west-england"

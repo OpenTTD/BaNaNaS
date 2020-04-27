@@ -1,0 +1,7 @@
+name: "Bauxite waggon"
+archived: true
+description: |-
+  Will add a waggon to transport all bulk cargos.
+  Please use OpenGFX+ Trains instead, it does the same thing and more in a better way.
+  By oberhümer 2010.
+url: ""

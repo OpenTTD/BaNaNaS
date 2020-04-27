@@ -1,0 +1,25 @@
+version: "1.6"
+license: "GPL v3"
+upload-date: 2014-02-03T13:02:58Z
+md5sum-partial: "6133e2f9"
+filesize: 37445
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d560000"
+  md5sum-partial: "a420b01e"
+
+description: |-
+  This is a Set with trains and buses.
+  Update:
+  -lots of new graphics
+  --------:)--------
+  Next update:
+  -----------SOON----------
+tags:
+- ""
+- "bus"
+- "ikarus"
+- "metro"
+- "tgv"
+- "train"

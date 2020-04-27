@@ -1,0 +1,9 @@
+name: "Fracland 4"
+description: |-
+  A fractal heightmap, symmetric and composed of make strange-shaped and self-similar lakes.
+
+  Picked from a lot of randomly generated fractals by Ahyangyi.
+
+  Generated with Apophysis 2.09:
+  http://www.apophysis.org
+url: ""

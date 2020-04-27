@@ -1,0 +1,9 @@
+name: "NG Swamp Netherlands"
+description: |-
+  A flat map, punctured with small lakes. This is an attempt on making a flat map interesting. The entirety is shaped to the Ntherlands circa 1800.
+
+  size 2048x2048, height 15.
+url: ""
+tags:
+- "flat"
+- "netherlands"

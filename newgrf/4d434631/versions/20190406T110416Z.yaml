@@ -1,0 +1,10 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2019-04-06T11:04:16Z
+md5sum-partial: "b456b86f"
+filesize: 50383
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"

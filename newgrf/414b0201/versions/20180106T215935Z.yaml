@@ -1,0 +1,17 @@
+version: "0.4"
+license: "GPL v2"
+upload-date: 2018-01-06T21:59:35Z
+md5sum-partial: "59238f00"
+filesize: 346748
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "52544e41"
+  md5sum-partial: "963122b9"
+- content-type: "newgrf"
+  unique-id: "52554b54"
+  md5sum-partial: "95ab6653"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

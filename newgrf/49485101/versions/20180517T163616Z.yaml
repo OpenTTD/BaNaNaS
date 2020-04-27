@@ -1,0 +1,15 @@
+version: "3.5"
+license: "GPL v2"
+upload-date: 2018-05-17T16:36:16Z
+md5sum-partial: "a47a26e9"
+filesize: 12604
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4341121e"
+  md5sum-partial: "79edfd5c"
+
+description: |-
+  GPL v2, coded by Gwyd and SimYouLater. Credits to Pikkabird and SimYouLater for Graphics.
+
+  Based on streamlined steam locomotives of the 1930's like LNER A4, NYC Mercury, etc.

@@ -1,0 +1,15 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2013-07-25T14:10:15Z
+md5sum-partial: "1365e43f"
+filesize: 4919947
+availability: "savegames-only"
+
+description: |-
+  A bigger heightmap of Europe, 4096 pixels long and wide. Why? So if you have the extra-large-map patch you can use this if you think the 2048 x 2048 map of Europe is too small. Of course, this map can be played at smaller maps (with good quality) if you prefer OpenTTD trunk instead.
+
+  ---Changelog---
+
+  V3 - Made it much more hilly
+
+  V2 - Fixed the Netherlands (much better Flevoland + Afsluitdijk), and a few lakes here and there

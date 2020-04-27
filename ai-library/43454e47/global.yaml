@@ -1,0 +1,8 @@
+name: "cEngineLib"
+description: |-
+  A library to handle engines.
+  With helpers for trains, wagons and rails.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=67122"
+tags:
+- "engine"
+- "library"

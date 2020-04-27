@@ -1,0 +1,12 @@
+name: "Cpt.K's Volcanic Archipelago"
+description: |-
+  A square map designed for multiplayer games. Large, windswept islands, dominated at their centres by volcanic mountain chains, provide varied terrain for all kinds of gameplay.
+  For 4096x4096 games, a max height of 30-80 is recommended.
+url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
+tags:
+- "archipelago"
+- "coast"
+- "islands"
+- "mountains"
+- "sea"
+- "volcanoes"

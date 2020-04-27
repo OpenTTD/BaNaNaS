@@ -1,0 +1,10 @@
+version: "0.3"
+license: "GPL v2"
+upload-date: 2020-02-27T04:31:28Z
+md5sum-partial: "bf42add6"
+filesize: 213365
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

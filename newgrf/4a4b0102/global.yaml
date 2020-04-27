@@ -1,0 +1,33 @@
+name: "Korean Bus Set Expansion"
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v1.17.0]
+  + Volvo B8RLE (2015~)
+  + Hyundai Elec City (2017~)
+  + Hyundai UniCity (2012~)
+  + New paints :
+  Busan Bus
+  Chuncgcheongbuk-do Bus
+  Yello and red
+  Gwangju Bus
+  Kumho Express
+  Koreawide Express
+  M-BUS
+  KORAIL Networks
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporations.
+url: "https://www.dropbox.com/s/d9ik7ouc3upetry/koreanbusset_ex_master_1.17.0.zip?dl=0"
+tags:
+- "bus"
+- "expand"
+- "expansion"
+- "kbs"
+- "korea"
+- "korean"
+- "set"
+- "버스"
+- "한국"
+- "한국버스세트"
+- "확장"

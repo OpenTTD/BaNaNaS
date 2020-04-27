@@ -1,0 +1,44 @@
+version: "1.00"
+license: "GPL v2"
+upload-date: 2017-07-11T15:52:19Z
+md5sum-partial: "aa0893b5"
+filesize: 98232
+availability: "savegames-only"
+
+description: |-
+  ~ NORTH AMERICAN TRACK SET ~
+  A Railtype GRF for North America
+
+  Allows players to customize the speed
+  and introduction of the rail types
+  while providing graphics closer to
+  north american style railroads.
+
+  Created by Nekomaster with code and graphics from NuTracks
+
+  Released under GPL v2
+
+  SEE README FOR DETAILS!
+tags:
+- "america"
+- "canada"
+- "master"
+- "mexico"
+- "nek0"
+- "nek0master"
+- "neko"
+- "neko-master"
+- "nekomaster"
+- "north"
+- "nutracks"
+- "of"
+- "rail"
+- "railtype"
+- "set"
+- "states"
+- "track"
+- "tracktype"
+- "type"
+- "types"
+- "united"
+- "usa"

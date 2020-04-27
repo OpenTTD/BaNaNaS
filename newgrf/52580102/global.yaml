@@ -1,0 +1,11 @@
+name: "CIRso (FaCso terrain)"
+description: |-
+  CHIPS Industrial Renewal style objects (CIRso) 0.1.10
+  Miscellaneous cargo tiles, ISR/DWE-style fences/pipelines and many transitional terrain tiles to mix and match your industrial areas.
+  CIRso is the companion mod to FaCso (FIRS and CHIPS style objects), but can be used by itself.
+  Graphics used: FIRS/CHIPS by andythenorth, FooBar, planetmaker, Terkhen, Yexo and many others.
+  ISR/DWE by Sanchimaru, Arte Pro, Norfolksouthern, Oz, Aegir, Born Acorn, Zimmlock, Ben_K, Maedhros, mart3p.
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=86676"
+tags:
+- "objects"
+- "terrain"

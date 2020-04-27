@@ -1,0 +1,13 @@
+version: "0.1.8"
+license: "GPL v2"
+upload-date: 2020-03-20T01:19:46Z
+md5sum-partial: "3d9fd95c"
+filesize: 140241
+availability: "savegames-only"
+
+description: |-
+  CHIPS Industrial Renewal style objects (CIRso) 0.1.8
+  Miscellaneous cargo tiles, ISR/DWE-style fences and many transitional terrain tiles to mix and match your industrial areas.
+  CIRso is the companion mod to FaCso (FIRS and CHIPS style objects), but can be used by itself.
+  Graphics used: FIRS/CHIPS by andythenorth, FooBar, planetmaker, Terkhen, Yexo and many others.
+  ISR/DWE by Sanchimaru, Arte Pro, Norfolksouthern, Oz, Aegir, Born Acorn, Zimmlock, Ben_K, Maedhros, mart3p.

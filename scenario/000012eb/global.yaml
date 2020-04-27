@@ -1,0 +1,21 @@
+name: "Loop coal"
+description: |-
+  Loop coal
+
+  Loop coal is just Coal>Coal>Coal>Coal>Coal>Power Plant
+
+  use train.
+
+  Feature: if train has full load, train will go power plant.
+
+  Note: This is not finished!
+
+  Contant me at http://openttd.webnode.com/contant/
+url: "http://openttd.webnode.com/contant/"
+tags:
+- "coal"
+- "industry"
+- "loop"
+- "maglev"
+- "power plant"
+- "train"

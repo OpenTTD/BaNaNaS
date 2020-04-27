@@ -1,0 +1,12 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2012-09-07T02:03:05Z
+md5sum-partial: "407e2310"
+filesize: 12403
+availability: "savegames-only"
+
+description: |-
+  Rythorn Airline AI by Sevestra Rythorn is a fork of WrightAI that adds some customization without changing too much
+  of the underlying mechanics. It also contains code that picks a company name and company president from a list of
+  characters from my work in progress book, The Chronicles of Rythorn. Said code was found on the TT-Forums in a
+  thread by Asimov answered by Yexo and customized by me.

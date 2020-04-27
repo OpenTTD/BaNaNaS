@@ -1,0 +1,11 @@
+version: "1.0.1"
+license: "GPL v2"
+upload-date: 2018-02-18T13:21:47Z
+md5sum-partial: "8d91588e"
+filesize: 3147511
+availability: "savegames-only"
+
+description: |-
+  Set českých silnic v 32bpp s extrazoom. Zahrnuje všechny funkce silnic vyjma mostů, vozidel a železničních přejezdů. Tyto funkce budou zahrnuty v následujících Newgrf. Více info na TT-fóru v odkazu.
+
+  Set of the Czech roads in 32bpp with extrazoom. Contains all roads features without bridges,vehicles and railroad crossings. This will be add in next Newgrf. More info in TT-forum in URL.

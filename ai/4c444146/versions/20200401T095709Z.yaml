@@ -1,0 +1,16 @@
+version: "v14"
+license: "GPL v2"
+upload-date: 2020-04-01T09:57:09Z
+md5sum-partial: "ddf1f326"
+filesize: 65249
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+- content-type: "ai-library"
+  unique-id: "7363704e"
+  md5sum-partial: "07ecd3d8"
+- content-type: "ai-library"
+  unique-id: "73637056"
+  md5sum-partial: "0bfd7cab"

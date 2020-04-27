@@ -1,0 +1,16 @@
+version: "iota91"
+license: "GPL v2"
+upload-date: 2013-07-16T11:13:36Z
+md5sum-partial: "38d6a7d4"
+filesize: 64871
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "ad391420"

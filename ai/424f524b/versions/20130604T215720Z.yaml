@@ -1,0 +1,36 @@
+version: "16"
+license: "GPL v2"
+upload-date: 2013-06-04T21:57:20Z
+md5sum-partial: "6b2420a1"
+filesize: 23961
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  A simple AI that uses only trucks.
+  It handles all kind of cargo with the exception of mail and passengers.
+
+  v15, v16:
+  More bugfixes
+
+  v14:
+  Fixed a bug in route handling
+
+  v12:
+  Initial support for aircrafts.
+  Fixed a few bugs that would make the AI crash.
+
+  v11:
+  Improved performance on big maps
+
+  v10:
+  Fixed a bug in route construction that would cause a crash
+
+  v9:
+  Fixed wrong handling of vehicle crashes
+
+  v8:
+  Fixed and error related to a missing file

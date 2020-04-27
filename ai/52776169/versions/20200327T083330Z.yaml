@@ -1,0 +1,10 @@
+version: "22"
+license: "GPL v3"
+upload-date: 2020-03-27T08:33:30Z
+md5sum-partial: "ed389068"
+filesize: 99170
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"

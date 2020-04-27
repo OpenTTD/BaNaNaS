@@ -1,0 +1,27 @@
+version: "18"
+license: "GPL v2"
+upload-date: 2010-03-20T20:12:37Z
+md5sum-partial: "323cbeef"
+filesize: 33256
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2a24224b"
+
+description: |-
+  CluelessPlus is a simple but nice AI that makes bus routes.
+
+  Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless that has been updated to work with current NoAI API. And since then there have been many improvements.
+
+  v18:
+  * Don't try to buy trams
+  * Build something even if max loan is 100 000
+  * Added one more possible tile slope for bridge conversion
+tags:
+- "bus"
+- "save/load"
+- "simple"

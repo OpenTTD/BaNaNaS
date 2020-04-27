@@ -1,0 +1,14 @@
+name: "BorkAI"
+description: |-
+  A simple AI that tries to be fun to play with, and uses buses, trucks and aircrafts.
+  It handles all kind of cargo.
+
+  v22:
+  Improve performance in the initial part of the game
+
+  v21:
+  Fixed bug that would cause a crash
+
+  v20:
+  Fixed wrong handling of savedata
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=56448"

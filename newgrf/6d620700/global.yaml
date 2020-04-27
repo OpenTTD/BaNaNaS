@@ -1,0 +1,3 @@
+name: "Mock AlpineClimate"
+description: "If loaded together with the DB Set XL by Michael Blunck, this empty NewGRF ensures that the latter will not deactivate itself in the arctic climate by using the same GRF ID as Michael Blunck's AlpineClimate."
+url: ""

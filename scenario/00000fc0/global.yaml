@@ -1,0 +1,16 @@
+name: "Canada"
+description: |-
+  Canada and north USA
+  Size:1024x1024
+  Climate:subarctic
+  Industry - ECS 1.2 (Town vector 1.2, Agrocultural vector 1.2, Basic vector II 1.2, Chemicals vector 1.2, Houses 1.2, Machinery vector 1.2, Wood vector 1.2 ), Cities - North American City Set v1.0
+  Start game: 1950
+  OpenTTD 1.6.0 or higher
+  * made by STD/April 2016
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1167845#p1167845"
+tags:
+- "canada"
+- "new-york"
+- "ottava"
+- "subarctic"
+- "usa"

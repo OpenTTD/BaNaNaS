@@ -1,0 +1,8 @@
+name: "Swamp reloaded"
+description: |-
+  A complete remake of the first Swamp scenario which was lost due to the old grfs used. It was reconstructed from a screenshot and this time without any grf.
+  The rivers.grf is required for a good look but it's not mandatory.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=39235&hilit=swamp"
+tags:
+- "64x64"
+- "temperate"

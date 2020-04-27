@@ -1,0 +1,15 @@
+name: "Recycled Infrastructure Set JGR"
+description: |-
+  A set of infrastructure aiming to include other GPL v2 graphics in one NewGRF with no graphical oddities. Not compatible with road types!
+
+  Thanks to...
+  Gwyd, Owl, pnda, snail, GarryG
+
+  Currently includes...
+  + FooBar's Useless Tracks
+  + McZapkie's Wired
+  + Supercheese's WIRES
+  + FooBar's Tram Tracks
+  + FooBar's Metro Track Set
+  + Snail's Dual Gauge (basis for Volos Tri-Guage, usable with 600mm, French Meter Guage and AuzRailSet)
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83306&p=1207722#p1207722"

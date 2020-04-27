@@ -1,0 +1,10 @@
+name: "Eternal Love"
+description: |-
+  All towns love you, forever.
+  GS script for "sandbox" mode, where the local authority rating in all towns is reset to Outstanding every week.
+  Requires 1.10.0.
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=86612"
+tags:
+- "rating"
+- "sandbox"
+- "town"

@@ -1,0 +1,26 @@
+version: "17"
+license: "GPL v2"
+upload-date: 2010-03-18T22:06:48Z
+md5sum-partial: "03d75b91"
+filesize: 33233
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "59e46900"
+
+description: |-
+  CluelessPlus is a simple but nice AI that makes bus routes.
+
+  Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless that has been updated to work with current NoAI API. And since then there have been many improvements.
+
+  v17:
+  * When a vehicle get hit by a train, try to replace the level crossing by a bridge.
+  * Moved some code to SuperLib which is now a dependency.
+tags:
+- "bus"
+- "save/load"
+- "simple"

@@ -1,0 +1,11 @@
+version: "0.7"
+license: "GPL v2"
+upload-date: 2015-11-15T19:38:15Z
+md5sum-partial: "106b7fc4"
+filesize: 40427
+availability: "savegames-only"
+
+description: |-
+  Instead of special houses, town industries are provided as terminal blackholes (water tower, workshop, petrol station and car dealer).
+  These industries are relatively cheap (must replace houses, only one industry per town, two per city).
+  Cargo stockpile is limited (this option can be switched off) and cargo consumption rate depend on town population. Another additional industry is tar kiln - produce charcoal and refined products in wood burner.

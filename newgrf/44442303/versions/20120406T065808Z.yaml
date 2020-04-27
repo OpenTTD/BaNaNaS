@@ -1,0 +1,10 @@
+version: "2.0"
+license: "Custom"
+upload-date: 2012-04-06T06:58:08Z
+md5sum-partial: "90300b85"
+filesize: 54936
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.1.5"

@@ -1,0 +1,25 @@
+version: "1.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-01-20T11:02:21Z
+md5sum-partial: "17efeadf"
+filesize: 26908
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44503000"
+  md5sum-partial: "0bf5a485"
+
+description: |-
+  This NewGRF adds trains of Keio corporation into your game.
+  These trains working on narrow gauge.
+  //1.2 Update(Graphic improved,new 5000 Series added)//☆☆☆ 2018.Jan.20
+  Graphics:RIPper(sixplag1103@naver.com)
+  Code:kiwitree(kiwitreekor@gmail.com)
+  Please Enjoy :)
+tags:
+- "asia"
+- "japan"
+- "keio"
+- "metro"
+- "tokyo"
+- "train"

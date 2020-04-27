@@ -1,0 +1,21 @@
+name: "Europe by qk"
+description: |-
+  Map of Europe (2048x2048) - Includes Cities that are either big, famous (i.e. "known by me") or just fit well onto the map.
+  From Lissabon to Riva, from Athens to Dublin, from Stockholm to Tunis.
+
+  It uses some newGRFs that I would recommend, but nothing should break if you remove them in the editor before you start playing.
+  I also recommend to randomly (or manually if you want) add industries before you start playing.
+
+  Have fun!
+  - qKaltental
+url: ""
+tags:
+- "cities"
+- "europe"
+- "france"
+- "germany"
+- "greece"
+- "italy"
+- "poland"
+- "spain"
+- "uk"

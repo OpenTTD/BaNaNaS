@@ -1,0 +1,12 @@
+version: "r236"
+license: "GPL v2"
+upload-date: 2014-10-20T05:45:36Z
+md5sum-partial: "c39cc32e"
+filesize: 91529
+availability: "savegames-only"
+
+description: "Contains many new track types, each with a different speed limit and cost that can both be adjusted. Alignment issues now fixed."
+tags:
+- "rails"
+- "railtypes"
+- "tracks"

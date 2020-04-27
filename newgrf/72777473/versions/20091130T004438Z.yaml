@@ -1,0 +1,12 @@
+version: "1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-11-30T00:44:38Z
+md5sum-partial: "9faf600c"
+filesize: 800058
+availability: "savegames-only"
+
+description: "UK-like town buildings; includes normal and terraced houses, terraced shops, offices, churches and a few special historical buildings."
+tags:
+- "house"
+- "town"
+- "uk"

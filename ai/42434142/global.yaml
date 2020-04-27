@@ -1,0 +1,17 @@
+name: "NoCAB - Bleeding Edge edition"
+description: |-
+  Bleeding edge version of NoCAB, this version will be used for testing and parts of it will eventually integrate with the main NoCAB releases as it stabilizes over time.
+
+  New features planned:
+  - Support trams and helicopters.
+  - Upgrade connections using different transportation vehicles.
+  - Tons of bug fixes.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=43259&start=0"
+tags:
+- "aircraft"
+- "bus"
+- "performance"
+- "save/load"
+- "ship"
+- "train"
+- "truck"

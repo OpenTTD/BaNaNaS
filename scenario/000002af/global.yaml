@@ -1,0 +1,22 @@
+name: "Germany"
+description: |-
+  This map includes Germany and some parts of its neighbours. London, Paris, Milano, Vienna, Lodz and Copenhagen mark some corners at this map.
+  This Version is created for use in OpenTTD, Nightly Version R18968 or higher.
+
+  Some details:
+
+  - 1024x1024 tiles
+  - Number of towns: 330
+  - starting year: 1930
+  - currency: Deutsche Mark
+  - traffic: right side
+
+  Enjoy the game,
+
+  Myfineshrine
+url: "http://www.tt-ms.de/forum/showthread.php?tid=4558"
+tags:
+- "central europe"
+- "deutschland"
+- "germany"
+- "mitteleuropa"

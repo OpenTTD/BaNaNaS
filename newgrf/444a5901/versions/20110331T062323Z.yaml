@@ -1,0 +1,21 @@
+version: "0.22"
+license: "GPL v3"
+upload-date: 2011-03-31T06:23:23Z
+md5sum-partial: "23cec795"
+filesize: 30384
+availability: "savegames-only"
+
+description: "This NewGRF adds a Vacuum Tube railtype, and matching trains, to OpenTTD. The vacuum, combined with maglev technology, enables a frictionless environment in which trains are able to reach extremely high speeds. Coded in NML by Emperor Jake, track and tube graphics mainly by Zephyris, train graphics by Emperor Jake. Copyright 2011, released under GPLv3."
+tags:
+- "emperor jake"
+- "fast"
+- "future"
+- "futuristic"
+- "maglev"
+- "railtype"
+- "track"
+- "train"
+- "tube"
+- "vaccuum"
+- "vactrain"
+- "zephyris"

@@ -1,0 +1,15 @@
+version: "0.3.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-02-17T13:00:42Z
+md5sum-partial: "94f110b6"
+filesize: 20726
+availability: "savegames-only"
+
+description: |-
+  This NewGRF adds narrow gauge Suin-line in South Korea in 90's.
+
+  This NewGRF Contains Passenger Car, Freight Car, Diesel Car, Steam Engine for Suin-line.
+
+  * 0.3.0 UPDATE! *
+  - NARROW GAUGE added.
+  - tunnel, bridge and icon are NOT complete.

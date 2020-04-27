@@ -1,0 +1,9 @@
+name: "Beginner Tutorial - Game Script"
+description: |-
+  This is the Script part of the Beginner Tutorial. It's actually here most of the logic is located. The scenario is just a ... scenario to ensure that you get a good start. :-)
+
+  Feedback or helping out is welcome.
+
+
+  Ensure you download both this script, the scenario named "Beginner Tutorial" and the AI named "Beginner Tutorial - Ship AI". Then click on play scenario in the start menu to play the tutorial.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57624"

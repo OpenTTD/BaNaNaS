@@ -1,0 +1,12 @@
+version: "1.5"
+license: "Custom"
+upload-date: 2009-04-16T13:14:36Z
+md5sum-partial: "391a7bce"
+filesize: 41154
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44440a01"
+  md5sum-partial: "e1b68b07"
+
+description: "The optional aircraft for Av8 in a seperate grf.  Load this file after Av8 with multiple engine sets activated to get all the aircraft in the set."

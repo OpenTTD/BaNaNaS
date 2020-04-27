@@ -1,0 +1,13 @@
+version: "16"
+license: "GPL v2"
+upload-date: 2013-04-14T22:12:06Z
+md5sum-partial: "43e901cf"
+filesize: 53945
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "66724d49"
+  md5sum-partial: "235c574c"
+- content-type: "game-script"
+  unique-id: "5455545f"
+  md5sum-partial: "f39cc3fb"

@@ -1,0 +1,19 @@
+version: "0.5"
+license: "GPL v2"
+upload-date: 2010-04-24T20:51:50Z
+md5sum-partial: "44812562"
+filesize: 257238
+availability: "savegames-only"
+
+description: |-
+  FISH is Ships!
+
+  River boats, lake ships and coasters in a range of attractive sizes from 15t to 1080t.
+
+  Features lickable pixels in two company colours.
+
+  Changes since 0.2:
+  - "Porcupine 30" freight hovercraft. Available 1972. 46mph loaded, 60mph unloaded.
+  - tanker graphics used when refitted to liquid cargos (River Boats, Coasters, Traders except Island Trader).
+
+  FISH starts in 1870 and is compatible with most industry sets and cargos, including default industries, FIRS and PBI.

@@ -1,0 +1,24 @@
+version: "5"
+license: "CC-BY v3.0"
+upload-date: 2011-04-13T15:59:26Z
+md5sum-partial: "c9815ea6"
+filesize: 46865
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "a4cce9ee"
+
+description: |-
+  An AI that doesn't compete with you but rather builds out the highway network. We're still looking for a revenue stream.
+
+  v5 greatly increases startup speed on large maps
+  v4 fixes some minor bugs and speeds up the pathfinder
+tags:
+- "ai"
+- "minchinweb"
+- "road"
+- "wmdot"

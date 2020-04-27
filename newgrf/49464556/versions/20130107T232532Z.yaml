@@ -1,0 +1,19 @@
+version: "0.3"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2013-01-07T23:25:32Z
+md5sum-partial: "0d457f15"
+filesize: 105062
+availability: "savegames-only"
+
+description: |-
+  Eyecandy Road Vehicles for OTTD!
+  Currently featuring an Ambulance, Fire Engine, Police Car, Tow Truck, USPS-Style Mail Truck, and Garbage Truck, all with zero purchase and running costs. The emergency vehicles also have flashing lights and sirens. These vehicles are not intended to be practical cargo-carriers, but just to make your cities and roads look nicer.
+
+  This GRF is fully compatible with TownCarsAI.
+
+  See the included readme for more complete information.
+tags:
+- "emergency vehicles"
+- "eyecandy"
+- "road vehicles"
+- "rvs"

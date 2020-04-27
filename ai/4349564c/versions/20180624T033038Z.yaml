@@ -1,0 +1,13 @@
+version: "16"
+license: "Custom"
+upload-date: 2018-06-24T03:30:38Z
+md5sum-partial: "2251fecc"
+filesize: 47208
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "4356524f"
+  md5sum-partial: "77416e84"

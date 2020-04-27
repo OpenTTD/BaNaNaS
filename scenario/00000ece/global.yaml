@@ -1,0 +1,11 @@
+name: "South East Australia"
+description: |-
+  North to Tin Can Bay, south to Bass Strait, east to Cape Byron and west across to Port Augusta and Whyalla. It's a fairly large map, 2048 * 2048 tiles, starting in 1950.
+
+  Needs to be played on a nightly build.
+
+  Please see the thread for more details.
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=73713"
+tags:
+- "australia"
+- "newgrf"

@@ -1,0 +1,13 @@
+name: "NATS - Nagoya Area Train Set"
+description: |-
+  This set intends to include a whole lot of trains from the Nagoya Metro Area, which encompasses Aichi prefecture, Mie prefecture and Gifu prefecture. Like TIAS, the trains in NATS have a set length.
+
+  ©2018 Erato Nysiad CC BY-NC 4.0
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=82414"
+tags:
+- "central"
+- "gifu"
+- "japan"
+- "jr"
+- "meitetsu"
+- "nagoya"

@@ -1,0 +1,18 @@
+version: "v1.15.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-04-05T09:06:38Z
+md5sum-partial: "e2a70587"
+filesize: 138310
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v1.15.0]
+  + Hyundai RB520 (1984~1991)
+  * Changed most of cost and running cost
+  * Decreased capacity of BF101
+  + New 32bpp parameter for debug
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporations.

@@ -1,0 +1,20 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2012-06-24T11:35:23Z
+md5sum-partial: "b79f4740"
+filesize: 14144
+availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "544c424c"
+  md5sum-partial: "70db7b52"
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "d2fce080"
+- content-type: "scenario"
+  unique-id: "00000875"
+  md5sum-partial: "4386a31b"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

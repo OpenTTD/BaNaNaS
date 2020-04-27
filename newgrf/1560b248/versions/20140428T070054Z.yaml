@@ -1,0 +1,26 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2014-04-28T07:00:54Z
+md5sum-partial: "ce9b3a76"
+filesize: 690709
+availability: "savegames-only"
+
+description: |-
+  Version 0.1
+
+  This is a fork from andythenorth's FISH NewGRF. It was created to adjust ship capacities in order to allow ships to seriously compete with other modes of transportation. Cargo capacities of most freighters are quadrupled.
+tags:
+- "boat"
+- "boats"
+- "capacity"
+- "cargo"
+- "ferry"
+- "fish"
+- "ocean"
+- "reddit"
+- "redfish"
+- "rivers"
+- "sea"
+- "ship"
+- "ships"
+- "water"

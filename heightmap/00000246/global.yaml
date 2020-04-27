@@ -1,0 +1,8 @@
+name: "Uruguay Heightmap"
+description: |-
+  Heightmap of Uruguay, River Plate and a bit of Metropolitan Buenos Aires region.
+
+  Recommended dimensions: 1024 x 1024.
+
+  Fixed resolution, added a few rivers.
+url: ""

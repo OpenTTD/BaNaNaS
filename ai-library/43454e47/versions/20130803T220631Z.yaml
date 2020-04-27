@@ -1,0 +1,8 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2013-08-03T22:06:31Z
+md5sum-partial: "86c0f85a"
+filesize: 18777
+availability: "savegames-only"
+
+description: "A library to handle engines."

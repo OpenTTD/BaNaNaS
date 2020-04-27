@@ -1,0 +1,44 @@
+name: "NUTS Unrealistic Train Set"
+description: |-
+  Train set based on gameplay of openttdcoop, built around providing choices and space for making decisions.
+  New trains come every +-2 years between 1900 all the way to 2099.
+  Rail, Monorail, Maglev and WETRail included.
+  Also includes PURR universal rail for railtype transitions with autoreplace.
+  Install PURR 0.0.6+ to get 32bpp/ExtraZoom for PURR.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+url: "http://dev.openttdcoop.org/projects/nuts"
+tags:
+- "32bpp"
+- "asdf"
+- "badass"
+- "bricks"
+- "c4t"
+- "cat"
+- "creeper"
+- "extra"
+- "ez"
+- "gameplay"
+- "insanity"
+- "madness"
+- "maglev"
+- "meow"
+- "minecraft"
+- "monorail"
+- "nuts"
+- "omfg"
+- "openttdcoop"
+- "pro"
+- "public"
+- "purr"
+- "ships"
+- "slug"
+- "steamer"
+- "v453000"
+- "weirdness"
+- "wetrails"
+- "wtf"
+- "zomg"
+- "zone"
+- "zoom"

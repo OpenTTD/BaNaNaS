@@ -1,0 +1,15 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2011-12-08T04:34:31Z
+md5sum-partial: "d922e257"
+filesize: 22045
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "38097471"
+
+description: |-
+  An AI that primarily uses road vehicles, with some aircraft as well.
+
+  Will transport passengers and most cargo, and should be broadly compatible with most or all NewGRF's that provide non-articulated RV's that can be refit to the available cargoes.

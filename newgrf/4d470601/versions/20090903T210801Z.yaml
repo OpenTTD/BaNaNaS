@@ -1,0 +1,18 @@
+version: "0.6"
+license: "GPL v3"
+upload-date: 2009-09-03T21:08:01Z
+md5sum-partial: "9c21b80f"
+filesize: 12569
+availability: "savegames-only"
+
+description: "Replaces Toyland Maglev with a configurable speed engine. (Parameter 0)"
+tags:
+- "ammler"
+- "fast"
+- "fun"
+- "logic"
+- "openttd"
+- "openttdcoop"
+- "sex"
+- "tycoon"
+- "whatever"

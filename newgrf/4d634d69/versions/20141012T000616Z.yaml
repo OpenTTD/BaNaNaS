@@ -1,0 +1,14 @@
+version: "1.3"
+license: "GPL v2"
+upload-date: 2014-10-12T00:06:16Z
+md5sum-partial: "85dc5dc9"
+filesize: 172340
+availability: "savegames-only"
+
+description: |-
+  Manpower modification of OpenGFX+ Industries implement worker crew idea
+  as passenger stockpile levels - once crew level is achieved, production level of primary industry steps up.
+  Some industries are extensive - low crew is required with low production boost as an result, other are intensive.
+  Extractive industry have limited resources and before its life end, production level will drop to the lowest one.
+
+  Additionally there are switches to controll industry closure/creation.

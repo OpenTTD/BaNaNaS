@@ -1,0 +1,32 @@
+version: "0.0.1"
+license: "GPL v2"
+upload-date: 2013-07-14T09:02:38Z
+md5sum-partial: "2e9cbff5"
+filesize: 18290
+availability: "savegames-only"
+
+description: |-
+  5 universal rails with the power of the rainbow.
+  Mainly useful for marking purposes,but I believe you will find other uses too.
+  Unicorns not included.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+tags:
+- "chaos"
+- "cluster"
+- "colors"
+- "colours"
+- "insanity"
+- "madness"
+- "maglev"
+- "marker"
+- "mayhem"
+- "monorail"
+- "nuts"
+- "organize"
+- "purr"
+- "rail"
+- "railtype"
+- "rainbow"
+- "wtf"

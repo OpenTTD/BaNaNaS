@@ -1,0 +1,9 @@
+name: "Cpt.K's Windswept Valley"
+description: |-
+  A square map full of small, round hills with ravines flanking a huge canyon-like valley. Suitable for all climates.
+  For 2048x2048 games, a max height of 50 is recommended.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "hills"
+- "river"
+- "valley"

@@ -1,0 +1,14 @@
+version: "0.2a"
+license: "GPL v2"
+upload-date: 2016-05-28T21:04:49Z
+md5sum-partial: "acd9ae07"
+filesize: 9792
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44440302"
+  md5sum-partial: "c2a2ce00"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

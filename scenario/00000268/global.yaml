@@ -1,0 +1,13 @@
+name: "Southeast US"
+description: |-
+  A realistic scenario based on the southeast portion of the US (industry placement not yet complete).
+
+  - Compatible with 0.7.4 or higher.
+
+  - Requires all ECS Vector NewGRF's as well as TTRS3.
+
+  - Recommended with the CargoDist patch as well as the NARS train set, av8, EGRVTS, and FISH ships.
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=46304"
+tags:
+- "realistic"
+- "us"

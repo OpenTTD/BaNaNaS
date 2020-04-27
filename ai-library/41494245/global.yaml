@@ -1,0 +1,5 @@
+name: "Lib.Event"
+description: |-
+  This library idea is to provide user with easy ability to create and use own AI "events".
+  It is all about sending notifications(firing events) to update a set of listeners. You can create events, and add new listener objects at runtime and remove them as well.
+url: "http://noai.openttd.org/projects/show/lib-event"

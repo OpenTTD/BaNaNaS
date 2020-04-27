@@ -1,0 +1,17 @@
+name: "PAXLink"
+description: |-
+  PAXLink is a passenger (PAX) only AI that transports local passengers by bus and inter-city passengers by aircraft. The AI uses transfer orders to force local passengers to go by plane to some other town. Save/load is supported by this AI.
+
+  Last changes:
+  v13->v14:
+  * Reduced the number of bus stops
+  * Experimental airport pair optimizer
+  * Several bugs fixed
+
+  Author: Zuu
+url: "http://junctioneer.net/o-ai/PAXL"
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "transfer"

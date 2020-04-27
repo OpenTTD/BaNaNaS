@@ -1,0 +1,10 @@
+version: "r52"
+license: "GPL v2"
+upload-date: 2011-09-06T10:49:41Z
+md5sum-partial: "85cf3a21"
+filesize: 47011
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.1.1"

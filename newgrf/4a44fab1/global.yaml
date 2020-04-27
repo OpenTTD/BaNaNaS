@@ -1,0 +1,18 @@
+name: "NewCC set"
+description: |-
+  The New Company Colours Set. Enhances and improves upon the default company colours.
+  - New colours include black, dark red, rust brown and military green
+  - Full 2CC support - compatible with all company coloured sets, even 32bpp (somehow)
+  - Allows you to represent much more realistic liveries
+  - As a side-effect, some colours in the GUI are changed, but everything is still perfectly readable
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=56701"
+tags:
+- "2cc"
+- "colors"
+- "colours"
+- "company"
+- "eyecandy"
+- "gui"
+- "liveries"
+- "livery"
+- "new"

@@ -1,0 +1,17 @@
+name: "BATS"
+description: |-
+  Bob & Ameecher's Tram Set
+
+  ---- or ----
+
+  British Advanced Tram Set
+
+  A set of British trams and light industrial railways starting in 1860
+
+  Mostly drawn by Ameecher and Bob with help by Born Acorn and AndrewA. Coded by Bob using GRFMaker v4.06B, with help from Colossal 404
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=55284"
+tags:
+- "british"
+- "industrial"
+- "tram"
+- "uk"

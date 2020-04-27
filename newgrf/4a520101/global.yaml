@@ -1,0 +1,6 @@
+name: "JRD EU train set 32bpp"
+description: "recommended: on 32bpp, ECS Vector, zBase."
+url: "http://jrd.sweb.cz/ostatni.html"
+tags:
+- "32bpp"
+- "train"

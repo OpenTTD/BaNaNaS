@@ -1,0 +1,17 @@
+name: "NoCAB"
+description: |-
+  NoCAB is a competitive AI that tries to compete with other AIs and human players. If features a custom pathfinder and data structures for maximal performance. It can handle trains, road vehicles, aircraft, and ships.
+
+  Update:
+  2.1.4: Fixed a little bug which made the AI crash when a train connection merged with an existing but discontinued line.
+
+  Enjoy! :)
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=40203"
+tags:
+- "aircraft"
+- "bus"
+- "performance"
+- "save/load"
+- "ship"
+- "train"
+- "truck"

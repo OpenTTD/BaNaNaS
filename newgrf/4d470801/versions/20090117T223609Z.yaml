@@ -1,0 +1,13 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2009-01-17T22:36:09Z
+md5sum-partial: "9334a7d4"
+filesize: 7394
+availability: "savegames-only"
+
+description: |-
+  The Lumber Mill from Tropic also available at temperate and arctic.
+
+  Param0: enable LumberMill (def: 1)
+  Param1: change Forest to cut trees like Lumber Mill (def: 0)
+  Param2: disable Forest (or enable in Tropic) (def: 1)

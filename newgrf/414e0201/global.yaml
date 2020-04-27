@@ -1,0 +1,12 @@
+name: "FISH 2"
+description: |-
+  Squid Ate FISH!
+
+  Includes one roster of ships: This Sceptred Isle (British-ish ships).
+  Parameter for ship speed.
+  Parameter for reduced canal construction costs.
+url: "http://bundles.openttdcoop.org/fish/releases/LATEST/docs/"
+tags:
+- "fish"
+- "ships"
+- "squid"

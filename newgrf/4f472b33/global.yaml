@@ -1,0 +1,10 @@
+name: "OpenGFX+ Industries"
+description: "This set enhances the default industries by allowing all industries to close down, giving the option to select which industry chains to use independently of climate and making industries ground tile aware."
+url: "http://dev.openttdcoop.org/ogfx-industries"
+tags:
+- "industries"
+- "opengfx"
+- "opengfx+"
+- "openttdcoop"
+- "planetmaker"
+- "terkhen"

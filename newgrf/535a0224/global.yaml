@@ -1,0 +1,13 @@
+name: "Speed for suspension bridges!"
+description: |-
+  For those of us who like default bridges (graphics), speed upgrades for default suspension bridges and the girder "pothole" bridge are in order.
+  Concrete: 80 -> 144kph.
+  Bronze - steel: 96 -> 160kph.
+  Golden - steel: 112 -> 224kph.
+  Girder pothole-cover bridge: 256 -> 448kph.
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=52725"
+tags:
+- "bridge"
+- "pothole"
+- "speed"
+- "suspension"

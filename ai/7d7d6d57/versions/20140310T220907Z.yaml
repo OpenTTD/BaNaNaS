@@ -1,0 +1,13 @@
+version: "13"
+license: "Custom"
+upload-date: 2014-03-10T22:09:07Z
+md5sum-partial: "d8260b98"
+filesize: 34963
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "46f12799"
+- content-type: "ai-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "ad38bad0"

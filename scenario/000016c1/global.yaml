@@ -1,0 +1,12 @@
+name: "Massachusetts (with industry)"
+description: |-
+  Welcome to Massachusetts! This is a 512x1024  map with real-world terrain (from a heightmap), town, and river placements. It includes almost all of Massachusetts (Lowell fell off the top) plus Rhode Island and northern Connecticut.
+
+  It uses FIRS 3 industries on Temperate Basic, with representative placements. Suggested NewGRFs are loaded, however only FIRS is required.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85900"
+tags:
+- "boston"
+- "mass"
+- "massachusetts"
+- "us"
+- "usa"

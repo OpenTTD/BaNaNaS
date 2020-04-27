@@ -1,0 +1,10 @@
+name: "NG AlpineHeights L"
+description: |-
+  A mountainous map with a smooth layer between the mountains.
+  This map gives plenty of space for industries and cities to spawn in mountain passes, and encourages tracks winding around mountains.
+
+  Intended for a 2048x2048 map with artic climate, and a maximum height of 40.
+url: ""
+tags:
+- "artic"
+- "large"

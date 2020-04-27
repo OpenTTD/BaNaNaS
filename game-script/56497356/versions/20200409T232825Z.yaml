@@ -1,0 +1,10 @@
+version: "12"
+license: "GPL v2"
+upload-date: 2020-04-09T23:28:25Z
+md5sum-partial: "4195fa51"
+filesize: 18699
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "54455854"
+  md5sum-partial: "e9465dbf"

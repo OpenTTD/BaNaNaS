@@ -1,0 +1,15 @@
+name: "Cuba (Temperate)"
+description: |-
+  By Jon Scaife
+
+  Uses enhanced (cube function) heightmap from SRTM4 data
+  Populations 1/250 of real 2004 figure
+  Includes ~80 towns
+  Includes some industry
+  Requires ECS vectors.  No other NewGRFs enabled
+url: "http://diymediahome.org/openttd-cuba-scenario/"
+tags:
+- "cuba"
+- "jonscaife"
+- "scenario"
+- "srtm"

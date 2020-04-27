@@ -1,0 +1,22 @@
+version: "388"
+license: "GPL v2"
+upload-date: 2011-03-13T19:55:48Z
+md5sum-partial: "5e1ff339"
+filesize: 40596
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "51555051"
+  md5sum-partial: "e1b9a30f"
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"

@@ -1,0 +1,17 @@
+name: "dpk's UK and Ireland Map (1900)"
+description: |-
+  A scenario containing the United Kingdom, Ireland, the Isle of Man, and parts of France and Belgium. Starts in 1900.
+
+  Loaded GRFs are FIRS, UKRS2 (with add-on set), av8 planes, eGRVTS, FISH 2; TaI UK Houses and some well-known station sets are also included.
+url: "http://dpk.io/ttd/uk"
+tags:
+- "belgium"
+- "british isles"
+- "dpk"
+- "england"
+- "europe"
+- "france"
+- "ireland"
+- "scotland"
+- "uk"
+- "wales"

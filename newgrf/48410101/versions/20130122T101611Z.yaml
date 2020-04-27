@@ -1,0 +1,37 @@
+version: "0.4.6"
+license: "GPL v2"
+upload-date: 2013-01-22T10:16:11Z
+md5sum-partial: "b4018923"
+filesize: 1319816
+availability: "savegames-only"
+
+description: |-
+  Train set based on gameplay of openttdcoop, built around providing choices and space for making decisions.
+  New trains come every 2 years between 1920 all the way to 2070.
+  Rail, monorail and maglev included.
+  Also includes universal rail for railtype transitions with autoreplace.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+tags:
+- "badass"
+- "bricks"
+- "creeper"
+- "gameplay"
+- "insanity"
+- "madness"
+- "maglev"
+- "minecraft"
+- "monorail"
+- "nuts"
+- "omfg"
+- "openttdcoop"
+- "pro"
+- "public"
+- "slug"
+- "steamer"
+- "v453000"
+- "weirdness"
+- "wtf"
+- "zomg"
+- "zone"

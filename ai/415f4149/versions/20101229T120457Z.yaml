@@ -1,0 +1,22 @@
+version: "1.1.1"
+license: "GPL v2"
+upload-date: 2010-12-29T12:04:57Z
+md5sum-partial: "16b3a570"
+filesize: 18652
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  Lord Aro's really feeble attempt at making an AI. Currently buses only.
+
+  V. SHORT CHANGELOG
+
+  1.1.1 (2010-12-29)
+  ------------------------------------
+  - Change: AutoRenewMonths to -6 (r91)
+  - Fix: A building of road failure didn't actually stop the building of roads (r89)
+  - Fix: BuildBusStop() was using wrong sqrt function (built-in instead of in code) (r85)
+  - Fix: Another possible lock when another AI built where AI was going to build (r74)

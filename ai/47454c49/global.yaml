@@ -1,0 +1,16 @@
+name: "gelignAIte"
+description: |-
+  Small, simple and non-competitive AI, that will build 1 passenger-service (2 buses) and 1 mail-service (4 trucks).
+
+  Features are:
+  - Updating stations (moving outwards (from town center) in dependency of count of inhabitants) every five years after inauguration to a max distance of 16 tiles
+  - Renew aged vehicles
+  - Replace crashed/lost vehicles
+  - Replace/Upgrade vehicles by newer models/engines
+  - Funds managing: Take loan where required, repay where possible.
+
+  Have fun with it.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=51853"
+tags:
+- "non-competitive"
+- "simple"

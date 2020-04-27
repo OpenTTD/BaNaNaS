@@ -1,0 +1,32 @@
+version: "12"
+license: "GPL v2"
+upload-date: 2011-08-14T15:23:24Z
+md5sum-partial: "e29f044c"
+filesize: 56449
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  As you might know CluelessPlus, PAXLink, TownCars and TutorialAI are all created by the same author. To reduce code duplication among these AIs, this library has been created. As a bonus, other AI authors can also use the library.
+
+  SuperLib is organized in several sub libraries including:
+  * Log
+  * Helper
+  * Money
+  * Tile
+  * Direction
+  * Engine
+  * Vehicle
+  * Industry
+  * Station
+  * Airport
+  * Order
+  * OrderList
+  * Road
+  * RoadPathFinder
+  * RoadBuilder
+
+  Author: Zuu

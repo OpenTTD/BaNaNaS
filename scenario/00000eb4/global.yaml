@@ -1,0 +1,17 @@
+name: "Sao Paulo State (Brazil)"
+description: |-
+  -Contains all the 645 towns of São Paulo, Brazilian most populous state
+  -Location of towns accurate
+  -Proportional population based on Census 2010 (ratio approx. 60:1, higher distortion on bigger and smaller towns)
+  -Industries randomly generated with no relation with actual industries
+  -Map surrounded by water to increase oil industries
+  -Temperated climate despite of São Paulo’s tropical weather
+  -Requires NewGRF “Improved Road Vehicles”
+url: ""
+tags:
+- "brasil"
+- "brazil"
+- "estado"
+- "mapa"
+- "sao paulo"
+- "sp"

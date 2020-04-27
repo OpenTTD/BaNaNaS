@@ -1,0 +1,15 @@
+name: "Cpt.K's Mountains by the Sea"
+description: |-
+  A rectangular 1:2 map of hills gently sloping into the sea between mountain ranges. Includes a river mouth and small islands. Suitable for all climates.
+
+  For 256x512 games, 20 max height is recommended. For 512x1024, 36 is a good starting point to finding a map style that suits you.
+
+  Created using World Machine and Paint.NET
+url: ""
+tags:
+- "bay"
+- "heightmap"
+- "hills"
+- "mountains"
+- "ocean"
+- "sea"

@@ -1,0 +1,20 @@
+version: "2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2015-12-12T22:39:40Z
+md5sum-partial: "53d51a34"
+filesize: 8221
+availability: "savegames-only"
+
+description: |-
+  A set of City Names from Naruto.
+
+  Enjoy it!
+
+  (c)2015 SilverSurferZzZ
+  CC BY-NC-SA
+tags:
+- "city"
+- "names"
+- "naruto"
+- "newgrf"
+- "town"

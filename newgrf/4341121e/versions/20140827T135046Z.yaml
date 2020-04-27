@@ -1,0 +1,15 @@
+version: "rc-1"
+license: "GPL v2"
+upload-date: 2014-08-27T13:50:46Z
+md5sum-partial: "49f08ff8"
+filesize: 177015
+availability: "savegames-only"
+
+description: |-
+  Iron Horse
+
+  Release Candidate 1 - "it got better".
+
+  The trains you need and nothing more.
+
+  Best used with Termite railtypes grf.

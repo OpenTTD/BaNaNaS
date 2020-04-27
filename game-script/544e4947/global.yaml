@@ -1,0 +1,13 @@
+name: "Town and Industry Control"
+description: |-
+  This controls both town and industry growth by requiring passengers and mail to be transported and industries to be served. See the readme.txt for more info.
+
+  Compatible with all major industry sets (incl. default, ECS, FIRS, and more)
+
+  Note: Requires OpenTTD 1.4 or greater. (Tested with OpenTTD 1.7)
+url: ""
+tags:
+- "growth"
+- "industry"
+- "town"
+- "towns"

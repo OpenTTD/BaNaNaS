@@ -1,0 +1,13 @@
+version: "1.3"
+license: "GPL v2"
+upload-date: 2013-02-05T17:55:23Z
+md5sum-partial: "f4056fec"
+filesize: 16336
+availability: "savegames-only"
+
+description: |-
+  **THIS GRF IS OBSOLETE**
+  **USE VERSION 1.4**
+  ISR-dock is a feature that replaces the standard dock with a dock that consists of multiple graphical representations (via parameter)
+  of docks that fit best in an industrial environment.
+  Recommended is to use it in combination with the ISR/DWE-style objects GRF that provides multiple kinds of dock overlapping tiles, so that you can change the appearance of the dock.

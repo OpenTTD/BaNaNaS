@@ -1,0 +1,22 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2009-12-24T15:34:19Z
+md5sum-partial: "9697117c"
+filesize: 158859
+availability: "savegames-only"
+
+description: |-
+  FISH is Ships!
+
+  River boats, lake ships and coasters in a range of attractive sizes from 15t to 1080t.
+
+  Features lickable pixels in two company colours.
+
+  FISH 0.1 starts in 1900.   Future versions may start earlier.
+
+  FISH is compatible with most industry sets and cargos, including default industries, FIRS and PBI.
+tags:
+- "andythenorth"
+- "boats"
+- "fish"
+- "ships"

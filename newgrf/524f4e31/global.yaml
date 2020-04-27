@@ -1,0 +1,10 @@
+name: "Romanian Town Names"
+description: |-
+  Changelog:
+  1.0 - 319 Romanian Town Names. Major cities in Romania
+  1.1 - Added local names from Ilfov and Arad. Number increased to 683 names. Changed the probability of some names to be picked when map is generated.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=73136&p=1150141#p1150141"
+tags:
+- "names"
+- "romanian"
+- "town"

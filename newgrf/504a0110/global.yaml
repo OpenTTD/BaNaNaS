@@ -1,0 +1,10 @@
+name: "Dutch Station Addition Set"
+description: |-
+  The DSA-set is a station set that can help you create Dutch style stations and waypoints.
+  Initially the idea was to convert the original Dutch Station set into island style platforms. But more and more idea's followed and were also incorporated in this GRF.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=64121"
+tags:
+- "dutch"
+- "island"
+- "stations"
+- "waypoints"

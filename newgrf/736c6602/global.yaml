@@ -1,0 +1,5 @@
+name: "Japanese City Names"
+description: "Town name GRF based on list of real Japanese city names."
+url: "https://dev.openttdcoop.org/projects/jptowns"
+tags:
+- "townname"

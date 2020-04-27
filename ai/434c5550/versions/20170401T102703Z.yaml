@@ -1,0 +1,23 @@
+version: "38"
+license: "GPL v2"
+upload-date: 2017-04-01T10:27:03Z
+md5sum-partial: "20881849"
+filesize: 66391
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "b234d8bd"
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+- content-type: "ai-library"
+  unique-id: "7363704e"
+  md5sum-partial: "07ecd3d8"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "dcdcf35c"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.1"

@@ -1,0 +1,21 @@
+name: "Luukland_Citybuilder_1.4"
+archived: true
+description: |-
+  Luukland's City Builder v1.4
+  For use with Luukland's Citybuilding servers
+
+  http://www.luukland.net/
+  PARAMETERS:
+  #1 : def 0 - 1 oil wells increase
+  #2 : def 16 - rafinery max dist. from coast
+  #3 : def 16 - oil rigs min distance from coast
+  #3 : if omitted par. #3 = #2
+  #4 : Disable all but Citybuilder section if set to 1
+
+  Version # 2010.11.19
+  Coded Together by Jan Skoch
+url: "http://www.luukland.net/"
+tags:
+- "citybuilder"
+- "cool"
+- "luukland"

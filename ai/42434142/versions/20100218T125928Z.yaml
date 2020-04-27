@@ -1,0 +1,17 @@
+version: "2.0a2"
+license: "GPL v2"
+upload-date: 2010-02-18T12:59:28Z
+md5sum-partial: "120b438d"
+filesize: 80882
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: |-
+  Bleeding edge version of NoCAB, this version will be used for testing and parts of it will eventually integrate with the main NoCAB releases as it stabilizes over time.
+
+  This version is the first AI to include support all 4 basic transportation types (trains, road vehicles, ships and aeroplanes). It still needs work though, the latest addition (Trains) are far from stable.
+
+  This branch is based on the 1.26 version of NoCAB.

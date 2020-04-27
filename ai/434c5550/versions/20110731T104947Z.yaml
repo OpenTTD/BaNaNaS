@@ -1,0 +1,26 @@
+version: "28"
+license: "GPL v2"
+upload-date: 2011-07-31T10:49:47Z
+md5sum-partial: "f4ea44dc"
+filesize: 58175
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1cfcb44b"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "25426d83"
+
+description: |-
+  CluelessPlus connects towns and industries using road and air transport. CluelessPlus tries to do its job without causing major jams for other transport companies using jam detection mechanisms.
+
+  Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless that has been updated to work with current NoAI API. And since then there have been many improvements.
+
+  v28:
+  * Can upgrade airports (see release note on URL-link)
+
+  Author: Zuu

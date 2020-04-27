@@ -1,0 +1,10 @@
+version: "RB+"
+license: "GPL v3"
+upload-date: 2016-03-06T18:40:08Z
+md5sum-partial: "f7bcfc49"
+filesize: 37167
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.1"

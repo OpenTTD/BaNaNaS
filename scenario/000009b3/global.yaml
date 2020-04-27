@@ -1,0 +1,18 @@
+name: "Road Vehicle Map"
+replaced-by:
+  unique-id: "000009b4"
+description: |-
+  The year is 1985. Will you manage to make a road vehicle company by 2050, or will you lose profit, and go bankrupt? The possibilities are endless.
+
+  Map made by: Jasperthecat1.
+
+  v1.1.1 (small update)
+  Adjusted train count to zero in advanced settings.
+  Made the game more challenging.
+url: ""
+tags:
+- "highway"
+- "map"
+- "road"
+- "rv"
+- "vehicle"

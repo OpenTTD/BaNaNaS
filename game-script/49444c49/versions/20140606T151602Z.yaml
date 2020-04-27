@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2014-06-06T15:16:02Z
+md5sum-partial: "822e1e97"
+filesize: 17529
+availability: "savegames-only"
+
+description: |-
+  You can limit the purchases of trucks, railstations, bus stops etc...
+  Example the players (and of course the AIs) can buy only one railway depot under the game.
+  Special thanks for Adam Suller for English translations!

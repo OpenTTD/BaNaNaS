@@ -1,0 +1,19 @@
+name: "Beginner Tutorial"
+description: |-
+  An interactive tutorial that teaches you how to play OpenTTD.
+
+  Completed chapters: (more to come)
+  * Navigation
+  * Aircraft
+  * Ships
+  * Trucks
+  * Buses
+
+  How to get started:
+  1. Download the scenario named "Beginner Tutorial"
+  2. Close download window
+  3. Click on play scenario
+  4. Select "beginner Tutorial" in the list and load the scenario.
+
+  Saving works best if you save after a completed chapter and not half-way through it.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57624"

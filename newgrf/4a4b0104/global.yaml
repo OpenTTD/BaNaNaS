@@ -1,0 +1,17 @@
+name: "LCT Vehicle Set"
+description: |-
+  Adds unique ships and aircraft.
+
+  (v4)
+  + Dongun Pinewood (Small Aircraft)
+  * Type of Pencil 800 changed small aircraft to big aircraft.
+  * Fixed wrong (running) cost changing of Daewon 220.
+  * range of Pencil 820, 822, 1000, 1020 decreased. (-200)
+  * range of Pencil 200 decreased. (-100)
+  * running costs of Pencil Aircraft decreased. (x0.9)
+url: ""
+tags:
+- "aircraft"
+- "lct"
+- "ships"
+- "vehicle"

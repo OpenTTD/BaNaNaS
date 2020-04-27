@@ -1,0 +1,17 @@
+name: "LumberMill"
+description: |-
+  The Lumber Mill from tropic also available at temperate and arctic.
+
+  Param0: enable LumberMill (def: 1)
+  Param1: change Forest to cut trees like Lumber Mill (def: 0)
+  Param2: disable Forest (or enable in Tropic) (def: 1)
+
+  Note: There is a more advanced LumberMill handling in OpenGFX+ Industries.
+url: "http://grfcrawler.tt-forums.net/details.php?do=details&id=249"
+tags:
+- "arctic"
+- "lumber"
+- "newindustry"
+- "temperate"
+- "trees"
+- "wood"

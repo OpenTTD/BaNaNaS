@@ -1,0 +1,12 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2012-02-05T23:15:57Z
+md5sum-partial: "0e7a6e34"
+filesize: 14072
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+description: "This Game Script deems companies 'dominator' of towns based on best overall station ratings.  Companies are required to compete to dominate of the city.  See the forum thread for changes.  Now with company merging support and new German, Russian, and Swedish Translations! (thanks to our translators).  This new release only fixes a bug in the goal creation system."

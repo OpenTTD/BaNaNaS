@@ -1,0 +1,10 @@
+version: "0.2"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2015-02-17T16:08:24Z
+md5sum-partial: "fd604e34"
+filesize: 415705
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"

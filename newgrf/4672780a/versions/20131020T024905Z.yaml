@@ -1,0 +1,10 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2013-10-20T02:49:05Z
+md5sum-partial: "8cdb6128"
+filesize: 44849
+availability: "savegames-only"
+
+description: "Alternative graphics for a bridge."
+tags:
+- "bridge"

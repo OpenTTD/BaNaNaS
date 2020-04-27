@@ -1,0 +1,10 @@
+version: "0.1.10"
+license: "GPL v2"
+upload-date: 2020-03-28T16:22:48Z
+md5sum-partial: "d7400dac"
+filesize: 874605
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

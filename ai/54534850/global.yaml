@@ -1,0 +1,8 @@
+name: "Beginner Tutorial - Ship AI"
+description: |-
+  This is special Ship AI for the Beginner Tutorial.
+
+  Note: This AI is not useful for normal games.
+
+  This AI will _not_ be selected as random AI and is hidden in the AI selection menu for everyone except AI/Script developers.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57624"

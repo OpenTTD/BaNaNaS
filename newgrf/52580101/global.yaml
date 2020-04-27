@@ -1,0 +1,13 @@
+name: "FIRS and CHIPS style objects"
+description: |-
+  Industry and miscellaneous tiles as objects, to expand and prettify/grungify your industrial areas. FIRS/CHIPS not required, but recommended.
+
+  *** NOTE ***
+  FaCso 0.1.8 IS NOT COMPATIBLE WITH SAVEGAMES USING EARLIER VERSIONS OF THIS NEWGRF! YOU HAVE BEEN WARNED.
+
+  Cargo tiles, fences and terrain transitions are now in their own newGRF, called CIRso (CHIPS Industrial Renewal style objects).
+
+  Graphics used: FIRS and CHIPS by andythenorth, FooBar, planetmaker, Terkhen, Yexo and many others.
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=86676"
+tags:
+- "objects"

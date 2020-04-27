@@ -1,0 +1,15 @@
+version: "14"
+license: "GPL v3"
+upload-date: 2019-02-28T19:38:27Z
+md5sum-partial: "e0eb955d"
+filesize: 86208
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: |-
+  RailwAI starts a company, then uses a realistic building style to compete your business!
+
+  It can use trains, buses, trucks and ships. It randomly selects what cities or industries to connect, and loves to plant some trees on the map. I hope you'll enjoy him as your opponent!

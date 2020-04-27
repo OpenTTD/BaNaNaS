@@ -1,0 +1,8 @@
+name: "BSPI"
+description: |-
+  Vanilla Industries in Stockpiling mode.
+  Param1:
+  - bit0: extractive industries have reserves
+  - bit1: electric power needed for secondary industries (Town zones)
+  - bit2: primary industries need valuables to boost production (Town zones)
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84735"

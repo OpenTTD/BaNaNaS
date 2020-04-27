@@ -1,0 +1,14 @@
+name: "City Controller"
+description: |-
+  City Controller
+  A town growing controller script, with :
+  - Simple display on town screen.
+  - Growth based on delivered cargos, dynamic growing rate.
+  - Automatic cargo town acceptance from any installed newGRF (FIRS, ECS...)
+  - Town stabilizer
+  - Competitive mode
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=70224"
+tags:
+- "goal"
+- "growth"
+- "town"

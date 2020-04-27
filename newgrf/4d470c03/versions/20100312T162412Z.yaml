@@ -1,0 +1,10 @@
+version: "r8"
+license: "GPL v3"
+upload-date: 2010-03-12T16:24:12Z
+md5sum-partial: "a028c475"
+filesize: 12774
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.1.0"

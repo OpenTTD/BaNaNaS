@@ -1,0 +1,13 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2011-09-24T09:38:05Z
+md5sum-partial: "1ec99a40"
+filesize: 9247
+availability: "savegames-only"
+
+description: |-
+  The New Company Colours Set. Enhances and improves the default company colours.
+  - New colours include black, dark red, rust brown and military green
+  - Full 2CC support - compatible with all company coloured sets
+  - Allows you to represent much more realistic liveries
+  - As a side-effect, many colours in the GUI are changed, but everything is still perfectly readable

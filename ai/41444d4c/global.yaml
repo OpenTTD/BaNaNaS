@@ -1,0 +1,9 @@
+name: "AdmiralAI"
+description: "AdmiralAI is an AI that tries to implement as many features from the API as possible. Currently it supports trains, road vehicles (including trams) and planes.  One of the main goals is to make an AI that is fun to play against. I've tried to do this by making it play varied (using several types of transport)."
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=38057"
+tags:
+- "aircraft"
+- "bus"
+- "train"
+- "tram"
+- "truck"

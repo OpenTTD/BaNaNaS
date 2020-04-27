@@ -1,0 +1,16 @@
+name: "Very large ships"
+description: |-
+  Modified parameters of the ships. They are much larger and appropriately more expensive.
+
+  Small tanker: 10 000 000 liters of oil
+  Large tanker: 22 000 000 liters of oil (like train with 773 wagons!)
+
+  Small cargo ship: 6000 tons of cargo
+  Large cargo ship: 15000 tons of cargo
+
+  Small ferry: 500 passengers
+  Large ferry: 800 passengers
+  Hovercraft: 160 passengers
+url: "http://www.tt-forums.net/viewtopic.php?f=36&t=33030"
+tags:
+- "ship"

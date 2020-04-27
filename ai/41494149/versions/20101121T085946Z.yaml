@@ -1,0 +1,22 @@
+version: "zeta for banana"
+license: "GPL v2"
+upload-date: 2010-11-21T08:59:46Z
+md5sum-partial: "f0e9bd8c"
+filesize: 53920
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "de01137e"
+
+description: "AIAI - Automatic Idiot AI. That version uses road vehicles and planes. Support for all newgrfs. Tested with various plane and truck sets, works perfectly with FIRS, works with ECS, should work also with other newgrfs."
+tags:
+- "full newgrf support"
+- "plane"
+- "truck"

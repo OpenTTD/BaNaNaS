@@ -1,0 +1,21 @@
+name: "MinchinWeb's Random Town Names"
+description: |-
+  What this does is it takes a list of bases (drawn from my Alberta Town Names) and then randomly adds prefixes and suffixes to them. That means that even on the largest maps, you should never run out of names.
+
+  For example, it is possible to get:
+  * Acme,
+  * Fort Acme,
+  * Acme Place,
+  * North Acme Falls, and many others...
+
+  Prefix and suffix probability are relatively low, so you shouldn't be overrun with particularly long names.
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=53579"
+tags:
+- "ab"
+- "ca"
+- "canadian"
+- "minchinweb"
+- "names"
+- "random"
+- "town"
+- "town names"

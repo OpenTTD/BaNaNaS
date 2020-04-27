@@ -1,0 +1,16 @@
+version: "v1.16.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-08-18T11:27:52Z
+md5sum-partial: "6f919168"
+filesize: 162131
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v1.16.0]
+  + New 9 Colors for BS106, Universe, BH116, FX, Granbird
+  * Set to 48 the capacity of express bus
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporations.

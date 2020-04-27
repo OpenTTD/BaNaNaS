@@ -1,0 +1,16 @@
+name: "Bob's Random Vehicles "
+description: |-
+  British Vehicles starting in 1833
+
+  FIRS compatible - you'll get some odd cargo effects if using it without
+
+  Some load sprites still to be done
+
+  Trams now in BATS
+
+  Buses moved to BBB
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=48651"
+tags:
+- "british"
+- "lorry"
+- "truck"

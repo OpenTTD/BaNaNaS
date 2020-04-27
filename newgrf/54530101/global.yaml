@@ -1,0 +1,8 @@
+name: "LUNames"
+description: |-
+  Luxemburgish Town Names for OpenTTD.
+  At the moment, only township names are included, about 120.
+url: ""
+tags:
+- "names"
+- "town"

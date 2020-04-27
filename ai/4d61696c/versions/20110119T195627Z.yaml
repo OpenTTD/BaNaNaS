@@ -1,0 +1,15 @@
+version: "20110119"
+license: "GPL v3"
+upload-date: 2011-01-19T19:56:27Z
+md5sum-partial: "fa3ce890"
+filesize: 51404
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: "Transports mail with trucks and trains."

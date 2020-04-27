@@ -1,0 +1,10 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2017-06-01T12:12:56Z
+md5sum-partial: "ccdaecab"
+filesize: 22948
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

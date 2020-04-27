@@ -1,0 +1,20 @@
+version: "22"
+license: "GPL v2"
+upload-date: 2015-10-11T11:34:36Z
+md5sum-partial: "5cadbf3c"
+filesize: 441054
+availability: "savegames-only"
+
+description: |-
+  Polish Road Set - most popular vehicles produced, assembled or imported to Poland.
+  Version 18 beta contains trucks, tractors and minivans, urban, suburban and long distance buses. Some horse carriage are also available.
+  Slow vehicles, truck and buses subsets can be switched off, if not desired.
+  Trucks are compatible with all cargo sets (except toyland).
+  Buses can carry passengers or ECS tourists.
+tags:
+- "bus"
+- "horse"
+- "poland"
+- "road"
+- "truck"
+- "vehicle"

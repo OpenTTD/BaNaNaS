@@ -1,0 +1,18 @@
+version: "1.1.0"
+license: "GPL v2"
+upload-date: 2010-08-18T21:45:11Z
+md5sum-partial: "c5d462b5"
+filesize: 377787
+availability: "savegames-only"
+
+description: |-
+  The Metro Track Set adds third rail tracks to OpenTTD and TTDPatch and is originally designed to complement the metros of the 2cc Trainset. It will add Metro Tracks as a new railtype to OpenTTD or at your option replace monorail or maglev with Metro Tracks instead. It can be used with any train set that includes third rail vehicles.
+
+  OpenTTD 1.0.3 or recent nightly recommended.
+tags:
+- "2cc"
+- "3rd rail"
+- "metro"
+- "third rail"
+- "tracks"
+- "ukrs2"

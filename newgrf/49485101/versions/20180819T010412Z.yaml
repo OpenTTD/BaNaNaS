@@ -1,0 +1,11 @@
+version: "6.0"
+license: "GPL v2"
+upload-date: 2018-08-19T01:04:12Z
+md5sum-partial: "3a91158a"
+filesize: 11367
+availability: "savegames-only"
+
+description: |-
+  GPL v2, coded by Gwyd and SimYouLater. Credits to Pikkabird and SimYouLater for Graphics.
+
+  Contains a streamlined steam locomotive and a futuristic metro for use with Iron Horse 1.9.x. Watch this NewGRF for several locomotives removed from Iron Horse 2.X like the Cargo Sprinter, Cyclops and Double Juice.

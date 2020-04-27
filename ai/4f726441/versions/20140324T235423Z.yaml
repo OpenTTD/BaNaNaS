@@ -1,0 +1,12 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2014-03-24T23:54:23Z
+md5sum-partial: "05f87539"
+filesize: 16479
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "a72c0b64"
+
+description: "An AI assistant which manages vehicle schedules for the player.  Great if you want to focus on network optimization or have small kids who want to play.  This AI must play on the same company as the player.  Thus at the beginning of the game the player should use CTRL+ALT+C to activate cheat mode and switch to the AI's company.  See the readme.txt for more detail."

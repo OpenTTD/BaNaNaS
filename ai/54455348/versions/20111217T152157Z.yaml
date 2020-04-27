@@ -1,0 +1,17 @@
+version: "4.0.2"
+license: "GPL v2"
+upload-date: 2011-12-17T15:21:57Z
+md5sum-partial: "67dc9246"
+filesize: 25145
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "1cd7194b"
+
+description: |-
+  An AI that primarily uses road vehicles, with some aircraft as well.
+
+  Will transport passengers and most cargo, and should be broadly compatible with most or all NewGRF's that provide non-articulated RV's that can be refit to the available cargoes.
+
+  NOTE: Currently depends on SuperLib 16, not 17

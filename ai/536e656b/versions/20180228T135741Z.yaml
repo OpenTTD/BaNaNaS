@@ -1,0 +1,15 @@
+version: "6"
+license: "GPL v3"
+upload-date: 2018-02-28T13:57:41Z
+md5sum-partial: "78f7fc08"
+filesize: 25872
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+tags:
+- "ai"
+- "road"
+- "truck"

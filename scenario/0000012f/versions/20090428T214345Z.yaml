@@ -1,0 +1,10 @@
+version: "2"
+license: "CC-BY v3.0"
+upload-date: 2009-04-28T21:43:45Z
+md5sum-partial: "42e47987"
+filesize: 324485
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.0"

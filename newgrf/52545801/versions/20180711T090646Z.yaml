@@ -1,0 +1,15 @@
+version: "1.2"
+license: "GPL v3"
+upload-date: 2018-07-11T09:06:46Z
+md5sum-partial: "6a8b2132"
+filesize: 13091
+availability: "savegames-only"
+
+description: |-
+  Allows you to change the Passenger and Mail payment rates.
+  0-10,000%
+
+  1.1:
+  Added a bunch of other cargo types i wanted to change, mostly FIRS related.
+
+  1.2: Recoded to allow for more fine-tuned changing of rates. made the upper limit much higher too.

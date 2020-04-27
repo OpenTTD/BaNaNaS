@@ -1,0 +1,20 @@
+version: "5"
+license: "GPL v2"
+upload-date: 2011-09-03T13:41:41Z
+md5sum-partial: "ba38ea21"
+filesize: 19374
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  A simple AI that uses only trucks.
+  It handles all kind of cargo except for mail and passengers.
+
+  v5:
+  * The behaviour should be a bit less predictable
+  * Don't waste time trying to bring cargo over excessive distances.
+  * Improved algorithm for selecting how many trucks build. There won't be long queues waiting at a station any more.
+  * Station may be expanded in order to handle a greater number of trucks.

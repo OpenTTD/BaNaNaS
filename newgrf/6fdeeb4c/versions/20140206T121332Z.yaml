@@ -1,0 +1,27 @@
+version: "1.7"
+license: "GPL v3"
+upload-date: 2014-02-06T12:13:32Z
+md5sum-partial: "eee31861"
+filesize: 42043
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d560000"
+  md5sum-partial: "a420b01e"
+
+description: |-
+  This is a Set with trains and buses.
+  Update:
+  -TGV V150 "Fire"
+  -Bombardier Flexity 2 (Tram)
+  -AM5-M2 now articulated
+  --------:)--------
+  Next update:
+  -----------SOON----------
+tags:
+- ""
+- "bus"
+- "ikarus"
+- "metro"
+- "tgv"
+- "train"

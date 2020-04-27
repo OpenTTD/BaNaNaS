@@ -1,0 +1,8 @@
+name: "Temperate Oil Wells CAN increas"
+description: "Temperate Oil Wells (default OpenTTD industry) can now increase production if this NewGRF is used (also works for TTDPatch). The NewGRF also disables itself in terrains other than Temperate."
+url: "http://grfcrawler.tt-forums.net/details.php?do=details&id=233"
+tags:
+- "increase production"
+- "industry"
+- "oil wells"
+- "temperate"

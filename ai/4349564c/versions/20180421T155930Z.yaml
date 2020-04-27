@@ -1,0 +1,15 @@
+version: "11"
+license: "Custom"
+upload-date: 2018-04-21T15:59:30Z
+md5sum-partial: "ba0b2611"
+filesize: 30156
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: "A general-purpose AI which builds out from a starting location. Uses buses, trucks, trains and aircraft and is friendly to children and small animals."

@@ -1,0 +1,8 @@
+name: "Ore Unloader Station"
+description: "The Ore Unloader Station is intended as an unloading station for use at steel mills. It can also be used as an ore loading station for use at mines. Its features include animation of the cranes etc."
+url: "https://dev.openttdcoop.org/projects/iorestat/repository"
+tags:
+- "industrial"
+- "isr"
+- "station"
+- "unloader"

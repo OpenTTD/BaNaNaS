@@ -1,0 +1,6 @@
+name: "Queue.PriorityQueue"
+description: "A basic implementation of a Priority Queue queue."
+url: ""
+tags:
+- "priority"
+- "queue"

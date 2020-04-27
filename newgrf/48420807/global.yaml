@@ -1,0 +1,7 @@
+name: "Close Down Banks, Watertower&Po"
+archived: true
+description: |-
+  Makes banks, watertowers and powerstations able to close down during gameplay to prevent a overflow.
+
+  This is version is still in testfase!
+url: "http://www.tt-forums.net/viewtopic.php?f=31&t=48868"

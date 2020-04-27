@@ -1,0 +1,23 @@
+version: "5"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-01-31T06:21:36Z
+md5sum-partial: "4e827c5d"
+filesize: 28737
+availability: "savegames-only"
+
+description: |-
+  Famous Cars of tv series, movies and more.
+
+  From KITT to A-Team Van, all famous vehicles are here.
+
+  Enjoy it!
+
+  (c)2015-16 SilverSurferZzZ
+  CC BY-NC-SA
+tags:
+- "bus"
+- "car"
+- "famous"
+- "newgrf"
+- "truck"
+- "vehicles"

@@ -1,0 +1,24 @@
+version: "1.18 (r315)"
+license: "GPL v2"
+upload-date: 2009-06-09T08:41:32Z
+md5sum-partial: "326d7cdd"
+filesize: 65431
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1420fbe3"
+
+description: |-
+  NoCAB is a competitive AI that tries to compete with other AIs and human players. If features a custom pathfinder and data structures for maximal performance. It can handle road vehicles, busses, airplanes, and ships. Work is on the way for more advanced features (see topic) and other vehicles like trams and trains. Hope you like it!
+
+  Update:
+  1.17 -> 1.18: Backport from 1.18alpha
+  1.16 -> 1.17: Fixed a Load / Save bug.
+tags:
+- "aircraft"
+- "bus"
+- "performance"
+- "save/load"
+- "ship"
+- "truck"

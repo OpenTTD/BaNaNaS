@@ -1,0 +1,17 @@
+name: "South West France"
+description: |-
+  A realistic reproduction of the "Great South-West" of France ; also including Andorra and the Spanish side of the Pyrenees mountains.
+  * Difficulty : normal
+  * Size : 512 x 512
+  * Climate : temperate
+  * Relief : mixed
+  * Towns : lots (253)
+  * Industries : average (97)
+  * Author : Piccolo
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=43467"
+tags:
+- "france"
+- "heightmap"
+- "pyrenees"
+- "realistic"
+- "south-west"

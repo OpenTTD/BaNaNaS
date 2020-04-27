@@ -1,0 +1,12 @@
+version: "2012.11.10"
+license: "GPL v2"
+upload-date: 2012-11-10T18:16:57Z
+md5sum-partial: "ba964c01"
+filesize: 16861
+availability: "savegames-only"
+
+description: |-
+  Patched citybilder server adjustement
+  Version 2012.11.10
+
+  Author: Jan Skoch

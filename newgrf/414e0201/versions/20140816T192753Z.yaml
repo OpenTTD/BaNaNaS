@@ -1,0 +1,15 @@
+version: "squid-rc-1"
+license: "GPL v2"
+upload-date: 2014-08-16T19:27:53Z
+md5sum-partial: "605d1a1d"
+filesize: 456595
+availability: "savegames-only"
+
+description: |-
+  Squid Ate FISH!
+
+  Release Candidate 1.  "Mostly bug free"
+
+  Includes one roster of ships: This Sceptred Isle (British-ish ships).
+  Parameter for ship speed.
+  Parameter for reduced canal construction costs.

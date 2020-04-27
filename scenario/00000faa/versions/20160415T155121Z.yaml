@@ -1,0 +1,18 @@
+version: "1"
+license: "CC-BY v3.0"
+upload-date: 2016-04-15T15:51:21Z
+md5sum-partial: "4fa6f868"
+filesize: 175384
+availability: "savegames-only"
+
+description: |-
+  Northern Ireland
+  Size:512x512
+  Сlimate:subarctic
+  Industry - FIRS, Cities - UK Town Set 2.2
+  Start game: 1950
+  OpenTTD 1.6.0
+  * made by STD/April 2016
+tags:
+- "great britain"
+- "northern ireland"

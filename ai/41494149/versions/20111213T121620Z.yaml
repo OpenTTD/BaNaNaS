@@ -1,0 +1,12 @@
+version: "eta4 - bananas"
+license: "GPL v2"
+upload-date: 2011-12-13T12:16:20Z
+md5sum-partial: "3e9ed44c"
+filesize: 59124
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "1cd7194b"
+
+description: "AIAI - Automatic Idiot AI. Support for all newgrfs. This AI will use trains, RV and planes."

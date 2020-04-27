@@ -1,0 +1,16 @@
+name: "Italian Town Names"
+description: |-
+  This NewGRF is a collection of Italian city names. There are a little more than 200 city names here. The bigger cities, such as Roma and Milano, are given more weight,  and therefore are more likely to appear during the game creation.
+  Please note that all the names are displayed in their real italian name.
+
+  Thank you for downloading my pack,
+  have fun
+  Dax
+url: ""
+tags:
+- "cities"
+- "city"
+- "italian"
+- "italy"
+- "names"
+- "town"

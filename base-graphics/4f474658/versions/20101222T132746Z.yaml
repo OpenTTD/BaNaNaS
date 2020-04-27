@@ -1,0 +1,12 @@
+version: "0.3.2"
+license: "GPL v2"
+upload-date: 2010-12-22T13:27:46Z
+md5sum-partial: "ffc6b7fa"
+filesize: 3456634
+availability: "savegames-only"
+
+description: "The OpenGFX Graphics Pack is an open source replacement for the original TTD graphics used by OpenTTD.  NOTES: You can switch base graphics sets via the Game Options dialog in the main menu. See the do-not-readme at http://bundles.openttdcoop.org/opengfx/releases/LATEST/readme.txt  OpenGFX is licensed under the GNU General Public License version 2.0."
+tags:
+- "8bpp"
+- "graphics replacement"
+- "opengfx"

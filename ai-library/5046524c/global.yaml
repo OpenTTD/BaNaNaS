@@ -1,0 +1,6 @@
+name: "Pathfinder.Rail"
+description: "A basic rail pathfinder, which uses A* to find its way."
+url: ""
+tags:
+- "pathfinder"
+- "rail"

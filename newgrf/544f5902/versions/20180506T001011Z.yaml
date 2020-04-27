@@ -1,0 +1,11 @@
+version: "0.7"
+license: "GPL v2"
+upload-date: 2018-05-06T00:10:11Z
+md5sum-partial: "1aea6b48"
+filesize: 19308
+availability: "savegames-only"
+
+description: |-
+  A GPL v2 trackset designed to imitate the original TTD Toyland tracks. See URL for source code!
+
+  This version defines the tracks as a new railtype with 100 km/h (normal) and 200 km/h (electrified) versions.

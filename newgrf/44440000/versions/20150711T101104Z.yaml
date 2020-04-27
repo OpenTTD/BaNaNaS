@@ -1,0 +1,10 @@
+version: "1.3"
+license: "Custom"
+upload-date: 2015-07-11T10:11:04Z
+md5sum-partial: "31b0ca7c"
+filesize: 179454914
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

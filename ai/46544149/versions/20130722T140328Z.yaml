@@ -1,0 +1,32 @@
+version: "130722"
+license: "GPL v2"
+upload-date: 2013-07-22T14:03:28Z
+md5sum-partial: "074d7890"
+filesize: 56580
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "434c4346"
+  md5sum-partial: "e59a176a"
+- content-type: "ai-library"
+  unique-id: "434c5346"
+  md5sum-partial: "61b8396e"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+
+  * 130722
+  Fix: Don't crash if no destination found (thanks to  Steffl)
+  Fix : move to next cargo upon successful built
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "simple"
+- "tram"
+- "truck"

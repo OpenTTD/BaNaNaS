@@ -1,0 +1,18 @@
+version: "0"
+license: "CC-0 v1.0"
+upload-date: 2015-02-11T04:57:58Z
+md5sum-partial: "9f9a0789"
+filesize: 3368
+availability: "savegames-only"
+
+description: |-
+  These vehicle models will remain available for purchase past year 2050:
+
+  Powernaut Diesel (Toyland)
+  'Dash' (Diesel) (Temperate)
+  'Turner Turbo' (Diesel) (Sub-Arctic, Sub-Tropic)
+  Flashbang X1 (Toyland)
+  Guru X2 Helicopter (Temperate, Sub-Arctic, Sub-Tropic)
+
+  Known Issue:
+  These vehicle models aren't sorted as expected in the purchase list.

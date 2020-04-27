@@ -1,0 +1,12 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2012-01-07T01:47:21Z
+md5sum-partial: "d3af5d24"
+filesize: 14098
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+description: "This Game Script deems companies 'dominator' of towns based on best overall station ratings.  Companies are required to compete to dominate of the city.  See the forum thread for changes.  Now with company merging support and new German, Russian, and Swedish Translations! (thanks to our translators)"

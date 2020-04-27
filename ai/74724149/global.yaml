@@ -1,0 +1,6 @@
+name: "rocketAI"
+description: "This is a very basic AI that makes busroutes between the biggest city to 4 big cities around it. It was made as a project in IS-210 at the University of Agder, Norway."
+url: "http://code.google.com/p/is210-ottd/"
+tags:
+- "bus"
+- "simple"

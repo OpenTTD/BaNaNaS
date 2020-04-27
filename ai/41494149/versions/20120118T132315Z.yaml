@@ -1,0 +1,12 @@
+version: "iota3"
+license: "GPL v2"
+upload-date: 2012-01-18T13:23:15Z
+md5sum-partial: "ad6a1499"
+filesize: 60881
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "3806da0f"
+
+description: "AIAI - Automatic Idiot AI. Support for all newgrfs. This AI will use trains, RV and planes."

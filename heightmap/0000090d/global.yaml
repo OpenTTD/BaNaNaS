@@ -1,0 +1,8 @@
+name: "West Norway"
+description: |-
+  West Norway, from Stavanger in the southern edge to Molde in the northern edge of this 2048x2048 heightmap. The elevation is linearly transformed from the data source and clipped at 1500 m above sea level, to give emphasis to the steep slopes near the fjords.
+
+  Data source: 50n000e_20101117_gmted_mea075.tif (GMTED2010 set) from from the U.S. Geological Survey's Earth Resources Observation and Science Center.
+url: "http://www.tt-forums.net/viewtopic.php?f=47&t=62966"
+tags:
+- "norway"

@@ -1,0 +1,16 @@
+name: "Progressive Rail Set"
+description: |-
+  The Progressive Rail Set is a NewGRF that serves to make upgrading of larger, advanced rail systems easier. Assuming a progression of Normal Rail -> Electric Rail -> Monorail -> Maglev -> Vacuum Tube, an engine can now run (unpowered) on the generation of rail before it and run powered on its "normal rail" and the next generation of rail.
+
+  As a side effect of these changes, you can run Maglev wagons with VacTrain engines.
+url: "http://minchin.ca/openttd-progressive-rail/"
+tags:
+- "maglev"
+- "minchinweb"
+- "monorail"
+- "rail"
+- "railtype"
+- "track"
+- "train"
+- "vactrain"
+- "vacuum"

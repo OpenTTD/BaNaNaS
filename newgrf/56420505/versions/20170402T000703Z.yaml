@@ -1,0 +1,20 @@
+version: "0.0.1"
+license: "GPL v2"
+upload-date: 2017-04-02T00:07:03Z
+md5sum-partial: "47e34f29"
+filesize: 73348407
+availability: "savegames-only"
+
+name: "BRIX Realism is XXXX"
+description: |-
+  Graphics replacement set, adds no functionality.
+  Meant to be used as static NewGRF, best used with 32bpp, but being converted to 8bpp in progress.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+tags:
+- "32bpp"
+- "extra"
+- "ez"
+- "v453000"
+- "zoom"

@@ -1,0 +1,11 @@
+name: "Romanian Train Set"
+description: |-
+  Romanian Train Set (Romtrain) Version 0.2
+  Drawing: Andersl, Batti5
+  Codeing: Cudar
+url: "http://romaniainopenttd.synthasite.com/"
+tags:
+- "newgrf"
+- "romtrain"
+- "set"
+- "train"

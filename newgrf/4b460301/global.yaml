@@ -1,0 +1,12 @@
+name: "Rock Replacement for Transmitte"
+description: |-
+  Ever play a 19th-century game and get annoyed by the fact that there are
+  RADIO TRANSMITTERS in an era where such objects were not even available,
+  let alone prevalent? Or just completely annoyed by these tall, unmovable
+  structures in general? This NewGRF simply replaces the default transmitter
+  graphic for a rock. Yes. Simple, gray, and also unmovable unless you use
+  the cheat menu.
+url: "http://kam-net.com/openttd/rock-replacement-for-transmitter/"
+tags:
+- "replacement"
+- "transmitter"

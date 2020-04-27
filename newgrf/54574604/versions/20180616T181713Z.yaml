@@ -1,0 +1,12 @@
+version: "25"
+license: "GPL v2"
+upload-date: 2018-06-16T18:17:13Z
+md5sum-partial: "5821bb82"
+filesize: 4062240
+availability: "savegames-only"
+
+description: "A set of vehicles common in the UK, including trucks, buses, vans and cars from the Victorian era to the present day. Features 2x zoom and 32bpp graphics for all vehicles."
+tags:
+- "road"
+- "uk"
+- "vehicles"

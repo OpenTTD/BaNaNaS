@@ -1,0 +1,10 @@
+version: "nightly-v5167"
+license: "GPL v2"
+upload-date: 2014-02-27T22:04:23Z
+md5sum-partial: "ac6e73c4"
+filesize: 296679
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.1.4"

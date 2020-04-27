@@ -1,0 +1,9 @@
+name: "FastPTPAI"
+description: |-
+  This is an incredibly simple AI that is very competitive. As the name implies, it quickly builds point to point routes. I am planning to add more features to it soon.
+
+  Version 4 fixes somewhat major bug having to do with trains building on the wrong track.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=66958"
+tags:
+- "saveload"
+- "train"

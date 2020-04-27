@@ -1,0 +1,12 @@
+name: "Hover Bus"
+description: |-
+  A futuristic hover bus available from 2030 onwards. It will reach very high speeds when used on a long, straight road. Since the capacity is rather low and the running costs high, it will only be profitable on routes where it can make use of its speed.
+
+  This grf is based on the extended generic road vehicle and tram set (eGRVTS) by Zephyris (http://www.tt-forums.net/viewtopic.php?f=26&t=33415) and can be used together with that set, or alone.
+url: "http://www.tt-forums.net/viewtopic.php?f=36&t=41363"
+tags:
+- "bus"
+- "egrvts"
+- "generic"
+- "hover"
+- "road vehicle"

@@ -1,0 +1,10 @@
+version: "0"
+license: "CC-0 v1.0"
+upload-date: 2015-07-11T20:10:47Z
+md5sum-partial: "6d2560c8"
+filesize: 3614
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d656f91"
+  md5sum-partial: "937ba8d6"

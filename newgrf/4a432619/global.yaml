@@ -1,0 +1,22 @@
+name: "Italian Railway Coaches"
+description: |-
+  This pack contains several Italian railway coaches (carriages).
+  Included are:
+  Carrozza Piano Ribassato (PR)
+  Carrozza Casaralta (ADP)
+  Carrozze Medie Distanze (MDVE/MDVC)
+  Carrozza UIC-X DTR
+  Carrozza UIC-Z DPLH
+  Carrozza Vivalto 2nd series (CDPTR)
+  Carrozza Treno Azzurro
+  Carrozza UIC-Y
+
+  Two luggage cars (UIC-X and UIC-Z)
+
+  A generator car (nVREC)
+url: "https://github.com/RAD750/openttdstuff/tree/master/italian_rw_coaches"
+tags:
+- "carriage"
+- "coach"
+- "passenger"
+- "train"

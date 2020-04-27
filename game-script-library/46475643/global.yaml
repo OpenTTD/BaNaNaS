@@ -1,0 +1,19 @@
+name: "FGVersionController"
+description: |-
+  This library help to use new features of GS, while the old versions of OpenTTD remain supported.
+
+  Usage is simple:
+  create an instance of this class (with minimum supported system):
+  this.versionController = FGVersionController(1, 3, 1);
+  and example test:
+  this.versionController.IsCurrentVersionLessThan(1, 3, 0)
+
+  doc: http://feca.homedns.org/documentations/FGVersionController/index.html
+  http://www.tt-forums.net/viewtopic.php?f=65&t=69173
+  Special thanks for krinn from tt-forums.net.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=69173"
+tags:
+- "controller"
+- "game"
+- "script"
+- "version"

@@ -1,0 +1,16 @@
+version: "alpha"
+license: "GPL v2"
+upload-date: 2012-09-22T16:46:43Z
+md5sum-partial: "2fc1a840"
+filesize: 635799
+availability: "savegames-only"
+
+description: |-
+  Very alpha version of FISH 2.
+
+  Use at your own risk.  Different versions of pre-release FISH 2 may not be compatible with each other (so savegames may get broken).
+
+  Buy menu sprite appearance is a known issue.
+
+  Not compatible with FISH 1 savegames.
+tags: []

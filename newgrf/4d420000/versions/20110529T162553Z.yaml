@@ -1,0 +1,22 @@
+version: "0.8.1"
+license: "GPL v2"
+upload-date: 2011-05-29T16:25:53Z
+md5sum-partial: "b33a6546"
+filesize: 78362
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "f1250005"
+  md5sum-partial: "b347278c"
+
+description: |-
+  British Vehicles starting in 1833
+
+  FIRS compatible - you'll get some odd cargo effects if using it without
+
+  Some load sprites still to be done
+tags:
+- "british"
+- "bus"
+- "lorry"
+- "truck"

@@ -1,0 +1,14 @@
+name: "Trans-Siberian Railway (1890)"
+description: |-
+  Construction of the Trans-Siberian Railway
+
+  The map displays Russia from Kiev to Vladivostok. There is a small railway network in the european part of Russia. So you can centre our view on Siberia and the connection to the Pacific Ocean.
+
+  - 2048x1024 tiles
+  - starting year 1890
+url: "http://tiny.cc/trans-siberian"
+tags:
+- "asia"
+- "construction"
+- "russia"
+- "siberia"

@@ -1,0 +1,20 @@
+version: "0.6.1"
+license: "GPL v2"
+upload-date: 2010-07-03T17:21:04Z
+md5sum-partial: "322dd582"
+filesize: 285882
+availability: "savegames-only"
+
+description: |-
+  FISH is Ships!
+
+  River boats, lake ships and coasters in a range of attractive sizes from 15t to 1080t.
+
+  Features lickable pixels in two company colours.
+
+  Changes in 0.6.1:
+  - loading / unloading graphics for Island Trader
+  - tanker graphics for Island Trader
+  - loading / unloading graphics for Coasters (in 0.6.0)
+
+  FISH starts in 1870 and is compatible with most industry sets and cargos, including default industries, FIRS and PBI.

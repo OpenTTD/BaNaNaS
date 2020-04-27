@@ -1,0 +1,10 @@
+version: "0.2"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2010-09-22T17:28:39Z
+md5sum-partial: "ed22416e"
+filesize: 55978
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.0"

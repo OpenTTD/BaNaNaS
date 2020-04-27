@@ -1,0 +1,20 @@
+name: "Nintendo DS Lite"
+description: |-
+  A Nintendo DS Lite with several towns. I tried to make it as accurate as possible.
+
+  - Mic
+  - D-pad
+  - Buttons (Including Start and Select)
+  - Both Screens
+  - Stylus (Island to the left)
+  - Power Lights
+  - Speakers
+
+  Towns are based on the above areas, and have been named to help you identify them, although you shouldn't need any help.
+
+  Version 1, Created by Dreedo.
+url: ""
+tags:
+- "ds"
+- "lite"
+- "nintendo"

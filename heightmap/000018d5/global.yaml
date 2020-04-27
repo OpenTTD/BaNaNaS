@@ -1,0 +1,8 @@
+name: "NG Swamp S"
+description: |-
+  A flat map punctured with lakes.
+
+  Size 512x512, height 15 in temparate climate.
+url: ""
+tags:
+- "flat"

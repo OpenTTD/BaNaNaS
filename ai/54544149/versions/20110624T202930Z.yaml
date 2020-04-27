@@ -1,0 +1,25 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2011-06-24T20:29:30Z
+md5sum-partial: "810110f0"
+filesize: 15172
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "ecab74eb"
+
+description: |-
+  *** Experimental ***
+
+  An in-game tutorial implemented as an AI.
+
+  1. Download this AI
+  2. Go to AI settings and put this AI in the first AI slot.
+  3. Change AI start delay to 1 day
+  4. Start a new game
+  5. When this AI starts, it will print a message using signs at the center of the map (starting location)
+
+  6. If you have any suggestions please, visit the AI forum (see URL below) and help with this experiment :-)
+
+  Author: Zuu

@@ -1,0 +1,44 @@
+version: "0.6.6"
+license: "GPL v2"
+upload-date: 2014-02-18T21:00:37Z
+md5sum-partial: "544550ce"
+filesize: 2440574
+availability: "savegames-only"
+
+description: |-
+  Train set based on gameplay of openttdcoop, built around providing choices and space for making decisions.
+  New trains come every 2 years between 1920 all the way to 2070.
+  Rail, monorail, maglev and WETRail included.
+  Also includes universal rail for railtype transitions with autoreplace.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+tags:
+- "asdf"
+- "badass"
+- "bricks"
+- "c4t"
+- "cat"
+- "creeper"
+- "gameplay"
+- "insanity"
+- "madness"
+- "maglev"
+- "meow"
+- "minecraft"
+- "monorail"
+- "nuts"
+- "omfg"
+- "openttdcoop"
+- "pro"
+- "public"
+- "purr"
+- "ships"
+- "slug"
+- "steamer"
+- "v453000"
+- "weirdness"
+- "wetrails"
+- "wtf"
+- "zomg"
+- "zone"

@@ -1,0 +1,12 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2015-03-20T20:55:39Z
+md5sum-partial: "02cc037d"
+filesize: 8085
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44440302"
+  md5sum-partial: "6e09fb5a"
+
+description: "An override GRF that increases passenger capacities of coaches, railbuses and MUs present in the North American Renewal Set version 2.5"

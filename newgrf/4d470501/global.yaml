@@ -1,0 +1,14 @@
+name: "#openttdcoop NewGRF package"
+archived: true
+description: |-
+  #openttdcoop uses a certain set of additional GRFs. You will both need them to play on the Public Server as well as probably on other servers. To ease things up, we packed the GRFs needed into one single file. Simply download it, extract them into your ./data subfolder of your OpenTTD-directory. The GRFs will be automatically loaded if you access our servers.
+
+  Since OpenTTD supports direct download from BaNaNaS, this pack includes all other NewGRFs, which aren't available there.
+url: "http://www.openttdcoop.org/wiki/GRF"
+tags:
+- "#openttdcoop"
+- "memberzone"
+- "package"
+- "prozone"
+- "publicserver"
+- "server"

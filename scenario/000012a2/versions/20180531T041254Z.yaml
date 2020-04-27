@@ -1,0 +1,10 @@
+version: "1.0b"
+license: "GPL v2"
+upload-date: 2018-05-31T04:12:54Z
+md5sum-partial: "cbe340e2"
+filesize: 3271333
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

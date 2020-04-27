@@ -1,0 +1,14 @@
+name: "Ontario City Names"
+description: |-
+  Adds cities and towns from the Canadian province of Ontario.
+
+  Ignore the Hover Bus dependency, I don't know how to remove that
+url: "https://bitbucket.org/UntouchedWagons/ontario-city-names"
+tags:
+- "ca"
+- "canada"
+- "canadian"
+- "names"
+- "on"
+- "ontario"
+- "town"

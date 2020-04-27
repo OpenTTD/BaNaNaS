@@ -1,0 +1,10 @@
+version: "1"
+license: "Custom"
+upload-date: 2009-09-29T19:59:49Z
+md5sum-partial: "0aca9a53"
+filesize: 28084
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.2"

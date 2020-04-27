@@ -1,0 +1,19 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2016-04-30T15:26:00Z
+md5sum-partial: "498467d1"
+filesize: 36854
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "ca75d8b4"
+
+description: "WormAI is an AI for OpenTTD that currently only uses PAX aircraft."
+tags:
+- "ai"
+- "aircraft"
+- "pax"

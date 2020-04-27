@@ -1,0 +1,10 @@
+version: "5.1"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2018-12-20T05:39:25Z
+md5sum-partial: "b9c8e3ff"
+filesize: 30661
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

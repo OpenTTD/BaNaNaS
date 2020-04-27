@@ -1,0 +1,13 @@
+version: "0.5.1"
+license: "GPL v2"
+upload-date: 2012-01-07T23:44:37Z
+md5sum-partial: "888d94df"
+filesize: 92524
+availability: "savegames-only"
+
+description: |-
+  Dutch Road Furniture is an eyecandy object NewGRF that features road furniture which can be found alongside Dutch roads.
+
+  This set is not yet complete, but will be savegame compatible until the future release of version 1.0.0.
+
+  Currently included: Dutch fingerposts, hard shoulders, motorway medians, motorway direction signs, motorway gantries, matrix signs, guardrails. Left hand drive and UK Roads support.

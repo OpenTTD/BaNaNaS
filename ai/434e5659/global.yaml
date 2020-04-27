@@ -1,0 +1,7 @@
+name: "Convoy"
+description: |-
+  AI, that loves buses to transport passengers
+  Updated to API change of 14 Feb
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=37946"
+tags:
+- "bus"

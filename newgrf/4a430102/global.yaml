@@ -1,0 +1,12 @@
+name: "Ansaldo-TIBB E652"
+description: |-
+  The Ansaldo/TIBB E652 is an electric locomotive built in 1989 for mixed traffic duties. Its very high power of 5600kW and Bo'Bo'Bo' configuration makes it very versatile and capable.
+
+  Model based on graphics from the X2001 of the OpenGFX team, licensed under the GPLv2.
+
+  Please report any bugs on the github, as this is my first NewGRF using NML. :)
+url: "https://github.com/RAD750/openttdstuff/tree/master/e652"
+tags:
+- "electric"
+- "locomotive"
+- "train"

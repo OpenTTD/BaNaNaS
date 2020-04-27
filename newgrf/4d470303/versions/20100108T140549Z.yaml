@@ -1,0 +1,11 @@
+version: "3.0 "
+license: "GPL v3"
+upload-date: 2010-01-08T14:05:49Z
+md5sum-partial: "25591fae"
+filesize: 12714
+availability: "savegames-only"
+
+description: |-
+  Usage: add those pair wise:
+  <id> <value>
+  8 pairs are possible

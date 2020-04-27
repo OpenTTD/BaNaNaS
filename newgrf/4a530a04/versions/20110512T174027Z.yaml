@@ -1,0 +1,23 @@
+version: "2011.05.12"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2011-05-12T17:40:27Z
+md5sum-partial: "0cce30ea"
+filesize: 12402
+availability: "savegames-only"
+
+description: |-
+  Luukland's Server v1.1
+
+  For use with Luukland's servers
+
+  GRF contains:
+  Disable monorail and maglev trains [by SEKI]
+  Enables additional cargo in some town buildings [by SEKI]
+  Road vehicle date mod [by Woople]
+  Makes Water Towers and Banks appear only once per town [by The Dude]
+  Includes Station names [(C) by a.locritani] and Oil adjust [(C) by SirkoZ]
+  http://www.luukland.net/
+
+  Version # 2011.05.12
+
+  Coded Together by Jan Skoch

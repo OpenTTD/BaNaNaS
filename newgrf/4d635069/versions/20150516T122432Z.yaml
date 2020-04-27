@@ -1,0 +1,12 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2015-05-16T12:24:32Z
+md5sum-partial: "c5ab0a53"
+filesize: 8580
+availability: "savegames-only"
+
+description: |-
+  Pre-industrial era houses replaces some original houses functions (not graphic sprites) in temperate/arctic climate:
+  some old town buildings (mainly tenements with shops and offices) accept coal.
+  Power plants are not available prior certain date (1882 by default).
+  Additionally some tweaks are provided to avoid cluttering of fountains and monuments.

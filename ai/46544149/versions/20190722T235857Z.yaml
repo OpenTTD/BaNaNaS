@@ -1,0 +1,20 @@
+version: "190723"
+license: "GPL v2"
+upload-date: 2019-07-22T23:58:57Z
+md5sum-partial: "5fd6c56d"
+filesize: 74119
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "434c4346"
+  md5sum-partial: "e59a176a"
+- content-type: "ai-library"
+  unique-id: "434c5346"
+  md5sum-partial: "61b8396e"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

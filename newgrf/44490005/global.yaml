@@ -1,0 +1,11 @@
+name: "Serbian Narrow Gauge Train Set"
+description: |-
+  The Serbian Narrow Gauge Train Set is a set of narrow gauge locomotives and rail vehicles, used through Serbian railway history from the 19th century to the future.
+
+  Requires a narrow gauge track NewGRF. Narrow Gauge Track Types (ngtracktypes.grf) or Termite (termite.grf) are recommended.
+url: "http://www.tt-forums.net/viewtopic.php?p=225245#p225245"
+tags:
+- "narrow gauge"
+- "serbia"
+- "srsngw"
+- "train"

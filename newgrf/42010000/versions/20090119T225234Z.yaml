@@ -1,0 +1,16 @@
+version: "0.21"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-01-19T22:52:34Z
+md5sum-partial: "0545fd72"
+filesize: 9895
+availability: "savegames-only"
+
+description: |-
+  Signals similar to those found on German railway lines.
+  Set parameter 1 to remove signs on exit signal posts.
+tags:
+- "german"
+- "infrastructure"
+- "signal"
+- "signals"
+- "track"

@@ -1,0 +1,14 @@
+version: "8"
+license: "GPL v2"
+upload-date: 2019-11-14T03:50:48Z
+md5sum-partial: "29165356"
+filesize: 34906
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "b234d8bd"
+
+tags:
+- "ai"
+- "ships"

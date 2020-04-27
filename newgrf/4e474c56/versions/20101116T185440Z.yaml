@@ -1,0 +1,11 @@
+version: "0.2 beta"
+license: "GPL v2"
+upload-date: 2010-11-16T18:54:40Z
+md5sum-partial: "dc9f21c2"
+filesize: 21333
+availability: "savegames-only"
+
+description: |-
+  An incomplete set of light road vehicles. Coded (in NML) and drawn by oberhümer. This version is incompatible with older ones.
+
+  (c) oberhümer 2010

@@ -1,0 +1,8 @@
+name: "Scotland"
+description: |-
+  2048 x 2048 Heightmap of Scotland.
+
+  Contains only the Southern tip of the Shetland mainland.
+
+  Extends to include Belfast Lough and the Yorkshire Coast (essential to fitting all of Scotland in to a standard orientation)
+url: ""

@@ -1,0 +1,18 @@
+version: "alpha-8"
+license: "GPL v2"
+upload-date: 2014-12-29T07:36:39Z
+md5sum-partial: "b007b4a2"
+filesize: 86260
+availability: "savegames-only"
+
+description: |-
+  Road Hog!  A big fat road vehicle set.
+
+  Alpha versions have many broken things in them.
+
+  This one is better than the ones before though.
+
+  Not savegame compatible with previous alpha versions.
+tags:
+- "road"
+- "vehicles"

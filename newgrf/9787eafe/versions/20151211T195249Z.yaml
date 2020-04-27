@@ -1,0 +1,17 @@
+version: "alpha-17"
+license: "GPL v2"
+upload-date: 2015-12-11T19:52:49Z
+md5sum-partial: "54d46e55"
+filesize: 144429
+availability: "savegames-only"
+
+description: |-
+  Road Hog!  A big fat road vehicle set.
+
+  Alpha versions have many broken things in them.
+
+  This one is quite playable though.
+
+  alpha-14: bug fixes, translations
+
+  Not savegame compatible with previous alpha versions.

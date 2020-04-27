@@ -1,0 +1,8 @@
+version: "0.1"
+license: "Custom"
+upload-date: 2013-07-18T21:58:58Z
+md5sum-partial: "e5190804"
+filesize: 19225
+availability: "savegames-only"
+
+description: "This extension adds the possibility to use the names of Estonian cities, towns and villages in OpenTTD."

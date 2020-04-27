@@ -1,0 +1,14 @@
+name: "Communication"
+description: |-
+  An 512x512 arctic scenario with a mountain ridge going from north to south. The scenario features communication towers at the top of the mountain ridge so that it becomes impossible to cut a valley through it without cheating.
+
+  The scenario uses a bunch of NewGRFs which all can be found through online content download. Just try to load the scenario and OpenTTD will help you find the missing NewGRFs.
+
+  Author: Zuu
+url: ""
+tags:
+- "512x512"
+- "artic"
+- "mountainious"
+- "newgrfs"
+- "snow"

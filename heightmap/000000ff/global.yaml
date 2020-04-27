@@ -1,0 +1,25 @@
+name: "East Africa (Low Terrain)"
+description: |-
+  2048*2048
+  Heightmap of East Africa. The processing of this map has given precidence to detail in the low areas.
+
+  Includes all or part of:
+  Somalia, Ethiopia, Djibouti, Yemen, Kenya, Tanzania, Sudan, Uganda, Democratic Republic of Congo, Rwanda, Burundi.
+
+  By Moriarty.
+url: ""
+tags:
+- "2048"
+- "burundi"
+- "democratic republic of congo"
+- "djibouti"
+- "ethiopia"
+- "heightmap"
+- "kenya"
+- "moriarty"
+- "rwanda"
+- "somalia"
+- "sudan"
+- "tanzania"
+- "uganda"
+- "yemen"

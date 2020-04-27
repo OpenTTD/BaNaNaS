@@ -1,0 +1,10 @@
+version: "V12.0.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-05-17T17:16:08Z
+md5sum-partial: "65795919"
+filesize: 95419
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d470501"
+  md5sum-partial: "8318348c"

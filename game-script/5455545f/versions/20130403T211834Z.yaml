@@ -1,0 +1,33 @@
+version: "13"
+license: "GPL v2"
+upload-date: 2013-04-03T21:18:34Z
+md5sum-partial: "4a6de36f"
+filesize: 41960
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "544c424c"
+  md5sum-partial: "70db7b52"
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "559454e5"
+- content-type: "ai"
+  unique-id: "54534850"
+  md5sum-partial: "60714df8"
+- content-type: "scenario"
+  unique-id: "0000095c"
+  md5sum-partial: "023f1d7d"
+
+name: "Beginner Tutorial"
+description: |-
+  This is the Script part of the Beginner Tutorial. It's actually here most of the logic sits. The scenario is just a ... scenario to ensure that you get a good start. :-)
+
+  Feedback or helping out is welcome.
+
+  The Tutorial require all these parts:
+  - Game Script "Beginner Tutorial"
+  - Scenario "Beginner Tutorial",
+  - AI "Beginner Tutorial - Ship AI"
+  - NewGRF "manual industries" (by frosch)
+
+  Then go to Play Scenario and play the Beginner Tutorial scenario.

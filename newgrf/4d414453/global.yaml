@@ -1,0 +1,9 @@
+name: "Big Train"
+description: |-
+  A very large train (6.3 tiles) capable of very high speeds (>10,000 mph) with very high capacity (>3,000,000 units of any given cargo).
+
+  Designed for "testing purposes"
+url: ""
+tags:
+- "gwyd"
+- "test"

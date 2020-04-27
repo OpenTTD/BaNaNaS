@@ -1,0 +1,9 @@
+name: "zBase"
+description: |-
+  zBase is an open source 32bpp graphics base set designed to be used by OpenTTD.
+  You can switch base graphics sets via the Game Options dialog in the main menu.
+  zBase is licensed under the GNU General Pubilc License version 2.0.
+url: "http://dev.openttdcoop.org/projects/zbase"
+tags:
+- "32bpp"
+- "base graphics"

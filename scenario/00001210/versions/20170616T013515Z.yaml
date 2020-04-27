@@ -1,0 +1,11 @@
+version: "1.0"
+license: "CC-BY v3.0"
+upload-date: 2017-06-16T01:35:15Z
+md5sum-partial: "131a415b"
+filesize: 103246
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"
+  - "< 1.6.0"

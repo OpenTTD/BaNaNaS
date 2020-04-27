@@ -1,0 +1,10 @@
+version: "0.2-Beta"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-04-29T00:02:21Z
+md5sum-partial: "94e67f1f"
+filesize: 388049
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.0"

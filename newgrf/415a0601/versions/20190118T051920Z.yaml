@@ -1,0 +1,13 @@
+version: "0.3.0"
+license: "GPL v2"
+upload-date: 2019-01-18T05:19:20Z
+md5sum-partial: "9e097d4f"
+filesize: 106567
+availability: "savegames-only"
+
+description: |-
+  ABRS provides a unique set of bridges for use in OpenTTD, intended
+  to be used together with American Road Replacement Set (but not necessary).
+
+  It is a work in progress but is fully playable, and as of this release
+  includes 11 unique bridges across 7 bridge slots, with more to be added later!

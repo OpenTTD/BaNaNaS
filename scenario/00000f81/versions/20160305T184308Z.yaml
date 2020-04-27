@@ -1,0 +1,8 @@
+version: "0.0.7"
+license: "CC-0 v1.0"
+upload-date: 2016-03-05T18:43:08Z
+md5sum-partial: "4a8af6c1"
+filesize: 219565
+availability: "savegames-only"
+
+description: "HUGE UPDATE - Removed ALL cities + industries and placed them again, fixing a lot of inconsistencies. Also redid most lakes and fixed the Grenå river so it didn't connect all the way to Randers Fjord. All RL open pit digs are coal mines; all RL thermal plants are power plants; farms and factories peppered throughout; forests in mostly real locations; lumbermills in RL locations"

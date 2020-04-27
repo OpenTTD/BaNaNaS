@@ -1,0 +1,17 @@
+version: "1.0.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2019-04-01T21:32:09Z
+md5sum-partial: "447631c4"
+filesize: 190856
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "52554b54"
+  md5sum-partial: "5a84dcbb"
+- content-type: "newgrf"
+  unique-id: "52544e41"
+  md5sum-partial: "ba1c5579"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

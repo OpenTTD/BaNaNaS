@@ -1,0 +1,18 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2012-01-07T16:58:13Z
+md5sum-partial: "2083a23c"
+filesize: 11950
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+description: |-
+  This script make towns require cargo to grow. Larger towns require more cargo to grow additionally. As an extra excitement, the size of the neighbour towns have an impact on how much cargo is required for a town to grow. If there are nearby towns that are larger than a town itself, that reduces the cargo requirement.
+
+  New in version 3:
+  - Fixed bug when neighbour effect was disabled
+  - Reduced maximum effect on goals of having small neighbours from 800% to 500%
+  - A readme :)

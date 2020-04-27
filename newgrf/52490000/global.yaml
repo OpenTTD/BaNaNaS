@@ -1,0 +1,11 @@
+name: "Polish Tram set by Sojita"
+replaced-by:
+  unique-id: "4d430107"
+description: |-
+  Small set of Polish trams form 1947 till 2010 - Konstal, Alstom and PESA, drawn and coded for grfmaker by Sojita.
+  NFO code updated by McZapkie - adjusted costs, loading speeds and climates (available for moderate, subarctic and subtropical).
+url: "http://openttd-polska.pl/Temat-Pojazdy-Ma%C5%82y-set-polskich-tramwaj%C3%B3w"
+tags:
+- "poland"
+- "tram"
+- "urban"

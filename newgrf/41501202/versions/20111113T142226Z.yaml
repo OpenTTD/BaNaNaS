@@ -1,0 +1,30 @@
+version: "1.4.1"
+license: "GPL v2"
+upload-date: 2011-11-13T14:22:26Z
+md5sum-partial: "398d9063"
+filesize: 162639
+availability: "savegames-only"
+
+description: |-
+  "Heavy Equipment" road vehicle set
+
+  I like big trucks and thought it would be nice to have some for OpenTTD, so I created HEQS, including:
+
+  *Many enormous dump trucks (1955)
+  *Three awesome log trucks (1972)
+  *Ten powerful tractors and bulldozers (1937)
+  *Two Foundry Transporters (1967)
+  *Many Industrial Trams (1869)
+  *One very useful light truck for road & rail (1947/1958)
+  *Forklift truck (1936)
+
+  HEQS vehicles look good & range from 1t to huge.
+  Compatible with FIRS, PBI and ECS
+tags:
+- "andythenorth"
+- "bulldozers"
+- "heavy equipment"
+- "heqs"
+- "road vehicles"
+- "tractors"
+- "trucks"

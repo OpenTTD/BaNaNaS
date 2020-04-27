@@ -1,0 +1,12 @@
+name: "Volcano-X"
+description: |-
+  Four eroded islands in the corners with one bigger in the centre.
+
+  Created using L3DT.
+url: "http://www.bundysoft.com/L3DT/"
+tags:
+- "eroded"
+- "heightmap"
+- "island"
+- "islands"
+- "quad"

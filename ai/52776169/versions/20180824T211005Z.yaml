@@ -1,0 +1,12 @@
+version: "5"
+license: "GPL v3"
+upload-date: 2018-08-24T21:10:05Z
+md5sum-partial: "06405942"
+filesize: 74569
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: "RailwAI is an artifical player that can use trains, buses, trucks and ships. Its behaviour is random, I hope you'll enjoy him as your opponent!"

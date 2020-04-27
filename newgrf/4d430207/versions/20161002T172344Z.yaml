@@ -1,0 +1,13 @@
+version: "34"
+license: "GPL v2"
+upload-date: 2016-10-02T17:23:44Z
+md5sum-partial: "0387f8bf"
+filesize: 465308
+availability: "savegames-only"
+
+description: |-
+  New Polish Road Set - most popular vehicles produced, assembled or imported to Poland.
+  Current version contains trucks, tractors and minivans, urban, suburban and long distance buses. Some horse carriage are also available.
+  Slow vehicles, truck and buses subsets can be switched off, if not desired.
+  Trucks are compatible with all cargo sets (except toyland).
+  Buses can carry passengers or ECS tourists.

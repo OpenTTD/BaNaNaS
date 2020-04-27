@@ -1,0 +1,15 @@
+version: "8"
+license: "GPL v2"
+upload-date: 2013-06-16T08:59:19Z
+md5sum-partial: "be88c3dd"
+filesize: 98411
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+
+description: |-
+  This AI is an improved and updated version of PathZilla, originally written by George Weller. It transports all kinds of cargo, but only uses road vehicles.
+
+  //deactivated version, nobody should be able to download this

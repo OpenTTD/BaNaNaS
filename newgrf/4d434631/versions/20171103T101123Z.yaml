@@ -1,0 +1,8 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2017-11-03T10:11:23Z
+md5sum-partial: "f6f0a1c6"
+filesize: 46780
+availability: "savegames-only"
+
+description: "Cargo payment fixes for FIRS3, +some new industries."

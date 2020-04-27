@@ -1,0 +1,12 @@
+name: "IdleMore"
+description: |-
+  IdleMore is a fork of Idle that do even less work. It does not rename the company upon load of savegames and has the bank balance management disabled by default (can be enabled via an AI setting).
+
+  If you use an Idle AI to run multiple companies in a single player game using the switch company cheat, then you probably do not want the AI to instantly payback loans that you just took to buy a vehicle.
+
+  Fork author: Zuu
+url: ""
+tags:
+- "idle"
+- "save/load"
+- "sleep"

@@ -1,0 +1,10 @@
+version: "2025a"
+license: "CC-0 v1.0"
+upload-date: 2020-04-06T10:26:44Z
+md5sum-partial: "f91bbbe5"
+filesize: 5608
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

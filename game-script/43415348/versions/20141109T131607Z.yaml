@@ -1,0 +1,17 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2014-11-09T13:16:07Z
+md5sum-partial: "56ad6fd6"
+filesize: 13742
+availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5343504c"
+  md5sum-partial: "643a5092"
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "fd72acd8"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.0"

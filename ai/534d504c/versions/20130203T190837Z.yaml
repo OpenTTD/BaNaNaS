@@ -1,0 +1,21 @@
+version: "8"
+license: "GPL v2"
+upload-date: 2013-02-03T19:08:37Z
+md5sum-partial: "7eb58009"
+filesize: 45198
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  SimpleAI is an AI which tries to imitate the old AI which was present in the game until 0.6.3. It uses road vehicles, trains and aircraft, and supports all non-NewGRF cargoes.
+  Recommended configuration:
+  - Enable building on slopes
+  - Enable 90 deg turns for trains
+
+  See readme.txt for details.

@@ -1,0 +1,25 @@
+version: "1"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2011-04-28T17:52:36Z
+md5sum-partial: "49437f6a"
+filesize: 20631
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1cfcb44b"
+
+description: "Minchinweb's MetaLibrary is an AI libary written to support WmDOT and contains a Road Pathfinder, a 'Spiral Walker,' a 'Waterbody Check,' Array functions and some other random functions. (v.1, r.121) [2011-04-28]"
+tags:
+- "ai"
+- "library"
+- "minchin"
+- "minchinweb"
+- "pathfinder"
+- "road pathfinder"

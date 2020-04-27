@@ -1,0 +1,17 @@
+name: "UK v3"
+description: |-
+  UK Scenario v3 (unfinished release 4)
+  UK and Ireland with some of France, Holland, Belgium, Luxembourg, Germany.  Currently has ~260 of ~520 planned towns.  These are scaled from current real world populations by 250. Geographical size of cities is approximately accurate. Only has oil industry and power stations.  These are based on real world. Contains accurate rivers and TV masts. Also has names of geographical features. Requires ECS for full functionality
+
+  by JonScaife
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=42124"
+tags:
+- "britian"
+- "british isles"
+- "england"
+- "great britian"
+- "ireland"
+- "scotland"
+- "uk"
+- "united kingdom"
+- "wales"

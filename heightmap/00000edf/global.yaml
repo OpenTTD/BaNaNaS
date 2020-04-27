@@ -1,0 +1,8 @@
+name: "river valley"
+description: |-
+  A long sloping river valley at 4096x128, becoming steeper and steeper the further it goes up in the mountains. Load it at maximum height level 255 and it will stretch all the way from sea level to 255.
+
+  Use the patch from http://www.tt-forums.net/viewtopic.php?f=33&t=73781 to fill the valley with a river.
+url: ""
+tags:
+- "river"

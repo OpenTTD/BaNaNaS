@@ -1,0 +1,11 @@
+name: "AILibList"
+description: |-
+  Common Library series :
+  Series of library that contain assorted function that hopefully to be useful for many AI writers.
+
+  List :
+  An improvement of API - AIList, which can call do command inside valuator and several other functions
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=44594"
+tags:
+- "library"
+- "list"

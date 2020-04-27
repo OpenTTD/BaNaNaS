@@ -1,0 +1,11 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2013-08-02T08:00:42Z
+md5sum-partial: "527e2caf"
+filesize: 18081
+availability: "savegames-only"
+
+description: |-
+  A library to handle engines.
+
+  v2 bugfix + 4 functions

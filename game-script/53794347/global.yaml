@@ -1,0 +1,6 @@
+name: "City Growth Limiter"
+description: "A simple script that controls the city and town growth rate depending on percent of passengers and mail transported from them."
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=58238"
+tags:
+- "city"
+- "growth"

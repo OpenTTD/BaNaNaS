@@ -1,0 +1,16 @@
+name: "OtviAI"
+description: |-
+  An AI that focuses on passengers & mail, but will occasionally also do cargo transport.
+
+  Tested with several newgrf's including ECS, 2cc and builds trams and nice cargo stations if available.
+
+  Originally written as a simple test AI for Rondje om de Kerk, but now a complete and strong competitor. Tries to get some subsidies as well.
+
+  Traffic jams, pollution and full maps are the risks of running this AI :)
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=39707"
+tags:
+- "bus"
+- "ship"
+- "train"
+- "tram"
+- "truck"

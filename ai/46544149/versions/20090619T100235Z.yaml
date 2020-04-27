@@ -1,0 +1,21 @@
+version: "090619"
+license: "GPL v2"
+upload-date: 2009-06-19T10:02:35Z
+md5sum-partial: "ee217849"
+filesize: 56620
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1cfcb44b"
+
+description: "An AI that is developed by Fanioz as an effort to be a transporter."
+tags:
+- "bus"
+- "save/load"
+- "simple"
+- "train"
+- "truck"

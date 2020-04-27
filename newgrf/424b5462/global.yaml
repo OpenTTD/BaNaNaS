@@ -1,0 +1,16 @@
+name: "BK Enhanced Tunnel Set"
+description: |-
+  BK Tunnels v1.0
+
+  Platforms supported: TTDP and OTTD
+  Climates supported: Temperate, sub-arctic, tropical
+  Enhanced_Tunnel functionality: Yes
+  Construction material selection: Yes, via parameters.
+  Matching foundations: Yes. Standard wood and tropic white already match. Beige concrete foundations also match when that material is selected.
+
+  Please see the webpage for parameter settings!
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=32119"
+tags:
+- "enhanced tunnels"
+- "tunnel"
+- "walls"

@@ -1,0 +1,22 @@
+name: "Mumbai - Suburbs"
+description: |-
+  Size: 1024x512
+
+  This scenario is based on the heightmap of Mumbai, India. The suburbs are placed accurately, with some indicators to where certain things are supposed to go while playing (e.g. Airport, Metro, etc.).
+
+  This scenario is geared towards a passenger/mail oriented gameplay.
+  To play with industries, check out my "Mumbai - Industries" file in Scenarios. If you want just the heightmap, you can find it titled "Mumbai" under Heightmaps.
+
+  Have fun!
+
+  By Seedorsi.
+url: ""
+tags:
+- "1024"
+- "512"
+- "asia"
+- "india"
+- "mail"
+- "mumbai"
+- "passengers"
+- "subcontinent"

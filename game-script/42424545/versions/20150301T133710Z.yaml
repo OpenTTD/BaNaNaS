@@ -1,0 +1,10 @@
+version: "RC2M"
+license: "GPL v2"
+upload-date: 2015-03-01T13:37:10Z
+md5sum-partial: "a3feb46e"
+filesize: 19518
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.2"

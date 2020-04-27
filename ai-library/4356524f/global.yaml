@@ -1,0 +1,3 @@
+name: "CivilAI Pathfinder.Road"
+description: "Standard road pathfinder with tweaks for CivilAI - mostly, addition of a cost factor for drive-through stops."
+url: ""

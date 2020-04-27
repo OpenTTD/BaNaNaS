@@ -1,0 +1,10 @@
+version: "7079"
+license: "GPL v2"
+upload-date: 2019-05-19T23:53:52Z
+md5sum-partial: "fa5f1e13"
+filesize: 1237619
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.5.3"

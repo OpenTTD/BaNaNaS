@@ -1,0 +1,8 @@
+name: "Mars elevation model"
+description: |-
+  this is a heightmap of the whole martian surface based on the public domain map supplied by NASA on http://www.solarviews.com/cap/mgs/mgstopo3.htm
+  Colours don't yet translate 100% correctly into the elevation, but the main features come out just fine. Recommended: artic with snowline not below 6
+url: "http://www.solarviews.com/cap/mgs/mgstopo3.htm"
+tags:
+- "heightmap"
+- "mars"

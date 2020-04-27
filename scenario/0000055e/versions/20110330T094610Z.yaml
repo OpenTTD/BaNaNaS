@@ -1,0 +1,10 @@
+version: "0.18.5"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2011-03-30T09:46:10Z
+md5sum-partial: "accecc06"
+filesize: 93509
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.5"

@@ -1,0 +1,12 @@
+name: "GSToyHelper"
+description: |-
+  GSToyHelper is a gamescript that do nothing at all. It only use GSToyLib to provide money to eyes candy/toy AIs to keep them alive.
+  Running this script won't change your openttd usage but only keep those kind of AIs alive.
+  You will enjoy it, only if you want run a "stock" openttd while keeping your eyes candys AIs alive.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=71597"
+tags:
+- "ai"
+- "eyes candy"
+- "gamescript"
+- "lib"
+- "toy"

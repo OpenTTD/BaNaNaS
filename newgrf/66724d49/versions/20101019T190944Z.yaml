@@ -1,0 +1,8 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2010-10-19T19:09:44Z
+md5sum-partial: "3d84bcc6"
+filesize: 7301
+availability: "savegames-only"
+
+description: "Disables all of OpenTTD's default economy (opening/closing of industries, changes in production) except industry creation during map generation. The economy can then be controlled manually using cheats."

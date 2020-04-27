@@ -1,0 +1,13 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2009-01-23T03:43:22Z
+md5sum-partial: "16902e93"
+filesize: 15039
+availability: "savegames-only"
+
+tags:
+- "ai"
+- "buses"
+- "noai"
+- "sir bob"
+- "trucks"

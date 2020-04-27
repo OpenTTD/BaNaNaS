@@ -1,0 +1,15 @@
+name: "Manual Industries"
+description: |-
+  Allows disabling certain aspects of default industries including disabling all economical events like opening/closure and production changes.
+
+  Using cheats one can then control industries manually without any random changes interfering.
+
+  Take a look at the NewGRF parameter configuration for all details.
+
+  Not compatible with other industry sets.
+url: "http://dev.openttdcoop.org/projects/manindu"
+tags:
+- "closure"
+- "industry"
+- "production"
+- "random"

@@ -1,0 +1,22 @@
+version: "0.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2013-01-27T05:11:41Z
+md5sum-partial: "bac22546"
+filesize: 355974
+availability: "savegames-only"
+
+description: |-
+  This Newobjects set adds various objects to enhance the OTTD experience. Currently included are:
+  -Circling Seagulls (small and large)
+  -Ice features
+  -Shipwreck
+  -New rocks (small & tiny variants)
+
+  There are lots of planned features for future versions.
+tags:
+- "eyecandy"
+- "ice"
+- "newobjects"
+- "objects"
+- "seagulls"
+- "supercheese"

@@ -1,0 +1,17 @@
+name: "Korean Suin Narrow Gauge Railwa"
+description: |-
+  This NewGRF adds narrow gauge Suin-line in South Korea in 90's.
+
+  This NewGRF Contains Passenger Car, Freight Car, Diesel Car, Steam Engine for Suin-line.
+
+  * 0.3.2 UPDATE! *
+  - tunnel, bridge and icon are complete!
+
+  * Support & Report *
+  - jakga123@gmail.com
+url: "http://www.culturelct.com/newgrf/?grf=2"
+tags:
+- "korea"
+- "suin"
+- "수인선"
+- "한국"

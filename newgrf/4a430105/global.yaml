@@ -1,0 +1,13 @@
+name: "Stadler GTW (Trenord ATR115/125"
+description: |-
+  The Stadler series of DMUs was purchased by Trenord in 2011 and called ATR 115 (GTW 2/6) and ATR 125 (GTW 4/12).
+  This NewGRFs contains both ATRs.
+  The ATR 115 is used on the Brescia-Iseo line in a rural context. ATR125s are used more widely on the network, mostly based in Cremona, Pavia and on the Milano-Besana S9 suburban line where they are called "Besanino".
+
+  Please report any bugs or suggestions as I am still learning to code and draw NewGRFs.
+url: "https://github.com/RAD750/openttdstuff/tree/master/atr"
+tags:
+- "diesel"
+- "dmu"
+- "stadler"
+- "train"

@@ -1,0 +1,15 @@
+version: "1"
+license: "CC-0 v1.0"
+upload-date: 2015-02-04T20:56:55Z
+md5sum-partial: "bd2143ef"
+filesize: 3411
+availability: "savegames-only"
+
+description: "This Oil Rig Layout won't block ships docking when an Oil Rig is spawned in front of another Oil Rig."
+tags:
+- "block"
+- "docking"
+- "layout"
+- "oil rig"
+- "ship"
+- "spawning"

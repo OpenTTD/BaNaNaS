@@ -1,0 +1,12 @@
+name: "Think globally act locally"
+description: |-
+  Controls industry growth by influence of macroeconomic index based on global ratio of industries and towns served. Town growth depend on amount of passenger, mail and other goods transported locally, but can be also affected by global economy mood.
+  Additionally, if town is well served, there is chance to have subsidised passenger or mail transport to other town, regardless of its service and cargodist type. Probability depend on economy mood.
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=77335"
+tags:
+- "economy"
+- "growth"
+- "industry"
+- "limiter"
+- "script"
+- "town"

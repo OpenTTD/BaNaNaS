@@ -1,0 +1,18 @@
+version: "1.2"
+license: "GPL v2"
+upload-date: 2019-12-09T13:54:43Z
+md5sum-partial: "fd0e539c"
+filesize: 13548
+availability: "savegames-only"
+
+description: |-
+  This pack contains several Italian railway coaches (carriages).
+  Included are:
+  Carrozza Piano Ribassato (PR)
+  Carrozza Casaralta (ADP)
+  Carrozze Medie Distanze (MDVE/MDVC)
+  Carrozza UIC-X DTR
+  Carrozza UIC-Z DPLH
+  Carrozza Vivalto 2nd series (CDPTR)
+
+  Two luggage cars (UIC-X and UIC-Z)

@@ -1,0 +1,20 @@
+version: "8"
+license: "GPL v2"
+upload-date: 2019-09-19T22:16:50Z
+md5sum-partial: "1d590137"
+filesize: 99759
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "dcdcf35c"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.0"

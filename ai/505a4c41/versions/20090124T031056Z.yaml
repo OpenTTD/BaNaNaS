@@ -1,0 +1,18 @@
+version: "5"
+license: "GPL v2"
+upload-date: 2009-01-24T03:10:56Z
+md5sum-partial: "400b95fd"
+filesize: 49084
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "4afad592"
+
+description: |-
+  PathZilla is a networking AI. The focus of this AI is on high level network planning and neat, realistic road construction. PathZilla plans an entire road network and builds roads in an aesthetically pleasing manner.
+
+  Full support for save/load, articulated road vehicles and trams, and all major NewGRF RV sets. No support yet for other transport types.
+tags:
+- "bus"
+- "tram"

@@ -1,0 +1,20 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2019-08-28T15:27:31Z
+md5sum-partial: "6ed590a6"
+filesize: 11203
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5046524f"
+  md5sum-partial: "ac98ad57"
+
+description: |-
+  Makes the people in your OpenTTD world migrate to places that provide work.
+  Transporting cargo from an industry creates jobs that cause unemployed population to move nearby the industry.
+
+  Recommended game settings:
+  - Towns: Custom(1-20).
+  - Industry: between Minimal and Low.
+  - (optional) NewGRF Sailing Ships enabled
+  - (optional) Starting time 1830

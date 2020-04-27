@@ -1,0 +1,16 @@
+name: "Beginner Tutorial"
+replaced-by:
+  unique-id: "000008f6"
+description: |-
+  An interactive tutorial that teaches you how to play OpenTTD.
+
+  Completed chapters: (more to come)
+  * Aircraft
+  * Ships
+  * Trucks
+
+  How to get started:
+  1. Download the scenario named "Beginner Tutorial" and the game script with the same name.
+  2. Click on play scenario
+  3. Select "beginner Tutorial" in the list and start the scenario.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57624"

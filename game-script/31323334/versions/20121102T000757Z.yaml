@@ -1,0 +1,13 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2012-11-02T00:07:57Z
+md5sum-partial: "85d533fb"
+filesize: 17408
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "1b4522b3"
+- content-type: "game-script-library"
+  unique-id: "5343504c"
+  md5sum-partial: "643a5092"

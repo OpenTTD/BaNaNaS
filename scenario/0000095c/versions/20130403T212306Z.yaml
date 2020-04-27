@@ -1,0 +1,30 @@
+version: "13"
+license: "GPL v2"
+upload-date: 2013-04-03T21:23:06Z
+md5sum-partial: "023f1d7d"
+filesize: 52882
+availability: "savegames-only"
+dependencies:
+- content-type: "ai"
+  unique-id: "54534850"
+  md5sum-partial: "60714df8"
+- content-type: "game-script"
+  unique-id: "5455545f"
+  md5sum-partial: "4a6de36f"
+
+description: |-
+  An interactive tutorial that teaches you how to play OpenTTD.
+
+  Completed chapters: (more to come)
+  * Navigation (new)
+  * Aircraft
+  * Ships
+  * Trucks (updated)
+  * Buses (new)
+
+  How to get started:
+  1. Download the scenario named "Beginner Tutorial" (and its dependencies).
+  2. Click on play scenario
+  3. Select "Beginner Tutorial" in the list.
+  4. If you do not have all NewGRFs, click the "find missing content online" button and download all missing NewGRFs
+  5. Click "Load" to play the scenario.

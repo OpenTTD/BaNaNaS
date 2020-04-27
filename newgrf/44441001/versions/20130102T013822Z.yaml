@@ -1,0 +1,10 @@
+version: "Gobi"
+license: "Custom"
+upload-date: 2013-01-02T01:38:22Z
+md5sum-partial: "83915879"
+filesize: 86088
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

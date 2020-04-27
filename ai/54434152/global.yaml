@@ -1,0 +1,16 @@
+name: "TownCars"
+description: |-
+  An AI that builds cars that drive around randomly in your towns.
+
+  You should add a car GRF and specify in the AI settings for this AI how it should detect which vehicles to build. Default settings are compatible with Generic Cars GRF.
+
+  This AI will not be selected as a random AI. In order to use it you must select it in the AI Settings dialog.
+
+  Please let the AI finish buying cars before saving + quitting (it will not resume after load).
+
+  Author: Zuu
+url: "http://junctioneer.net/o-ai/TCAR"
+tags:
+- "car"
+- "eyecandy"
+- "save/load"

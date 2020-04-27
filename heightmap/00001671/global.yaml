@@ -1,0 +1,12 @@
+name: "Cpt.K's River Valley Floodplain"
+description: |-
+  A square map of a wide river valley and smooth floodplains flanked by steep mountains. Suitable for all climates.
+  For 1024x1024 games, a max height of 36 or above is recommended.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "heightmap"
+- "hills"
+- "mountains"
+- "ocean"
+- "river"
+- "sea"

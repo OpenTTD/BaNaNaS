@@ -1,0 +1,16 @@
+name: "ShipAI"
+description: |-
+  AI that operates only ships.
+
+  It supports:
+  - freight & passenger cargos
+  - building canals, locks and aqueducts
+  - autoreplacing vehicle model when the new, better model appears
+  - selling unprofitable vehicles
+  - autoreplacing old vehicles with new ones
+  - demolishing ghost stations
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=75531"
+tags:
+- "ai"
+- "ship"
+- "water"

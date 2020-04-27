@@ -1,0 +1,10 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2019-03-30T23:54:29Z
+md5sum-partial: "02fb92fb"
+filesize: 14900
+availability: "savegames-only"
+
+description: |-
+  End of Track - bumper track terminals can be placed as a cheap objects.
+  Four layouts for straight, diagonal and double tracks, automatic alignment to the adjacent track.

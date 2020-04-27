@@ -1,0 +1,17 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2016-11-21T11:47:10Z
+md5sum-partial: "08f32a8e"
+filesize: 19617
+availability: "savegames-only"
+
+description: |-
+  AI that operates only ships, it's heavily based on HeliFerry AI.
+
+  It supports:
+  - autoreplacing vehicle model when the new, better model appears
+  - selling unprofitable vehicles
+  - autoreplacing old vehicles with new ones
+tags:
+- "ai"
+- "ships"

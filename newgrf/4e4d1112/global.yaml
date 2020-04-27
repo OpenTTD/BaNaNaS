@@ -1,0 +1,29 @@
+name: "NAIS North American Industry S"
+archived: true
+description: |-
+  NAIS - North American Industry Set
+
+  A industry set for OpenTTD to better
+  represent North America's industry.
+
+  Based on FIRS 3.0.10 Modified by NekoMaster
+  Brought to you by andythenorth, FooBar,
+  planetmaker, Terkhen and Yexo, with help
+  from many others.
+
+  License: GPL v2.
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84039"
+tags:
+- "america"
+- "american"
+- "and_the_cow_goes_MOO"
+- "industry"
+- "master"
+- "nais"
+- "nek0"
+- "neko"
+- "neko-master"
+- "nekomaster"
+- "north"
+- "north american industry set"
+- "set"

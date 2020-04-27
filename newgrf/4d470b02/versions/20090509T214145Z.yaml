@@ -1,0 +1,11 @@
+version: "2.0beta-r704"
+license: "GPL v2"
+upload-date: 2009-05-09T21:41:45Z
+md5sum-partial: "64f32cca"
+filesize: 7627
+availability: "savegames-only"
+
+description: |-
+  reduces population to 1/4 until 1900 and 1/2 between 1900 and 1930.
+
+  2009-05-09 / Ammler

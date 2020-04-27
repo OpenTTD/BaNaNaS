@@ -1,0 +1,13 @@
+version: "19.1"
+license: "GPL v2"
+upload-date: 2011-12-20T22:34:00Z
+md5sum-partial: "2b643606"
+filesize: 22192
+availability: "savegames-only"
+
+description: |-
+  This is a port of SuperLib from the AI API to the NoGo framework API (used by GameScripts).
+
+  Not all sub-libraries from the AI version has been included in the GameScript version as the translation is an automatic process.
+
+  Note that not all functions have been tested that they work properly in the GameScript API. Please report problems that you encounter so that broken functions can be fixed or removed from this port.

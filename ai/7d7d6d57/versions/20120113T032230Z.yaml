@@ -1,0 +1,20 @@
+version: "7"
+license: "CC-BY v3.0"
+upload-date: 2012-01-13T03:22:30Z
+md5sum-partial: "837e23a5"
+filesize: 36747
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "3806da0f"
+- content-type: "ai-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "988089c1"
+
+description: |-
+  An AI that doesn't compete with you but rather builds out the highway network. Our (*new*) revenue stream is transporting offshore oil to oil refineries.
+
+  v7 - adds Operation Hibernia (transport oil from Oil Rigs to Oil Refineries);
+  v6 - tries to build less roads and fixes a bug where WmDOT would crash if it couldn't build HQ;
+  v5 - greatly increases startup speed on large maps

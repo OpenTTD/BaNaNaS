@@ -1,0 +1,10 @@
+version: "2216"
+license: "GPL v2"
+upload-date: 2018-11-14T06:09:22Z
+md5sum-partial: "cf234337"
+filesize: 367119
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "ac1d0101"
+  md5sum-partial: "acd9ae07"

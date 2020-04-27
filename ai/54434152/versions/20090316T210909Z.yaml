@@ -1,0 +1,16 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2009-03-16T21:09:09Z
+md5sum-partial: "047b42a5"
+filesize: 11810
+availability: "savegames-only"
+
+description: |-
+  An AI that builds cars that drive around randomly in your towns.
+
+  You should add a car GRF and specify in the AI settings for this AI how it should detect which vehicles to build. Default settings are compatible with Generic Cars GRF.
+
+  Wait a little, and a version that support save/load will come.
+tags:
+- "car"
+- "eyecandy"

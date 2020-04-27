@@ -1,0 +1,17 @@
+version: "0.4.0 beta 1"
+license: "GPL v2"
+upload-date: 2019-05-03T05:06:22Z
+md5sum-partial: "cdff202e"
+filesize: 71166
+availability: "savegames-only"
+
+description: |-
+  ==================================
+  WARNING! Only for use with OpenTTD nightlies from 2019-05-02 or later!
+  ==================================
+
+  RattRoads is an NRT road replacement set based on roads from the United States, Europe, and abroad.
+
+  This is the successor/extension of American Road Replacement Set.
+
+  Note: This is a 'test' version and still needs some polish, but is mostly feature-complete and otherwise fully playable.

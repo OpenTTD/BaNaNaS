@@ -1,0 +1,10 @@
+version: "1.0"
+license: "CC-0 v1.0"
+upload-date: 2014-02-12T18:43:46Z
+md5sum-partial: "efabfab1"
+filesize: 323941
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

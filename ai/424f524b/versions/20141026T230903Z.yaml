@@ -1,0 +1,22 @@
+version: "19"
+license: "GPL v2"
+upload-date: 2014-10-26T23:09:03Z
+md5sum-partial: "2dbedd7a"
+filesize: 32253
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  A simple AI that tries to be fun to play with, and uses buses, trucks and aircrafts.
+  It handles all kind of cargo.
+
+  v19:
+  Bumped minimum api version to 1.2.
+  Savegames are no compatible with older versions.
+
+  Initial handling of trams. Disabled by default because it still has bugs.
+  Enabled by default airplanes.
+  Fixed some bugs that would happen when trying to find out possible refits of an engine.

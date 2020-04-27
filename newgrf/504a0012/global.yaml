@@ -1,0 +1,14 @@
+name: "Custom Tunnel Entrances"
+description: |-
+  These are stationtiles that have to be placed next to an actual tunnel that has an entire tile as a roof. This way you can have your own customtunnels.
+
+  Information about the only railtypeset that has those kinds of tunnels can be found here: http://www.tt-forums.net/viewtopic.php?f=26&t=49404
+
+  Recommended is to use the latest (nightly)release of OpenTTD. Versions before nightly release r24402 of Openttd might have problems with parts of the catenary (to be specific the pylons) sticking out.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=61447&start=40#p1032409"
+tags:
+- "custom"
+- "entrance"
+- "exit"
+- "stations"
+- "tunnel"

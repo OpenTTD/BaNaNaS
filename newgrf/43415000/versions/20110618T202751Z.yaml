@@ -1,0 +1,10 @@
+version: "0.2.1"
+license: "GPL v2"
+upload-date: 2011-06-18T20:27:51Z
+md5sum-partial: "680cd2b8"
+filesize: 83101
+availability: "savegames-only"
+
+description: "Climate dependant (default) airports which better blend into their surroundings by making use of the ground sprites"
+tags:
+- "airport"

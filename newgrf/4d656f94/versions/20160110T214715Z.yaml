@@ -1,0 +1,10 @@
+version: "1.2 (19feb2012)"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2016-01-10T21:47:15Z
+md5sum-partial: "003905a6"
+filesize: 523342
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.5"

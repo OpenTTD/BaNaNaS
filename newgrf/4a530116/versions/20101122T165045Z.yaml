@@ -1,0 +1,26 @@
+version: "2010.11.22"
+license: "GPL v2"
+upload-date: 2010-11-22T16:50:45Z
+md5sum-partial: "51647300"
+filesize: 139806
+availability: "savegames-only"
+
+description: |-
+  ECS cargoset for standard TTD vehicles (ECSrefit.grf)
+
+  Enables standard TTD vehicles (trains, cars, airplanes, ships) to be refitted to ECS cargo.
+  Uses mostly default TTD graphics, those new are from (C) Michael Blunck's Cargoset 2003
+
+  Version: # 2010.11.22
+
+  Coded by Jan Skoch
+
+  Special thanks to all who contribute to NewGRF wiki http://wiki.ttdpatch.net/tiki-index.php?page=GRFActionsDetailed,
+  and to Josef Drexler for his astonishing work with TTD
+tags:
+- "cagro"
+- "ecs"
+- "new"
+- "set"
+- "stand"
+- "vehicles"

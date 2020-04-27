@@ -1,0 +1,10 @@
+name: "WmDOT"
+replaced-by:
+  unique-id: "7d7d6d57"
+description: "An AI that doesn't compete with you but rather builds out the highway network. We're still looking for a revenue stream."
+url: "http://code.google.com/p/openttd-noai-wmdot/wiki/Overview"
+tags:
+- "ai"
+- "minchinweb"
+- "road"
+- "wmdot"

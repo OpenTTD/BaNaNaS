@@ -1,0 +1,10 @@
+version: "0.3.6"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2015-10-14T13:46:37Z
+md5sum-partial: "c336df8d"
+filesize: 18774
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

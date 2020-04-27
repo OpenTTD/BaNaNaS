@@ -1,0 +1,21 @@
+version: "nightly r506"
+license: "GPL v2"
+upload-date: 2010-04-11T19:32:23Z
+md5sum-partial: "66b9d140"
+filesize: 218630
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "444a5401"
+  md5sum-partial: "9bd748ca"
+
+description: |-
+  The 2cc Set includes trains from all around the world. It contains trains as early as the late 1800's up to the 2000s, and more will come in the future.
+  The set have 4 "types" of engines:
+  * Normal engines that can attach normal wagons.
+  * Intercity multiple units that attach MU-wagons. Fast and low capacity/loading speed.
+  * Commuter multiple units that attach MU-wagons. Medium speed/capacity/loading speed
+  * Metro trains. Slow speed, high capacity/loading speed.
+tags:
+- "2cc"
+- "trainset"

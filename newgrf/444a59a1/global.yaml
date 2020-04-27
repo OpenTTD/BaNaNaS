@@ -1,0 +1,14 @@
+name: "Vactrain Set Companion"
+description: |-
+  A companion GRF for the Vactrain Set. Currently the only function is to adjust the speed limits for bridges, but may include more in the future.
+
+  To use with other bridge sets, make sure this is loaded AFTER other bridge sets.
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=82571&p=1201973"
+tags:
+- "bridge"
+- "limit"
+- "set"
+- "speed"
+- "tube"
+- "vactrain"
+- "vacuum"

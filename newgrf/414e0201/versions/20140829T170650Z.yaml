@@ -1,0 +1,15 @@
+version: "squid-rc-6"
+license: "GPL v2"
+upload-date: 2014-08-29T17:06:50Z
+md5sum-partial: "88b1c518"
+filesize: 466270
+availability: "savegames-only"
+
+description: |-
+  Squid Ate FISH!
+
+  Release Candidate 6.  "There must be bugs left to find"
+
+  Includes one roster of ships: This Sceptred Isle (British-ish ships).
+  Parameter for ship speed.
+  Parameter for reduced canal construction costs.

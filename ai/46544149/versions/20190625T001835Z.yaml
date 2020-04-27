@@ -1,0 +1,26 @@
+version: "190625"
+license: "GPL v2"
+upload-date: 2019-06-25T00:18:35Z
+md5sum-partial: "5fff5519"
+filesize: 74190
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "434c4346"
+  md5sum-partial: "e59a176a"
+- content-type: "ai-library"
+  unique-id: "434c5346"
+  md5sum-partial: "61b8396e"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+
+  Fixes: Return value of valuator is not valid (not integer/bool)
+  Feature: Add ability to use Town Actions and option to disable it
+  Change: Uses modified Fibonacci Heap from library for pathfinding.
+
+  See changelog.txt

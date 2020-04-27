@@ -1,0 +1,15 @@
+version: "3.0"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2014-04-30T14:34:21Z
+md5sum-partial: "8492fe7e"
+filesize: 10722
+availability: "savegames-only"
+
+description: |-
+  ★ 한국 도시 이름 / Korean Town Names ★
+
+  South Korean style town names including Real and Virtual types.
+  Real type is real city names of S.Korea and Virtual type is imaginary names combining parts of real city names.
+  Now supports both Korean and English. (from v3.0)
+
+  (c) TELK (www.korct.com)

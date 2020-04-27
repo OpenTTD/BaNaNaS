@@ -1,0 +1,8 @@
+name: "Queue.FibonacciHeap"
+description: "A basic implementation of a Fibonacci Heap queue."
+url: "http://dev.openttdcoop.org/projects/lib-fibonacciheap"
+tags:
+- "fibonacci"
+- "fibonacciheap"
+- "heap"
+- "queue"

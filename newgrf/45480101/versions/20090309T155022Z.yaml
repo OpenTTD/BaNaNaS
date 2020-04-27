@@ -1,0 +1,8 @@
+version: "0.1"
+license: "GPL v3"
+upload-date: 2009-03-09T15:50:22Z
+md5sum-partial: "7b20ca73"
+filesize: 13190
+availability: "savegames-only"
+
+description: "Experts hard 0.7beta test server supporting grf - industries. Only coal is implemented for testing."

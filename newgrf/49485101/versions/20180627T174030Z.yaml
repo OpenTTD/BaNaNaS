@@ -1,0 +1,11 @@
+version: "5.8"
+license: "GPL v2"
+upload-date: 2018-06-27T17:40:30Z
+md5sum-partial: "a8b3973b"
+filesize: 30884
+availability: "savegames-only"
+
+description: |-
+  GPL v2, coded by Gwyd and SimYouLater. Credits to Pikkabird and SimYouLater for Graphics.
+
+  Contains a streamlined steam locomotive and several locomotives removed from Iron Horse 2.X like the Cargo Sprinter, Cyclops and Double Juice.

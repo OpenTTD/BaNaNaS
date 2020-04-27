@@ -1,0 +1,27 @@
+name: "BaseMod Presets"
+description: |-
+  Pre defined base costs
+  set parameter
+  to 1 for BaseCosts v2
+  to 2 for Luukland Preset hard
+  to 3 for Luukland Preset easy
+  to 4 for Cadde hard
+
+  change single values with BaseCosts Mod v3
+
+  (if you have proposals for other Presets, send it to Ammler)
+url: "http://wiki.openttdcoop.org/BaseCosts"
+tags:
+- "ammler"
+- "base costs"
+- "basecosts"
+- "cadde"
+- "challenge"
+- "goulp"
+- "luukland"
+- "nothing"
+- "openttd"
+- "openttdcoop"
+- "presets"
+- "terraform"
+- "wwottdgd"

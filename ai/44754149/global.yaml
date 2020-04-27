@@ -1,0 +1,11 @@
+name: "DumbAI"
+description: |-
+  A little AI written by me DrReVaN :)
+  Supports trucks only and transports different cargos.
+
+  Update: Depot building should now work as intended.
+  v0.12: Few fixes
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=82689"
+tags:
+- "road"
+- "trucks"

@@ -1,0 +1,25 @@
+version: "11"
+license: "Custom"
+upload-date: 2013-01-01T02:43:38Z
+md5sum-partial: "653ed325"
+filesize: 34381
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "b234d8bd"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "6804ef38"
+- content-type: "ai-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "b009f97e"
+
+description: |-
+  An AI that doesn't compete with you but rather builds out the highway network. Our (*new*) revenue stream is transporting offshore oil to oil refineries.
+
+  v11 - Freeways!!
+  v10 - dynamically add ships
+  v9 - supports all of FIRS' water industries
+  v8 - bug fixes and minor improvements
+  v7 - adds Operation Hibernia (transport oil from Oil Rigs to Oil Refineries);

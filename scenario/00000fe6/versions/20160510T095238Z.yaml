@@ -1,0 +1,21 @@
+version: "1"
+license: "CC-BY v3.0"
+upload-date: 2016-05-10T09:52:38Z
+md5sum-partial: "5469ebc1"
+filesize: 317830
+availability: "savegames-only"
+
+description: |-
+  Switzerland
+  Size:1024x1024
+  Climate:subarctic
+  Industry - FIRS 2.1.0, Cities - Swedish Houses Set 1.1.2
+  Start game: 1950
+  OpenTTD 1.6.0
+  * made by STD/May 2016
+tags:
+- "alps"
+- "bern"
+- "europe"
+- "subarctic"
+- "switzerland"

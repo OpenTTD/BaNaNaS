@@ -1,0 +1,21 @@
+version: "23"
+license: "GPL v2"
+upload-date: 2012-04-29T10:57:56Z
+md5sum-partial: "b2744af4"
+filesize: 64770
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  As you might know CluelessPlus, PAXLink, TownCars and TutorialAI are all created by the same author. To reduce code duplication among these AIs, this library has been created. As a bonus, other AI authors can also use the library.
+
+  SuperLib contains functions for
+  * Simplifying tasks (tiles, direction, signs, money ..)
+  * Get better understanding of the world (vehicle, engine, industry, town, airport ..)
+  * Build infrastructure (road, station, airport, ..)
+  * A log system
+
+  Author: Zuu

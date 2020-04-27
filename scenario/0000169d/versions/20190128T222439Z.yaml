@@ -1,0 +1,10 @@
+version: "4.0.0"
+license: "GPL v2"
+upload-date: 2019-01-28T22:24:39Z
+md5sum-partial: "7394621d"
+filesize: 13495793
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

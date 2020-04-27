@@ -1,0 +1,12 @@
+version: "1.0.0(r53)"
+license: "GPL v2"
+upload-date: 2010-08-02T05:05:57Z
+md5sum-partial: "fe01d900"
+filesize: 14957
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: "Lord Aro's really feeble attempt at making an AI. currently buses only."

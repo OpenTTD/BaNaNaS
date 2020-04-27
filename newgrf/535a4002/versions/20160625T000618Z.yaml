@@ -1,0 +1,28 @@
+version: "10"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-06-25T00:06:18Z
+md5sum-partial: "9699156f"
+filesize: 75751
+availability: "savegames-only"
+
+description: |-
+  From KITT to A-Team Van or, even, the flintstone car, all famous vehicles are here.
+
+  Since version 6, Famous Objects are included: 2001 monolith, Stargate...
+
+  And since version 8, The Famous Cars Toolbar is here :-)
+
+  Enjoy it!
+
+  (c)2015-16 SilverSurferZzZ
+  CC BY-NC-SA
+tags:
+- "bus"
+- "car"
+- "famous"
+- "newgrf"
+- "objects"
+- "road"
+- "toolbar"
+- "truck"
+- "vehicles"

@@ -1,0 +1,9 @@
+name: "Alternative Base Costs"
+description: |-
+  This plugin alters OpenTTD base costs. The goal of this NewGRF is to make the
+  gameplay more realistic, challenging and fun.
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=50172"
+tags:
+- "costs"
+- "prices"
+- "realistic"

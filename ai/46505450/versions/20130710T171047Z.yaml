@@ -1,0 +1,17 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2013-07-10T17:10:47Z
+md5sum-partial: "a60caa78"
+filesize: 14243
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "7b2d552a"
+
+description: "This is an incredibly simple AI that is very competitive. As the name implies, it quickly builds point to point routes. I am planning to add more features to it soon."
+tags:
+- "train"

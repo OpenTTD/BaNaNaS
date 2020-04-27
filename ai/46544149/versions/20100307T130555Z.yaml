@@ -1,0 +1,28 @@
+version: "100307"
+license: "GPL v2"
+upload-date: 2010-03-07T13:05:55Z
+md5sum-partial: "4b21ac1a"
+filesize: 55112
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1cfcb44b"
+- content-type: "ai-library"
+  unique-id: "434c4346"
+  md5sum-partial: "4e3f3a49"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "70a88fc2"
+
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "simple"
+- "tram"
+- "truck"

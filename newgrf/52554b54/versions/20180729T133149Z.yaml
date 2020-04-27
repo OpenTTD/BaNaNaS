@@ -1,0 +1,15 @@
+version: "0.3.0"
+license: "Custom"
+upload-date: 2018-07-29T13:31:49Z
+md5sum-partial: "d513d549"
+filesize: 6935383
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "52544e41"
+  md5sum-partial: "8688d02e"
+
+description: |-
+  A selection of 2cc UK trains, in a game play orientated set
+
+  Drawn, coded and recorded by Starraid and Gwyd

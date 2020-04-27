@@ -1,0 +1,19 @@
+name: "ALn668 Pack"
+description: |-
+  A pack containing the four generations of ALn668 diesel railcars. These have been a very successful series in Italy and also operate in other countries like Sweden and Turkey.
+
+  The pack contains:
+  ALn668.1400 (first generation, grey-blue livery)
+  ALn668.1800 (second generation, XMPR livery)
+  ALn668.1200 (third generation, Trenord livery)
+  ALn668.3100 (fourth generation, turbocharged engine, Trenord livery)
+
+  ALn776 (FCU)
+
+  Please report any bugs on the Github and have fun :)
+url: "https://github.com/RAD750/openttdstuff/tree/master/aln668"
+tags:
+- "diesel"
+- "dmu"
+- "railcar"
+- "train"

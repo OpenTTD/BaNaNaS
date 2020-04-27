@@ -1,0 +1,10 @@
+version: "3.002"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2012-05-13T22:14:40Z
+md5sum-partial: "fb826ab5"
+filesize: 5900273
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.1.1"

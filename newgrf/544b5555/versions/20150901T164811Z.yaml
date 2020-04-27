@@ -1,0 +1,26 @@
+version: "1.2.00"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2015-09-01T16:48:11Z
+md5sum-partial: "608b92ac"
+filesize: 175888
+availability: "savegames-only"
+
+description: |-
+  ★ 한국 열차 세트 / Korean Train Set ★
+
+  This NewGRF contains a lot of trains in Korea, such as KTX, KTX-Sancheon, ITX-Cheongchun, Saemaeul, Mugunghwa, Nuriro, CDC, NDC, Seoul/Inchecon/Busan subways, Diesel & Electric locomotives of Korail, etc.
+
+  (c) TELK (telk.kr)
+tags:
+- "cdc"
+- "korea"
+- "ktx"
+- "mugunghwa"
+- "nuriro"
+- "s.korea"
+- "south korea"
+- "남한"
+- "누리로"
+- "무궁화"
+- "새마을"
+- "한국"

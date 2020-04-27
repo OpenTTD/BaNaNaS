@@ -1,0 +1,23 @@
+version: "0.6.0"
+license: "GPL v2"
+upload-date: 2011-12-10T20:50:02Z
+md5sum-partial: "80eb009d"
+filesize: 140003
+availability: "savegames-only"
+
+description: |-
+  CHIPS Station Set
+
+  CHIPS Has Improved Players' Stations?
+
+  - simple station tiles for use with FIRS industry set
+  - buffers added to tiles automatically
+  - cranes etc drawn automatically for some tiles
+  - some cargo graphic support
+  - some passenger tiles
+  - replaces dock graphics
+tags:
+- "andythenorth"
+- "firs"
+- "stations"
+- "yexo"

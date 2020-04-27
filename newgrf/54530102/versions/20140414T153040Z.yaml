@@ -1,0 +1,18 @@
+version: "1.03"
+license: "GPL v2"
+upload-date: 2014-04-14T15:30:40Z
+md5sum-partial: "4eb0274b"
+filesize: 45016
+availability: "savegames-only"
+
+description: |-
+  CFL Set: Trains - Trains that are used on the Luxembourgish Railroads. Design and coding by Phreeze.
+
+  Passenger engine starts 1949, Cargo engine 1954 !
+  Default trains are disabled.
+
+  Some sprites based on sprites from 2CC, DACH, Dutch Trainset. Released under GPLv 2, refer to readme.txt.
+tags:
+- "luxembourg"
+- "realistic"
+- "trains"

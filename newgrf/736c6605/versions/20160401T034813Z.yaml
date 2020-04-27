@@ -1,0 +1,10 @@
+version: "R0004"
+license: "GPL v2"
+upload-date: 2016-04-01T03:48:13Z
+md5sum-partial: "cbbe38a8"
+filesize: 8997
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

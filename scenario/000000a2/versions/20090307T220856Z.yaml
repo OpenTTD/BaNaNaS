@@ -1,0 +1,10 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2009-03-07T22:08:56Z
+md5sum-partial: "47ce07ee"
+filesize: 394722
+availability: "savegames-only"
+
+description: |-
+  Wales and Westengland - A scenario which was part of OpenTTD, some time ago.
+  I renewed this scenario to 0.7.0-beta1, added highways, freeformedges and some other things.

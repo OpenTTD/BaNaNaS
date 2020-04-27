@@ -1,0 +1,55 @@
+version: "r0020"
+license: "GPL v2"
+upload-date: 2016-10-01T00:33:09Z
+md5sum-partial: "522f8a4a"
+filesize: 57547
+availability: "savegames-only"
+
+description: |-
+  Development Version
+
+  Remake of the previous NARS ADDON SET
+  to improve sprite positioning.
+
+  An add-on set for NARS 2.5/2.51
+
+  The set aims to provide
+  extra N.American rail
+  stock for NARS 2.5/2.51.
+
+  This set is still in
+  development, if there
+  are any problems, or
+  you just want to chat or
+  offer help, visit the
+  thread on TT-Forums via the URL
+
+  Coding : NekoMaster
+  Graphics : DanMacK, NekoMaster, Pack Man, PikkaBird
+tags:
+- "addon"
+- "america"
+- "american"
+- "canada"
+- "canadian"
+- "grf"
+- "master"
+- "mexican"
+- "mexico"
+- "nars"
+- "nars 2.5"
+- "nars 2.51"
+- "neko"
+- "nekomaster"
+- "north"
+- "rail"
+- "road"
+- "set"
+- "states"
+- "trains"
+- "united"
+- "united states of america"
+- "us"
+- "us of a"
+- "usa"
+- "way"

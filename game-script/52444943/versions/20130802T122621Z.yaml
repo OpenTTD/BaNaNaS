@@ -1,0 +1,18 @@
+version: "1.0"
+license: "GPL v3"
+upload-date: 2013-08-02T12:26:21Z
+md5sum-partial: "94f1c490"
+filesize: 28424
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "70831ffe"
+- content-type: "game-script-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "ed17b9c5"
+
+description: |-
+  Provides options for how
+  industries are built and can also maintain the number level
+  as the game progresses.

@@ -1,0 +1,10 @@
+name: "LumberMill PS"
+description: |-
+  This is a test newgrf for enhanced configuring of tree cutting.
+
+  Check forum for further infos...
+url: "http://www.tt-forums.net/viewtopic.php?p=745610"
+tags:
+- "development"
+- "patch"
+- "test"

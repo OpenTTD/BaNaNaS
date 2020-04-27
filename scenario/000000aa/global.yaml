@@ -1,0 +1,20 @@
+name: "USA"
+description: |-
+  1 out of 4 versions showing Northamerica incl. the 48 central states of the USA and large parts of Canada and Mexico.
+
+  Version needed: OpenTTD Nightly R15298 or higher
+  Map size: 2048x2048
+  Starting year: 1920
+  Number of towns: 362
+  Climate: Arctic
+
+  Made by me, Myfineshrine, 2009.
+  No use of a heightmap, only "drawn by hand" using a common atlas.
+  Have a look at the german tt-forums for downloading all 4 versions of the USA-Scenario.
+url: "http://www.tt-ms.de/forum/showthread.php?tid=3959"
+tags:
+- "arctic"
+- "canada"
+- "northamerica"
+- "realistic"
+- "usa"

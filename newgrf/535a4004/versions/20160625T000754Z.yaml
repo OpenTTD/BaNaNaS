@@ -1,0 +1,22 @@
+version: "8"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-06-25T00:07:54Z
+md5sum-partial: "fa056ddd"
+filesize: 18362
+availability: "savegames-only"
+
+description: |-
+  Racing Cars from Formula 1, Nascar... Run fast and buy one of this cars :-)
+
+  Some vehicles from this set: Alfa Romeo 159 Alfetta, Golden Rod, Jordan 191...
+
+  Enjoy it!
+
+  (c)2015-16 SilverSurferZzZ
+  CC BY-NC-SA
+tags:
+- "car"
+- "newgrf"
+- "racing"
+- "road"
+- "vehicles"

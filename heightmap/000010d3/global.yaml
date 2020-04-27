@@ -1,0 +1,25 @@
+name: "Fennoscandia"
+description: |-
+  A real world heightmap that covers the Fennoscandia and its near vicinities. Covers all of Finland, Sweden, continental Norway and Denmark, Estonia, Latvia, Lithuania and the Kaliningrad Oblast of Russia, as well as parts of the rest of Russia, Germany, Poland, and Belarus.
+
+  Based on GMTED2010 elevation maps available on U.S. Geological Survey EarthExplorer at http://earthexplorer.usgs.gov/ , edited for OpenTTD
+  by Soulweaver (USephiroth). CC-BY 3.0.
+url: ""
+tags:
+- "4096"
+- "belarus"
+- "denmark"
+- "estonia"
+- "europe"
+- "fennoscandia"
+- "finland"
+- "germany"
+- "heightmap"
+- "latvia"
+- "lithuania"
+- "norway"
+- "poland"
+- "realistic"
+- "russia"
+- "scandinavia"
+- "sweden"

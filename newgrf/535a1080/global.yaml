@@ -1,0 +1,9 @@
+name: "Oil Rig for Snowland and Desert"
+description: |-
+  This .grf adds Oil Rig from Temperate terrain to Sub-arctic and Sub-tropical terrains.
+  It disables itself in Temperate and Toyland terrains.
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=51965"
+tags:
+- "oil rig"
+- "sub arctic"
+- "sub tropical"

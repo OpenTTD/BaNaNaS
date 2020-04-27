@@ -1,0 +1,10 @@
+version: "1.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-03-07T15:37:13Z
+md5sum-partial: "e51cbade"
+filesize: 20362
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.6.3"

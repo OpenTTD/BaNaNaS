@@ -1,0 +1,6 @@
+name: "SCPClient_NoCarGoal"
+description: |-
+  This library contains an Script Communication Protocol (SCP) client for AIs that wish to get information about NoCarGoal goals.
+
+  AI authors can just read the NoCarGoal readme and use SCP themself, or use this library that offers a simple API to focus on the cargoes where the NoCarGoal transport goal has not yet been reached.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=67076"

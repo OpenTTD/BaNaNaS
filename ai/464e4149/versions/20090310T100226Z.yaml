@@ -1,0 +1,11 @@
+version: "90310"
+license: "GPL v2"
+upload-date: 2009-03-10T10:02:26Z
+md5sum-partial: "34a4b10c"
+filesize: 32483
+availability: "savegames-only"
+
+description: "An AI written by Fanioz"
+tags:
+- "ai"
+- "simple"

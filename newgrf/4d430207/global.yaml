@@ -1,0 +1,16 @@
+name: "PolRoad"
+description: |-
+  New Polish Road Set - most popular vehicles produced, assembled or imported to Poland.
+  Current version contains trucks, tractors, minivans, cars, urban, suburban and long distance buses. Some horse carriage are also available.
+  Slow vehicles, truck and buses subsets can be switched off, if not desired.
+  Trucks are compatible with all cargo sets (except toyland).
+  Buses can carry passengers or ECS tourists.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=72694"
+tags:
+- "bus"
+- "horse"
+- "poland"
+- "polish road set"
+- "road"
+- "truck"
+- "vehicle"

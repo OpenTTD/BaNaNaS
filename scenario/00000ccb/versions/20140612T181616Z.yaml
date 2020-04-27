@@ -1,0 +1,10 @@
+version: "1.0 Beta 6"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2014-06-12T18:16:16Z
+md5sum-partial: "aa91fbec"
+filesize: 4515384
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.1"

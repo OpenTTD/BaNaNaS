@@ -1,0 +1,6 @@
+name: "Pathfinder.Road"
+description: "A basic road pathfinder, which uses A* to find its way."
+url: "http://dev.openttdcoop.org/projects/lib-pathfinderroad"
+tags:
+- "pathfinder"
+- "road"

@@ -1,0 +1,16 @@
+version: "B05"
+license: "GPL v3"
+upload-date: 2015-01-11T14:04:07Z
+md5sum-partial: "ec098449"
+filesize: 66666
+availability: "savegames-only"
+
+description: |-
+  City tram track ,... + 3 tram + NEW HQ(all)
+  -First parameter:
+  -1 -> New HQs
+  -2 -> Original HQs
+  -Very-very beta , tramway-railroad crossing isn't working.
+  -Some bridge with this, aren't looking good.
+  -Some road set -II- .
+  -New stops

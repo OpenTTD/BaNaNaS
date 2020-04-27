@@ -1,0 +1,23 @@
+version: "0.2"
+license: "GPL v3"
+upload-date: 2016-09-10T04:15:37Z
+md5sum-partial: "5763672c"
+filesize: 146024
+availability: "savegames-only"
+
+description: |-
+  Based off of the Digimon Fusion anime
+
+  The Dust Zone in the digital world has been forever neglected compared to it's other neighboring zones that are flustering with Digimon.
+
+  It's up to you to setup a transport route between the Dust Zone, Warrior Zone, Forest Zone, and Island Zone.
+
+  The fate of the Dust zone rests in your hands!
+
+  (V0.2: Changed up the map layout a little bit, You no longer need a ridiculous amount of GRFs)
+tags:
+- "digimon"
+- "dust"
+- "forest"
+- "island"
+- "warrior"

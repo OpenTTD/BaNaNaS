@@ -1,0 +1,10 @@
+version: "B06"
+license: "GPL v3"
+upload-date: 2015-01-28T09:49:24Z
+md5sum-partial: "7eb5e4cb"
+filesize: 60299
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

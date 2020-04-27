@@ -1,0 +1,19 @@
+name: "CZTR Bridges"
+description: |-
+  Created by Zley_Muffle
+
+  Set of 5 replacements of original RAILROAD bridges in 32bpp designed to fit with other CZTR Sets.
+
+  Replaces graphics of original stations with gravel platforms for enhanced gameplay in early years.
+
+  WARNING: Cantilever bridges are designed for maximum bridgelenght of 6
+
+  Changelog:
+  - removed dependency on CZTR Rails
+  - changed GRF ID that collided with CZTR Engines (Electric)
+  - minor tweaks
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
+tags:
+- "bridge"
+- "cztr"
+- "platform"

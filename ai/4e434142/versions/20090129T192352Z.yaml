@@ -1,0 +1,20 @@
+version: "1.1 (svn 221)"
+license: "GPL v2"
+upload-date: 2009-01-29T19:23:52Z
+md5sum-partial: "0559e8ea"
+filesize: 54080
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1420fbe3"
+
+description: "The old version of NoCAB revamped to work with the new NoAI framework. Work will now be done to rewrite parts of the AI to include support for trains and trams and additional features like upgrading existing routes."
+tags:
+- "aircraft"
+- "bus"
+- "ship"
+- "truck"

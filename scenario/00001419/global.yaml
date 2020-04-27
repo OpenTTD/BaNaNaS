@@ -1,0 +1,14 @@
+name: "Random map_OpenTTD_1.7.2"
+description: |-
+  Random map_OpenTTD_1.7.2. The transport company is founded. The company's balance sheet is stable and positive.
+  Size:512x512
+  Climate: temperate
+  Industry - FIRS 3.0.2, Cities - Swedish Houses Set 1.1.2, Polish building set v4
+  Start game: November 1953
+  OpenTTD 1.7.2 or higher
+  * made by STD/March 2018
+url: ""
+tags:
+- "random"
+- "scenario"
+- "temperate"

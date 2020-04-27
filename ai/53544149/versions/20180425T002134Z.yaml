@@ -1,0 +1,8 @@
+version: "2"
+license: "Custom"
+upload-date: 2018-04-25T00:21:34Z
+md5sum-partial: "c39d4739"
+filesize: 4900
+availability: "savegames-only"
+
+description: "An AI that builds simple road networks"

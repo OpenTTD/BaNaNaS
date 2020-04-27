@@ -1,0 +1,10 @@
+version: "1"
+license: "GPL v3"
+upload-date: 2017-02-21T19:13:58Z
+md5sum-partial: "ae996933"
+filesize: 756489
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

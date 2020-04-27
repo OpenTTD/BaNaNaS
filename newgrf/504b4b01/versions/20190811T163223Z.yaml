@@ -1,0 +1,14 @@
+version: "1.0b"
+license: "Custom"
+upload-date: 2019-08-11T16:32:23Z
+md5sum-partial: "a76ab6aa"
+filesize: 30797
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d470501"
+  md5sum-partial: "8318348c"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

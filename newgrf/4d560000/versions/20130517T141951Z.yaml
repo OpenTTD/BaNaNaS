@@ -1,0 +1,10 @@
+version: "6 beta"
+license: "GPL v2"
+upload-date: 2013-05-17T14:19:51Z
+md5sum-partial: "a420b01e"
+filesize: 136128
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

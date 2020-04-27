@@ -1,0 +1,16 @@
+version: "10"
+license: "GPL v2"
+upload-date: 2015-02-15T13:01:11Z
+md5sum-partial: "537761fe"
+filesize: 49998
+availability: "savegames-only"
+
+description: |-
+  Set of Polish trams from 1897 till 2014 (Sanok, Konstal, Alstom, Bombardier, Pesa and others manufacturers), drawn by Sojita, McZapkie and Voyager-1, versions 7 and higher coded in NML by McZapkie.
+  Purchased single trams have option to buy trailers via refit menu.
+  Note: huge capacity is counted including standing places, therefore reduced comfort must be taken into account - use with caution, for massive urban transit only.
+  Running costs of fast trams depend on speed.
+tags:
+- "poland"
+- "tram"
+- "urban"

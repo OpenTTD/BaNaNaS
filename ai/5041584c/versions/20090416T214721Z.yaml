@@ -1,0 +1,19 @@
+version: "12"
+license: "GPL v2"
+upload-date: 2009-04-16T21:47:21Z
+md5sum-partial: "3e8a8831"
+filesize: 29296
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  PAXLink is a passenger (PAX) only AI that transports local passengers by bus and inter-city passengers by aircraft. The AI uses transfer orders to force local passengers to go by plane to some other town. Note that there is still many things to improve on this AI as mentioned on tt-forums.net. Save/load should however work with this AI.
+
+  Changes:
+  v11->v12:
+  * Bug fix for detecting jam at large airports
+  * Bus fleet was not reduced at some situations
+  * Fixed a orders bug

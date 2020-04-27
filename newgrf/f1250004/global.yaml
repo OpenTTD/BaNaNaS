@@ -1,0 +1,26 @@
+name: "FIRS Industry Replacement Set"
+replaced-by:
+  unique-id: "f1250005"
+description: |-
+  FIRS features familiar gameplay to get you started quickly:
+  - primary industries always produce cargo
+  - secondary industries always produce something from deliveries
+  FIRS also rewards you by:
+  - primary industries produce more if supplies delivered regularly
+  - some secondary industries produce more if multiple cargos delivered
+
+  **IMPORTANT Not compatible with previous releases of FIRS.
+
+  Other features:
+  - some industries only available after a certain date
+  - lickable pixels!
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=44177"
+tags:
+- "andythenorth"
+- "developing"
+- "firs"
+- "foobar"
+- "industry"
+- "newgrf"
+- "nightly"
+- "testing"

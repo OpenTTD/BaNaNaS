@@ -1,0 +1,10 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2016-02-22T20:19:20Z
+md5sum-partial: "83f560c9"
+filesize: 94267
+availability: "savegames-only"
+
+description: |-
+  These stationtiles can be used to create even more Dutch style stations and waypoints.
+  Place the GRF directly below the original Dutch Stations Addition Set in your GRF-list.

@@ -1,0 +1,14 @@
+name: "Czeh Republic"
+description: |-
+  Changelog Beta 6:
+  EN:
+  - readded CS cargo set
+  - readded depot menu fix
+  - delete Dutch tracks
+  CS:
+  - znovu přidán CS cargo set
+  - znovu přidán depot menu fix
+  - odstraněny holandské koleje
+url: ""
+tags:
+- "czech"

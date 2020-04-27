@@ -1,0 +1,12 @@
+version: "1.3"
+license: "GPL v3"
+upload-date: 2018-02-06T20:28:07Z
+md5sum-partial: "d55dbfe0"
+filesize: 1328776
+availability: "savegames-only"
+
+description: |-
+  A GRF that adds random British things to the game! Currently including the Class 40, Class 70 and Classes 143 & 144 Pacers.
+
+  Made by StarRaid.
+  Original Class 70 graphics made by Lawton27. Pacer graphics made by StarRaid.

@@ -1,0 +1,13 @@
+version: "102"
+license: "GPL v2"
+upload-date: 2011-06-09T23:21:05Z
+md5sum-partial: "e074caee"
+filesize: 73442
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"

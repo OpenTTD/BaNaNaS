@@ -1,0 +1,10 @@
+version: "r13"
+license: "GPL v2"
+upload-date: 2010-08-28T13:51:05Z
+md5sum-partial: "50d558b2"
+filesize: 20807
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.6.3"

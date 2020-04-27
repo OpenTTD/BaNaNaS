@@ -1,0 +1,14 @@
+version: "0.8.1a"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2020-04-07T20:06:09Z
+md5sum-partial: "a429eea7"
+filesize: 268129
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4b570002"
+  md5sum-partial: "fa669cb8"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

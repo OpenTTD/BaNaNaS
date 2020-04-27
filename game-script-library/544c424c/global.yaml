@@ -1,0 +1,11 @@
+name: "TileLabels"
+description: |-
+  With this library scenario authors can place signs in the scenario editor and then use this library to query the locations of those signs from a GameScript.
+
+  When you initialize the library it will remove all the label signs
+  from the map and only store their location in memory.
+
+  See the READEME for more info and main.nut for documentation of the public functions.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=58573"
+tags:
+- "scenario"

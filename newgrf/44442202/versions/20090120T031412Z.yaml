@@ -1,0 +1,10 @@
+version: "3.04"
+license: "Custom"
+upload-date: 2009-01-20T03:14:12Z
+md5sum-partial: "3dac7433"
+filesize: 30061
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44440111"
+  md5sum-partial: "9b5051e7"

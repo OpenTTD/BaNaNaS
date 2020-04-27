@@ -1,0 +1,23 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2011-12-28T19:16:33Z
+md5sum-partial: "7054e8f4"
+filesize: 10772
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+description: |-
+  This Game Script creates one goal per company:
+  - Transport at least X cargo items per vehicle during a period of three months
+
+  When a goal is met, X is increased and a new goal is created.
+
+  A sign is displayed over each HQ with the last achieved level.
+
+  New in version 2:
+  - Save/load support
+  - Move sign when HQ is moved
+  - Lower step between levels (10 => 5)

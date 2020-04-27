@@ -1,0 +1,29 @@
+version: "0.3.1"
+license: "Custom"
+upload-date: 2012-08-17T11:53:32Z
+md5sum-partial: "03d3ce72"
+filesize: 943905
+availability: "savegames-only"
+
+description: |-
+  Train set based on gameplay of openttdcoop, built around providing choices and space for making decisions.
+  New trains come every 2 years between 1920 all the way to 2070.
+  Rail, monorail and maglev included.
+  Also includes universal rail for railtype transitions with autoreplace.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+tags:
+- "badass"
+- "gameplay"
+- "insanity"
+- "madness"
+- "nuts"
+- "openttdcoop"
+- "pro"
+- "public"
+- "slug"
+- "steamer"
+- "v453000"
+- "weirdness"
+- "zone"

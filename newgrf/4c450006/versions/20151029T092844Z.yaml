@@ -1,0 +1,28 @@
+version: "0.5.0"
+license: "GPL v2"
+upload-date: 2015-10-29T09:28:44Z
+md5sum-partial: "b778a774"
+filesize: 8454084
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4c534702"
+  md5sum-partial: "5e8e4121"
+
+description: |-
+  After a long hiatus, I created this GRF.  Increased more than 20 trains and rail wagons.
+  (DF1,SS1,DF4B,SS4,DF7D,DF7G,DF11G,HXD3,HXN5,CRH1,CRH2,CRH3,CRH380...)
+  In the version 0.5.0,added all industrial wagons for temperate scenario.
+  (Coal Truck, Goods Van, Oil Tanker, Livestock Van, Grain Hopper, Wood Truck, Iron Ore Hopper, Steel Truck, Armoured Van)
+
+  It is compatible with 8bpp and 32bpp graphics. More trains will be added in the future.
+
+  Enjoy it !
+
+  (c)Oct 2015 by Leou
+tags:
+- "32bpp"
+- "china"
+- "chinese"
+- "full zoom"
+- "trains"

@@ -1,0 +1,16 @@
+name: "NoNoCAB"
+description: |-
+  NoNoCAB is a competitive AI which uses trains, trucks, buses, aircraft and ships.
+
+  This is a forked version of NoCAB which fixes the most annoying bugs and crashes
+  of NoCAB especially the crashing while saving but there have been other improvements made too.
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=75030"
+tags:
+- "ai"
+- "aircraft"
+- "airplanes"
+- "buses"
+- "nocab"
+- "ships"
+- "trains"
+- "trucks"

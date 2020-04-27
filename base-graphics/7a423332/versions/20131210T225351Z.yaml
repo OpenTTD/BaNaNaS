@@ -1,0 +1,8 @@
+version: "r251"
+license: "GPL v2"
+upload-date: 2013-12-10T22:53:51Z
+md5sum-partial: "b92a5167"
+filesize: 286602398
+availability: "savegames-only"
+
+description: "zBase is an open source 32 bpp graphics base set designed to be used by OpenTTD"

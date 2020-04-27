@@ -1,0 +1,28 @@
+version: "21"
+license: "GPL v2"
+upload-date: 2010-06-05T15:15:38Z
+md5sum-partial: "92a014c8"
+filesize: 54251
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "f7ff74bc"
+
+description: |-
+  CluelessPlus connects towns and industries using road transport. CluelessPlus tries to do its job without causing major jams for other transport companies using jam detection mechanisms.
+
+  Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless that has been updated to work with current NoAI API. And since then there have been many improvements.
+
+  v19:
+  * Cargo support
+
+  v20 & 21:
+  * Bug fixes
+tags:
+- "bus"
+- "save/load"
+- "truck"

@@ -1,0 +1,13 @@
+version: "1.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2013-12-25T21:46:51Z
+md5sum-partial: "ca458ddb"
+filesize: 14065
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "42533031"
+  md5sum-partial: "a6cf8070"
+- content-type: "newgrf"
+  unique-id: "42533033"
+  md5sum-partial: "e982d0eb"

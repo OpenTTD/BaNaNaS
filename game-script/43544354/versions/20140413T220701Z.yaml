@@ -1,0 +1,18 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2014-04-13T22:07:01Z
+md5sum-partial: "b0a3a8b9"
+filesize: 17265
+availability: "savegames-only"
+
+description: |-
+  City Controller
+  A town growing controller script, with :
+  - Simple display on town screen.
+  - Growth based on delivered cargos, but with non-linear growing rate.
+  - Automatic cargo town acceptance from any installed newGRF (FIRS, ECS...)
+tags:
+- "ecs"
+- "firs"
+- "growth"
+- "town"

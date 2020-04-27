@@ -1,0 +1,17 @@
+version: "2.22"
+license: "GPL v3"
+upload-date: 2013-10-19T08:10:06Z
+md5sum-partial: "96b28629"
+filesize: 56956
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.3"

@@ -1,0 +1,13 @@
+version: "1.0.1"
+license: "Custom"
+upload-date: 2019-04-11T20:05:50Z
+md5sum-partial: "51f02b7c"
+filesize: 6752992
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44442303"
+  md5sum-partial: "90300b85"
+- content-type: "newgrf"
+  unique-id: "52544e41"
+  md5sum-partial: "ba1c5579"

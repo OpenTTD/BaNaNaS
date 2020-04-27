@@ -1,0 +1,8 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2013-12-15T19:39:58Z
+md5sum-partial: "6ed50973"
+filesize: 32039
+availability: "savegames-only"
+
+description: "Awards GameScript allow players to wins award, medals and rewards while playing openttd."

@@ -1,0 +1,19 @@
+version: "2014.04.27"
+license: "GPL v2"
+upload-date: 2014-04-27T20:27:52Z
+md5sum-partial: "dde2e1b9"
+filesize: 25210
+availability: "savegames-only"
+
+description: |-
+  Simple City Builder
+
+  by The Dude of Novapolis team
+  http://novapolis.net
+
+  Easily configured city builder script.
+
+  - Choose what cargos towns will require to grow (up to all 32 cargos if defined)
+  - Claim towns by placing company headquaters
+  - Deliver cargo to your town to grow it
+  - ECS and FIRS supported

@@ -1,0 +1,11 @@
+name: "CivilAI"
+description: "A general-purpose AI which builds out from a starting location. Uses all transport types and is friendly to children and small animals."
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=69986"
+tags:
+- "air"
+- "bus"
+- "pikka"
+- "rail"
+- "road"
+- "train"
+- "truck"

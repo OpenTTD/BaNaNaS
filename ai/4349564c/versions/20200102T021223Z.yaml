@@ -1,0 +1,13 @@
+version: "27"
+license: "Custom"
+upload-date: 2020-01-02T02:12:23Z
+md5sum-partial: "91acef2b"
+filesize: 65685
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "4356524f"
+  md5sum-partial: "77416e84"

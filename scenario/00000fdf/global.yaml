@@ -1,0 +1,15 @@
+name: "Egypt"
+description: |-
+  Egypt
+  Size:1024x1024
+  Climate:subtropical
+  Industry - FIRS 2.1.0, Cities - TTRS 3.14
+  Start game: 1950
+  OpenTTD 1.6.0 or higher
+  * made by STD/May 2016
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1168409#p1168409"
+tags:
+- "africa"
+- "cairo"
+- "egypt"
+- "subtropical"

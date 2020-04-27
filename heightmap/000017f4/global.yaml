@@ -1,0 +1,10 @@
+name: "Cpt.K's Archipelago"
+description: |-
+  A 2:1 rectangular map containing many islands separated by large channels of water. Each island is unique, with a different steepness and difficulty of terrain.
+  For 2048x4096 games, a max height of 30-80 is recommended.
+url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
+tags:
+- "archipelago"
+- "coast"
+- "islands"
+- "sea"

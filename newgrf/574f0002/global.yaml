@@ -1,0 +1,20 @@
+name: "Roadvehicle date mod v2 "
+archived: true
+description: |-
+  Roadvehicle date mod v2 (roadvehicledatev2.grf)
+
+  Enables better cars sooner.
+  Old grade: ~1935
+  Middle grade: ~1965
+  New grade: ~1985
+
+
+  v2: fixed sorting old water and grain car
+
+  Version: v2
+
+  Coded Together by woople
+url: "http://www.luukland.net/"
+tags:
+- "cars"
+- "date"

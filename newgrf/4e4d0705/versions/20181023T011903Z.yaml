@@ -1,0 +1,10 @@
+version: "2.0.1"
+license: "GPL v2"
+upload-date: 2018-10-23T01:19:03Z
+md5sum-partial: "f9920025"
+filesize: 97818
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

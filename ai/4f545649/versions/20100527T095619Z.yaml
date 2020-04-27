@@ -1,0 +1,16 @@
+version: "312"
+license: "GPL v2"
+upload-date: 2010-05-27T09:56:19Z
+md5sum-partial: "2d54edd5"
+filesize: 22862
+availability: "savegames-only"
+
+description: |-
+  A passenger and mail delivering AI.
+
+  Originally written as a simple test AI for Rondje om de Kerk, but now a complete and strong competitor. Tries to get some subsidies as well. Code is being developed for handling other cargo and trains. Trams and boats are still in planning only, but might be included later as well.
+
+  Traffic jams, pollution and full maps are the risks of running this AI :)
+tags:
+- "bus"
+- "truck"

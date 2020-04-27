@@ -1,0 +1,17 @@
+name: "Korean Bus Set"
+description: |-
+  << 한국 버스 세트 / Korean Bus Set >>
+
+  South Korean buses in Seoul and Gyeonggi-do.
+url: "https://telk.kr/ottd/newgrf/ko_bus_set?lang=en"
+tags:
+- "bus"
+- "g-bus"
+- "gbus"
+- "gyeonggi"
+- "korea"
+- "seoul"
+- "경기"
+- "버스"
+- "서울"
+- "한국"

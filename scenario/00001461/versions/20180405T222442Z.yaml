@@ -1,0 +1,10 @@
+version: "0.5"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-04-05T22:24:42Z
+md5sum-partial: "e9440feb"
+filesize: 70376
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.3"

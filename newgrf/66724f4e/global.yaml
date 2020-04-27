@@ -1,0 +1,13 @@
+name: "Original vehicle names"
+description: |-
+  Modifies the names of some default vehicles to those of related real-world vehicles.
+
+  Formerly known as 'Original vehicle names' in language selection box of OpenTTD prior to 0.7.
+
+  Source:
+  http://devs.openttd.org/~frosch/origveh.nfo
+url: ""
+tags:
+- "names"
+- "original"
+- "vehicle"

@@ -1,0 +1,22 @@
+version: "v12"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2017-03-23T13:05:35Z
+md5sum-partial: "e5a05c96"
+filesize: 107665
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v12]
+  + Kia Motors AM918 (1984 ~ 2004)
+  + "Get a penalty when you buy outdated bus" Factor Added
+  * Decrease all vehicle's 90% of power (except Hyundai County)
+  * County's power will decrease or increase with accel factor
+  * Reformed some vehicle's cost
+  * Reformed some vehicle's running cost
+  * Decreased some vehicle's capacity
+  * Decreased all vehicle's 66% of weight
+
+  It's remade version of Korean Bus Set.
+  Korean buses and trams by Hyundai, Daewoo and more.

@@ -1,0 +1,14 @@
+version: "0.3.0"
+license: "GPL v2"
+upload-date: 2010-06-23T00:36:04Z
+md5sum-partial: "db324bff"
+filesize: 143249
+availability: "savegames-only"
+
+description: "Swedish rails is a graphically enhanced track set, replacing normal and electrical rails."
+tags:
+- "irwe"
+- "openttdcoop"
+- "planetmaker"
+- "rail"
+- "swedish"

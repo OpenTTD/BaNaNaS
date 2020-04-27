@@ -1,0 +1,15 @@
+name: "Dutch Road Furniture"
+description: |-
+  Dutch Road Furniture is an eyecandy object NewGRF that features road furniture which can be found alongside Dutch roads.
+
+  This set is not yet complete, but will be savegame compatible until the future release of version 1.0.0.
+
+  Currently included: Dutch fingerposts, hard shoulders, motorway medians, motorway direction signs, motorway gantries, matrix signs, guardrails. Left hand drive, UK Roads and American Road Replacement Set support.
+url: "http://www.tt-forums.net/viewtopic.php?t=56316"
+tags:
+- "dutch"
+- "freeways"
+- "hard shoulders"
+- "motorways"
+- "objects"
+- "signs"

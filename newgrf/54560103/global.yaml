@@ -1,0 +1,12 @@
+name: "Smooth Snow Transition"
+description: |-
+  Make in the arctic and temperate climate a smooth transition from grass to snow instead of three steps.
+
+  no Parameter = temperate grass in temperate climate and arctic grass in arctic climate
+  Parameter 0 = temperate grass for both climates
+url: "http://addi.tt-ms.de/grf.htm"
+tags:
+- "arctic"
+- "smooth"
+- "snow"
+- "temperate"

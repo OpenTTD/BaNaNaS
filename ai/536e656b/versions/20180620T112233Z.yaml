@@ -1,0 +1,10 @@
+version: "9"
+license: "GPL v3"
+upload-date: 2018-06-20T11:22:33Z
+md5sum-partial: "9b93ecbd"
+filesize: 29886
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"

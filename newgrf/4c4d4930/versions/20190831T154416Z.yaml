@@ -1,0 +1,10 @@
+version: "0.0.1"
+license: "Custom"
+upload-date: 2019-08-31T15:44:16Z
+md5sum-partial: "12fcbd5e"
+filesize: 1765
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

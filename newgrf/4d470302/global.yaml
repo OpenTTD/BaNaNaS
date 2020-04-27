@@ -1,0 +1,8 @@
+name: "BaseMod"
+replaced-by:
+  unique-id: "4d470303"
+description: "http://www.openttdcoop.org/wiki/Basecosts.grf"
+url: "http://www.openttdcoop.org/wiki/Basecosts.grf"
+tags:
+- "base"
+- "costs"

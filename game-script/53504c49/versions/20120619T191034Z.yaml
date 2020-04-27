@@ -1,0 +1,18 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2012-06-19T19:10:34Z
+md5sum-partial: "99d6e978"
+filesize: 12264
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "544c424c"
+  md5sum-partial: "70db7b52"
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "d2fce080"
+- content-type: "scenario"
+  unique-id: "00000875"
+  md5sum-partial: "eaf9e8bd"
+
+description: "This game script provides the game logic for the Split scenario."

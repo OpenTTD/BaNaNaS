@@ -1,0 +1,8 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2010-04-01T01:10:26Z
+md5sum-partial: "b1fed761"
+filesize: 53413
+availability: "savegames-only"
+
+description: "trAIns is a competitive AI that plays only with trains."

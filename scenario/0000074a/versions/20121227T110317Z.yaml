@@ -1,0 +1,11 @@
+version: "2.8.5"
+license: "GPL v2"
+upload-date: 2012-12-27T11:03:17Z
+md5sum-partial: "6d93c85d"
+filesize: 4776991
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.5"
+  - "< 0.7.5"

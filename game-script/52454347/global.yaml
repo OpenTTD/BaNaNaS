@@ -1,0 +1,10 @@
+name: "Renewed City Growth"
+description: |-
+  A city growth script. Towns require various cargo delivery to grow. Supporting Baseset, FIRS and ECS industries.
+
+  See the included readme.txt for detailed description.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=69827"
+tags:
+- "cargo"
+- "growth"
+- "towns"

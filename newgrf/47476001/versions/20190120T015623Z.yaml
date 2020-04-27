@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2019-01-20T01:56:23Z
+md5sum-partial: "bb5a57e6"
+filesize: 2588197
+availability: "savegames-only"
+
+description: |-
+  Based on Industries found in Australia. Has 92 Industries and 32 cargos.
+
+  This version replaces all other AuzInd Industry sets on Bananas

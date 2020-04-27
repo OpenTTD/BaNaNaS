@@ -1,0 +1,19 @@
+version: "1.01"
+license: "GPL v2"
+upload-date: 2018-11-13T05:11:29Z
+md5sum-partial: "577ae768"
+filesize: 639611
+availability: "savegames-only"
+
+description: |-
+  NAIS - North American Industry Set
+
+  A industry set for OpenTTD to better
+  represent North America's industry.
+
+  Based on FIRS 3.0.10 Modified by NekoMaster
+  Brought to you by andythenorth, FooBar,
+  planetmaker, Terkhen and Yexo, with help
+  from many others.
+
+  License: GPL v2.

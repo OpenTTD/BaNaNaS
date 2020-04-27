@@ -1,0 +1,15 @@
+version: "415"
+license: "GPL v2"
+upload-date: 2013-01-08T16:44:07Z
+md5sum-partial: "b2c26019"
+filesize: 57556
+availability: "savegames-only"
+
+description: |-
+  An AI that focuses on passengers & mail, but will occasionally also do cargo transport.
+
+  Tested with several newgrf's including ECS, 2cc and builds trams and nice cargo stations if available.
+
+  Originally written as a simple test AI for Rondje om de Kerk, but now a complete and strong competitor. Tries to get some subsidies as well. Planes and boats are in planning only, but will be included later as well.
+
+  Traffic jams, pollution and full maps are the risks of running this AI :)

@@ -1,0 +1,13 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2009-03-19T18:07:17Z
+md5sum-partial: "8d8b250b"
+filesize: 12178
+availability: "savegames-only"
+
+description: |-
+  An AI that builds cars that drive around randomly in your towns.
+
+  You should add a car GRF and specify in the AI settings for this AI how it should detect which vehicles to build. Default settings are compatible with Generic Cars GRF.
+
+  The save/load works so that you need to let this AI run and build cars in all towns before you save and close down the game. When you load, the AI will just put itself into sleep mode and not make any new cars.

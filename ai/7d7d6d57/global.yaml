@@ -1,0 +1,17 @@
+name: "WmDOT"
+description: |-
+  An AI that doesn't compete with you but rather builds out the highway network. Our (*new*) revenue stream is transporting offshore oil to oil refineries.
+
+  v13 - speed up Ship Pathfinder
+  v11 - Freeways!!
+  v10 - dynamically add ships
+  v9 - supports all of FIRS' water industries
+  v8 - bug fixes and minor improvements
+  v7 - adds Operation Hibernia (transport oil from Oil Rigs to Oil Refineries);
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=53698"
+tags:
+- "ai"
+- "minchinweb"
+- "road"
+- "ship"
+- "wmdot"

@@ -1,0 +1,20 @@
+version: "0.0.2"
+license: "GPL v2"
+upload-date: 2016-05-08T07:03:25Z
+md5sum-partial: "b043878c"
+filesize: 11743361
+availability: "savegames-only"
+
+description: |-
+  Chinese Trains Set in NML.
+  Chinese Forum: openttd.imotor.com
+  QQ group:  6660736
+  Original graphics by Leou,
+  coding by dirace
+tags:
+- "32bpp"
+- "china"
+- "chinese"
+- "full zoom"
+- "nml"
+- "trains"

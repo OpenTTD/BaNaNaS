@@ -1,0 +1,21 @@
+version: "13"
+license: "GPL v2"
+upload-date: 2012-11-18T01:29:13Z
+md5sum-partial: "3e641264"
+filesize: 24634
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "6804ef38"
+
+description: |-
+  SynTrans stands for Synaptic Transportation.  It creates vast road and aircraft networks.  It is currently planned to include train support soon.
+
+  As a spin off of RoadAI, here are the improvements:
+  1.  Aircraft Support
+  2.  Save/Load support
+  3.  Faster Speed (in most areas)
+  4.  Better Vehicle Management
+  5.  Smarter station placement
+  This release upgrades to SuperLib v27 and fixes a fatal save/load bug

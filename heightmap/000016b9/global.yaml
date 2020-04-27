@@ -1,0 +1,3 @@
+name: "Hudson Valley"
+description: "A 1024x1024 heightmap of the Hudson Valley region.  Northernmost point is of Hannacroix, NY, with the southernmost point being Kingston, NY.  Because of how heightmaps work, Sleepy Hollow Lake and the Ashokan Reservoir are *not* on the map."
+url: ""

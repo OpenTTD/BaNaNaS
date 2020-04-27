@@ -1,0 +1,27 @@
+version: "0.3"
+license: "Custom"
+upload-date: 2019-02-06T01:11:01Z
+md5sum-partial: "34c95764"
+filesize: 55228
+availability: "savegames-only"
+
+description: |-
+  This set aims to totally overhaul railroads from 1869 - 1945 by introducing many different classes of steam locomotives owned and operated by the Southern Pacific Railroad Company and its predecessors and subsidiaries.
+
+  Current Progress:
+
+  11/68 Locomotives
+  1 Freight car
+  4 Passenger cars
+  1 Caboose
+
+  Coded and drawn by ruiluth. All rights reserved (at least for the moment).
+tags:
+- "american"
+- "early"
+- "overhaul"
+- "pacific"
+- "southern"
+- "steam"
+- "train"
+- "trains"

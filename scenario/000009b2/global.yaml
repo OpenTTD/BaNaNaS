@@ -1,0 +1,20 @@
+name: "Road Vehicle Map"
+replaced-by:
+  unique-id: "000009b3"
+description: |-
+  The year is 1985. Will you manage to make a road vehicle company by 2050, or will you lose profit, and go bankrupt? The possibilities are endless.
+
+  Map made by: Jasperthecat1.
+
+  v1.1 (update)
+  Removed towns that may build towards the highway network.
+  Fixed one way roads, so vehicles will go the right way.
+  Added new highway signs.
+  Changed the existing signs to fit better.
+url: ""
+tags:
+- "highway"
+- "map"
+- "road"
+- "rv"
+- "vehicle"

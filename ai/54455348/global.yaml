@@ -1,0 +1,12 @@
+name: "TeshiNet"
+description: |-
+  An AI that primarily uses road vehicles, with some aircraft as well.
+
+  Will transport passengers and most cargo, and should be broadly compatible with most or all NewGRF's that provide non-articulated RV's that can be refit to the available cargoes.
+
+  Fixed in 4.0.3: SuperLib dependency updated so the AI doesn't crash. Stable in OpenTTD 1.5.0
+url: "http://goo.gl/fjrvs4"
+tags:
+- "aircraft"
+- "bus"
+- "truck"

@@ -1,0 +1,35 @@
+version: "0.0.4"
+license: "GPL v2"
+upload-date: 2017-11-05T12:48:08Z
+md5sum-partial: "daba3a47"
+filesize: 15382769
+availability: "savegames-only"
+
+description: |-
+  5 universal rails with the power of the rainbow.
+  Mainly useful for marking purposes,but I believe you will find other uses too.
+  Unicorns not included.
+
+  Recommended to be used with BRIX 0.0.2 or newer.
+
+  Brought to you by V453000
+  www.openttdcoop.org
+tags:
+- "32bpp"
+- "chaos"
+- "cluster"
+- "colors"
+- "colours"
+- "insanity"
+- "madness"
+- "maglev"
+- "marker"
+- "mayhem"
+- "monorail"
+- "nuts"
+- "organize"
+- "purr"
+- "rail"
+- "railtype"
+- "rainbow"
+- "wtf"

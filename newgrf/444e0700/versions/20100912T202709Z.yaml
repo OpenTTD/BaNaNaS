@@ -1,0 +1,8 @@
+version: "1.4"
+license: "GPL v2"
+upload-date: 2010-09-12T20:27:09Z
+md5sum-partial: "82b3bef3"
+filesize: 9013
+availability: "savegames-only"
+
+description: "An attempt at making train replacement easier. Creates a new rail type that can be used to autoreplace engines and wagons to other rail types e.g. monorail -> maglev. See the readme or forum thread for full explanation and images."

@@ -1,0 +1,11 @@
+version: "0.5"
+license: "GPL v2"
+upload-date: 2012-02-27T18:12:35Z
+md5sum-partial: "b89ce49d"
+filesize: 230001
+availability: "savegames-only"
+
+description: |-
+  Sailing ships: 1700 onwards
+
+  Warning - Not savegame compatable with previous release. Requires 1.2.0

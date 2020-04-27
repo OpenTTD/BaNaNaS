@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2009-09-08T20:15:13Z
+md5sum-partial: "cef91682"
+filesize: 16503
+availability: "savegames-only"
+
+description: "Chopper is an AI that uses only helicopters, which provides competition for air travel, and also looks nice. Chopper also works with GRFs, so you can provide a larger selection of helicopters for him to use. Have fun!"
+tags:
+- "aircraft"
+- "helicopter"

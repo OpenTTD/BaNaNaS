@@ -1,0 +1,18 @@
+version: "v1.14.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-01-09T07:21:54Z
+md5sum-partial: "6450c6d9"
+filesize: 126918
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v1.14.2]
+  * Remade sprite of Hyundai Universe.
+  * Faster loading speed for Daewoo BF101.
+  * Faster loading speed for Hyundai Universe. (need refit to Seoul Bus or G-BUS)
+  * Changed capacity of Hyundai NSAC, Universe, and Daewoo BH116.
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporations.

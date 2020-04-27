@@ -1,0 +1,10 @@
+name: "Portugal Town Names"
+description: |-
+  A list of cities and towns of Portugal.
+
+  Probability is now based on population.
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=73936"
+tags:
+- "names"
+- "portugal"
+- "town"

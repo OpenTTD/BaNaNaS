@@ -1,0 +1,11 @@
+version: "25"
+license: "GPL v2"
+upload-date: 2016-12-13T06:05:55Z
+md5sum-partial: "cdef5b91"
+filesize: 951939
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"
+  - "< 1.5.0"

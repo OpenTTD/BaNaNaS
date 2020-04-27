@@ -1,0 +1,20 @@
+version: "V0.3"
+license: "GPL v2"
+upload-date: 2010-12-18T15:49:59Z
+md5sum-partial: "32c5f9c6"
+filesize: 104558
+availability: "savegames-only"
+
+description: |-
+  -
+  This is a alpha Pre-released version!
+  Version 0.3
+
+  -----------------------------------
+  A collection of several industrial terrain tiles for stations.
+  Included are:
+  -Station tile - Roads
+  -Station tile - terrain tiles
+  -Station tile - Industrial tiles
+  -Station tile - Pipelines
+  -Station tile - Extended industries (tiles for FIRS grf)

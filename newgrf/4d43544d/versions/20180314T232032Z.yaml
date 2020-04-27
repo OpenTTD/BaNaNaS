@@ -1,0 +1,10 @@
+version: "6647"
+license: "GPL v2"
+upload-date: 2018-03-14T23:20:32Z
+md5sum-partial: "e69dd7ae"
+filesize: 838791
+availability: "savegames-only"
+
+description: |-
+  V4 CEE Trains is a fork from 2cc Trains In NML for OpenTTD. This set is focused on train from Central and East Europe (mostly Visegrad group).
+  Beside of 2cc liveries, trains can be refitted to some national liveries.

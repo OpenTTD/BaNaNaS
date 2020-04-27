@@ -1,0 +1,10 @@
+version: "1.1"
+license: "Custom"
+upload-date: 2011-06-28T01:57:55Z
+md5sum-partial: "47c32136"
+filesize: 81167
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44441000"
+  md5sum-partial: "b4cdd405"

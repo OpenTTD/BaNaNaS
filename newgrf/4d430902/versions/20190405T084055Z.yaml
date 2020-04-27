@@ -1,0 +1,10 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2019-04-05T08:40:55Z
+md5sum-partial: "f81b7a44"
+filesize: 20094
+availability: "savegames-only"
+
+description: |-
+  End of Track - snow aware standalone bumper track terminals - can be placed as a cheap objects at the end of track.
+  Four layouts for straight, diagonal and double tracks, automatic alignment to the adjacent track.

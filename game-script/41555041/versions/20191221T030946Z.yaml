@@ -1,0 +1,10 @@
+version: "2"
+license: "Custom"
+upload-date: 2019-12-21T03:09:46Z
+md5sum-partial: "551dd106"
+filesize: 1041
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

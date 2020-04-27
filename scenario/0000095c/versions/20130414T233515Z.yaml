@@ -1,0 +1,17 @@
+version: "17"
+license: "GPL v2"
+upload-date: 2013-04-14T23:35:15Z
+md5sum-partial: "be3b1e84"
+filesize: 53954
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "66724d49"
+  md5sum-partial: "235c574c"
+- content-type: "game-script"
+  unique-id: "5455545f"
+  md5sum-partial: "3e598fd7"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.1"

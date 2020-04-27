@@ -1,0 +1,10 @@
+version: "1"
+license: "Custom"
+upload-date: 2020-01-26T20:31:43Z
+md5sum-partial: "3a06ae2f"
+filesize: 2196
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"

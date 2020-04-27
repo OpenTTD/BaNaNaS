@@ -1,0 +1,24 @@
+version: "22"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-04-16T02:33:06Z
+md5sum-partial: "54d0d498"
+filesize: 25282
+availability: "savegames-only"
+
+description: |-
+  Normal cars for everyone...
+
+  Trams and Cars, real and invented...
+
+  This set contain various vehicles as: CAF Urbos 3, KINKISHARYO ameriTRAM, Claas Dominator 150 or the beauty of Chevrolet Camaro.
+
+  Enjoy it!
+
+  (c)2015-16 SilverSurferZzZ
+  CC BY-NC-SA
+tags:
+- "car"
+- "newgrf"
+- "road"
+- "trams"
+- "vehicles"

@@ -1,0 +1,8 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2016-12-10T01:20:39Z
+md5sum-partial: "d17f6d15"
+filesize: 923003
+availability: "savegames-only"
+
+description: "Slope Aware landscape and terrain tiles, also water edge slope tiles"

@@ -1,0 +1,15 @@
+name: "Las Vegas"
+description: |-
+  North America, USA, Las Vegas.
+  Size:1024x1024
+  Climate:subtropical
+  Industry - FIRS 2.1.3, Cities - TTRS 3.14
+  Start game: 1950
+  OpenTTD 1.6.0 or higher
+  * made by STD/October 2016
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1177340#p1177340"
+tags:
+- "las vegas"
+- "north america"
+- "subtropical"
+- "usa"

@@ -1,0 +1,23 @@
+version: "0.3.2"
+license: "GPL v2"
+upload-date: 2015-02-25T03:38:50Z
+md5sum-partial: "e7091f57"
+filesize: 1869403
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4c534702"
+  md5sum-partial: "5e8e4121"
+
+description: |-
+  After a long hiatus, I created this GRF. It is compatible with 8bpp and 32bpp graphics. More trains will be added in the future.
+
+  Enjoy it !
+
+  (c)JAN 2015 by Leou
+tags:
+- "32bpp"
+- "china"
+- "chinese"
+- "full zoom"
+- "trains"

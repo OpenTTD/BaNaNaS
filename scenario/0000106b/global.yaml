@@ -1,0 +1,18 @@
+name: "Russian Empire"
+description: |-
+  The Russian Empire, Eastern Europe of the early 20th century, Turkey, Mongolia, China, Korea, Northern part of Japan.
+  Size:2048x1024
+  Climate:subarctic
+  Industry - ECS 1.2 (Town vector 1.2, Agrocultural vector 1.2, Basic vector II 1.2, Chemicals vector 1.2, Houses 1.2, Machinery vector 1.2, Wood vector 1.2 ), Cities - Swedish Houses Set 1.1.2
+  Start game: 1900
+  OpenTTD 1.6.0 or higher
+  * made by STD/July 2016
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1173713#p1173713"
+tags:
+- "china"
+- "europe"
+- "japan"
+- "mongolia"
+- "russia"
+- "subarctic"
+- "turkey"

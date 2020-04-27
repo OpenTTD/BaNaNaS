@@ -1,0 +1,7 @@
+name: "Snow Line Mod"
+description: "This newgrf allows to set the snowline with varying height between January and June, chosing lowest and highest snow line height via parameters"
+url: "http://dev.openttdcoop.org/projects/snowlinemod"
+tags:
+- "newgrf"
+- "planetmaker"
+- "snow"

@@ -1,0 +1,20 @@
+name: "Scotland 1930"
+description: |-
+  A 512*512 map of Scotland in 1930
+  -Accurate relative population sizes for all towns above 250.
+  -Accurate industry placement
+  -NewGRF's for British Transport
+  -Enjoy :)
+
+  ===Balsiefen===
+
+
+  ---Original Heightmap sourced from BaNaNaS, modified by Balsiefen---
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=73800&p=1157697#p1157697"
+tags:
+- "accurate"
+- "balsiefen"
+- "britain"
+- "heightmap"
+- "newgrf"
+- "scotland"

@@ -1,0 +1,23 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2019-11-04T16:50:59Z
+md5sum-partial: "e1848224"
+filesize: 27296
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+
+description: |-
+  AI that operates only ships.
+
+  It supports:
+  - freight & PAX cargos
+  - building canals
+  - autoreplacing vehicle model when the new, better model appears
+  - selling unprofitable vehicles
+  - autoreplacing old vehicles with new ones
+tags:
+- "ai"
+- "ships"

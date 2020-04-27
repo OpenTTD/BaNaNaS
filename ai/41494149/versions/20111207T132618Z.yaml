@@ -1,0 +1,11 @@
+version: "eta3 - bananas"
+license: "GPL v2"
+upload-date: 2011-12-07T13:26:18Z
+md5sum-partial: "e5737f75"
+filesize: 58435
+availability: "savegames-only"
+
+description: |-
+  DUE TO BANANAS BUG REQUIRES MANUAL DOWNLOAD OF SuperLib v15!!!
+
+  AIAI - Automatic Idiot AI. Support for all newgrfs. This AI will use trains, RV and planes.

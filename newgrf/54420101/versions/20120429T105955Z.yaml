@@ -1,0 +1,14 @@
+version: "1.7-alpha"
+license: "GPL v2"
+upload-date: 2012-04-29T10:59:55Z
+md5sum-partial: "a6b5eae6"
+filesize: 608089
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "535a0d00"
+  md5sum-partial: "621be488"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

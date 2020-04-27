@@ -1,0 +1,23 @@
+version: "0.1.1.1"
+license: "GPL v2"
+upload-date: 2018-07-20T23:16:50Z
+md5sum-partial: "d3f84715"
+filesize: 17142
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "444a5401"
+  md5sum-partial: "b9e9e16f"
+
+description: |-
+  TRAXX Locomotive Set
+
+  Bombardier TRAXX Vehicles from different Companies (DB, SBB, NS, BLS, and many more)
+
+  Graphics by: PNDA
+  Coding by: PNDA
+  Thanks to Erato and 'Noni for helping me sprite
+
+  Version 0.1.0
+  -- PNDA 2018 --
+  GPL v2 Licence

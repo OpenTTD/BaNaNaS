@@ -1,0 +1,15 @@
+version: "1.1.0"
+license: "GPL v2"
+upload-date: 2014-09-17T09:18:11Z
+md5sum-partial: "ee5bb37f"
+filesize: 165041
+availability: "savegames-only"
+
+description: |-
+  Iron Horse
+
+  Release 1.0.0 - "My kingdom for a horse"
+
+  The trains you need and nothing more, except some extra stuff.
+
+  Best used with Termite railtypes grf.

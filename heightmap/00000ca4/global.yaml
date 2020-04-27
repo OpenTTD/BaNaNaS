@@ -1,0 +1,16 @@
+name: "Austraterra and Boreaterra 2k"
+description: |-
+  Two large continents with just enough water between them to make bridges seem impractical. There are a few smaller islands as well.
+
+  The continents feature some relatively flat plains, and some small mountains. Valleys allow inland rivers to flow to the sea which might otherwise be trapped by hills.
+
+  This heightmap is 2048×1024.  To go smaller, see also 1024×512 version.
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=70475"
+tags:
+- "2048"
+- "4096"
+- "eroded"
+- "fiction"
+- "hilly"
+- "nonsquare"
+- "valley"

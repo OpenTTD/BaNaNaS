@@ -1,0 +1,7 @@
+name: "WrightAI"
+description: "A simple AI which builds only airplanes."
+url: ""
+tags:
+- "aircraft"
+- "example"
+- "simple"

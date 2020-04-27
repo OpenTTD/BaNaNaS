@@ -1,0 +1,22 @@
+version: "1.7"
+license: "GPL v2"
+upload-date: 2019-04-05T20:02:43Z
+md5sum-partial: "9a4d8bca"
+filesize: 130511
+availability: "savegames-only"
+
+description: |-
+  A set of infrastructure aiming to include other GPL v2 graphics in one NewGRF with no graphical oddities.
+
+  Thanks to...
+  Gwyd
+
+  Currently includes...
+  + FooBar's Tram Tracks
+  + FooBar's Useless Tracks
+  + McZapkie's Wired
+  + Supercheese's WIRES
+
+  Will soon include...
+  + Snail's Dual Gauge (basis for Volos Tri-Guage)
+  + FooBar's Metro Track Set

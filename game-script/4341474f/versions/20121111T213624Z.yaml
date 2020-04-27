@@ -1,0 +1,28 @@
+version: "5"
+license: "GPL v2"
+upload-date: 2012-11-11T21:36:24Z
+md5sum-partial: "4f944962"
+filesize: 17342
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "1b4522b3"
+- content-type: "game-script-library"
+  unique-id: "5343504c"
+  md5sum-partial: "643a5092"
+
+description: |-
+  Goal: Transport X units of cargo A, B and C before year YYYY.
+
+  GOLD - accomplish the goal for all cargoes
+  SILVER - accomplish the goal for two cargoes
+  BRONZE - accomplish the goal for one cargo
+
+
+  Game Script parameters:
+  - Years to play (default: 7)
+  - number of units to transport (default: 7500 (easy), 12500 (medium) and 25000 (hard))
+  - frequency of progress news (monthly or annually)
+
+  AI API - see readme.txt

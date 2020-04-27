@@ -1,0 +1,29 @@
+version: "0.7.5"
+license: "GPL v2"
+upload-date: 2012-04-30T20:51:41Z
+md5sum-partial: "4f0505bb"
+filesize: 367592
+availability: "savegames-only"
+
+description: |-
+  FIRS features familiar gameplay to get you started quickly:
+  - primary industries always produce cargo
+  - secondary industries always produce something from deliveries
+  FIRS also rewards you by:
+  - primary industries produce more if supplies delivered regularly
+  - some secondary industries produce more if multiple cargos delivered
+
+  **IMPORTANT not compatible with FIRS versions before 0.7.x.
+
+  Other features:
+  - availability of some industries restricted by date
+  - lickable pixels!
+tags:
+- "andythenorth"
+- "cargo"
+- "firs"
+- "foobar"
+- "industry"
+- "planetmaker"
+- "terkhen"
+- "yexo"

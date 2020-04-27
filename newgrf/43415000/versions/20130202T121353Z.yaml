@@ -1,0 +1,8 @@
+version: "0.4.0"
+license: "GPL v2"
+upload-date: 2013-02-02T12:13:53Z
+md5sum-partial: "f3dc8a1d"
+filesize: 378434
+availability: "savegames-only"
+
+description: "Adds rotations and climate-dependent graphics for the default airports."

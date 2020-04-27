@@ -1,0 +1,11 @@
+version: "0.03"
+license: "GPL v3"
+upload-date: 2010-03-15T12:17:02Z
+md5sum-partial: "b6362e15"
+filesize: 91549
+availability: "savegames-only"
+
+description: |-
+  The Hankyu Railway Set contains a new railtype for OTTD and 4 trains from the Hankyu Railway Company, Japan.
+
+  This is recommended as an addon to the Japan Set.

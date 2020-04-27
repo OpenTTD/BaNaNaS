@@ -1,0 +1,25 @@
+name: "MinchinWeb's MetaLibrary (GS)"
+description: |-
+  Minchinweb's MetaLibrary is an GS library written to support WmDOT but I hope it will be useful to others. This version has the same functions as the AI version, but modified for GameScripts. (v.9-GS) [2015-01-10]
+
+  Sublibraries include:
+  * Road Pathfinder,
+  * Dominion Land System (pathfinder),
+  * Ship Pathfinder,
+  * Spiral Walker,
+  * Line Walker,
+  * Lakes (water body check),
+  * Log,
+  * Array,
+  * Atlas,
+  * Marine, and
+  * Extras
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57903"
+tags:
+- "gs"
+- "library"
+- "minchin"
+- "minchinweb"
+- "pathfinder"
+- "road pathfinder"
+- "ship pathfinder"

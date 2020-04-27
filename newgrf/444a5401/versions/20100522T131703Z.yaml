@@ -1,0 +1,13 @@
+version: "r60"
+license: "GPL v2"
+upload-date: 2010-05-22T13:17:03Z
+md5sum-partial: "9744b990"
+filesize: 42031
+availability: "savegames-only"
+
+description: |-
+  New Tracks with different properties and costs.
+  Intended to use with the 2cc trainset nightly/upcomeing version 2 :)
+tags:
+- "new"
+- "tracks"

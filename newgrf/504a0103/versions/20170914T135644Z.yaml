@@ -1,0 +1,10 @@
+version: "1.4"
+license: "GPL v2"
+upload-date: 2017-09-14T13:56:44Z
+md5sum-partial: "7040a4dc"
+filesize: 18382
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "504a0013"
+  md5sum-partial: "8c19753c"

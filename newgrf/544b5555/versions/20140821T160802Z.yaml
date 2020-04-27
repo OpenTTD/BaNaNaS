@@ -1,0 +1,28 @@
+version: "0.9.10"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2014-08-21T16:08:02Z
+md5sum-partial: "93d0ea5c"
+filesize: 125654
+availability: "savegames-only"
+
+description: |-
+  ★ 한국 열차 세트 / Korean Train Set ★
+
+  This contains trains of Korea, such as KTX, ITX-Cheongchun, Saemaeul, Mugunghwa, Nuriro, CDC, Seoul & Incheon subways, Diesel & Electric locomotives of Korail.
+
+  (c) TELK (www.korct.com)
+tags:
+- "haerang"
+- "kts"
+- "ktx"
+- "mugunghwa"
+- "nooriro"
+- "saemaeul"
+- "south korea"
+- "telk"
+- "누리로"
+- "무궁화"
+- "새마을"
+- "텔크"
+- "한국 열차 세트"
+- "해랑"

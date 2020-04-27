@@ -1,0 +1,22 @@
+name: "England and Wales Scenario"
+replaced-by:
+  unique-id: "00000749"
+description: |-
+  A map of England & Wales featuring hundreds of cities and a number of manually-placed industries, such as North Sea oil, as well as several major rivers.
+
+  This scenario balances realism and playability so the cities are not to scale, ensuring that London does not dwarf other cities. Industries are placed with a mixture of realism and playability in mind.
+
+  This scenario contains a number of newGRFs, all of which are available on the Online Content Service.
+
+  Credits:
+  brickie
+  Wasila
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=54022"
+tags:
+- "britain"
+- "england"
+- "london"
+- "scenario"
+- "temperate"
+- "uk"
+- "wales"

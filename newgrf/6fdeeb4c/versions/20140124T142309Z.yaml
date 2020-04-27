@@ -1,0 +1,28 @@
+version: "1.4"
+license: "GPL v3"
+upload-date: 2014-01-24T14:23:09Z
+md5sum-partial: "c4e46c68"
+filesize: 36298
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d560000"
+  md5sum-partial: "a420b01e"
+
+description: |-
+  This is a Set with trains and buses.
+  Update:
+  -Regiojet Škoda E630 +passengercar(ABmz...)
+  -IKARUS T-450 (articulated)
+  -2 NEW wagon
+  -Shinkansen repainted (company colors)
+  --------:)--------
+  Next update:
+  -----------SOON----------
+tags:
+- ""
+- "bus"
+- "ikarus"
+- "metro"
+- "tgv"
+- "train"

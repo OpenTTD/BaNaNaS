@@ -1,0 +1,10 @@
+name: "TREE"
+description: |-
+  TREE is an eyecandy AI that plants trees and lets the user control how many it plants (and where) instead of the general explosion of trees normally encountered in openttd games (be sure to disable the openttd tree growth setting).
+  Note that this AI needs to be cheated some money to function.
+url: "http://dev.openttdcoop.org/projects/ai-tree"
+tags:
+- "ai"
+- "eyecandy"
+- "tree"
+- "zooks"

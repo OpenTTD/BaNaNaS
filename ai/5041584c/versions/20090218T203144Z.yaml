@@ -1,0 +1,17 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2009-02-18T20:31:44Z
+md5sum-partial: "0ce83912"
+filesize: 23809
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  PAXLink is a passenger (PAX) only AI that transports local passengers by bus and inter-city passengers by aircraft. The AI uses transfer orders to force local passengers to go by plane to some other town. Note that there is still many things to improve on this AI as mentioned on tt-forums.net. Save/load should however work with this AI.
+
+  Changes:
+  v6->v7:
+  * Avoid/forbid building on town grid based on AISetting

@@ -1,0 +1,8 @@
+version: "0.1.0"
+license: "GPL v2"
+upload-date: 2011-02-15T21:51:56Z
+md5sum-partial: "c4e1c9f3"
+filesize: 85258
+availability: "savegames-only"
+
+description: "A still-developing set of North American road vehicles. Currently provides a usable set of buses and trams from 1910 to 2050 (no futuristic vehicles though)."

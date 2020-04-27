@@ -1,0 +1,18 @@
+version: "v9_1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-10-10T08:27:38Z
+md5sum-partial: "870245f8"
+filesize: 105590
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v9]
+  - Hyundai Porter (1977)
+  - Hyundai GreenCity (2002)
+  - Aero Space can't transport armored at now.
+  - Cost and running cost are changed like other vehicles(Original vehicles or NewGRF vehicles).
+
+  It's remade version of Korean Bus Set.
+  Korean buses and trams by Hyundai, Daewoo and more.

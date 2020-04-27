@@ -1,0 +1,7 @@
+name: "Georgian Town Names (Country)"
+description: "Generates town names based on the names of geographic regions in the nation of Georgia. Note that there are only around 1200 names."
+url: ""
+tags:
+- "georgian"
+- "sakartvelo"
+- "town names"

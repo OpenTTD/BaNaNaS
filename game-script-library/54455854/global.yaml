@@ -1,0 +1,14 @@
+name: "Text"
+description: |-
+  This library simplifies the usage of GSText. With this library you do not need to store the instance of GSText in order to set parameters. Using variable argument count it calls GSText.AddParam internally.
+
+  -- Usage example: --
+
+  Squirrel code:
+  GSSign.BuildSign(some_tile, Text(GSText.STR_GOAL, company_id, goal_value));
+
+  lang/english.txt:
+  STR_GOAL    :{COMPANY} should build {NUM} connections
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57876"
+tags:
+- "text"

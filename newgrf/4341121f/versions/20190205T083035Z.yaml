@@ -1,0 +1,18 @@
+version: "2.0.0-Alpha-5"
+license: "GPL v2"
+upload-date: 2019-02-05T08:30:35Z
+md5sum-partial: "e78b2251"
+filesize: 1039499
+availability: "savegames-only"
+
+description: |-
+  Iron Horse 2.
+
+  It ain't done but it's kind of fun.
+
+  Stick to 1950-2050.  Trains introduced before 1950 may have unfinished sprites.
+
+  Designed to be used with 'vehicles expire' set to to 'on', Horse 2 has a *lot* of vehicles and crowds the buy menu unless expiry is used.
+
+  2.0.0-Alpha-5 is not savegame compatible with previous Iron Horse 2 versions
+tags: []

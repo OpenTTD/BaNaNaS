@@ -1,0 +1,13 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2011-06-09T19:51:43Z
+md5sum-partial: "92e6844a"
+filesize: 20485
+availability: "savegames-only"
+
+description: |-
+  Over 1k real Russian town names! Both Cyrillic and Latin.
+  Town names got from wikipedia.org.
+  Transliterated with translit.ru according to GOST 7.79-2000.
+
+  Authors: Tloo-ZaRaZa and others.

@@ -1,0 +1,11 @@
+name: "abase"
+description: |-
+  The abase base graphics set is a 32bpp graphics set that is a
+  fork of zbase base set. It includes high resolution, high color-depth,
+  enhanced and new graphics for OpenTTD.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=74783"
+tags:
+- "32bpp"
+- "abase"
+- "baseset"
+- "graphics"

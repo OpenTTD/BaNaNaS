@@ -1,0 +1,16 @@
+version: "1.1.1"
+license: "GPL v2"
+upload-date: 2010-02-27T16:57:17Z
+md5sum-partial: "634946ff"
+filesize: 92617
+availability: "savegames-only"
+
+description: |-
+  Monorail Infrastructure Conversion Set
+  A graphics set based on OpenGFX that modifies the monorail tracks and related graphics to have a more urban feel. Supports snow-covered tracks above the snowline in Arctic - see the readme in the relevant thread for more information.
+tags:
+- "city"
+- "concrete"
+- "monorail"
+- "track"
+- "urban"

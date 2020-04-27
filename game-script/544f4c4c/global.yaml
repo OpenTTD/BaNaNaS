@@ -1,0 +1,7 @@
+name: "HighwayToll"
+description: "This GS works only in multiplayer. The company has to pay road tax for cars driving on roads owned by other companies. Every day for each vehicle, the charge is deducted from the company account and credited to the account of the company owning the road."
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=82732"
+tags:
+- "payment"
+- "road vehicles"
+- "toll"

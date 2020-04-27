@@ -1,0 +1,15 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2013-10-03T20:48:36Z
+md5sum-partial: "de0887de"
+filesize: 37028
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "3a678330"
+
+description: |-
+  This is a special Game Script that doesn't do anything on its own. Instead it expose the Game Script API to Admin Port clients.
+
+  Target users: Server admins that want to perform actions only available through the Game Script API

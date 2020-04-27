@@ -1,0 +1,14 @@
+name: "Australia, Victoria"
+description: |-
+  Heightmap of the Australian state, Victoria.
+
+  Verison 2.0 includes the states of Victoria and Tasmania, and a portion of South Australia. The North-West end of the map should roughly follow the Murray River's path (also meaning that portions of New South Wales are included).
+
+  Version 1.0 of the heightmap included a much larger portion of New South Wales, but lacked Tasmania, and the terrain was too rough. This has been fixed in 2.0.
+url: ""
+tags:
+- "australia"
+- "heightmap"
+- "new south wales"
+- "south australia"
+- "victoria"

@@ -1,0 +1,10 @@
+version: "2.0"
+license: "GPL v2"
+upload-date: 2011-10-25T15:59:59Z
+md5sum-partial: "fafe655e"
+filesize: 33989
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.1.3"

@@ -1,0 +1,3 @@
+name: "Better World Cities"
+description: "This NewGRF adds names for world cities with a population count higher than 100000 (w/metropolitan area). The probability of each city appearing is proportional to the square root of the population. This makes it so that cities with lower population can appear more frequently than otherwise. World city data from https://simplemaps.com/data/world-cities, it's CC-4 licensed"
+url: "https://gist.github.com/FranchuFranchu/3fe4d7961054a7d983b78408eb3cfa00"

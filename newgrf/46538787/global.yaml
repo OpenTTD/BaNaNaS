@@ -1,0 +1,13 @@
+name: "av8 Minimal Supp WAS"
+description: |-
+  av8 aircraft v2.21 set by David Dallaston, that has been stripped back of aircraft that are also included in the World Airliners Set v7041. This allows the two sets to be used side by side, without any doubles.
+
+  Set WAS basecost parameter to "5" and running cost parameter to "8" for equalised costing between sets. Planespeed to 1/1.
+url: "http://s000.tinyupload.com/index.php?file_id=00045385481655552872"
+tags:
+- "aircraft"
+- "airplane"
+- "av8"
+- "plane"
+- "planeset"
+- "was"

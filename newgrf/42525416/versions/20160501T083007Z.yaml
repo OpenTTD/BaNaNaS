@@ -1,0 +1,14 @@
+version: "0.0.3"
+license: "GPL v2"
+upload-date: 2016-05-01T08:30:07Z
+md5sum-partial: "14cdc7f5"
+filesize: 13934
+availability: "savegames-only"
+
+description: "BRTrains is a set with only real-life liveries, (no Company Colours, sorry), spanning all eras of the British Railway history."
+tags:
+- "british"
+- "brtrains"
+- "leanden"
+- "trains"
+- "uk"

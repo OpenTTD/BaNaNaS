@@ -1,0 +1,9 @@
+name: "CPU"
+description: |-
+  A road AI that completes subsidies and bus lines. Useful if you want to grow cities without a AI getting in the way of your train lines. still in Beta and buggy, and anyone who wants to improve it and upload it, go ahead.
+
+  Uses some code from Town Cars.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=70220"
+tags:
+- "road"
+- "subsidy"

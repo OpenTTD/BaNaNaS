@@ -1,0 +1,13 @@
+name: "Czechia 1930 Modern"
+description: |-
+  Czechia scenario made with modern set of mods (FIRS 3, Total Town Replacement etc.).
+
+  It's based on CS 1930 Scenario.
+
+  Climate: Temperate
+  Size: 256x512
+  Starting date: 1930-01-01
+url: "https://gitlab.com/radek-sprta/czechia-1930-modern"
+tags:
+- "czechnia"
+- "modern"

@@ -1,0 +1,20 @@
+name: "American Road Replacement Set"
+description: |-
+  Provides new road infrastructure graphics based on the road design used in The United States of America. Replaces all road tiles, including bridges, tunnels, level crossings, and more.
+
+  New in version 2 of ARRS is the addition of dirt and sett-paved roads for use in early games.
+
+  Designed to work with OpenGFX, including support for OpenGFX+ Landscape. Original TTD graphics are not supported, though use of other NewGRFs can minimize the problems. See readme for details.
+
+  By Andrew350
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=64433"
+tags:
+- "american"
+- "cobblestone"
+- "dirt"
+- "gravel"
+- "opengfx"
+- "road"
+- "sett"
+- "united states"
+- "usa"

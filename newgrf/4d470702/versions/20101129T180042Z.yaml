@@ -1,0 +1,10 @@
+version: "r5"
+license: "GPL v2"
+upload-date: 2010-11-29T18:00:42Z
+md5sum-partial: "facc5ce9"
+filesize: 11242
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

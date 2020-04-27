@@ -1,0 +1,13 @@
+version: "21"
+license: "Custom"
+upload-date: 2019-12-25T00:09:15Z
+md5sum-partial: "28a97d3a"
+filesize: 64250
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "4356524f"
+  md5sum-partial: "77416e84"

@@ -1,0 +1,8 @@
+name: "Queue.NativeHeap"
+description: "Simply using AIList of indexes is faster than any squirrel implementation."
+url: "https://github.com/SamuXarick/Queue.NativeHeap"
+tags:
+- "heap"
+- "native"
+- "priority"
+- "queue"

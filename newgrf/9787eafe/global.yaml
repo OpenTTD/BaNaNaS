@@ -1,0 +1,23 @@
+name: "Road Hog"
+description: |-
+  Road Hog!  A big fat road vehicle set.
+
+  * Trucks
+  * Buses and coaches
+  * Passenger trams
+  * Freight trams
+
+  * Intro dates 1860-2000
+  * Supports 2 company colours
+  * Compatible with all known cargos
+  * Autorefit support
+  * Parameter for vehicle capacity
+
+  Not savegame compatible with previous versions.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=70241"
+tags:
+- "buses"
+- "cargo trams"
+- "passenger trams"
+- "road vehicles"
+- "trucks"

@@ -1,0 +1,19 @@
+version: "gamma"
+license: "GPL v2"
+upload-date: 2010-04-22T20:54:23Z
+md5sum-partial: "ce8b8566"
+filesize: 29057
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2a24224b"
+
+description: "AIAI - Automatic Idiot AI. That version uses trucks and planes. Support for all newgrfs. Tested with various plane and truck sets, works perfectly with FIRS, works with ECS, should work also with other newgrfs."
+tags:
+- "full newgrf support"
+- "plane"
+- "truck"

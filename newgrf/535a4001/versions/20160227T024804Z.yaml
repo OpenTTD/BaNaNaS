@@ -1,0 +1,23 @@
+version: "11"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-02-27T02:48:04Z
+md5sum-partial: "b6abc46d"
+filesize: 12269
+availability: "savegames-only"
+
+description: |-
+  A Names Set of Planets, Moons and more from the Solar Sistem and beyond for your Cities.
+
+  Enjoy it!
+
+  (c)2015-16 SilverSurferZzZ
+  CC BY-NC-SA
+tags:
+- "city"
+- "constellations"
+- "moons"
+- "names"
+- "newgrf"
+- "planets"
+- "stars"
+- "town"

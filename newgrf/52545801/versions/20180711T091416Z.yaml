@@ -1,0 +1,8 @@
+version: "1.3"
+license: "GPL v3"
+upload-date: 2018-07-11T09:14:16Z
+md5sum-partial: "086b9c47"
+filesize: 13081
+availability: "savegames-only"
+
+description: "Allows you to change MANY cargo types payment rates anywhere between 0-10,000%!"

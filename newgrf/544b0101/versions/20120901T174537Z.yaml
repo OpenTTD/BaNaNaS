@@ -1,0 +1,16 @@
+version: "1.1"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2012-09-01T17:45:37Z
+md5sum-partial: "9c425d54"
+filesize: 8353
+availability: "savegames-only"
+
+description: |-
+  ★ 한국 도시 이름 / Korean Town Names ★
+
+  It's Korean style town names written in Korean(Hangeul) including two types: Real and Virtual.
+  Do not download if your PC can't show Korean character.
+  If you're using non-Korean PC, use another korean town names NewGRF.
+  (Search it as 'South Korean Town Names')
+
+  (c) TELK (www.korct.com)

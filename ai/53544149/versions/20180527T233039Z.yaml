@@ -1,0 +1,12 @@
+version: "4"
+license: "Custom"
+upload-date: 2018-05-27T23:30:39Z
+md5sum-partial: "02457d96"
+filesize: 5962
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: "An AI that builds simple road networks, connecting a town to nearby towns and making bus routes between them."

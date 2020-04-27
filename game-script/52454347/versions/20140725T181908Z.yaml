@@ -1,0 +1,13 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2014-07-25T18:19:08Z
+md5sum-partial: "39b5133d"
+filesize: 13633
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "3a678330"
+
+description: "A new city growth script. Towns require increasingly various cargo categories to be delivered to grow. Growth Rate is averaged over 8 months. Works only with FIRS (FIRS economy) for now."
+tags: []

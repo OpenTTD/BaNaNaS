@@ -1,0 +1,15 @@
+version: "0.2.5"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-01-25T11:59:21Z
+md5sum-partial: "93eceb98"
+filesize: 11096
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "544b5555"
+  md5sum-partial: "913ef984"
+
+description: |-
+  This NewGRF adds narrow gauge Suin-line in South Korea in 90's.
+
+  This NewGRF Contains Passenger Car, Freight Car, Diesel Car, Steam Engine for Suin-line.

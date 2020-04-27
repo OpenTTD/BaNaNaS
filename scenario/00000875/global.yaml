@@ -1,0 +1,11 @@
+name: "Split"
+description: |-
+  In this scenario you start out at one main island with all primary industries but the only available secondary industry are two steel mills. To gain access to the other secondary industries, you have to complete the goal of getting a high enough total monthly production of the steel mills.
+
+  Industries: no new industries are spawned
+  Vehicle types: Road + Rail
+  NewGRFs: OpenGFX+
+  Depends on: Split scenario GS, a few OpenGFX+ NewGRFs
+
+  Author: Zuu
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=61378"

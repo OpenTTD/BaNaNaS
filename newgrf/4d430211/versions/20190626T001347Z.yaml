@@ -1,0 +1,10 @@
+version: "2.7"
+license: "GPL v2"
+upload-date: 2019-06-26T00:13:47Z
+md5sum-partial: "6eb2ed52"
+filesize: 79890
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.1"

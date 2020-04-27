@@ -1,0 +1,10 @@
+version: "0.6"
+license: "GPL v2"
+upload-date: 2013-02-07T17:50:33Z
+md5sum-partial: "68ec0264"
+filesize: 391904
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "58534453"
+  md5sum-partial: "2e100bca"

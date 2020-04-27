@@ -1,0 +1,20 @@
+name: "England and Wales"
+replaced-by:
+  unique-id: "000001e6"
+description: |-
+  England and Wales Layout and Cities taken from the Hightmap
+
+  Made in: Openttd 0.7.2 Stable (Normal Build)
+
+  NewGRFS needed for best experience:
+  UK Renewal Set 3.4 , UK Renewal Set Addon Pack 3.4 , UK Roadset 1.1a , Generic Cars 0.2 , TaI UK Houses 0.2
+
+  Update Changes: Added more places around the map as well as corrected a few locations and started using newgrfs more suited to the UK
+  Made By: Dreamxtreme
+  Map Size: 2048x2048
+  Starting Year : 1975
+url: "http://www.tt-forums.net/viewtopic.php?f=29&t=44751&start=0"
+tags:
+- "england"
+- "uk"
+- "wales"

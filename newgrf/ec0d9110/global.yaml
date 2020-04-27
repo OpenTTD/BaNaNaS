@@ -1,0 +1,16 @@
+name: "Raise landscaping costs"
+description: |-
+  This GRF raises by 4x all landscaping related costs without altering the cost of building foundations. It also includes four parameters, which allow to change the costs:
+
+  1: Raise / lower land.
+  2: Clear grass / rough land / rocks / field / water.
+  3: Build foundations.
+  4: Plant / remove trees.
+
+  The default value for every cost is 8. A value of 7 will halve the cost, 9 will duplicate the it, 10 will multiply it by four and so on.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=46192"
+tags:
+- "base costs"
+- "costs"
+- "difficulty"
+- "landscaping"

@@ -1,0 +1,12 @@
+name: "Slovakia-Zilina&Martin"
+description: |-
+  Small scenario based on real-world Northwestern Slovakia (built from SRTM data).
+
+  It is road-vehicle friendly, as there is not much space to build big railroads.
+
+  Dialnica medzi Zilinou a Martinom moze byt hotova uz v 2017!
+url: ""
+tags:
+- "central europe"
+- "slovakia"
+- "srtm"

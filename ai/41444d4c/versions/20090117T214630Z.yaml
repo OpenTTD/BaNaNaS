@@ -1,0 +1,10 @@
+version: "19"
+license: "GPL v2"
+upload-date: 2009-01-17T21:46:30Z
+md5sum-partial: "02b540ff"
+filesize: 65008
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1420fbe3"

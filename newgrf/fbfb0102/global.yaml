@@ -1,0 +1,9 @@
+name: "Dutch Tram Set"
+description: |-
+  The Dutch Tram Set is New Graphics Set which adds a great number of both historical and current Dutch trams to OpenTTD.
+
+  This set is aimed to give an historical overview of Dutch trams while ensuring quality gameplay through customized statistics.
+url: "http://dev.openttdcoop.org/projects/dutchtramset"
+tags:
+- "dutch"
+- "trams"

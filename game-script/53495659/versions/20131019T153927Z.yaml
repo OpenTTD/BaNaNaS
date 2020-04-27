@@ -1,0 +1,17 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2013-10-19T15:39:27Z
+md5sum-partial: "07c3ac30"
+filesize: 15552
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "3a678330"
+
+description: |-
+  Silicon Valley challenges every company to turn a specific town into a global production centre for a specialised cargo.
+
+  Every company is assigned a slightly different goal, but they all have the same time period to achieve their goal.
+
+  To achieve the goal, the companies do not only have to transport lots of cargo to and from their town, they also have to fund sufficient industries to produce the cargo.

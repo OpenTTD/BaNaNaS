@@ -1,0 +1,10 @@
+version: "Modified2 3.14"
+license: "CC-BY v3.0"
+upload-date: 2017-07-25T23:47:48Z
+md5sum-partial: "c1772ed8"
+filesize: 1750574
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

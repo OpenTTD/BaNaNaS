@@ -1,0 +1,17 @@
+version: "3.0"
+license: "GPL v3"
+upload-date: 2013-11-03T05:09:04Z
+md5sum-partial: "6cc5e384"
+filesize: 828169
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44503000"
+  md5sum-partial: "ed024a84"
+- content-type: "newgrf"
+  unique-id: "52453200"
+  md5sum-partial: "dba84425"
+
+description: |-
+  Version 3.0!
+  This is the Japanese Train Set as seen in the Japan Set Development thread on TT-Forums.

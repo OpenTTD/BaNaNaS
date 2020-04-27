@@ -1,0 +1,22 @@
+version: "2204"
+license: "GPL v2"
+upload-date: 2018-02-19T01:49:16Z
+md5sum-partial: "bfa04a11"
+filesize: 344781
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "ac1d0101"
+  md5sum-partial: "acd9ae07"
+
+description: |-
+  An Add-on Set for the
+  "North American Railway Set 2.5"
+  That adds lots of engines and cars!
+
+  NARS 2.5 PASSENGER MOD RECOMMENDED!
+
+  See Readme for details and full credits!
+
+  Special thanks : Sylf - Taught me NML coding
+  Transportman - 2cc Trains NML Code

@@ -1,0 +1,23 @@
+name: "German Signals"
+description: |-
+  Changelog:
+
+  Version 0.4
+  + new pre signal graphics => no more unrealistic
+  waiting at distant (VR) signals
+  + changed exit signal post plate to white-red-white
+  + better post plates for PBS
+  + one-way PBS now has ground level
+  blocking signal on it's back
+
+  Version 0.3
+  + PBS support
+url: "http://www.tt-forums.net/viewtopic.php?t=41498"
+tags:
+- "german"
+- "infrastructure"
+- "pbs"
+- "pre signal"
+- "signal"
+- "signals"
+- "track"

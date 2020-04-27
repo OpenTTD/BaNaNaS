@@ -1,0 +1,12 @@
+name: "PIPE"
+description: |-
+  Pipelines for the people!
+  Pipelines coded as a railtype. 12 vehicles ranging from 1860 to 2012. The vehicles available are called pumps and are represented as very fast arrows or invisible if set in the parameters(I would recommend to not use full load on orders).
+  Higher construction and maintenance costs than railroad. But very low running costs.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=61644"
+tags:
+- "pipe"
+- "pipeline"
+- "pump"
+- "rail_type"
+- "train"

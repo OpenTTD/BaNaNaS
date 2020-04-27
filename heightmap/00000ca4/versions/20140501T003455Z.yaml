@@ -1,0 +1,10 @@
+version: "3r1"
+license: "CC-0 v1.0"
+upload-date: 2014-05-01T00:34:55Z
+md5sum-partial: "e96e77ca"
+filesize: 58651
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

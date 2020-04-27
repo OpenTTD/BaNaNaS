@@ -1,0 +1,13 @@
+name: "WormAI"
+description: |-
+  WormAI is a competitive AI for OpenTTD that uses trains and aircraft.
+  Aircraft are only used for passenger transport. Trains transport all available cargos.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=67167"
+tags:
+- "ai"
+- "aircraft"
+- "airplane"
+- "cargo"
+- "pax"
+- "rail"
+- "trains"

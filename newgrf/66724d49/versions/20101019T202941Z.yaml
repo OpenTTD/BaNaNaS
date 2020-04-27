@@ -1,0 +1,15 @@
+version: "2-r2"
+license: "GPL v2"
+upload-date: 2010-10-19T20:29:41Z
+md5sum-partial: "c8ccba47"
+filesize: 9037
+availability: "savegames-only"
+
+description: |-
+  Allows disabling certain aspects of default industries including disabling all economical aspects like opening/closure and production changes.
+
+  Using cheats one can then control industries manually without any random changes interfering.
+
+  Take a look at the NewGRF parameter configuration for all details.
+
+  Not compatible with other industry sets.

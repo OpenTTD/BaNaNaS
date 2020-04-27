@@ -1,0 +1,8 @@
+version: "0.3"
+license: "GPL v3"
+upload-date: 2009-03-15T18:07:23Z
+md5sum-partial: "4de74fd5"
+filesize: 14242
+availability: "savegames-only"
+
+description: "Experts hard 0.7beta test server supporting grf - industries. Behavior of all secondary industries is changed. Cargo is processed over time, and every secondary industry has it's own production limit. Only coal, sawmill, steelmill and oil rafinery implemented."

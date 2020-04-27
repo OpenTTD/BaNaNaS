@@ -1,0 +1,8 @@
+name: "EmotionAI"
+description: "This is my first take on building an AI for OpenTTD. EmotinAI tries not to be \"dumb\" in a sence that other AI don't react when other players attack them. EmotionAI tries do do a workaround the attacks in the best possible way."
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=83365"
+tags:
+- "ai"
+- "block"
+- "emotin"
+- "player"

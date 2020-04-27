@@ -1,0 +1,8 @@
+name: "Long Vehicle Introduction Date"
+archived: true
+description: |-
+  Makes that you have all trains in all 4 climates, and introduces them with a 70 to 80 year gap between them. Last one is introduced in the year 4223. So its best suited for long (multiplayer) games.
+  (Use persistant engines and no vehicle breakdowns)
+
+  (Not tested with any other grf's)
+url: "http://www.tt-forums.net/viewtopic.php?f=31&t=48716"

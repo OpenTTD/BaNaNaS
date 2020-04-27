@@ -1,0 +1,11 @@
+version: "0.1.1"
+license: "GPL v2"
+upload-date: 2016-05-15T19:04:49Z
+md5sum-partial: "f2323444"
+filesize: 286627894
+availability: "savegames-only"
+
+name: "abase 32bpp base graphics set"
+description: |-
+  The abase base graphics set is a 32bpp graphics set that is a
+  fork of zbase base set. It includes high resolution, enhanced and new graphics for OpenTTD.

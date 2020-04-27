@@ -1,0 +1,22 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2009-07-17T05:02:43Z
+md5sum-partial: "6b29d91c"
+filesize: 24555
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  Builds only bus routes between towns. Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless updated to work with current NoAI API. Extra in the Plus edition:
+  1) Now it uses the library pathfinder
+  2) plans before building stations -> less annoying for players
+  3) buy/sell vehicles based on number of waiting passengers and rating.
+
+  CluelessPlus now supports loading of games!
+tags:
+- "bus"
+- "save/load"
+- "simple"

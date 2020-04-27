@@ -1,0 +1,16 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2014-07-11T17:58:49Z
+md5sum-partial: "4e47ce9c"
+filesize: 25464
+availability: "savegames-only"
+
+description: |-
+  Set of Polish trams from 1912 till 2014 (Sanok, Konstal, Alstom, Bombardier and others manufacturers), drawn by Sojita, version 7 coded in NML by McZapkie.
+  Autorefit option compatible with ECS (tourists).
+  Purchased single trams have option to buy trailers via refit menu.
+  Note: huge capacity is counted including standing places, therefore reduced comfort must be taken into account - use with caution, for massive urban transit only.
+tags:
+- "poland"
+- "tram"
+- "urban"

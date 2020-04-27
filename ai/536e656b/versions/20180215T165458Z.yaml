@@ -1,0 +1,16 @@
+version: "3"
+license: "GPL v3"
+upload-date: 2018-02-15T16:54:58Z
+md5sum-partial: "932426ca"
+filesize: 20264
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: "A Simple AI that connects industries via road vehicles."
+tags:
+- "ai"
+- "road"
+- "truck"

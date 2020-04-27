@@ -1,0 +1,17 @@
+version: "0.5"
+license: "GPL v2"
+upload-date: 2010-07-08T20:51:03Z
+md5sum-partial: "e599e58a"
+filesize: 28775
+availability: "savegames-only"
+
+description: |-
+  British Vehicles starting in 1896
+
+  FIRS compatible - you'll get some odd cargo effects if using it without
+
+  Some load sprites still to be done
+tags:
+- "british"
+- "bus"
+- "truck"

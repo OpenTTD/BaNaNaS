@@ -1,0 +1,25 @@
+version: "0.4.6"
+license: "GPL v2"
+upload-date: 2015-07-04T08:41:02Z
+md5sum-partial: "6f24d44c"
+filesize: 4615544
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4c534702"
+  md5sum-partial: "5e8e4121"
+
+description: |-
+  After a long hiatus, I created this GRF.  Increased more than 10 trains or wagons.
+  (DF1,SS1,DF4B,SS4,DF7D,DF7G,DF11G,HXD3,HXN5,CRH1,CRH2,CRH3,CRH380...)
+  It is compatible with 8bpp and 32bpp graphics. More trains will be added in the future.
+
+  Enjoy it !
+
+  (c)July 2015 by Leou
+tags:
+- "32bpp"
+- "china"
+- "chinese"
+- "full zoom"
+- "trains"

@@ -1,0 +1,19 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2011-12-20T23:16:44Z
+md5sum-partial: "630c36e1"
+filesize: 8957
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+- content-type: "game-script-library"
+  unique-id: "54455854"
+  md5sum-partial: "e9465dbf"
+
+description: |-
+  Creates a goal per company:
+  - Transport at least X cargo items per vehicle during a period of three months
+
+  Displays a sign over each HQ with the last achieved level per company.

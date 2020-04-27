@@ -1,0 +1,32 @@
+version: "8"
+license: "Custom"
+upload-date: 2014-03-10T21:04:46Z
+md5sum-partial: "ad38bad0"
+filesize: 52995
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "b234d8bd"
+
+description: |-
+  Minchinweb's MetaLibrary is an AI library written to support WmDOT but I hope it will be useful to others. (v.8) [2014-03-10]
+
+  Sublibraries include:
+  * Road Pathfinder,
+  * Dominion Land System (pathfinder),
+  * Ship Pathfinder,
+  * Spiral Walker,
+  * Line Walker,
+  * Lakes (water body check),
+  * Log,
+  * Array,
+  * Atlas,
+  * Marine, and
+  * Extras

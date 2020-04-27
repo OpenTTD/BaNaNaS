@@ -1,0 +1,14 @@
+version: "1.2"
+license: "Custom"
+upload-date: 2011-04-26T02:19:26Z
+md5sum-partial: "a559efe4"
+filesize: 25878
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44440a01"
+  md5sum-partial: "0bf8636e"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.6.3"

@@ -1,0 +1,11 @@
+name: "Early Houses"
+description: |-
+  reduces population to 1/4 until 1900 and 1/2 between 1900 and 1930.
+
+  2009-05-13 / Ammler
+url: "http://www.openttdcoop.org"
+tags:
+- "early"
+- "horses"
+- "houses"
+- "population"

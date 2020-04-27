@@ -1,0 +1,11 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2019-11-08T11:19:50Z
+md5sum-partial: "dbb6827e"
+filesize: 30500
+availability: "savegames-only"
+
+description: |-
+  For use with the Dutch Trainset 2
+
+  This trainset adds the trains that have not yet been added to the Dutch Trainset.

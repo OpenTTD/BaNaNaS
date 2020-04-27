@@ -1,0 +1,8 @@
+name: "Rythorn Airline AI"
+description: "Rythorn Airline AI by Sevestra Rythorn is a fork of WrightAI that adds some customization without changing too much of the underlying mechanics. It also contains code that picks a company name and company president from a list of characters from my work in progress book, The Chronicles of Rythorn. Said code was found on the TT-Forums in a thread by Asimov answered by Yexo and customized by me."
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=62509"
+tags:
+- "ai"
+- "airline"
+- "rythorn"
+- "wrightai"

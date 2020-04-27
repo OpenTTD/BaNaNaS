@@ -1,0 +1,23 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2017-08-07T17:58:41Z
+md5sum-partial: "40afff8d"
+filesize: 25818
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+
+description: |-
+  AI that operates only ships, it's heavily based on HeliFerry AI.
+
+  It supports:
+  - freight & PAX cargos
+  - building canals
+  - autoreplacing vehicle model when the new, better model appears
+  - selling unprofitable vehicles
+  - autoreplacing old vehicles with new ones
+tags:
+- "ai"
+- "ships"

@@ -1,0 +1,25 @@
+name: "United Kingdom: 1860-2100"
+description: |-
+  Gives a paced but basic endurance challenge. Set in the UK & Ireland with an early start. Most real UK towns exist with low populations. Link and grow them!
+
+  1 (default) coal mine and 1 power plant exist initially to get you started. More industries will spawn.
+
+  UKRS2 provides trains until 2020, when default Maglevs and later VacTube trains appear until 2080-ish.
+
+  NewGRF selection can be changed in the scenario editor with "set scenario_developer 1" in the console.
+
+  by DarkHoodness
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=77124"
+tags:
+- "britain"
+- "british isles"
+- "extended play"
+- "flat"
+- "flatter"
+- "great britain"
+- "ireland"
+- "long play"
+- "scotland"
+- "uk"
+- "united kingdom"
+- "wales"

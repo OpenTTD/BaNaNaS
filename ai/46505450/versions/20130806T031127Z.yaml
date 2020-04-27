@@ -1,0 +1,18 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2013-08-06T03:11:27Z
+md5sum-partial: "c32dda25"
+filesize: 14668
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "fe413a02"
+
+description: |-
+  This is an incredibly simple AI that is very competitive. As the name implies, it quickly builds point to point routes. I am planning to add more features to it soon.
+
+  Version 3 supports more cargos and fixes some bugs.

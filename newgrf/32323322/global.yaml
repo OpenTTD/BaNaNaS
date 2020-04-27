@@ -1,0 +1,17 @@
+name: "Russian Town Names"
+description: |-
+  Russian Town Names
+
+  Town names taken from GeoNames geographical database (http://www.geonames.org/).
+  Contains over three thousands of Russian toponyms, both in Cyrillic and Latin.
+  Includes generated Cyrillic names.
+  Generated Latin in progress.
+
+  Authors: Tloo-ZaRaZa and others.
+  GNU General Public License, v2
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=55134"
+tags:
+- "cyrillic"
+- "latin"
+- "russian"
+- "town names"

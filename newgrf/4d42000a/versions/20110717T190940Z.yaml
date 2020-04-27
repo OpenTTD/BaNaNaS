@@ -1,0 +1,21 @@
+version: "0.3"
+license: "GPL v2"
+upload-date: 2011-07-17T19:09:40Z
+md5sum-partial: "8b479fa8"
+filesize: 46373
+availability: "savegames-only"
+
+description: |-
+  Bob & Ameecher's Tram Set
+
+  ---- or ----
+
+  British Advanced Tram Set
+
+  A set of British trams starting in 1860
+
+  Mostly drawn by Ameecher and Bob with help by Born Acorn and AndrewA. Coded by Bob using GRFMaker v4.06B, with help from Colossal 404
+tags:
+- "british"
+- "tram"
+- "uk"

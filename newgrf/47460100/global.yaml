@@ -1,0 +1,12 @@
+name: "8/32bpp Master Control"
+archived: true
+description: |-
+  DEPRICATED!!!
+
+  This NewGRF is a master control for setting the parameters for the "8/32bpp Train 2CC" replacement sets
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=59332"
+tags:
+- "2cc"
+- "32bpp"
+- "master control"
+- "newgrf"

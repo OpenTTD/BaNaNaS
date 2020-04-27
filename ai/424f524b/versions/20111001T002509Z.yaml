@@ -1,0 +1,21 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2011-10-01T00:25:09Z
+md5sum-partial: "5a1dcf3d"
+filesize: 21949
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  A simple AI that uses only trucks.
+  It handles all kind of cargo except for mail and passengers.
+
+  v6:
+  * Initial support for passengers and mail
+  * Much improved performance, shouldn't hang any more while doing some task
+  * Better performace on medium-sized maps.
+  * Better handling of NewGRF, shouldn't crash any more with some of them.
+  * Fixed a few bugs here and there (route construction, truck deletion, and many others)

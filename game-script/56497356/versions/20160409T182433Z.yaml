@@ -1,0 +1,15 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2016-04-09T18:24:33Z
+md5sum-partial: "6bcd5011"
+filesize: 14065
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "73c82171"
+
+description: |-
+  Keep villages as villages! Villages Is Villages will stop every village from growing into a metropolis, and prevent industries from taking over the map.
+
+  Towns are given a maximum population to which they can grow, and you will need to transport a (configurable) minimum amount of passengers and mail for them to grow at all. In order to grow a town beyond its initial limit, you will need to supply goods, building materials, or fund the town expansion yourself.

@@ -1,0 +1,12 @@
+name: "Dutch Road Furn. UK Signs Add-o"
+description: |-
+  Add-on for the Dutch Road Furniture, providing UK style motorway signs.
+
+  Must be used in combination with Dutch Road Furniture.
+url: "http://dev.openttdcoop.org/projects/dutchroadfurniture"
+tags:
+- "freeways"
+- "motorways"
+- "objects"
+- "signs"
+- "uk"

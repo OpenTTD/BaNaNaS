@@ -1,0 +1,14 @@
+version: "0.1"
+license: "GPL v3"
+upload-date: 2018-03-02T00:23:23Z
+md5sum-partial: "1dc1d633"
+filesize: 18376
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  A little AI written by me DrReVaN :)
+  Supports trucks only and transports different cargos.

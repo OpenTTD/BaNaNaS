@@ -1,0 +1,13 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2012-02-09T20:38:21Z
+md5sum-partial: "6bbcbe14"
+filesize: 46290
+availability: "savegames-only"
+
+description: |-
+  Russian Town Names
+  Town names taken from GeoNames geographical database (http://www.geonames.org/).
+  Now contains over three thousands of Russian toponyms, both in Cyrillic and Latin!
+  Authors: Tloo-ZaRaZa and others.
+  GNU General Public License, v2

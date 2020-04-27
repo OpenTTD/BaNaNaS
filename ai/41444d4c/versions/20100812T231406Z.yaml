@@ -1,0 +1,14 @@
+version: "25"
+license: "GPL v2"
+upload-date: 2010-08-12T23:14:06Z
+md5sum-partial: "4ccd92fb"
+filesize: 72774
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1cfcb44b"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

@@ -1,0 +1,12 @@
+version: "1.2"
+license: "GPL v3"
+upload-date: 2010-02-25T12:58:54Z
+md5sum-partial: "3acd79da"
+filesize: 14702
+availability: "savegames-only"
+
+description: |-
+  This grf names a station with the name of nearby industry, where "nearby" means within 3 tiles.
+  this grf is not intended to be used with another industries' grf - only use it with default industries. can be used on every climate.
+
+  See URL http://www.tt-forums.net/viewtopic.php?f=26&t=40523 for description of parameters

@@ -1,0 +1,10 @@
+version: "v1"
+license: "GPL v2"
+upload-date: 2010-12-22T23:33:16Z
+md5sum-partial: "35a04d3c"
+filesize: 7200
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.0"

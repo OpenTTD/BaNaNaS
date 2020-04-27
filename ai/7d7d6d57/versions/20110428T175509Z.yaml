@@ -1,0 +1,24 @@
+version: "6"
+license: "CC-BY v3.0"
+upload-date: 2011-04-28T17:55:09Z
+md5sum-partial: "68f27b81"
+filesize: 31009
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "a4cce9ee"
+- content-type: "ai-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "49437f6a"
+
+description: |-
+  An AI that doesn't compete with you but rather builds out the highway network. We're still looking for a revenue stream.
+
+  v6 tries to build less roads and fixes a bug where WmDOT would crash if it couldn't build HQ;
+  v5 greatly increases startup speed on large maps;
+tags:
+- "ai"
+- "minchinweb"
+- "road"
+- "wmdot"

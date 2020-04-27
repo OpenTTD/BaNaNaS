@@ -1,0 +1,12 @@
+version: "1"
+license: "GPL v3"
+upload-date: 2015-06-01T10:35:19Z
+md5sum-partial: "678c9737"
+filesize: 14415
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4c420000"
+  md5sum-partial: "627ded61"
+
+description: "319 Romanian town names."

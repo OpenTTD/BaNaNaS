@@ -1,0 +1,23 @@
+version: "28"
+license: "GPL v2"
+upload-date: 2013-05-19T10:52:51Z
+md5sum-partial: "7b2d552a"
+filesize: 73953
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  SuperLib contains functions for
+  * Simplifying tasks (tiles, direction, signs, money ..)
+  * Get better understanding of the world (vehicle, engine, industry, town, airport ..)
+  * Build infrastructure (road, station, airport, ..)
+  * A log system
+
+  Originally this library was created to reduce code duplication among AIs created by Zuu.
+
+  Note that this is the AI edition of the library. For Game Scripts, you need the GS edition.
+
+  Author: Zuu

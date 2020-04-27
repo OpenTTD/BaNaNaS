@@ -1,0 +1,14 @@
+version: "9"
+license: "GPL v2"
+upload-date: 2014-04-14T06:57:02Z
+md5sum-partial: "e08f7364"
+filesize: 20643
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "a72c0b64"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.0"

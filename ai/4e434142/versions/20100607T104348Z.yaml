@@ -1,0 +1,20 @@
+version: "2.0.14"
+license: "GPL v2"
+upload-date: 2010-06-07T10:43:48Z
+md5sum-partial: "8fd93ce3"
+filesize: 91765
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+
+description: |-
+  NoCAB is a competitive AI that tries to compete with other AIs and human players. If features a custom pathfinder and data structures for maximal performance. It can handle trains, road vehicles, aircraft, and ships.
+
+  Update:
+  2.0.14: Fixed pathfinding bugs.
+  2.0.13: Fixed bugs (thx Brumi!).
+  2.0.11: Better pathfinding and station placement; Better performance over all!
+
+  Enjoy! :)

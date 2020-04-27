@@ -1,0 +1,11 @@
+name: "CityBuilder"
+description: |-
+  This gamescript is a recreation and extension of the CityBuilder game as played on the LL servers.
+
+  Towns will require cargo to grow. In standard CB mode, companies are judged by how much they can grow a specific town.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=62868"
+tags:
+- "citybuilder"
+- "goal"
+- "metropolis"
+- "town"

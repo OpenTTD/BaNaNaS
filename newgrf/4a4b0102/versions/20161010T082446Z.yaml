@@ -1,0 +1,19 @@
+version: "v9"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-10-10T08:24:46Z
+md5sum-partial: "6bad4f54"
+filesize: 105576
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  - [v7]
+  County's sprites is bigger than older.
+  BF101 can carry armoured cargo.
+
+  - [v8]
+  fixed BF101's sprites wasn't unique sprites.
+
+  It's remade version of Korean Bus Set.
+  Korean buses and trams by Hyundai, Daewoo and more.

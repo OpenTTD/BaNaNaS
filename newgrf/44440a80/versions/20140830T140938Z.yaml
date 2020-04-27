@@ -1,0 +1,8 @@
+version: "0.82"
+license: "Custom"
+upload-date: 2014-08-30T14:09:38Z
+md5sum-partial: "4b95d7d5"
+filesize: 106627
+availability: "savegames-only"
+
+description: "NewGRF aircraft set with aircraft from 1919 to 2031+. A test version of the Av9 vehicle scheme and stats, using Av8 8bpp graphics."

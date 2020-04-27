@@ -1,0 +1,7 @@
+name: "Graph.AyStar"
+description: "A basic implementation of the A* algorithm."
+url: ""
+tags:
+- "a*"
+- "aystar"
+- "graph"

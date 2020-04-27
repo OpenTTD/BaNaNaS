@@ -1,0 +1,14 @@
+version: "1"
+license: "CC-0 v1.0"
+upload-date: 2015-07-13T14:28:11Z
+md5sum-partial: "6e1d6bb4"
+filesize: 3836
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d656f91"
+  md5sum-partial: "937ba8d6"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"

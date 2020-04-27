@@ -1,0 +1,10 @@
+version: "2.51"
+license: "Custom"
+upload-date: 2015-04-21T09:48:10Z
+md5sum-partial: "c2a2ce00"
+filesize: 348434
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

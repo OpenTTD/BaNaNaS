@@ -1,0 +1,9 @@
+version: "1.4.0"
+license: "GPL v2"
+upload-date: 2013-12-23T10:54:02Z
+md5sum-partial: "68b7dc64"
+filesize: 220435
+availability: "savegames-only"
+
+tags:
+- "stations"

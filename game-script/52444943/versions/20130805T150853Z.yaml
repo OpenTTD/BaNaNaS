@@ -1,0 +1,17 @@
+version: "3"
+license: "GPL v3"
+upload-date: 2013-08-05T15:08:53Z
+md5sum-partial: "53d55074"
+filesize: 29948
+availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "4c4d6d57"
+  md5sum-partial: "ed17b9c5"
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "3a678330"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.1"

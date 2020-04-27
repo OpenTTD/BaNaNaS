@@ -1,0 +1,15 @@
+name: "Arctic Remove SNOW"
+description: |-
+  Arctic Remove SNOW
+
+  GRF replacessnow tiles with lowlands arctic tiles, as well as snowy houses with temperate ones.
+
+  version # 2010.11.16
+
+  Author - Jan Skoch
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=51715"
+tags:
+- "land"
+- "remove"
+- "snow"
+- "tile"

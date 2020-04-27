@@ -1,0 +1,13 @@
+name: "Cpt.K's Ridged Peninsula"
+description: |-
+  A square map of hilly ridges on a peninsula, jutting into the sea. Suitable for all climates.
+
+  For 1024x1024 games, a max height of 40 or above is recommended.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "heightmap"
+- "hills"
+- "islands"
+- "mountains"
+- "ocean"
+- "sea"

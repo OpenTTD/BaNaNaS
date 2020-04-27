@@ -1,0 +1,12 @@
+version: "v1.13.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2017-09-01T10:01:55Z
+md5sum-partial: "b9b111da"
+filesize: 119272
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporation.

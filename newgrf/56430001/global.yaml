@@ -1,0 +1,11 @@
+name: "Total Town Replacement Set"
+description: |-
+  A house set intended for temperate climate, but compatible with all climates. Contains over 100 new buildings. The buildings are separated into four "eras": before 1950, 1950-1980, 1980-2010 and 2010-forever, making the look of towns evolve over time. Also replaces the graphic of the roads, bridges and temperate bank by default.
+
+  Graphics by: Zimmlock (most of the graphics), George, the Tycoonez.com:munity, Oz, Red*Star, Purno and Pikkabird
+  Coded by: Csaboka
+url: "http://dev.openttdcoop.org/projects/ttrs"
+tags:
+- "george"
+- "newhouses"
+- "zimmlock"

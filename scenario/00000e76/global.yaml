@@ -1,0 +1,20 @@
+name: "Florida 1930 (OGFX Industries)"
+description: |-
+  Year : 1930
+  Location : Florida, USA
+  Style : North America
+  Industries : OpenGFX
+
+  Starting in 1930, you're tasked with building and managing your own transport company in the State of Florida, USA
+
+  Inspired by the old Florida Scenario on the Wiki, made for OpenTTD 0.5.3, this new scenario offers a much larger (4 times larger) scenario with much more space and industry to play with.
+
+  All NewGRFs should be available online.
+
+  Enjoy!
+url: ""
+tags:
+- "florida"
+- "real"
+- "real world"
+- "usa"

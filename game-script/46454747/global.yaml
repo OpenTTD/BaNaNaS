@@ -1,0 +1,17 @@
+name: "Feca Goal Games"
+description: |-
+  Attention: this script is displayed in HUNGARIAN!
+  You can add transport goals to your game!
+
+  Hungarian forum: http://openttdfansite.info/forum/viewthread.php?thread_id=114
+  Source: https://github.com/kissferenc/Feca-Goal-Games
+
+  Változások:
+  - új feladat típus: város fejlesztés
+  - FGCargoMonitor-ra átálltam félig
+  - egyéb apróbb hibajavítások.
+url: "http://openttdfansite.info/forum/viewthread.php?thread_id=114"
+tags:
+- "game"
+- "goal"
+- "transport"

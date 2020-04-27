@@ -1,0 +1,11 @@
+version: "10"
+license: "GPL v2"
+upload-date: 2016-05-03T07:45:23Z
+md5sum-partial: "e3cc455c"
+filesize: 561154
+availability: "savegames-only"
+
+description: |-
+  Has Dams, Fake Roads, Farm Buildings, fences, animals, slope_aware tiles and much more.
+
+  Sorry the blue harvester had to be removed due to copyright laws.

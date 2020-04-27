@@ -1,0 +1,9 @@
+name: "Use-able default aircraft"
+description: |-
+  I have played quite a few games with external aircraft.grf's like AV8 or Planeset, but I really just wanted the default OpenTTD set, so I made them carry all cargoes, gave them good old TTOrig-like names and for commuter (small) airport - there are additionally the 727 and the enhanced Kelling K6.
+  Also gradual loading is more balanced.
+  Version_2: Memorable aircraft and all helicopters were give a lasting availability (for games without vehicles_never_expire option).
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=51342&p=914588#p914588"
+tags:
+- "aircraft"
+- "use-able"

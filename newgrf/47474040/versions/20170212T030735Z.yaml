@@ -1,0 +1,11 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2017-02-12T03:07:35Z
+md5sum-partial: "dbdf8cf1"
+filesize: 211671
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"
+  - "< 1.4.4"

@@ -1,0 +1,14 @@
+version: "205"
+license: "GPL v2"
+upload-date: 2012-11-26T13:19:42Z
+md5sum-partial: "ef5cf7d0"
+filesize: 216081
+availability: "savegames-only"
+
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "transfer"
+- "truck"

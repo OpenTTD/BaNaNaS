@@ -1,0 +1,10 @@
+version: "B5 (27 Dec 2010"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2010-12-30T22:24:45Z
+md5sum-partial: "682c2b4b"
+filesize: 70820
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.0"

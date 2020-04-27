@@ -1,0 +1,12 @@
+version: "1.1.1"
+license: "GPL v2"
+upload-date: 2011-06-07T21:24:34Z
+md5sum-partial: "08e91717"
+filesize: 394071
+availability: "savegames-only"
+
+description: "Contain a wide array of different tracks, different speeds and different costs. Costs and speedlimits can be adjusted. See the ingame newgrf settings GUI"
+tags:
+- "rails"
+- "railtypes"
+- "tracks"

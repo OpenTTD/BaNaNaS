@@ -1,0 +1,10 @@
+version: "17a"
+license: "GPL v3"
+upload-date: 2019-06-22T22:03:27Z
+md5sum-partial: "744852a4"
+filesize: 90374
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"

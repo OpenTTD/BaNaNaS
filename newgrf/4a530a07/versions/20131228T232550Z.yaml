@@ -1,0 +1,12 @@
+version: "2013.12.28"
+license: "GPL v2"
+upload-date: 2013-12-28T23:25:50Z
+md5sum-partial: "77f82e36"
+filesize: 16870
+availability: "savegames-only"
+
+description: |-
+  Improvements for goal servers.
+  Version 2013.12.28
+
+  Author: Jan Škoch

@@ -1,0 +1,27 @@
+version: "18"
+license: "GPL v2"
+upload-date: 2014-04-15T23:01:05Z
+md5sum-partial: "3a3e0c75"
+filesize: 25361
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+
+description: |-
+  A simple AI that uses trucks and buses.
+  It handles all kind of cargo.
+
+  v18:
+  Reaching the vehicle limit no longer prevents the AI to renew old vehicles.
+  Fixed a bug that would cause the AI to use too much time for planning
+
+  v17:
+  Fixed an error that occurred while loading old save files
+
+  v15, v16:
+  More bugfixes
+
+  v14:
+  Fixed a bug in route handling

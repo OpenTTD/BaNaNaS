@@ -1,0 +1,11 @@
+name: "Critish Bolumbia (Vanilla)"
+description: |-
+  Inspired by the terrain of British Columbia I made the heightmap for this scenario in World Machine before tidying up the landscape in the scenario editor. The scenario features very large mountains with valleys and passes between them, as well as flatter land near the coast and in the widest valleys. All towns are hand placed.
+
+  This version requires no NewGRFs.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85877"
+tags:
+- "arctic"
+- "mountains"
+- "north america"
+- "rivers"

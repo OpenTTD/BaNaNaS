@@ -1,0 +1,23 @@
+name: "SE USA"
+description: |-
+  2048*2048
+  Heightmap of South Eastern US States.
+
+  Includes all or part of:
+  Mississipi, Alabama, Georgia (state), Florida, Tennessee, South Carolina, North Carolina
+
+  By Moriarty.
+url: ""
+tags:
+- "2048"
+- "alabama"
+- "america"
+- "florida"
+- "gulf of mexico"
+- "heightmap"
+- "mississipi"
+- "moriarty"
+- "north carolina"
+- "south carolina"
+- "tennessee"
+- "usa"

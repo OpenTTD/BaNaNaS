@@ -1,0 +1,30 @@
+version: "1.0.0"
+license: "Custom"
+upload-date: 2018-07-29T13:33:53Z
+md5sum-partial: "8688d02e"
+filesize: 41239
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "52554b54"
+  md5sum-partial: "d513d549"
+
+description: |-
+  The extension GRF to the Representitive UK Trainset!
+
+  By Gwyd & StarRaid
+tags:
+- "2cc"
+- "8bpp"
+- "br"
+- "british"
+- "brtrains"
+- "gwyd"
+- "pacer"
+- "pacy boi"
+- "rukts"
+- "starraid"
+- "trains"
+- "uk"
+- "ukrs"
+- "united kingdom"

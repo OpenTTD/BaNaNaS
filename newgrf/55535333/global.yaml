@@ -1,0 +1,13 @@
+name: "Unsinkable Sam"
+description: |-
+  9 ships in the alpha 3 release.  Don't panic.  More ships will be done another day.
+
+  *Known Issues in Alpha 3*
+
+  - missing cargo graphics for some ships
+  - smoke position is wrong for mini Fast-loading Passenger Ship
+  - intro dates are wrong
+  - running and buy costs are wrong
+  - ship lifetime is (probably) wrong
+  - 'Type:' info in buy menu is empty
+url: "http://bundles.openttdcoop.org/unsinkable-sam/releases/LATEST/docs/html/get_started.html"

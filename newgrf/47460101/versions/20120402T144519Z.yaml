@@ -1,0 +1,8 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2012-04-02T14:45:19Z
+md5sum-partial: "68a63555"
+filesize: 494388
+availability: "savegames-only"
+
+description: "This NewGRF replaces the OpenTTD SH125 with a 8/32bpp Extra Zoom 2CC version of the graphics and adds extra functionality through the setting of the NewGRF parameters."

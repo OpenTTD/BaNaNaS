@@ -1,0 +1,19 @@
+name: "ECS cargoset for standard TTD v"
+replaced-by:
+  unique-id: "4a530116"
+description: |-
+  ECS cargoset for standard TTD vehicles (ECSrefit.grf)
+
+  Enables standard TTD vehicles (trains, cars, airplanes, ships) to be refitted to ECS cargo.
+  Uses mostly default TTD graphics, those new are from (C) Michael Blunck's Cargoset 2003
+
+  Version: # 2010.11.21
+
+  Coded by Jan Skoch
+
+  Special thanks to all who contribute to NewGRF wiki http://wiki.ttdpatch.net/tiki-index.php?page=GRFActionsDetailed,
+  and to Josef Drexler for his astonishing work with TTD
+url: ""
+tags:
+- "cars"
+- "date"

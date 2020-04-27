@@ -1,0 +1,7 @@
+name: "Station's name from nearby indu"
+description: |-
+  This grf names a station with the name of nearby industry, where "nearby" means within 3 tiles.
+  this grf is not intended to be used with another industries' grf - only use it with default industries. can be used on every climate.
+
+  See URL for description of parameters
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=40523"

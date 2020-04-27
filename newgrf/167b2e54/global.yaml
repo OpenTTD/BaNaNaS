@@ -1,0 +1,18 @@
+name: "City Tram Track"
+description: |-
+  City tram track ,... + NEW HQ(all)
+  -First parameter:
+  -1 -> New HQs
+  -2 -> Original HQs
+  -Very-very beta , tramway-railroad crossing isn't working.
+  -Some bridge with this, aren't looking good.
+  -Some road set -II- .
+  ...
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=71516"
+tags:
+- "city"
+- "gauge"
+- "hq"
+- "rail"
+- "track"
+- "tram"

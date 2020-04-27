@@ -1,0 +1,11 @@
+name: "ISR/DWE-style Objects"
+description: |-
+  ISR/DWE-style objects is a feature that has loads of graphics converted from the ISR and DWE stations-sets to objects. Also a lot of new features, like dock- and road-overlapping tiles, drive-through tiles and new graphics.
+  Recommended is to use it in combination with the ISR-style dock GRF that provides an empty dock, so that you can change the appearance of the dock via dock overlapping tiles.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=58884&start=380#p1064920"
+tags:
+- "dwe"
+- "eyecandy"
+- "industrial"
+- "isr"
+- "objects"

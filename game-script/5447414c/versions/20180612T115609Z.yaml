@@ -1,0 +1,10 @@
+version: "16"
+license: "GPL v3"
+upload-date: 2018-06-12T11:56:09Z
+md5sum-partial: "6a4c83ff"
+filesize: 21416
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "4753544c"
+  md5sum-partial: "4b566c09"

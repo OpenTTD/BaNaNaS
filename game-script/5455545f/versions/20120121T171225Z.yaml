@@ -1,0 +1,30 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2012-01-21T17:12:25Z
+md5sum-partial: "5bcdc757"
+filesize: 20620
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "2b643606"
+
+name: "Beginner Tutorial"
+description: |-
+  Add this to your game and you get a tutorial that explains how to play the game.
+
+  How to use it:
+  1. Download this script
+  2. Go to AI / GameScript settings
+  3. Select "Game Tutorial" as game script
+  4. Start a new game.
+
+  Chapters:
+  * Aircraft
+  * Ships (todo)
+  * Road vehicles (todo)
+  * Trains (todo)
+
+  In the future this download will instead be a scenario that contains the tutorial.
+
+  Feedback or helping out is welcome

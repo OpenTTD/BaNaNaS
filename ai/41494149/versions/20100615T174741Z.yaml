@@ -1,0 +1,19 @@
+version: "delta3"
+license: "GPL v2"
+upload-date: 2010-06-15T17:47:41Z
+md5sum-partial: "8af89c93"
+filesize: 32154
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "f7ff74bc"
+
+description: "AIAI - Automatic Idiot AI. That version uses road vehicles and planes. Support for all newgrfs. Tested with various plane and truck sets, works perfectly with FIRS, works with ECS, should work also with other newgrfs."
+tags:
+- "full newgrf support"
+- "plane"
+- "truck"

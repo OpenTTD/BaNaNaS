@@ -1,0 +1,9 @@
+name: "The Dutch Trainset Add-on"
+description: |-
+  For use with the Dutch Trainset 2
+
+  This trainset adds the trains that have not yet been added to the Dutch Trainset, such as the ICNG, the SNG, the FLIRT and the WINK.
+  But also the Vectron freight locomotive.
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=86283"
+tags:
+- "netherlands"

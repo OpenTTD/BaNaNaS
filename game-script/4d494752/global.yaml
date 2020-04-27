@@ -1,0 +1,19 @@
+name: "Migrations"
+description: |-
+  Makes the people in your OpenTTD world migrate to places that provide work.
+  Transporting cargo from an industry creates jobs that cause unemployed population to move nearby the industry.
+
+  Works best with OpenTTD >=1.10.0 (or nightly)
+
+  Recommended game settings:
+  - Towns: Custom(1-20).
+  - Industry: between Minimal and Low.
+  - (optional) NewGRF Sailing Ships enabled
+  - (optional) Starting time 1830
+url: "https://gitlab.com/thexa4/migrations"
+tags:
+- "city"
+- "founding"
+- "growth"
+- "script"
+- "town"

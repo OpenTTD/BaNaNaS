@@ -1,0 +1,32 @@
+version: "8"
+license: "Custom"
+upload-date: 2014-03-10T21:05:15Z
+md5sum-partial: "94d9a924"
+filesize: 52999
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "47514648"
+  md5sum-partial: "6d8a2b4f"
+- content-type: "game-script-library"
+  unique-id: "47514248"
+  md5sum-partial: "98b83fdd"
+- content-type: "game-script-library"
+  unique-id: "4747412a"
+  md5sum-partial: "d8868b0f"
+
+description: |-
+  Minchinweb's MetaLibrary is an GS library written to support WmDOT but I hope it will be useful to others. This version has the same functions as the AI version, but modified for GameScripts. (v.8-GS) [2014-03-10]
+
+  Sublibraries include:
+  * Road Pathfinder,
+  * Dominion Land System (pathfinder),
+  * Ship Pathfinder,
+  * Spiral Walker,
+  * Line Walker,
+  * Lakes (water body check),
+  * Log,
+  * Array,
+  * Atlas,
+  * Marine, and
+  * Extras

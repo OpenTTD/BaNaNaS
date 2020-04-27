@@ -1,0 +1,12 @@
+name: "Wellington, NZ - 1024x1024"
+description: |-
+  Based on the real world city of Wellington, the capital of New Zealand. Includes all major satellite towns as far as Paraparaumu and Upper Hutt + many suburbs.
+
+  NOTE: Towns building roads is set to 'off' by default to prevent growth into the limited flat space. Turn this on for a more challenging gameplay.
+url: ""
+tags:
+- "new zealand"
+- "real world"
+- "scenario"
+- "temperate"
+- "wellington"

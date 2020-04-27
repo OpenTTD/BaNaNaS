@@ -1,0 +1,10 @@
+version: "0.3"
+license: "GPL v2"
+upload-date: 2015-07-13T23:47:15Z
+md5sum-partial: "e35c2214"
+filesize: 32704
+availability: "savegames-only"
+
+description: |-
+  Special track type with telecommunication wires instead of catenary, for mail carriers: telegraph, telex and internet packets.
+  Can be used for block occupancy forwarding (low cost 'telephone' logic train is provided) or for commercial (e)mail communication.

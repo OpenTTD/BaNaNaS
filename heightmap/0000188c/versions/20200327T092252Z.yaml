@@ -1,0 +1,10 @@
+version: "0.1"
+license: "CC-BY v3.0"
+upload-date: 2020-03-27T09:22:52Z
+md5sum-partial: "e272ca5d"
+filesize: 230398
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"

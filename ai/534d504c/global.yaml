@@ -1,0 +1,16 @@
+name: "SimpleAI"
+description: |-
+  SimpleAI is an AI which tries to imitate the old AI which was present in the game until 0.6.3. It uses road vehicles, trains and aircraft, and supports all cargoes.
+  Recommended configuration:
+  - Enable building on slopes
+  - Enable 90 deg turns for trains
+
+  See readme.txt for details.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=44809"
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "simple"
+- "train"
+- "truck"

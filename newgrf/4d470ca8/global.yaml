@@ -1,0 +1,22 @@
+name: "BaseSets SpriteViewer"
+replaced-by:
+  unique-id: "4d470ca9"
+description: |-
+  Place a baseset sprite as station tile.
+
+  Parameter0: start sprite
+  Parameter1: range (default 10, max 250)
+
+  There are 10 of those newgrfs available, so you should be able to setup your prefered combinations.
+
+  Download of the complete set:
+  http://dev.openttdcoop.org/projects/minigrfs/files
+url: "http://dev.openttdcoop.org"
+tags:
+- "alignment"
+- "ammler"
+- "baseset"
+- "debug"
+- "development"
+- "opengfx"
+- "test"

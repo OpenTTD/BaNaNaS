@@ -1,0 +1,16 @@
+version: "169"
+license: "GPL v2"
+upload-date: 2013-01-02T22:06:55Z
+md5sum-partial: "b54e7f5a"
+filesize: 146101
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"

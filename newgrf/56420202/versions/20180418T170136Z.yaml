@@ -1,0 +1,10 @@
+version: "0.0.6"
+license: "GPL v2"
+upload-date: 2018-04-18T17:01:36Z
+md5sum-partial: "bdc286ba"
+filesize: 17854484
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"

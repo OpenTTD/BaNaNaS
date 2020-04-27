@@ -1,0 +1,8 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2010-03-25T18:04:59Z
+md5sum-partial: "335a15f1"
+filesize: 7323
+availability: "savegames-only"
+
+description: "Simply disables Monorail and Maglev trains during standard game years (Pre-2050)"

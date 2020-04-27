@@ -1,0 +1,13 @@
+name: "Permanent Snowy Coasts"
+description: |-
+  This GRF will change all the coasttiles to snowy coasttiles.
+  Use in combination with OpenGFX-graphics for the best looking result (make sure it is placed UNDER OpenGFX in your GRF-list).
+  Parameter-1 to 1: Alpine
+  Parameter-1 to 2: Arctic (Default)
+  Parameter-1 to 0: Disables this GRF
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=77245"
+tags:
+- "coast"
+- "permasnow"
+- "snow"
+- "snowy"

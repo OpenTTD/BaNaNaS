@@ -1,0 +1,11 @@
+version: "4.3"
+license: "GPL v2"
+upload-date: 2010-03-27T15:34:04Z
+md5sum-partial: "253b0ac4"
+filesize: 28237
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 0.7.5"
+  - "< 1.0.0"

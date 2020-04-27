@@ -1,0 +1,10 @@
+name: "AILib.Direction"
+description: |-
+  Overview
+
+  Common Library series :
+  Series of library that contain assorted function that hopefully to be useful for many AI writers.
+
+  Direction:
+  Handle map direction for AI's
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=44594"

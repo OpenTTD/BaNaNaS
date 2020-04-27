@@ -1,0 +1,15 @@
+name: "Sunday Coast"
+description: |-
+  Temperate coastal area. Includes mountains, rivers, inner lakes and islands. Towns and industries placed with realism and balance in mind.
+
+  Map Size: 1024x512
+  Starting Year: 1961
+  Created with: 1.1.0-RC1
+  Created by: pasisti
+
+  NewGRF: OpenGFX+ Landscape, Stolen Trees, Swedish Houses Set, Generic Tram Set, 2CC Trainset
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=52965&p=931433#p931433"
+tags:
+- "1024x512"
+- "coast"
+- "realistic"

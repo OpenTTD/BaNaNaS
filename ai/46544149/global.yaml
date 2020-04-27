@@ -1,0 +1,18 @@
+name: "Trans AI"
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+
+  * Fixes: Aircraft did not respect NewGRF maximum distance
+
+  See changelog.txt
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=42272"
+tags:
+- "aircraft"
+- "bus"
+- "rail"
+- "save/load"
+- "ship"
+- "simple"
+- "tram"
+- "truck"

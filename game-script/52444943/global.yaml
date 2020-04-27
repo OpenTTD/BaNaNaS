@@ -1,0 +1,6 @@
+name: "Industry Constructor"
+description: "Provides options for how industries are built and can also maintain the number level as the game progresses."
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=67181"
+tags:
+- "industry"
+- "save/load"

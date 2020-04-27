@@ -1,0 +1,16 @@
+name: "Terron AI"
+description: |-
+  Terron is an AI that has been written to be both challenging and interesting to play with it.
+  The AI will try to do its best to achieve high profits, but only within strict limits.
+  Almost every aspect that limits the AI's behavior can be seen and tweaked in the settings screen.
+  By changing different values you can greatly influence AI's performance and adjust it to your needs.
+  Hopefully such variety will make this AI an interesting opponent.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=54639"
+tags:
+- "ai"
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "transfer"
+- "truck"

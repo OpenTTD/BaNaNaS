@@ -1,0 +1,35 @@
+version: "190422"
+license: "GPL v2"
+upload-date: 2019-04-02T07:42:37Z
+md5sum-partial: "0010e517"
+filesize: 71922
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "434c4346"
+  md5sum-partial: "e59a176a"
+- content-type: "ai-library"
+  unique-id: "434c5346"
+  md5sum-partial: "61b8396e"
+- content-type: "ai-library"
+  unique-id: "434c414c"
+  md5sum-partial: "1a004fe2"
+
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+
+  * 190420
+  Fixes: Not build rail depot if cant build the entry
+  Fixes: Prevent excessive CPU usage in valuator function.
+  Fixes: index 'info' not found inside valuator.
+
+  See changelog.txt
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "simple"
+- "tram"
+- "truck"

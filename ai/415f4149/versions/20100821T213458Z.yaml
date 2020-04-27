@@ -1,0 +1,24 @@
+version: "1.1.0(r72)"
+license: "GPL v2"
+upload-date: 2010-08-21T21:34:58Z
+md5sum-partial: "29452752"
+filesize: 17150
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  Lord Aro's really feeble attempt at making an AI. currently buses only.
+
+  BIG UPDATE!! :mrgreen:
+
+  SHORT CHANGELOG
+
+  1.1.0 (2010-08-21)
+  ------------------------------------
+  - Feature: Build Bus Stations when drive through bus stations cannot (r70)
+  - Feature: Deal with build road depot errors (r65)
+  - Feature: Reformed debug output (r62)
+  - Feature: Events Manager (r61)

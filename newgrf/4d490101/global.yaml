@@ -1,0 +1,11 @@
+name: "CZTR Road set"
+description: |-
+  Set silnic ve 32bpp s extrazoomem. Vyžaduje verzi hry 1.10 a vyšší s podporou NRT. Vice informaci na TT-foru nebo nasem FB (OTTD-Czech realistic replacement). Autori: CZTR Team
+
+  Set of Czech roads. Needs OTTD v1.10. or higher with NRT support. More info in TT-forum in URL or our FB page (OTTD-Czech realistic replacement). By CZTR Team
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
+tags:
+- "32bpp"
+- "cz"
+- "extrazoom"
+- "realistic"

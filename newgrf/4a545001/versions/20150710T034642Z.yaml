@@ -1,0 +1,10 @@
+version: "1.2"
+license: "GPL v2"
+upload-date: 2015-07-10T03:46:42Z
+md5sum-partial: "df79ba77"
+filesize: 35376
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"

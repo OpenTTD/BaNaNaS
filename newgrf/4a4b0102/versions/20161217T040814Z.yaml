@@ -1,0 +1,15 @@
+version: "v10"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2016-12-17T04:08:14Z
+md5sum-partial: "428eb363"
+filesize: 105878
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v10]
+  - Acceleration parameter (1x ~ 32x)
+
+  It's remade version of Korean Bus Set.
+  Korean buses and trams by Hyundai, Daewoo and more.

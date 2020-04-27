@@ -1,0 +1,12 @@
+version: "21"
+license: "GPL v2"
+upload-date: 2018-06-06T22:46:42Z
+md5sum-partial: "0e4c0f03"
+filesize: 3410507
+availability: "savegames-only"
+
+description: "A set of vehicles common in the UK, including trucks and buses."
+tags:
+- "road"
+- "uk"
+- "vehicles"

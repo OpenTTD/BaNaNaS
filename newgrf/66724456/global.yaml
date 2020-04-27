@@ -1,0 +1,8 @@
+name: "Debug Vehicles"
+description: "Various (articulated) vehicles of different lengths for debug and alignment purposes."
+url: "http://dev.openttdcoop.org/projects/debugveh"
+tags:
+- "bounding box"
+- "debug"
+- "development"
+- "test"

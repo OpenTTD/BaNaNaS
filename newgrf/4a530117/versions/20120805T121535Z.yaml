@@ -1,0 +1,25 @@
+version: "2012.08.04"
+license: "GPL v2"
+upload-date: 2012-08-05T12:15:35Z
+md5sum-partial: "45c629ae"
+filesize: 230950
+availability: "savegames-only"
+
+description: |-
+  Original vehicle set for ECS and FIRS cargo vectors
+
+  Enables standard TTD vehicles (trains, cars, airplanes, ships) to be refitted to ECS and FIRS cargo.
+  Keeps original TTD graphics, those new are from (C) Michael Blunck's Cargoset 2003 with his most kind allowance
+
+  Version: # 2012.08.04
+
+  Coded by Jan Skoch
+
+  Special thanks to all who contribute to NewGRF wiki http://wiki.ttdpatch.net/tiki-index.php?page=GRFActionsDetailed,
+  and to Josef Drexler for his astonishing work with TTD
+tags:
+- "cargo"
+- "ecs"
+- "firs"
+- "set"
+- "vehicle"

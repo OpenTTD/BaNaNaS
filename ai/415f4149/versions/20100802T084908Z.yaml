@@ -1,0 +1,17 @@
+version: "1.0.1(r55)"
+license: "GPL v2"
+upload-date: 2010-08-02T08:49:08Z
+md5sum-partial: "19b495fa"
+filesize: 15022
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  Lord Aro's really feeble attempt at making an AI. currently buses only.
+
+
+  1.0.1(r55)
+  Fix: Wouldn't complete route properly if out of money

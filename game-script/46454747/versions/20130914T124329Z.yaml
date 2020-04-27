@@ -1,0 +1,14 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2013-09-14T12:43:29Z
+md5sum-partial: "6564438c"
+filesize: 80557
+availability: "savegames-only"
+
+description: |-
+  Attention: this script is displayed in Hungarian!
+
+  You can add transport goals to your game!
+
+  Hungarian forum: http://openttdfansite.info/forum/viewthread.php?thread_id=114
+  Source: https://github.com/kissferenc/Feca-Goal-Games

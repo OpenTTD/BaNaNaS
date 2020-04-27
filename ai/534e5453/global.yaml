@@ -1,0 +1,18 @@
+name: "SynTrans"
+description: |-
+  SynTrans stands for Synaptic Transportation.  It creates vast road and aircraft networks.  It is currently planned to include train support soon.
+
+  As a spin off of RoadAI, here are the improvements:
+  1.  Aircraft Support
+  2.  Save/Load support
+  3.  Faster Speed (in most areas)
+  4.  Better Vehicle Management
+  5.  Smarter station placement
+  This release upgrades to SuperLib v35 and creates moneymaker networks to start
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57136"
+tags:
+- "aircraft"
+- "bus"
+- "network"
+- "passengers"
+- "save/load"

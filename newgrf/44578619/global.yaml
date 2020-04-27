@@ -1,0 +1,21 @@
+name: "DWE-StationTiles - Fences"
+description: |-
+  |
+  -------------------
+  DWE - Station Tiles
+  -------------------
+  a nice set of Fence station tiles.
+  normal fences available with no starting year.
+  modern gate from 1965
+  laser fences and gates from 2015
+  -------------------
+
+  NOTE: Dont upgrade NON-track tiles to mono or maglev! It will draw the sprite incorrect. Tiles with tracks work fine with upgrades.
+url: "Http://www.aqua-page.nl"
+tags:
+- "dante123"
+- "dwe"
+- "fence"
+- "newgrf"
+- "stations"
+- "stationtiles"

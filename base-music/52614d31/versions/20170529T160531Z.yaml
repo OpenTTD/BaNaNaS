@@ -1,0 +1,10 @@
+version: "0.0.06"
+license: "Custom"
+upload-date: 2017-05-29T16:05:31Z
+md5sum-partial: "7eb27278"
+filesize: 103018
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.0"

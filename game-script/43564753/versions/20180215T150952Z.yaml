@@ -1,0 +1,13 @@
+version: "v1"
+license: "CC-0 v1.0"
+upload-date: 2018-02-15T15:09:52Z
+md5sum-partial: "e0c3c11c"
+filesize: 7692
+availability: "savegames-only"
+
+description: "Company Value GS is a Game Script that uses the goal list to rank companies by their current company value. It can also be used to challenge companies to be the first to reach a user defined company value target as a goal."
+tags:
+- "company"
+- "goal"
+- "rank"
+- "value"

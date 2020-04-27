@@ -1,0 +1,25 @@
+name: "Africa & Parts of the Mid. East"
+description: |-
+  A large 4096x4096 heightmap of Africa with bits of the middle east and parts of south Italy and Spain.
+
+  It will also work fairly well at 2048x2048 (I've tested both sizes very well)
+
+  Its not the most accurate map, but I have yet to see other maps that include the entirety of Africa for OpenTTD.
+
+  I apologize for inaccuracies with mountains, hills, and rivers (some may be in the wrong place or shouldn't exist on the map)
+url: ""
+tags:
+- "africa"
+- "bahrain"
+- "east"
+- "italy"
+- "master"
+- "middle"
+- "middle east"
+- "neko"
+- "nekomaster"
+- "north"
+- "saudi arabia"
+- "south"
+- "spain"
+- "uae"

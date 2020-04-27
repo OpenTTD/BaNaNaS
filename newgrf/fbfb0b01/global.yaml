@@ -1,0 +1,17 @@
+name: "Termite"
+description: |-
+  Termite ate your track.
+
+  Rail types for Iron Horse train set.
+
+  Author: FooBar
+
+  Based heavily on:
+  Metro Track Set
+  Narrow Gauge Track Types 1.0
+  OpenGFX
+url: "https://dev.openttdcoop.org/projects/termite"
+tags:
+- "iron horse"
+- "railtypes"
+- "tracks"

@@ -1,0 +1,13 @@
+name: "Preindustrial era houses"
+description: |-
+  Pre-industrial era houses replaces some original houses functions (not graphic) in temperate/arctic climate:
+  some old town buildings (tenements with shops and offices) accept coal. Another option is to treat coal like food (towns are not growing if not coal is not delivered to own or nearby power plant in winter).
+  Power plants are not available prior certain date (0 for disabling them).
+  Additionally some tweaks are provided to avoid cluttering of fountains and monuments, hotel supports ECS.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=73081"
+tags:
+- "coal"
+- "houses"
+- "power plant"
+- "replacement"
+- "town"

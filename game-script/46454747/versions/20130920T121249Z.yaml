@@ -1,0 +1,19 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2013-09-20T12:12:49Z
+md5sum-partial: "c4baead9"
+filesize: 82991
+availability: "savegames-only"
+
+description: |-
+  Attention: this script is displayed in HUNGARIAN!
+  You can add transport goals to your game!
+
+  Hungarian forum: http://openttdfansite.info/forum/viewthread.php?thread_id=114
+  Source: https://github.com/kissferenc/Feca-Goal-Games
+
+  Változások:
+  - rakományonként meghatározható, hogy mikor jelenjenek meg.
+  - mentés/betöltés hiba kijavítva.
+  - új feladat létrehozó módszer, ezáltal sokkal biztosabban hozza létre a feladatokat a program (és rövidebb idő alatt is).
+  - egyéb apróbb hibajavítások.

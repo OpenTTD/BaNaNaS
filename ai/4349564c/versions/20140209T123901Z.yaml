@@ -1,0 +1,9 @@
+version: "3"
+license: "Custom"
+upload-date: 2014-02-09T12:39:01Z
+md5sum-partial: "276d8b29"
+filesize: 13377
+availability: "savegames-only"
+
+description: "An AI which builds a road network and fills it with buses and town cars."
+tags: []

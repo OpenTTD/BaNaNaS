@@ -1,0 +1,15 @@
+version: "2"
+license: "CC-BY v3.0"
+upload-date: 2016-05-24T09:18:08Z
+md5sum-partial: "f464a890"
+filesize: 275674
+availability: "savegames-only"
+
+description: |-
+  Switzerland, Northern Italy.
+  Size:1024x1024
+  Climate:subarctic
+  Industry - FIRS 2.1.1, Cities - Swedish Houses Set 1.1.2
+  Start game: 1950
+  OpenTTD 1.6.0
+  * made by STD and osprey.pearl (height map)/May 2016

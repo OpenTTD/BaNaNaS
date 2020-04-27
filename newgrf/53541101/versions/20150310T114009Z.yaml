@@ -1,0 +1,10 @@
+version: "1.0"
+license: "Custom"
+upload-date: 2015-03-10T11:40:09Z
+md5sum-partial: "ecb758ca"
+filesize: 27872
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"

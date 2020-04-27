@@ -1,0 +1,12 @@
+name: "Random Faroese Town Names"
+replaced-by:
+  unique-id: "464e4202"
+description: |-
+  This is a first attempt at creating some plausible random Faroese town names.
+  I knew next to nothing about programming (still don't) and even less about the nml/grf process when I started dabbling in this a couple of days ago, so excuse the simplicity.
+
+  I owe a great deal to William Minchin and his "Random, Alberta-based Town Names for OpenTTD" which is the .nml file I mangled into this and also thanks to the OpenTTD forums and chat.
+url: ""
+tags:
+- "random"
+- "town names"

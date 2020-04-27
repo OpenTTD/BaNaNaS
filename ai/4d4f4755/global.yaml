@@ -1,0 +1,9 @@
+name: "MogulAI"
+description: |-
+  An AI written 'just for fun'.
+  Uses only trucks, makes only freight cargo routes between industries.
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=44760"
+tags:
+- "performance"
+- "save/load"
+- "truck"

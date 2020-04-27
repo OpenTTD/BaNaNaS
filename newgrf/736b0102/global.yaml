@@ -1,0 +1,11 @@
+name: "noMonoMag"
+description: |-
+  Simply disables Monorail and Maglev trains during standard game years (Pre-2050)
+
+  Now works in all climates!
+url: "http://luukland.goulp.net/"
+tags:
+- "disable"
+- "maglev"
+- "monorail"
+- "remove"

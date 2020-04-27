@@ -1,0 +1,11 @@
+name: "2CC Trams"
+description: |-
+  2CC Trams provides many different tram vehicles from around the
+  world. The set is not aimed at specific tram operators or manufacturers,
+  but rather gives you a broad selection so that you can be your own
+  company. To support that goal, the vehicles are in dual company colours.
+url: "http://dev.openttdcoop.org/projects/trams-2cc"
+tags:
+- "2cc"
+- "streetcar"
+- "tram"

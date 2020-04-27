@@ -1,0 +1,10 @@
+version: "1.0.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2009-05-23T12:32:46Z
+md5sum-partial: "19da9e15"
+filesize: 233061
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "fbfb0401"
+  md5sum-partial: "e497afeb"

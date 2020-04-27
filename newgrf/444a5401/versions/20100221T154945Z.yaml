@@ -1,0 +1,13 @@
+version: "r7"
+license: "GPL v2"
+upload-date: 2010-02-21T15:49:45Z
+md5sum-partial: "2688821d"
+filesize: 8017
+availability: "savegames-only"
+
+description: |-
+  New Tracks with different properties and costs.
+  Intended to use with the 2cc trainset nightly/upcomeing version 2 :)
+tags:
+- "new"
+- "tracks"

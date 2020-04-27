@@ -1,0 +1,8 @@
+version: "0.2.0"
+license: "GPL v2"
+upload-date: 2010-09-18T10:20:19Z
+md5sum-partial: "4782add5"
+filesize: 81896
+availability: "savegames-only"
+
+description: "This is a graphic replacement set for trees. The NewGRF currently contains graphics for temperate and sub-arctic trees. This should include sub-tropical trees in the near future. Toyland trees will be considered if needed."

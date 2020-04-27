@@ -1,0 +1,20 @@
+name: "NoGridLand"
+description: |-
+  No Grid Land (NoGridLand.grf)
+
+  Optically removes grid lines from landscape tiles (rails, roads and other either) for all climates (Achived by redrawing edges of each sprite)
+  Uses Original Windows graphics (no OpenGFX, sorry)
+
+  No parametres
+
+  version # 2010.10.14
+
+  Author - Jan Skoch
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=51715"
+tags:
+- "cute"
+- "grid"
+- "land"
+- "landscape"
+- "ni"
+- "tile"

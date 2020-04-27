@@ -1,0 +1,10 @@
+name: "D449"
+description: |-
+  The D.449 is a diesel locomotive for freight duties. It was built by rebuilding an existing D343. It never entered active service and was sadly scrapped after only 1000 km of trial runs.
+
+  Source is on Github. Textures by kiiw.
+url: "https://github.com/RAD750/openttdstuff/tree/master/d449"
+tags:
+- "diesel"
+- "locomotive"
+- "train"

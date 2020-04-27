@@ -1,0 +1,7 @@
+name: "KrakenAI"
+description: "This AI builds only trucks to transport cargo between industries. It tries to be competitive."
+url: "https://github.com/krakeusz/krakenai"
+tags:
+- "performance"
+- "save/load"
+- "truck"

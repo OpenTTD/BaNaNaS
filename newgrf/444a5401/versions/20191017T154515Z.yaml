@@ -1,0 +1,10 @@
+version: "r283"
+license: "GPL v2"
+upload-date: 2019-10-17T15:45:15Z
+md5sum-partial: "e198910f"
+filesize: 83680
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.1.0"

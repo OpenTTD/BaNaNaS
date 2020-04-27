@@ -1,0 +1,18 @@
+name: "Recycled Infrastructure Set"
+description: |-
+  A set of infrastructure aiming to include other GPL v2 graphics in one NewGRF with no graphical oddities.
+
+  Thanks to...
+  Gwyd
+
+  Currently includes...
+  + FooBar's Useless Tracks
+  + McZapkie's Wired
+  + Supercheese's WIRES
+  + Snail's Dual Gauge (basis for Volos Tri-Guage)
+  + FooBar's Metro Track Set
+  + Erato's DPRK Metro Tracks
+
+  Will soon include...
+  + FooBar's Tram Tracks (temporarily removed for NRT compatibility)
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83306"

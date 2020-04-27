@@ -1,0 +1,8 @@
+version: "4.1"
+license: "GPL v2"
+upload-date: 2010-03-25T18:07:07Z
+md5sum-partial: "8e03998f"
+filesize: 28069
+availability: "savegames-only"
+
+description: "Modified temperate trainset (ICE/TGV) for use on Luukland's Servers. Also includes many other trains, see the readme for how to use the ones you like."

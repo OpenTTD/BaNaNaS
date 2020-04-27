@@ -1,0 +1,8 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2011-07-17T16:47:53Z
+md5sum-partial: "536ca7b8"
+filesize: 7650
+availability: "savegames-only"
+
+description: "This NewGRF enables a town names set containing all Olympic host cities. This contains 20 Winter Olympic Host City names and 23 Summer Olympic Host City names, you can choose between just summer, just winter or both. All towns are spelt in English."

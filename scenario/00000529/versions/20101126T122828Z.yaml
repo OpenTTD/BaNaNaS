@@ -1,0 +1,10 @@
+version: "a6"
+license: "GPL v2"
+upload-date: 2010-11-26T12:28:28Z
+md5sum-partial: "0986d2e8"
+filesize: 139371
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.0.5"

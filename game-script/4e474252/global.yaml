@@ -1,0 +1,7 @@
+name: "Neighbours are important"
+description: |-
+  This script make towns require cargo to grow. Larger towns require more cargo to grow additionally. As an extra excitement, the size of the neighbour towns have an impact on how much cargo is required for a town to grow. If there are nearby towns that are larger than a town itself, that reduces the cargo requirement.
+
+  Original code: TrueBrain
+  Continued work: Zuu
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57963"

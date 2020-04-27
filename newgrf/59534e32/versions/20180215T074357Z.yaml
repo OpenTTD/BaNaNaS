@@ -1,0 +1,17 @@
+version: "V11.0.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2018-02-15T07:43:57Z
+md5sum-partial: "f4a377d4"
+filesize: 92817
+availability: "savegames-only"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d470501"
+  md5sum-partial: "8318348c"
+
+tags:
+- "crh"
+- "high"
+- "speed"
+- "tgv"
+- "yst"

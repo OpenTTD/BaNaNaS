@@ -1,0 +1,8 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2011-09-24T08:56:36Z
+md5sum-partial: "7d45493e"
+filesize: 7835
+availability: "savegames-only"
+
+description: "An invisible engine with no power and very short length. Place it in front of your trains to overcome many GRF limitations on train consists. Includes a parameter for a powered version. Coded and (not) drawn by Emperor Jake."

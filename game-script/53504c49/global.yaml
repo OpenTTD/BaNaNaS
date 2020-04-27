@@ -1,0 +1,6 @@
+name: "Split scenario GS"
+description: |-
+  This game script provides the game logic for the Split scenario.
+
+  To play the Split scenario, you need both this game script and the 'Split' scenario of the same version. Only the script or the scenario is not enough.
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=61378"

@@ -1,0 +1,8 @@
+name: "Expensive Short and Slow Bridge"
+description: "Introduces bridges from 1800.  Adjusts costs, speed and other statistics."
+url: "http://users.tt-forums.net/pikka/wiki/index.php?title=Modified_Building_Costs"
+tags:
+- "bridge"
+- "costs"
+- "pb_bridge"
+- "pikka"

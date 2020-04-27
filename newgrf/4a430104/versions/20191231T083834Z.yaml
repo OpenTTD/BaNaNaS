@@ -1,0 +1,17 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2019-12-31T08:38:34Z
+md5sum-partial: "44455b51"
+filesize: 1301310
+availability: "savegames-only"
+
+description: |-
+  A pack containing the four generations of ALn668 diesel railcars. These have been a very successful series in Italy and also operate in other countries like Sweden and Turkey.
+
+  The pack contains:
+  ALn668.1400 (first generation, grey-blue livery)
+  ALn668.1800 (second generation, XMPR livery)
+  ALn668.1200 (third generation, Trenord livery)
+  ALn668.3100 (fourth generation, turbocharged engine, Trenord livery)
+
+  Please report any bugs on the Github and have fun :)

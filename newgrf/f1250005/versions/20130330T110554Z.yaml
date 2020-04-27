@@ -1,0 +1,22 @@
+version: "0.12.0"
+license: "GPL v2"
+upload-date: 2013-03-30T11:05:54Z
+md5sum-partial: "bdb8f5b2"
+filesize: 541536
+availability: "savegames-only"
+
+description: |-
+  FIRS offers familiar gameplay to get you started quickly:
+  - primary industries always produce cargo
+  - secondary industries always produce something from deliveries
+  FIRS also features:
+  - primary industries that boost production if supplies are delivered regularly
+  - secondary industries that produce more if multiple cargos delivered
+  - multiple 'economies', featuring up to 50 industry types and 32 cargos (or fewer for simpler gameplay)
+
+  ** not compatible with FIRS versions before 0.8.x.
+tags:
+- "cargo"
+- "cargos"
+- "industries"
+- "industry"

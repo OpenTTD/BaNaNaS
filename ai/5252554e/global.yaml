@@ -1,0 +1,8 @@
+name: "RoadRunner"
+description: "This AI is an improved and updated version of PathZilla, originally written by George Weller. It transports all kinds of cargo, but only uses road vehicles."
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=48281"
+tags:
+- "bus"
+- "road"
+- "tram"
+- "truck"

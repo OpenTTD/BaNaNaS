@@ -1,0 +1,19 @@
+version: "v1.13.4"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2017-09-02T09:08:08Z
+md5sum-partial: "4753cadd"
+filesize: 119277
+availability: "savegames-only"
+
+description: |-
+  (This is UNOFFICIAL NewGRF)
+
+  [v1.13.4]
+  * Decrease capacity of all truck to 50%.
+  * Cargo capacity parameter can no longer lower than x1.
+  * Fixed spriteset of Daewoo Lestar.
+  * Fixed spriteset of Hyundai Xcient.
+  * BV101, B905N can no longer transport armored cargo.
+
+  It's remade version of Korean Bus Set.
+  This NewGRF Support Korean buses, trucks and trams from Hyundai, Daewoo, Kia, or else corporation.

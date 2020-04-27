@@ -1,0 +1,8 @@
+version: "26"
+license: "GPL v2"
+upload-date: 2017-01-23T00:42:47Z
+md5sum-partial: "e4f77d29"
+filesize: 1789610
+availability: "savegames-only"
+
+description: "Fixed closing issue with Clay Pit. Change some Industries and Cargos"

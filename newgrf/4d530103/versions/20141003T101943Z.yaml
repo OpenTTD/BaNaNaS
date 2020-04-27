@@ -1,0 +1,14 @@
+version: "1.1"
+license: "GPL v3"
+upload-date: 2014-10-03T10:19:43Z
+md5sum-partial: "9b4583a5"
+filesize: 719170
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4d530102"
+  md5sum-partial: "be7a5116"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.3.0"

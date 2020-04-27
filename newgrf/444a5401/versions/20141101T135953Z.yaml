@@ -1,0 +1,18 @@
+version: "r247"
+license: "GPL v2"
+upload-date: 2014-11-01T13:59:53Z
+md5sum-partial: "b9e9e16f"
+filesize: 92603
+availability: "savegames-only"
+
+description: |-
+  Contains many new track types, each with a different speed limit and cost that can both be adjusted.
+
+  r247: Cost adjustment parameters, much better implementation than the first version of NuTracks
+  r242: Minimap colors to distinguish all those track types.
+  r239: Sorting order added.
+  r237: Alignment problems fixed.
+tags:
+- "rails"
+- "railtypes"
+- "tracks"

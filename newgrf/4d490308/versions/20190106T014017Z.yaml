@@ -1,0 +1,13 @@
+version: "0.8.5"
+license: "GPL v2"
+upload-date: 2019-01-06T01:40:17Z
+md5sum-partial: "f73fbc5d"
+filesize: 1559922
+availability: "savegames-only"
+
+description: |-
+  Created by Zley_Muffle
+
+  Set of 5 replacements of original RAILROAD bridges in 32bpp designed to fit with other CZTR Sets. Set is released as only temporary measure.
+
+  WARNING: Cantilever bridges are designed for maximum bridgelenght of 6, otherwise they look unrealistically strong because of the invisible pillars! (still WIP though). WIP in many areas, in fact :D

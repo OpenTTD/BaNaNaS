@@ -1,0 +1,24 @@
+name: "England and Wales Scenario"
+replaced-by:
+  unique-id: "0000029a"
+description: |-
+  A map of England and Wales featuring a number of manually-placed industries including North Sea oil, south Welsh coal etc.
+
+  This scenario balances realism and playability so the cities are not to scale, ensuring that London does not dwarf other cities. Industries are placed with a mixture of realism and playability in mind.
+
+  Made in 1.0.0-beta4.
+
+  Total Town Replacement Set is not required to play this scenario but it is highly recommended.
+
+  Credits:
+  brickie
+  Wasila
+url: ""
+tags:
+- "britain"
+- "england"
+- "london"
+- "scenario"
+- "temperate"
+- "uk"
+- "wales"

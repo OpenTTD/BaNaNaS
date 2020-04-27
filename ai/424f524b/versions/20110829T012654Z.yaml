@@ -1,0 +1,14 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2011-08-29T01:26:54Z
+md5sum-partial: "91808210"
+filesize: 17379
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+
+description: |-
+  A simple AI that uses only trucks.
+  It handles all kind of cargo except for mail and passengers.

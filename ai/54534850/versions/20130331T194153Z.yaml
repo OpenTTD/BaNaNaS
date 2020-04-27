@@ -1,0 +1,23 @@
+version: "12"
+license: "GPL v2"
+upload-date: 2013-03-31T19:41:53Z
+md5sum-partial: "c39392d7"
+filesize: 14691
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "6804ef38"
+- content-type: "game-script"
+  unique-id: "5455545f"
+  md5sum-partial: "e05f8a66"
+- content-type: "scenario"
+  unique-id: "0000095c"
+  md5sum-partial: "e1caa4c7"
+
+description: |-
+  This is special Ship AI for the Beginner Tutorial.
+
+  Note: This AI is not useful for normal games.
+
+  This AI will _not_ be selected as random AI and is hidden in the AI selection menu for everyone except AI/Script developers.

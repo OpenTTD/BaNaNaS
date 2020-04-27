@@ -1,0 +1,18 @@
+version: "202"
+license: "GPL v2"
+upload-date: 2011-05-31T06:44:44Z
+md5sum-partial: "b26ad7be"
+filesize: 175039
+availability: "savegames-only"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554648"
+  md5sum-partial: "1cfcb44b"
+
+tags:
+- "aircraft"
+- "bus"
+- "save/load"
+- "ship"
+- "transfer"
+- "truck"

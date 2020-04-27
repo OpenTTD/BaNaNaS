@@ -1,0 +1,10 @@
+version: "0.1.0-beta2"
+license: "GPL v2"
+upload-date: 2015-09-26T15:02:34Z
+md5sum-partial: "2a0082f9"
+filesize: 195689
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.4.4"

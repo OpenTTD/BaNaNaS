@@ -1,0 +1,18 @@
+name: "Stockholm Scenario"
+description: |-
+  This Scenario covers most of Stockholm, the capital of Sweden and it's surroundings.
+  It is a very nice scenario for creating a realistic public transportation network.
+
+  Required NewGRFs:
+  Swedish Houses by Irwe
+  Swedish Trains by AndersI
+  Stolen Trees
+
+  Enjoy!
+url: "http://www.tt-forums.net/viewtopic.php?f=60&t=54095"
+tags:
+- "scandinavia"
+- "scenario"
+- "stockholm"
+- "sweden"
+- "uppsala"

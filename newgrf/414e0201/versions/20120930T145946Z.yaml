@@ -1,0 +1,14 @@
+version: "FISH 2 Alpha 3"
+license: "GPL v2"
+upload-date: 2012-09-30T14:59:46Z
+md5sum-partial: "66571012"
+filesize: 691554
+availability: "savegames-only"
+
+description: |-
+  Slightly less alpha version of FISH 2.
+
+  Use at your own risk.  Different versions of pre-release FISH 2 may not be compatible with each other (so savegames may get broken).
+
+  Not compatible with FISH 1 savegames.
+tags: []

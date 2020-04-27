@@ -1,0 +1,24 @@
+version: "5"
+license: "GPL v2"
+upload-date: 2010-06-05T15:14:21Z
+md5sum-partial: "f7ff74bc"
+filesize: 26099
+availability: "savegames-only"
+
+description: |-
+  As you might know CluelessPlus, PAXLink and TownCars are all created by the same author. To reduce code duplication among these AIs, this library has been created. Over time code that two or more of these three AIs share will be moved to this library.
+
+  SuperLib is organized in several sub libraries. In version 5 these sub libraries are included:
+  * Log
+  * Helper
+  * Money
+  * Tile
+  * Direction
+  * Engine
+  * Vehicle
+  * Industry
+  * Station
+  * Order
+  * OrderList
+
+  Author: Zuu
