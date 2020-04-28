@@ -1,4 +1,4 @@
-version: "16"
+version: "v16"
 license: "GPL v2"
 upload-date: 2020-04-18T18:58:15Z
 md5sum-partial: "68cbfe56"
@@ -6,15 +6,15 @@ filesize: 63912
 availability: "new-games"
 dependencies:
 - content-type: "ai-library"
+  unique-id: "51554e48"
+  md5sum-partial: "c6cf3e7c"
+- content-type: "ai-library"
   unique-id: "5343504c"
   md5sum-partial: "e1940278"
 - content-type: "ai-library"
   unique-id: "73637056"
   md5sum-partial: "0bfd7cab"
-- content-type: "ai-library"
-  unique-id: "51554e48"
-  md5sum-partial: "c6cf3e7c"
 compatibility:
 - name: "master"
   conditions:
-  - ">= 1.6.0"
+  - ">= 1.10.0"
