@@ -1,3 +1,5 @@
 authors:
-- display-name: "openttdcoop"
-  openttd: "openttdcoop"
+- display-name: "andythenorth"
+  github: "1780327"
+- display-name: "foobar"
+  openttd: "foobar"
