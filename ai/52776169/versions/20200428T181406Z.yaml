@@ -1,0 +1,23 @@
+version: "24"
+license: "GPL v3"
+upload-date: 2020-04-28T18:14:06Z
+md5sum-partial: "b1ea615d"
+filesize: 106345
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"
+
+description: |-
+  RailwAI is an allround-AI that uses a realistic building style to compete your business!
+
+  It randomly selects what cities or industries to connect, and loves to plant some trees on the map. If you like, you can put a limit on the company expansion drift in the settings.
+  I hope you'll enjoy him as your opponent!
+tags:
+- "ai"
+- "buses"
+- "planes"
+- "ships"
+- "trains"
+- "trucks"
