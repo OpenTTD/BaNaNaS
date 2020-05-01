@@ -2,9 +2,10 @@ name: "S.Korea Imaginary Town Names"
 archived: true
 description: |-
   ** NOTICE **
-  This NewGRF is OLD.
+  This NewGRF is DEPRECATED.
   Please download the newer version.
   Search as "Korean Town Names"
 
   (c) TELK (telk.kr)
 url: "http://telk.kr/ottd/newgrf/ko_town_names?lang=en"
+tags: []
