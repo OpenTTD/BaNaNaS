@@ -1,4 +1,4 @@
-name: "Korea Train Set"
+name: "Korean Train Set"
 description: |-
   << 한국 열차 세트 / Korean Train Set >>
 
@@ -15,6 +15,7 @@ tags:
 - "itx"
 - "kor"
 - "korea"
+- "korean train set"
 - "ktx"
 - "mugunghwa"
 - "ndc"
