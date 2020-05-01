@@ -1,4 +1,4 @@
-name: "IGNORE"
+name: "ZZZ_IGNORE"
 description: |-
   THIS NEWGRF IS OBSOLETE! CHECK URL FOR NEW VERSIONS!
 
@@ -9,7 +9,5 @@ description: |-
   Snail
   Chris (Erato)
   Gwyd
-  SimYouLater
-  Gadg8eer
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
 tags: []
