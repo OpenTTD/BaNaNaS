@@ -1,9 +1,6 @@
-name: "FicTown Names (Basic)"
+name: "z-ignore"
 description: |-
-  A list of fictional cities, towns and villages. Has the Public Domain Mark to ensure it will never be unavailable to the end user.
+  THIS IS OBSOLETE!
 
-  As a courtesy to the community, the source code can be found on the listed website.
-url: "https://www.tt-forums.net/viewtopic.php?f=67&t=75348"
-tags:
-- "fiction"
-- "town names"
+  A list of fictional cities, towns and villages.
+tags: []
