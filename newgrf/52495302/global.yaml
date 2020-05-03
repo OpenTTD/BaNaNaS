@@ -1,5 +1,7 @@
-name: "Recycled Infrastructure Set"
+name: "z-ignore"
 description: |-
+  THIS IS OBSOLETE!]
+
   A set of infrastructure aiming to include other GPL v2 graphics in one NewGRF with no graphical oddities.
 
   Thanks to...
@@ -15,4 +17,4 @@ description: |-
 
   Will soon include...
   + FooBar's Tram Tracks (temporarily removed for NRT compatibility)
-url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83306"
+tags: []
