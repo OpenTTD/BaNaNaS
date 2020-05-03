@@ -11,4 +11,4 @@ dependencies:
 compatibility:
 - name: "master"
   conditions:
-  - ">= 1.2.0"
+  - ">= 1.10.0"
