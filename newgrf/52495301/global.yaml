@@ -1,8 +1,10 @@
-name: "Recycled Infrastructure Set"
+name: "z-ignore"
 replaced-by:
   unique-id: "52495302"
 description: |-
+  THIS IS OBSOLETE!
+
   A set of tram tracks with grass foundation that don't let the roads peek out from the edges.
 
   Originally meant to also include roads that didn't require NRT and were compatible with classic TTD graphics, however this is no longer possible. Licensing is dumb that way.
-url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83306"
+tags: []
