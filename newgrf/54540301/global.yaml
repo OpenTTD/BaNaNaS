@@ -1,0 +1,14 @@
+name: "Improved Town Layouts"
+description: |-
+  Default houses, new rules.
+
+  Downtowns defined by passenger service, sprawling suburbs, historic preservation, and more. Starts in 1700. Works with all base graphic sets.
+
+  Coded by 2TallTyler.
+url: "https://github.com/2TallTyler/improved_town_layouts"
+tags:
+- "builder"
+- "city"
+- "house"
+- "town"
+- "zoning"
