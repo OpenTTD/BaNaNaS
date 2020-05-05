@@ -4,9 +4,13 @@ upload-date: 2020-05-05T15:14:05Z
 md5sum-partial: "72cc99e5"
 filesize: 267815
 availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4b570002"
+  md5sum-partial: "57c6579b"
 compatibility:
 - name: "master"
   conditions:
   - ">= 1.10.0"
 
-name: "Kiwitree Korean Station Set"
+name: "Kiwitree Station Set"
