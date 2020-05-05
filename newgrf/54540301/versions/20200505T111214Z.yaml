@@ -1,0 +1,21 @@
+version: "1.01"
+license: "GPL v3"
+upload-date: 2020-05-05T11:12:14Z
+md5sum-partial: "a7a1ebbf"
+filesize: 16853
+availability: "new-games"
+
+name: "Improved Town Layouts"
+description: |-
+  Default houses, new rules.
+
+  Downtowns defined by passenger service, sprawling suburbs, historic preservation, and more. Starts in 1700. Works with all base graphic sets.
+
+  Coded by 2TallTyler.
+url: "https://github.com/2TallTyler/improved_town_layouts/blob/master/README.md"
+tags:
+- "builder"
+- "city"
+- "house"
+- "town"
+- "zoning"
