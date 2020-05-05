@@ -1,0 +1,33 @@
+name: Testing
+
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+
+jobs:
+  linter:
+    name: Linter
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout bananas-api
+      uses: actions/checkout@v2
+      with:
+        repository: OpenTTD/bananas-api
+        ref: master
+    - name: Checkout BaNaNaS
+      uses: actions/checkout@v2
+      with:
+        path: BaNaNaS
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Set up packages
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Linting
+      run: |
+        python -m bananas_api --storage local --index local --user developer --validate
