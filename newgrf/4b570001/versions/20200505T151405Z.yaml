@@ -1,0 +1,12 @@
+version: "0.8.2"
+license: "CC-BY-SA v3.0"
+upload-date: 2020-05-05T15:14:05Z
+md5sum-partial: "72cc99e5"
+filesize: 267815
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+name: "Kiwitree Korean Station Set"
