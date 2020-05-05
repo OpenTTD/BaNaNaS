@@ -1,0 +1,10 @@
+version: "0.8.3"
+license: "CC-BY-SA v3.0"
+upload-date: 2020-05-05T18:33:34Z
+md5sum-partial: "40539bbc"
+filesize: 268109
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
