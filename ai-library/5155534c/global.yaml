@@ -1,0 +1,8 @@
+name: "Queue.SortedList"
+description: "Simply using AIList of indexes is faster than any squirrel implementation."
+url: "https://github.com/SamuXarick/Queue.SortedList"
+tags:
+- "list"
+- "priority"
+- "queue"
+- "sorted"
