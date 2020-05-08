@@ -4,3 +4,22 @@ upload-date: 2020-05-08T05:22:20Z
 md5sum-partial: "e453012d"
 filesize: 1072610
 availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+description: |-
+  -
+  AUSTRALIA 4K - EMPTY (NO TOWN OR INDUSTRY)
+  --------------------------------------------------
+
+  A huge 4096x4096 map of Australia with no towns or industry.
+
+  This empty map can be used by players to make their own australia scenario.
+
+  Water/lakes are filled in though may not be 100% accurate.
+
+  Enjoy!
+
+  - Nekomaster (2020)
