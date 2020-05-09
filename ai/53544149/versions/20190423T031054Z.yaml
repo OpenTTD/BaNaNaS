@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2019-04-23T03:10:54Z
 md5sum-partial: "fbb81f94"
 filesize: 6018
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - content-type: "ai-library"
   unique-id: "5046524f"
