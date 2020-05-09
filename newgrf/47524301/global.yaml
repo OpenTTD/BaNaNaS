@@ -1,4 +1,4 @@
-name: "GPLv2 Roadtype Collection"
+name: "GPL Roadtype Collection, Pt. 1"
 description: |-
   GPL Roadtype Collection with realistic maximum speeds and recycled GPL v2 graphics, modified to not conflict when used in conjunction with the rest of the GRC. All credits to the original graphics artists and coders:
 
@@ -7,3 +7,4 @@ description: |-
   Pt. 3, Country & Waterway Roads: Kruemelchen
   Pt. 4, Metro Tramtypes: Zephyris, wallyweb, kamnet
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+tags: []
