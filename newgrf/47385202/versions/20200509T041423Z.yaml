@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2020-05-09T04:14:23Z
 md5sum-partial: "3b97b215"
 filesize: 51443
-availability: "new-games"
+availability: "savegames-only"
 
 tags:
 - "pipe"
