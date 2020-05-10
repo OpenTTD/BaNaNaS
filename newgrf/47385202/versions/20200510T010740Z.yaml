@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2020-05-10T01:07:40Z
 md5sum-partial: "f4acf13d"
 filesize: 51414
-availability: "new-games"
+availability: "savegames-only"
 
 tags:
 - "roadtypes"
