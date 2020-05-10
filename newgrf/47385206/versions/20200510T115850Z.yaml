@@ -1,0 +1,10 @@
+version: "0.1a"
+license: "GPL v2"
+upload-date: 2020-05-10T11:58:50Z
+md5sum-partial: "22e0f064"
+filesize: 10309
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "47385202"
+  md5sum-partial: "56d8810b"
