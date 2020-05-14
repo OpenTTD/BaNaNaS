@@ -1,0 +1,8 @@
+name: "Metro NRT Tram Set"
+description: "Adds \"subways\", which are actually trams that appear as shadows and use the MTRO tramtype, to simulate subways running underneath roadways. For more detailed information, see the readme or visit the URL below. Full credit to Supercheese, I just added a few lines of code."
+url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+tags:
+- "Fake Subways"
+- "Metro"
+- "Trams"
+- "Tramtypes"
