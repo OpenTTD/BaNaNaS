@@ -1,17 +1,17 @@
 name: "RattRoads"
 description: |-
-  ==================================
-  WARNING! Only for use with OpenTTD nightlies from 2019-05-02 or later!
-  ==================================
+  RattRoads is an NRT road and tramtype set providing a complete roster of 10 roadtypes (6 normal and [optionally] 4 electrified) plus 2 tramtypes. It has support for American and European road styles, climate-aware graphics, plus many parameters for customizing to your preferred playstyle.
 
-  RattRoads is an NRT road replacement set based on roads from the United States, Europe, and abroad.
-
-  It includes 6 roadtypes from dirt roads to modern highways, complete with several parameters to customize intro dates, speed limits and more!
-
-  This is the successor/extension of American Road Replacement Set.
+  This is the successor/replacement to the American Road Replacement Set
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76183"
 tags:
 - "american"
+- "cobblestone"
+- "dirt"
+- "gravel"
 - "notroadtypes"
 - "nrt"
+- "road"
+- "sett"
+- "united states"
 - "usa"
