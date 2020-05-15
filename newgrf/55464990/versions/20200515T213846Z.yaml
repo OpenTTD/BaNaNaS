@@ -1,0 +1,23 @@
+version: "1a"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2020-05-15T21:38:46Z
+md5sum-partial: "4e15b706"
+filesize: 1859114
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+name: "UReRMM 2"
+description: "New railway tracks (from slowest to fastest), metro line, narrow gauge line, mono and maglev with new graphics"
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84591"
+tags:
+- "3rd"
+- "maglev"
+- "metro"
+- "mono"
+- "narrow"
+- "rail"
+- "track"
+- "urermm"
