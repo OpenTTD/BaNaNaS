@@ -8,3 +8,5 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.4.0"
+
+name: "W.A.C. XL (V1)"
