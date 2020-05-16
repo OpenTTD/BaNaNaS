@@ -1,0 +1,10 @@
+name: "Cpt.K's Tranquil Channel"
+description: |-
+  A 1:2 rectangular map of a slow flowing, wide river with plenty of islands and rivulets. Suitable for all climates.
+  For 2048x4096 games, a max height of 25 produces a fairly flat map with a few hills.
+url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
+tags:
+- "flat"
+- "hills"
+- "river"
+- "valley"
