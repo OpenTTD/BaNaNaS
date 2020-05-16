@@ -1,9 +1,9 @@
-version: "1a"
+version: "1b"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2020-05-15T21:38:46Z
-md5sum-partial: "4e15b706"
-filesize: 1859114
-availability: "savegames-only"
+upload-date: 2020-05-16T09:41:16Z
+md5sum-partial: "90c7f50c"
+filesize: 1859471
+availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
