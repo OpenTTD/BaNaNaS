@@ -1,0 +1,11 @@
+name: "Cpt.K's Meandering Islands"
+description: |-
+  A 1:2 rectangular map of a sparse chain of islands with plenty of flat land. A central dormant volcano is the only significant elevation. Suitable for all climates.
+  For 2048x4096 games, a max height of 25 produces a fairly flat map with a few prominent hills.
+url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
+tags:
+- "archipelago"
+- "coastline"
+- "flat"
+- "hills"
+- "islands"
