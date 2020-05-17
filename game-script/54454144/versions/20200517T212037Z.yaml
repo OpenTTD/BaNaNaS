@@ -1,0 +1,14 @@
+version: "0"
+license: "GPL v2"
+upload-date: 2020-05-17T21:20:37Z
+md5sum-partial: "3554deee"
+filesize: 12721
+availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "4b28bb33"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
