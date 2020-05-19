@@ -4,7 +4,6 @@ upload-date: 2020-05-18T01:21:33Z
 md5sum-partial: "fbb52274"
 filesize: 10712
 availability: "savegames-only"
-dependencies:
-- content-type: "newgrf"
-  unique-id: "47385202"
-  md5sum-partial: "bed1fb85"
+dependencies: []
+
+name: "IGNORE_PLZ"
