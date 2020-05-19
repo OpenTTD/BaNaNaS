@@ -5,5 +5,7 @@ md5sum-partial: "0c174577"
 filesize: 10707
 availability: "new-games"
 dependencies: []
-
-name: "IGNORE_PLZ"
+compatibility:
+- name: "master"
+  conditions:
+  - "< 0.0.1"

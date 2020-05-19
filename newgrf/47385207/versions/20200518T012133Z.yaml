@@ -5,5 +5,7 @@ md5sum-partial: "fbb52274"
 filesize: 10712
 availability: "savegames-only"
 dependencies: []
-
-name: "IGNORE_PLZ"
+compatibility:
+- name: "master"
+  conditions:
+  - "< 0.0.1"
