@@ -1,3 +1,1 @@
-name: "Brianum: Speedlimit for monorai"
-description: "Limits monorail carriage speed to prevent use in VacTrains"
-url: ""
+blacklisted: true
