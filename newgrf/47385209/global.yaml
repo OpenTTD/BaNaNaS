@@ -1,0 +1,10 @@
+name: "Roadtype Terminal Fix"
+description: |-
+  Tired of seeing those little shelters around the bus stops? Want to use NewObjects to decorate your bus station or truck loading bay?
+
+  Well now you can remove those unsightly decorations from the bus and truck stations!
+
+  Please note that this is meant for the use of NRT Roadtypes; it also looks fine with OpenGFX, but if used with default TTD graphics it will reveal a glitch in the matrix (courtesy of Chris Sawyer).
+url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+tags:
+- "remove road stop"
