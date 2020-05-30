@@ -1,10 +1,12 @@
-name: "Roadtype Terminal Fix"
+name: "Roadtype Fixes"
 description: |-
-  Tired of seeing those little shelters around the bus stops? Want to use NewObjects to decorate your bus station or truck loading bay?
+  Tired of little inconsistencies with road graphics?
 
-  Well now you can remove those unsightly decorations from the bus and truck stations!
+  Remove those unsightly decorations from the bus and truck stations! Give your bridges a full tile ramp at each end! Use one way signs instead of arrows to mark your one way roads!
 
-  Please note that this is meant for the use of NRT Roadtypes; it also looks fine with OpenGFX, but if used with default TTD graphics it will reveal a glitch in the matrix (courtesy of Chris Sawyer).
+  Please note that this is meant for the use of NRT Roadtypes in JGR's Patch Pack; if used with default road graphics or vanilla OpenTTD it will reveal glitches in the matrix.
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
 tags:
+- "custom bridge heads"
+- "one way signs"
 - "remove road stop"
