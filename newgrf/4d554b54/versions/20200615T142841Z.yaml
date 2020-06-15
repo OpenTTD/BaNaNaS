@@ -1,0 +1,12 @@
+version: "1.0.1"
+license: "GPL v3"
+upload-date: 2020-06-15T14:28:41Z
+md5sum-partial: "34f94589"
+filesize: 60293
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"
+
+name: "Modern UK Trainset"
