@@ -1,0 +1,10 @@
+name: "WR Rails"
+description: |-
+  Default railtypes with a few extras.
+
+  The default railtypes, enhanced with customisable costs, speed limits, signals. Trains can run on their usual railtype as well as later railtypes. (RAIL engines/wagons can run on RAIL, ELRL, MONO, MGLV; ELRL => ELRL, MONO, MGLV, etc.)
+url: "https://github.com/jrook1445/wannaroo-rails"
+tags:
+- "rail"
+- "track"
+- "wannaroo"
