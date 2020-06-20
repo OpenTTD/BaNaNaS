@@ -8,5 +8,3 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.2.0"
-
-name: "WR Bridges 1.0.0"
