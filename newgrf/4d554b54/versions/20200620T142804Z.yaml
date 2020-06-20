@@ -8,3 +8,14 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.4.0"
+
+description: |-
+  A UK Train Set for OpenTTD including all the latest British Rail classes to be introduced between 2015 and 2025.
+
+  This set is designed to be played with BRTrains, filling the gap between 2015 and 2020, rather than on its own.
+
+  Graphics are designed to work best with the Finescale UK Track Set, but will work with most track combinations which provide 3rd rail tracks.
+  (Note:  BRTracks seems to have some issues)
+
+  {WHITE}Art by {LTBLUE}KubaP
+  {WHITE}Coding by {GREEN}AlmostCthulhu
