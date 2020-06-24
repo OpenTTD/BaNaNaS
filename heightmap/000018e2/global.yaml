@@ -1,0 +1,10 @@
+name: "Cpt.K's Splintered Peninsula"
+description: |-
+  A square map featuring procedurally generated flat islands. Suitable for all sizes and all climates.
+  For 2048x2048 games, any max height is viable.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "coast"
+- "flat"
+- "ocean"
+- "sea"
