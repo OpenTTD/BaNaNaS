@@ -1,0 +1,11 @@
+name: "Cpt.K's Alpine Islands"
+description: |-
+  A square map featuring procedurally generated mountainous islands. Suitable for medium-large sizes and all climates.
+  For 4096x4096 games, a max height of 30 or above is recommended.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "coast"
+- "islands"
+- "mountains"
+- "ocean"
+- "sea"
