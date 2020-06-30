@@ -1,0 +1,28 @@
+name: "Renewed World Disorder"
+description: |-
+  It's a mashup of scripts Renewed City Growth
+  and New World Disorder.
+  The script works very similar to the RCG. The conditions of development have been changed, in particular the categories of cargoes
+  goes to be similar to the NWD idea.
+
+  Town development is based on five pillars:
+  * Communication
+  * Construction
+  * Trade
+  * Light Industry
+  * Heavy Industry
+
+  Industries sets supported by this script:
+  default, auzind2, ECS, FERNZ, FIRS 1, FIRS 3, NAIS, OpenGFX+ Industries, SPI 1.32, YETI
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=87268"
+tags:
+- "auzind"
+- "city"
+- "ecs"
+- "fernz"
+- "firs"
+- "growth"
+- "nais"
+- "spi"
+- "town"
+- "yeti"
