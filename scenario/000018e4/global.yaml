@@ -1,0 +1,15 @@
+name: "MTA and NJTransit Map"
+description: |-
+  This is a map of the New York City metro area specifically inclusive of all the end points of the Metro-North Railroad and Long Island Rail Road in addition to the northern parts of the NJ Transit network.
+
+  This scenario was made with no industries or even NewGRFs in the interest of making it a useful 'base' for building a scenario on top of it.
+url: "https://github.com/internet-trains"
+tags:
+- "LIRR"
+- "MNR"
+- "MTA"
+- "NJT"
+- "New Jersey"
+- "New York"
+- "US"
+- "USA"
