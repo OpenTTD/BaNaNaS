@@ -4,3 +4,8 @@ upload-date: 2020-06-30T10:20:36Z
 md5sum-partial: "faa35815"
 filesize: 8840
 availability: "new-games"
+
+description: |-
+  This is just a tiny fix for xUSSR pack mainly to fix rails price and make them close to original prices plus some naming fixes.
+
+  https://github.com/landofcash/xussr-ottd-fix
