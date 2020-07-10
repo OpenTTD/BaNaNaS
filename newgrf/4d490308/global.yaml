@@ -1,12 +1,14 @@
-name: "CZTR Bridges"
+name: "CZTR Infrastructure"
 replaced-by:
   unique-id: "4d490320"
 description: |-
   Created by Zley_Muffle
 
-  Set of 5 replacements of original RAILROAD bridges in 32bpp designed to fit with other CZTR Sets. Set is released as only temporary measure.
+  Supplemental set of 5 replacements of original RAILROAD bridges in 32bpp designed to fit with other CZTR Sets. Set is released as only temporary measure, always have it beneath CZTR Bridges in the grf list.
 
-  WARNING: Cantilever bridges are designed for maximum bridgelenght of 6, otherwise they look unrealistically strong because of the invisible pillars! (still WIP though). WIP in many areas, in fact :D
+  Also contains replacement for original platforms.
+
+  WARNING: Cantilever bridges are designed for maximum bridgelenght of 6.
 
   Changelog:
   - removed dependency on CZTR Rails
