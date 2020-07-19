@@ -1,0 +1,26 @@
+version: "0.3"
+license: "GPL v2"
+upload-date: 2020-07-19T11:29:25Z
+md5sum-partial: "3f98860e"
+filesize: 12532
+availability: "new-games"
+
+name: "NewCC Set"
+description: |-
+  The New Company Colours Set. Enhances and improves upon the default company colours.
+  - New colours and shades such as black, crimson and cream
+  - Two tone schemes make 2CC highlights pop
+  - Full 2CC support - compatible with all company coloured sets, even 32bpp/EZ ones
+  - Allows you to represent much more realistic liveries
+  - As a side-effect, some colours in the GUI may be  changed, but everything is still perfectly readable
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=56701"
+tags:
+- "2cc"
+- "colors"
+- "colours"
+- "company"
+- "eyecandy"
+- "gui"
+- "liveries"
+- "livery"
+- "new"
