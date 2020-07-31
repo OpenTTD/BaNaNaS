@@ -1,0 +1,19 @@
+version: "1.3.2"
+license: "GPL v3"
+upload-date: 2020-07-31T22:56:30Z
+md5sum-partial: "a043b57b"
+filesize: 20320
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+description: |-
+  Vanilla-inspired industries with new chains, commuting workers, industry near towns, and real introduction dates as early as 1700.
+
+  Requires NewGRF vehicles. Incompatible with other industry sets.
+
+  Visit website for instructions.
+
+  Coded by 2TallTyler.
