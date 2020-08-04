@@ -11,4 +11,6 @@ dependencies:
 compatibility:
 - name: "master"
   conditions:
-  - ">= 1.10.0"
+  - ">= 1.11.0"
+
+description: "NOT WORKING OPTIMALLY. Separates game years and technology years of engines. Allows to play in different era, have faster/slower progression or have all vehicles unlocked."
