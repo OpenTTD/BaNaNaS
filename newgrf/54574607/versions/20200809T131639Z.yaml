@@ -1,0 +1,10 @@
+version: "1.0.1"
+license: "CC-BY-SA v3.0"
+upload-date: 2020-08-09T13:16:39Z
+md5sum-partial: "fe70dbda"
+filesize: 12949414
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
