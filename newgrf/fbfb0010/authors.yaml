@@ -1,3 +1,9 @@
 authors:
 - display-name: "foobar"
   openttd: "foobar"
+- display-name: "VoyagerOne"
+  openttd: "VoyagerOne"
+- display-name: "kamnet"
+  github: "32113649"
+- display-name: "Arnoudje1981"
+  github: "69337136"
