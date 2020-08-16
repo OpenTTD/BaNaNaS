@@ -1,0 +1,10 @@
+version: "1.0.5"
+license: "CC-BY-SA v3.0"
+upload-date: 2020-08-16T14:16:55Z
+md5sum-partial: "fcdddb17"
+filesize: 14667115
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
