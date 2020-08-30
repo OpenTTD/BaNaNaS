@@ -1,0 +1,16 @@
+version: "4.2"
+license: "GPL v2"
+upload-date: 2020-08-30T19:30:21Z
+md5sum-partial: "52379c6f"
+filesize: 29326
+availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "4b28bb33"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+description: "Towns require various cargo deliveries to grow. Required cargos can be randomized. Town growth is limited by percentage of transported PAX/mail. Supporting Baseset, FIRS (1.4, 3, 4), ECS, YETI, NAIS, ITI, XIS."
