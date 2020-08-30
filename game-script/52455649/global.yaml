@@ -1,6 +1,6 @@
 name: "Renewed Village Growth"
-description: "A combination of Renewed City Growth GS and City Growth Limiter GS. Towns require various cargo delivery to grow. Town growth is limited by percentage of transported PAX/mail. Supporting Baseset, FIRS, ECS, YETI, NAIS industries."
-url: "https://www.tt-forums.net/viewtopic.php?p=1229725#p1229725"
+description: "Towns require various cargo deliveries to grow. Required cargos can be randomized. Town growth is limited by percentage of transported PAX/mail. Supporting Baseset, FIRS (1.4, 3, 4), ECS, YETI, NAIS, ITI, XIS."
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=87052"
 tags:
 - "cargo"
 - "growth"
