@@ -1,9 +1,9 @@
-version: "2"
+version: "3"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2020-09-05T14:05:16Z
-md5sum-partial: "ca9e7a17"
-filesize: 8838
-availability: "savegames-only"
+upload-date: 2020-09-05T17:09:17Z
+md5sum-partial: "e3343ccc"
+filesize: 8887
+availability: "new-games"
 
 name: "xussrfix"
 description: |-
