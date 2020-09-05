@@ -1,11 +1,15 @@
-version: "1.0"
+version: "2"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2020-06-30T10:20:36Z
-md5sum-partial: "faa35815"
-filesize: 8840
-availability: "savegames-only"
+upload-date: 2020-09-05T14:05:16Z
+md5sum-partial: "ca9e7a17"
+filesize: 8838
+availability: "new-games"
 
+name: "xussrfix"
 description: |-
   This is just a tiny fix for xUSSR pack mainly to fix rails price and make them close to original prices plus some naming fixes.
 
   https://github.com/landofcash/xussr-ottd-fix
+url: "https://www.youtube.com/channel/UClHDms-XsD-0StOm6kRqtpA/about"
+tags:
+- "xUSSR"
