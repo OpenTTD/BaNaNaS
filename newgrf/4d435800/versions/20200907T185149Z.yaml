@@ -9,14 +9,4 @@ compatibility:
   conditions:
   - ">= 1.6.0"
 
-name: "UKRS2 - Community Bugfixes"
-description: |-
-  A community version with bugfixes for the UKRS2.
-
-  Coding and graphics by David Dallaston, additional graphics by extended set contributors.
-url: "https://github.com/CMircea/UKRS2"
-tags:
-- "british"
-- "pikka"
-- "trains"
-- "ukrs"
+tags: []
