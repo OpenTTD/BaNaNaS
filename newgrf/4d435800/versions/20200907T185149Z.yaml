@@ -1,0 +1,22 @@
+version: "1.06"
+license: "Custom"
+upload-date: 2020-09-07T18:51:49Z
+md5sum-partial: "b5e1af48"
+filesize: 968558
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"
+
+name: "UKRS2 - Community Bugfixes"
+description: |-
+  A community version with bugfixes for the UKRS2.
+
+  Coding and graphics by David Dallaston, additional graphics by extended set contributors.
+url: "https://github.com/CMircea/UKRS2"
+tags:
+- "british"
+- "pikka"
+- "trains"
+- "ukrs"
