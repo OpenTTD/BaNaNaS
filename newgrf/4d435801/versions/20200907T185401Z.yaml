@@ -1,0 +1,10 @@
+version: "1.06"
+license: "Custom"
+upload-date: 2020-09-07T18:54:01Z
+md5sum-partial: "31c38137"
+filesize: 85781
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"
