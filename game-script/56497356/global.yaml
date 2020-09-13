@@ -4,7 +4,7 @@ description: |-
 
   Towns have a maximum population to which they can grow, and you'll need to transport a (configurable) minimum amount of passengers and mail for them to grow at all. In order to grow towns beyond the initial limit, you will need to supply goods, building materials, or fund expansion yourself.
 
-  Translations: SilverSurferZzZ (ES)
+  Translations: SilverSurferZzZ (ES), BolfriPL (PL)
 url: "https://github.com/mattkimber/openttd_villages_is_villages"
 tags:
 - "growth"
