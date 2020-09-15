@@ -4,6 +4,10 @@ upload-date: 2020-09-15T16:14:11Z
 md5sum-partial: "6d7b124c"
 filesize: 253098
 availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4b570001"
+  md5sum-partial: "c1f71e0a"
 compatibility:
 - name: "master"
   conditions:
