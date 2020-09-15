@@ -1,0 +1,10 @@
+version: "0.8.4"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2020-09-15T16:13:26Z
+md5sum-partial: "c1f71e0a"
+filesize: 267920
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
