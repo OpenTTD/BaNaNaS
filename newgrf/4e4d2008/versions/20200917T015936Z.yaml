@@ -1,4 +1,4 @@
-version: "v01.00"
+version: "0000"
 license: "GPL v2"
 upload-date: 2020-09-17T01:59:36Z
 md5sum-partial: "cdd3688d"
@@ -7,51 +7,9 @@ availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
-  - ">= 1.10.0"
+  - ">= 0.0.0"
+  - "< 0.0.0"
 
-name: "NORTH AMERICAN TRACK SET 2"
-description: |-
-  ..
-  =============================
-  NORTH AMERICAN TRACKSET 2
-
-  The sucessor to the first
-  North American Track Set!
-
-  NOT SAVE GAME COMPATIBILE WITH
-  THE FIRST NORTH AMERICAN TRACK SET!
-
-  Based on the United States
-  Track Speed Classes from 0/Excepted
-  Rail to Class 9
-
-  =============================
-  CREATED BY: NEKOMASTER
-
-  TRACK & SIGNAL SPRITES: NEKOMASTER
-  GUI & DEPOT SPRITES BY: Irwe (Swedish Rails)
+name: "agga"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87497"
-tags:
-- "america"
-- "american"
-- "canada"
-- "canadian"
-- "get stick bugged lol"
-- "master"
-- "mexican"
-- "mexico"
-- "nek0"
-- "neko"
-- "neko-"
-- "nekomaster"
-- "north"
-- "rail"
-- "rails"
-- "states"
-- "track"
-- "tracks"
-- "type"
-- "types"
-- "united"
-- "us"
-- "usa"
+tags: []
