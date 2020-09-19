@@ -1,0 +1,10 @@
+version: "1.2.1"
+license: "GPL v3"
+upload-date: 2020-09-19T04:04:04Z
+md5sum-partial: "9093e554"
+filesize: 19951
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
