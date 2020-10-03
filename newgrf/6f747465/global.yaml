@@ -1,0 +1,12 @@
+name: "Sodor Railway Expansion"
+description: |-
+  A train set for OpenTTD, including vehicles from the Thomas The Tank Engine universe. Expands on the UKRS2 set, which can be used for additional units (eg freight cars)
+
+  Drawn by DanMacK, coded by Audigex
+url: "https://github.com/audigex/OpenTTE"
+tags:
+- "sodor"
+- "thomas and friends"
+- "thomas the tank"
+- "thomas the tank engine"
+- "ukrs2"
