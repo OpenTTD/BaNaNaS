@@ -1,0 +1,18 @@
+name: "Retarded FIRS"
+description: |-
+  RFIRS r1.0.2. Not compatible with any FIRS versions.
+
+  RFIRS is a modification of FIRS that makes the production of industries grow over time deepening on quality of service provided (engineering supplies now accelerate the growth of the production).
+
+  It’s easy to get started: grab RFIRS and choose a ’basic’ economy setting.
+
+  Or choose a more complex economy for a game that tests your skills & attention.
+
+  - 6 ’economies’, choose simple or advanced gameplay
+  - nice graphics
+  - such features
+url: "https://github.com/k-Knight/rfirs"
+tags:
+- "firs"
+- "industries"
+- "rfirs"
