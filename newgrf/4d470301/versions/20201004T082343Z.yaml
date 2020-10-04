@@ -1,0 +1,10 @@
+version: "0.9.0 BETA"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2020-10-04T08:23:43Z
+md5sum-partial: "37db9fc5"
+filesize: 12488
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
