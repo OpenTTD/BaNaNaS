@@ -9,6 +9,7 @@ compatibility:
   conditions:
   - ">= 1.7.0"
 
+name: "Rectal FIRS"
 description: |-
   RFIRS r1.0.2. Not compatible with any FIRS versions.
 
