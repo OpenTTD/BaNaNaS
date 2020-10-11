@@ -1,0 +1,14 @@
+name: "Snow-Aware Coastline Objects"
+description: |-
+  The Snow-Aware Coastline Objects are an eyecandy new-object set that can be used to make coasttiles look snow-aware when the time is right.
+  The tiles are slope-aware to make it easier for them to be placed.
+  Available for Arctic and Alpine and with a choice of two snow-stages.
+  Make sure to set the minimum snow-line in OpenGFX+Landscape to 0.
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87650"
+tags:
+- "aware"
+- "coast"
+- "objects"
+- "slope"
+- "snow"
+- "tiles"
