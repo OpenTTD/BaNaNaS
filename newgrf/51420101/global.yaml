@@ -1,0 +1,13 @@
+name: "Modular Wider Bridges Set"
+description: |-
+  This set replaces the three tubular bridges with three modular bridges that together can be used to visually make a wider bridge.
+
+  Use in combination with a road/rail-set that provides overlay graphics for bridges.
+
+  ISSUE:
+  Cities and AI's will probably also build these bridges, but not as intended...
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87655"
+tags:
+- "Bridges"
+- "Modular"
+- "Wider"
