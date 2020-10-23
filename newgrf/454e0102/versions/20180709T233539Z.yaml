@@ -4,3 +4,7 @@ upload-date: 2018-07-09T23:35:39Z
 md5sum-partial: "3fe56782"
 filesize: 19857
 availability: "savegames-only"
+compatibility:
+- name: "master"
+  conditions:
+  - "< 1.0"
