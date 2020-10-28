@@ -1,12 +1,11 @@
-name: "Poland by pAter + FIRS"
+name: "Poland by pAter (FIRS1)"
 description: |-
   Map of Poland 1024x1024 on realistic heightmap based on NASA's data.
 
   It contains more than standard industries (FIRS 1.4.4M) and Polish sets (buildings, PKP trains, trams and vehicles).
 
   Created by pAter.
-
-  For more map versions check out forum page from URL.
+  Last update: 2017-04-24.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=74417"
 tags:
 - "europe"
