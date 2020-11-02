@@ -1,0 +1,16 @@
+version: "002"
+license: "GPL v2"
+upload-date: 2020-11-02T12:46:19Z
+md5sum-partial: "276177a0"
+filesize: 52738
+availability: "new-games"
+
+description: |-
+  This set adds three modular bridges that can be used to make wide bridges.
+  Parameter settings can be used to choose to replace the three Tubular Bridges or to add them as three new bridges.
+
+  Use in combination with a road/rail-set that provides overlay graphics for bridges.
+
+  Possible Issue:
+  Towns, GameScripts and AI's will probably build these bridges, but not as intended.
+  Use this GRF in JGR PatchPack v0.38.1 or newer to avoid this issue.
