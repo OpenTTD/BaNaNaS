@@ -1,9 +1,9 @@
-version: "002"
+version: "003"
 license: "GPL v2"
-upload-date: 2020-11-02T12:46:19Z
-md5sum-partial: "276177a0"
-filesize: 52738
-availability: "savegames-only"
+upload-date: 2020-11-02T16:14:13Z
+md5sum-partial: "c250fe75"
+filesize: 52759
+availability: "new-games"
 
 description: |-
   This set adds three modular bridges that can be used to make wide bridges.
