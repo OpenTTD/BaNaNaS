@@ -1,0 +1,10 @@
+version: "0.8p"
+license: "GPL v2"
+upload-date: 2020-11-09T09:28:30Z
+md5sum-partial: "536f29f8"
+filesize: 36466
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
