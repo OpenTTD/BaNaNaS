@@ -1,0 +1,10 @@
+name: "Peaks and Troughs"
+description: |-
+  REQUIRES JGR patch pack version 0.39 or higher!
+
+  Make the passenger production rates depend on the time of day. This enables 24 hour timetabling.
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=87840&p=1237961#p1237961"
+tags:
+- "hour"
+- "time"
+- "timetable"
