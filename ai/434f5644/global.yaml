@@ -1,0 +1,11 @@
+name: "CoronaAI"
+description: |-
+  This is very simple AI that was written while I was ill due to having covid-19.
+
+  It will try to spread (similar to covid) to all cities. It just uses buses.
+url: "https://github.com/libor-vilimek/ottd-coronaai"
+tags:
+- "ai"
+- "corona"
+- "coronavirus"
+- "covid"
