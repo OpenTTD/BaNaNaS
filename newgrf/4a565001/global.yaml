@@ -1,0 +1,9 @@
+name: "Transmitter by Date"
+description: |-
+  Replace the default transmitter antenna by date, select a single replacement through parameters or build the new objects manually.
+
+  Inspired by Rock Replacement for Transmitter
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87812&p=1237816#p1237816"
+tags:
+- "replacement"
+- "transmitter"
