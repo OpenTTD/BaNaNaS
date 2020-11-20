@@ -3,7 +3,7 @@ license: "CC-BY v3.0"
 upload-date: 2019-07-27T13:05:15Z
 md5sum-partial: "ac1adfb1"
 filesize: 72650
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "master"
   conditions:
