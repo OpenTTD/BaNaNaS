@@ -3,7 +3,7 @@ license: "GPL v3"
 upload-date: 2020-11-29T20:28:49Z
 md5sum-partial: "88f677af"
 filesize: 105576
-availability: "new-games"
+availability: "savegames-only"
 
 url: "https://github.com/javelinnl/spacey"
 tags:
