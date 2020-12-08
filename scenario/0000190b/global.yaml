@@ -1,0 +1,10 @@
+name: "Vietnam Map"
+description: |-
+  This is a map of Vietnam and parts of Laos and Cambodia, including Vientiane and Phnom Penh. A small part of China is also included, up to Nanning.
+
+  This scenario was made with no industries or even NewGRFs in the interest of making it a useful 'base' for building a scenario on top of it.
+url: "https://github.com/internet-trains"
+tags:
+- "Cambodia"
+- "Laos"
+- "Vietnam"
