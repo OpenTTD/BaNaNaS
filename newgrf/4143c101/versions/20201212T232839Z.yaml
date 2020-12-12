@@ -1,9 +1,9 @@
-version: "V1"
+version: "v1.1"
 license: "Custom"
-upload-date: 2020-12-12T15:31:05Z
-md5sum-partial: "c7c40e80"
-filesize: 1343
-availability: "savegames-only"
+upload-date: 2020-12-12T23:28:39Z
+md5sum-partial: "e1eb2d38"
+filesize: 32346
+availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
@@ -14,7 +14,9 @@ name: "CP - Trainset"
 description: |-
   This Newgrf is a trainset based from Portugal.
 
-  V1
+  V1.1
 
   Created by António "Esbeleleu" Carvalho
 url: "https://github.com/Esbeleleu/CP-Trainset"
+tags:
+- "Train"
