@@ -7,12 +7,11 @@ availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
-  - ">= 1.2.0"
-  - "< 1.10.0"
+  - ">= 1.7.0"
 
 name: "CP-Trainset"
 description: |-
-  This Newgrf is a trainset based on trains Portugal's..
+  This Newgrf is a trainset based on trains Portugal's.
 
   V1.1
 
