@@ -10,9 +10,9 @@ compatibility:
   - ">= 1.2.0"
   - "< 1.10.0"
 
-name: "CP - Trainset"
+name: "CP-Trainset"
 description: |-
-  This Newgrf is a trainset based from Portugal.
+  This Newgrf is a trainset based on trains Portugal's..
 
   V1
 
