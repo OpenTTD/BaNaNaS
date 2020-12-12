@@ -1,0 +1,10 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2020-12-12T22:44:58Z
+md5sum-partial: "00afc606"
+filesize: 690863
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.2"
