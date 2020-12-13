@@ -1,12 +1,11 @@
 name: "American Bridge Replacement Set"
 description: |-
-  ABRS provides a unique set of bridges for use in OpenTTD, intended
-  to be used together with American Road Replacement Set (but not necessary).
+  ABRS is a work-in-progress bridge replacement set with several new road and rail bridges designed to seamlessly blend with ARRS or any NRT road set or rail set.
 
-  It is a work in progress but is fully playable, and as of this release
-  includes 14 unique bridges across 7 bridge slots, with more to be added later!
+  It is a work in progress but is fully playable, and as of this release includes 15 unique bridges across 8 bridge slots, with more to be added later!
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75209"
 tags:
 - "american"
 - "bridges"
 - "infrastructure"
+- "nrt"
