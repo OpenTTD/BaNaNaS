@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2020-12-06T15:45:59Z
 md5sum-partial: "5ff97909"
 filesize: 82502
-availability: "new-games"
+availability: "savegames-only"
 
 name: "PNR-Trains"
 description: "Trains and rolling stock of the Philippine National Railways"
