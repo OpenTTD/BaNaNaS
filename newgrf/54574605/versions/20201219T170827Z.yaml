@@ -1,0 +1,10 @@
+version: "2.3.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2020-12-19T17:08:27Z
+md5sum-partial: "bce29612"
+filesize: 89148150
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
