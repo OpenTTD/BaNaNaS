@@ -1,0 +1,16 @@
+version: "16"
+license: "GPL v2"
+upload-date: 2020-12-23T23:24:04Z
+md5sum-partial: "6ed26591"
+filesize: 70012
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+description: |-
+  Set of Polish trams from 1860 till 2014, drawn by Sojita, McZapkie and Voyager-1, versions 7 and higher coded in NML by McZapkie.
+  Purchased single trams have option to buy trailers via refit menu. Horse trams can run on non-electrified tracks.
+  Note: huge capacity is counted including standing places, therefore reduced comfort must be taken into account - use with caution, for massive urban transit only.
+  Running costs of fast trams depend on speed.
