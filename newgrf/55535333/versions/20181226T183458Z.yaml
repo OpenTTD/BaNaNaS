@@ -8,3 +8,5 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.6.0"
+
+url: "https://grf.farm/unsinkable-sam/index.html"
