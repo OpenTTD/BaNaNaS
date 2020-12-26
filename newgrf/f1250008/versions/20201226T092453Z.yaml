@@ -1,0 +1,10 @@
+version: "4.0.0-beta-1"
+license: "GPL v2"
+upload-date: 2020-12-26T09:24:53Z
+md5sum-partial: "4c039cc5"
+filesize: 799817
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
