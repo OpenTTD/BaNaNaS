@@ -1,0 +1,24 @@
+version: "preview-1"
+license: "GPL v2"
+upload-date: 2020-12-26T11:25:37Z
+md5sum-partial: "d5f6ae31"
+filesize: 95404
+availability: "new-games"
+
+name: "Unsinkable Sam"
+description: |-
+  An early preview of Unsinkable Sam
+
+  This features 1 ship.
+
+  Shackleton Freighter 540t
+  Available 1870
+  Refits all freight
+  Extensive cargo sprite support.
+
+  Preview 1 release replaces previous alpha releases.  Ship style and stats have been revised following a lot of testing.
+url: "https://grf.farm/unsinkable-sam/index.html"
+tags:
+- "andythenorth"
+- "boats"
+- "ships"
