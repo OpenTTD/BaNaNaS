@@ -1,0 +1,40 @@
+version: "1.1"
+license: "GPL v2"
+upload-date: 2021-01-02T21:06:03Z
+md5sum-partial: "3dc9eb9c"
+filesize: 775039
+availability: "new-games"
+
+name: "Portuguese Road Buses"
+description: |-
+  Portuguese Road Buses Pack:
+  11 vehicles (from 1915 - 2010).
+  32bpp + Extrazoom (4x)
+  V1.1 => Added Company Colors (2cc)
+
+  Special Thanks to CP Virtual Team.
+
+  Presentation video:
+  https://youtu.be/4W9K--zELKU
+
+  1915  :Fiat Tipo 2B Bus
+  1930  :Chevrolet LQ
+  1940  :AEC Regent III
+  1950  :Seddon Mk 6
+  1960  :Guy Victory
+  1970  :AEC U2077 Turismo
+  1975  :AEC U2075 Urbano
+  1980  :Volvo B10R
+  1990  :Mercedes O405
+  2000  :Mercedes O404
+  2010  :MAN Lion City DD
+url: "https://github.com/azulcosta/Portuguese-Road-Buses"
+tags:
+- "32bpp"
+- "Bus"
+- "Buses"
+- "Europe"
+- "Extrazoom"
+- "Portugal"
+- "Portuguese"
+- "newgrf"
