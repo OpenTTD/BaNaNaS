@@ -1,0 +1,10 @@
+version: "1.2.7"
+license: "CC-BY-SA v3.0"
+upload-date: 2021-01-05T20:33:31Z
+md5sum-partial: "dde6bae3"
+filesize: 18471407
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
