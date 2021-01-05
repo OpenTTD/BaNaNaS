@@ -1,13 +1,22 @@
 name: "Unsinkable Sam"
 description: |-
-  9 ships in the alpha 3 release.  Don't panic.  More ships will be done another day.
+  An early preview of Unsinkable Sam
 
-  *Known Issues in Alpha 3*
+  This features 2 ships.
 
-  - missing cargo graphics for some ships
-  - smoke position is wrong for mini Fast-loading Passenger Ship
-  - intro dates are wrong
-  - running and buy costs are wrong
-  - ship lifetime is (probably) wrong
-  - 'Type:' info in buy menu is empty
-url: "http://bundles.openttdcoop.org/unsinkable-sam/releases/LATEST/docs/html/get_started.html"
+  Shackleton Freighter 540t
+  Available 1870
+  Refits all freight
+  Extensive cargo sprite support.
+
+  Gunfleet Tanker 540,000 litres
+  Available 1870
+  Refits most non-edible liquids
+  Ship colour changes depending on cargo.
+
+  Preview 2 release replaces previous alpha releases.  Ship style and stats have been revised following a lot of testing.
+url: "https://grf.farm/unsinkable-sam/index.html"
+tags:
+- "andythenorth"
+- "boats"
+- "ships"

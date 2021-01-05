@@ -8,7 +8,7 @@ availability: "new-games"
 description: |-
   An early preview of Unsinkable Sam
 
-  This features 2 ships.
+  This features 3 ships.
 
   Shackleton Freighter 540t
   Available 1870
@@ -20,7 +20,11 @@ description: |-
   Refits most non-edible liquids
   Ship colour changes depending on cargo.
 
-  Preview 2 release replaces previous alpha releases.  Ship style and stats have been revised following a lot of testing.
+  Belliveau Edibles Tanker 540,000 litres
+  Available 1870
+  Refits edible liquids.
+
+  Preview replaces previous alpha releases.  Ship style and stats have been revised following a lot of testing.
 url: "https://grf.farm/unsinkable-sam/preview-2/index.html"
 tags:
 - "andythenorth"
