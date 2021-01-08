@@ -1,0 +1,10 @@
+version: "1.2.8"
+license: "CC-BY-SA v3.0"
+upload-date: 2021-01-08T23:54:17Z
+md5sum-partial: "b6bb8083"
+filesize: 18471970
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
