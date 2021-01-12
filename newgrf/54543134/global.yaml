@@ -1,11 +1,11 @@
-name: "DSB Trains"
+name: "Danish Trains"
 description: |-
-  DSB Trains from the Danish State Railways.
+  Trains from Denmark, focusing on the Danish State Railways, DSB.
 
-  In development and incomplete. Visit website for train list.
+  Visit website for train list and more info.
 
   Created by 2TallTyler.
-url: "https://github.com/2TallTyler/dsb_trains"
+url: "https://github.com/2TallTyler/danish_trains"
 tags:
 - "2TallTyler"
 - "DSB"
