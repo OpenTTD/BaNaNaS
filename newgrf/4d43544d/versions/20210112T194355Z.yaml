@@ -1,0 +1,10 @@
+version: "7682"
+license: "GPL v2"
+upload-date: 2021-01-12T19:43:55Z
+md5sum-partial: "caea60fe"
+filesize: 1699625
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
