@@ -1,0 +1,15 @@
+version: "0.4.0"
+license: "GPL v3"
+upload-date: 2021-01-12T17:31:12Z
+md5sum-partial: "c38b3603"
+filesize: 47513
+availability: "new-games"
+
+name: "Danish Trains"
+description: |-
+  Trains from Denmark, focusing on the Danish State Railways, DSB.
+
+  See the website for train list and more info.
+
+  Created by 2TallTyler.
+url: "https://github.com/2TallTyler/danish_trains"
