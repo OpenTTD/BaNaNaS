@@ -1,0 +1,17 @@
+name: "Taiwan, 1 tile:50m"
+description: |-
+  Heightmap of Taiwan, from the STRM 1 project.
+
+  Works with max height up to 127.
+
+  If you use this on a 4k by 8k size, 1 tile will represent 50x50 metres. If you use 2k by 4k, 1 tile will be 100x100 metres and so on.
+
+  Thanks to OpenTopography and NASA.
+
+  Contact Cpt.Klutz for inquiries.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "China"
+- "STRM"
+- "Taiwan"
+- "heightmap"
