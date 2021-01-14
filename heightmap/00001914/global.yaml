@@ -1,0 +1,16 @@
+name: "Czech Republic, 1 tile:67m"
+description: |-
+  Heightmap of the Czech Republic, from the STRM 1 project.
+
+  If you use this on a 4k by 8k size, 1 tile will represent 66.7x66.7 metres. If you use 2k by 4k, 1 tile will be 132x132 metres and so on.
+
+  WARNING: This map has no sea-level tiles. If you're playing with an industry set that needs water-based industries, consider using an alternative industry set (e.g., XIS instead of FIRS 3).
+
+  Thanks to OpenTopography and NASA.
+
+  Contact Cpt.Klutz for inquiries.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "cs"
+- "czech"
+- "real"
