@@ -1,0 +1,18 @@
+name: "Hokkaido, 1 tile:75m"
+description: |-
+  Heightmap of the Japanese island Hokkaido, from the STRM 1 project.
+
+  If you use this on a 8k by 8k size, 1 tile will represent 75x75 metres. If you use 4k by 4k, 1 tile will be 150x150 metres and so on.
+
+  Works with any max heights. For 'real' height, use between 40-80 on 8k by 8k.
+
+  Thanks to OpenTopography and NASA.
+
+  Contact Cpt.Klutz for inquiries.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "heightmap"
+- "hokkaido"
+- "island"
+- "japan"
+- "real-life"
