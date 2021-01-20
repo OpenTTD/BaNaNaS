@@ -1,0 +1,19 @@
+name: "Rhein/Benelux, 1 tile:100m"
+description: |-
+  Heightmap of the Rhein Valley and Benelux, from the STRM 1 project.
+
+  If you use this on a 8k by 8k size, 1 tile will represent 100x100 metres. If you use 4k by 4k, 1 tile will be 200x200 metres and so on.
+
+  Works with any max heights. For 'real' height, use 25 on 4k by 8k.
+
+  Thanks to OpenTopography and NASA.
+
+  Contact Cpt.Klutz for inquiries.
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
+tags:
+- "belgium"
+- "france"
+- "germany"
+- "luxembourg"
+- "netherlands"
+- "rhein"
