@@ -1,0 +1,12 @@
+name: "Max speed for PURR Tracks"
+description: |-
+  Modifies the maximum speed for the original trains depending on the color of the PURR tracks they are in.
+
+  This allows conditional orders based on the current track (maximum speed).
+
+  Requires PURR Universal Rainbow Rails NewGRF.
+url: "https://github.com/fmodesto/openttd_max_speed/"
+tags:
+- "conditional orders"
+- "logic"
+- "max speed"
