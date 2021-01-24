@@ -4,3 +4,7 @@ upload-date: 2021-01-24T03:13:10Z
 md5sum-partial: "8573768e"
 filesize: 1720478
 availability: "savegames-only"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.9.2"
