@@ -3,7 +3,7 @@ license: "GPL v3"
 upload-date: 2021-01-21T01:17:21Z
 md5sum-partial: "657af6fd"
 filesize: 21709
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   Controls industry growth by influence of macroeconomic index based on global ratio of industries and towns served. Town growth depend on amount of passenger, mail and other goods transported locally, but can be also affected by global economy mood.
