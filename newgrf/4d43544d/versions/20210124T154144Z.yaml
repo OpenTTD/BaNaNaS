@@ -1,0 +1,10 @@
+version: "7694M"
+license: "GPL v2"
+upload-date: 2021-01-24T15:41:44Z
+md5sum-partial: "3a87cf3a"
+filesize: 1722326
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.9.2"
