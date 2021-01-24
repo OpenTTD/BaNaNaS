@@ -8,3 +8,10 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.4.1"
+
+tags:
+- "600mm"
+- "gauge"
+- "narrow"
+- "track"
+- "train"
