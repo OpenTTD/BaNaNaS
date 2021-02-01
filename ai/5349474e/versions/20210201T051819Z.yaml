@@ -8,3 +8,5 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.10.0"
+
+url: "https://github.com/wspxh/SignIndustries"
