@@ -1,0 +1,12 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2021-02-01T09:28:56Z
+md5sum-partial: "a0c9e275"
+filesize: 7729
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+description: "Sign all industries and update them in real time"
