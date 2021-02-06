@@ -1,0 +1,23 @@
+version: "1.10.0"
+license: "GPL v2"
+upload-date: 2021-02-06T20:13:48Z
+md5sum-partial: "725668ce"
+filesize: 294802
+availability: "new-games"
+
+name: "CHIPS Station Set"
+description: |-
+  CHIPS Station Set
+
+  CHIPS Has Improved Players' Stations?
+
+  - simple station tiles for use with industry sets such as FIRS
+  - buffers added to tiles automatically
+  - cranes etc drawn automatically for some tiles
+  - cargo graphic support
+  - extra tiles for buildings
+  - replaces dock graphics
+url: "http://www.tt-forums.net/viewtopic.php?f=67&t=53362"
+tags:
+- "firs"
+- "stations"
