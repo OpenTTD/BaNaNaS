@@ -1,9 +1,9 @@
-version: "1.0.3"
+version: "1.0.4"
 license: "CC-BY-SA v3.0"
-upload-date: 2021-02-07T00:17:19Z
-md5sum-partial: "148a7135"
-filesize: 1482399
-availability: "savegames-only"
+upload-date: 2021-02-07T00:23:28Z
+md5sum-partial: "d9ee8455"
+filesize: 1482791
+availability: "new-games"
 dependencies:
 - content-type: "newgrf"
   unique-id: "54574607"
