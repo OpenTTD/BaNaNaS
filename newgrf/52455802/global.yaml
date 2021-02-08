@@ -1,0 +1,7 @@
+name: "No Monorail"
+description: "Disables monorail trains and tracks"
+url: "https://github.com/rexxars/openttd-no-monorail"
+tags:
+- "base"
+- "disable"
+- "monorail"
