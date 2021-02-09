@@ -1,0 +1,8 @@
+name: "SuperSimpleAI"
+description: "This AI makes very profitable single point to point large routes, with lots of long trains each one. It is very configurable, and is almost stable. The default configuration makes routes up to 1920 tiles long, with 15 tiles long trains. Of course, it can be configured to emulate SimpleAI, and it works better than this AI, it can recover unfinished routes when loading games (in some cases), and test if it can build new routes before spend money on its construction."
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=88300"
+tags:
+- "SimpleAI"
+- "airplanes"
+- "buses"
+- "trains"
