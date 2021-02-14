@@ -1,0 +1,23 @@
+version: "0.3.2"
+license: "GPL v2"
+upload-date: 2021-02-14T18:29:23Z
+md5sum-partial: "1a15fdc9"
+filesize: 226651
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
+
+name: "Unspooled"
+description: "Unspool some cable and hang a lovely mess of trolley (and trolleybus) wire over a selection of road and tram types! New hand-drawn trolleywire and poles, with road sprites adapted from OpenGFX & ARRS. Several distinct trolleybus and tramway wire types, as well as various road types."
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75986"
+tags:
+- "Mop"
+- "NRT"
+- "Roads"
+- "Roadtype"
+- "Tramtype"
+- "Tramway"
+- "Trolley"
+- "Trolleybus"
