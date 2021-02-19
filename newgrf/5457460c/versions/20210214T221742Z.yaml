@@ -3,7 +3,7 @@ license: "CC-BY-SA v3.0"
 upload-date: 2021-02-14T22:17:42Z
 md5sum-partial: "ef6aa97f"
 filesize: 1998374
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "54574607"
