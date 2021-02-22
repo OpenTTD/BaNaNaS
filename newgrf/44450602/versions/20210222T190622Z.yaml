@@ -4,3 +4,7 @@ upload-date: 2021-02-22T19:06:22Z
 md5sum-partial: "780ab91a"
 filesize: 393426
 availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
