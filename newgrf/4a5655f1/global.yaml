@@ -1,0 +1,13 @@
+name: "Velo - DROP Fork"
+description: |-
+  Velo adds eyecandy bicycle lanes as a tramtype.
+
+  This fork is made for use with DROP, but can also be used with other roadsets.
+
+  For the best experience, use the vehicles from DROP, or another bicycle NewGRF, and only use this NewGRF for eyecandy.
+url: "https://github.com/EratoNysiad/velo"
+tags:
+- "bicycle"
+- "bike"
+- "dutch"
+- "road"
