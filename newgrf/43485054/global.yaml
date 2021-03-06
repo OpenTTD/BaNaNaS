@@ -1,0 +1,17 @@
+name: "CHIPS Station Set 2"
+description: |-
+  CHIPS Has Improved Players' Stations? (version 2)
+
+  - simple station tiles for use with industry sets such as FIRS
+  - buffers added to tiles automatically
+  - cranes etc drawn automatically for some tiles
+  - cargo graphic support
+  - extra tiles for buildings
+  - replaces dock graphics
+
+  Created by andythenorth and yexo with help from others.
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=53362"
+tags:
+- "chips"
+- "firs"
+- "stations"
