@@ -8,7 +8,7 @@ on:
 jobs:
   reload:
     name: Reload server database
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
 
     steps:
     - name: Reload server database
