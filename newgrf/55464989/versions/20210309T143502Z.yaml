@@ -8,3 +8,5 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.10.0"
+
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84591"
