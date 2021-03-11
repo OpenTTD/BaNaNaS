@@ -1,4 +1,6 @@
 name: "FicTown Names"
+replaced-by:
+  unique-id: "46544e07"
 description: |-
   LEGACY VERSION!
   See "FicTown Names Basic" and "FicTown+ Names" for newer versions.
@@ -12,3 +14,4 @@ tags:
 - "legacy"
 - "legacy version"
 - "town names"
+archived: true
