@@ -1,8 +1,8 @@
-name: "z-ignore"
+name: "FicTown Names (Basic)"
 replaced-by:
   unique-id: "46544e02"
-description: |-
-  THIS IS OBSOLETE!
-
-  Discontinued due to GRF ID and uploading issues, please see FicTownNames 2 for the only supported version.
-tags: []
+description: "Discontinued due to GRF ID and uploading issues, please see FicTown+ Names for the only supported version."
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=75348"
+tags:
+- "fiction"
+- "town names"
