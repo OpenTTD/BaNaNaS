@@ -1,8 +1,11 @@
-name: "z-ignore"
+name: "Iron Horse \"Quicksilver\" Add-"
 description: |-
-  THIS IS OBSOLETE!
-
-  GPL v2, coded by Gwyd. Credits to Pikkabird for Graphics.
+  GPL v2, coded by Gwyd and SimYouLater. Credits to Pikkabird and SimYouLater for Graphics.
 
   Contains a streamlined steam locomotive and several other locomotives for use with Iron Horse 2, like Electra and Cyclops.
-tags: []
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83126"
+tags:
+- "gresley"
+- "steam"
+- "streamliner"
+- "uk"
