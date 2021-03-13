@@ -1,12 +1,13 @@
-version: "0.4"
+version: "0.5"
 license: "GPL v3"
-upload-date: 2021-03-09T14:35:02Z
-md5sum-partial: "adcce05c"
-filesize: 1631963
-availability: "savegames-only"
+upload-date: 2021-03-13T20:45:31Z
+md5sum-partial: "b00d337b"
+filesize: 1647826
+availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
   - ">= 1.10.0"
 
+name: "U&RaTT"
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84591"
