@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2021-01-10T12:12:12Z
 md5sum-partial: "c9297aef"
 filesize: 174134
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   An early preview of Unsinkable Sam
