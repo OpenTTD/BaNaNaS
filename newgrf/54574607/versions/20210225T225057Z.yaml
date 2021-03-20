@@ -3,7 +3,7 @@ license: "CC-BY-SA v3.0"
 upload-date: 2021-02-25T22:50:57Z
 md5sum-partial: "5ffefcd9"
 filesize: 19327009
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "master"
   conditions:
