@@ -1,0 +1,18 @@
+version: "B1.00.02"
+license: "Custom"
+upload-date: 2021-03-20T23:06:37Z
+md5sum-partial: "e2f5a504"
+filesize: 203594
+availability: "new-games"
+
+name: "STGFX Bus set !BETA!"
+description: "This NewGRF will add buses used in the Slovak Republic, with liveries around the place."
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87633"
+tags:
+- "autobus"
+- "autobusy"
+- "bus"
+- "buses"
+- "slovak"
+- "slovakia"
+- "stgfx"
