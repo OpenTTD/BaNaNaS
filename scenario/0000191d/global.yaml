@@ -1,0 +1,26 @@
+name: "Deutschlandkarte Germany NewGRF"
+description: |-
+  A NewGRF version of the map of Germany:
+  - Alternative cargo types
+  - Railways with speed limits
+  - Pipelines for liquid stuff
+  - Vacuum train some years later
+  - European trains
+  - Nice town buildings & bridges
+  - Planning track
+
+  Including border area of neighboring countries (Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, The Netherlands, Denmark).
+  Real topography, major rivers, a few major lakes, country borders. Including the Frisian Islands and major lighthouses.
+url: "http://miltschek.de/"
+tags:
+- "2cc"
+- "deutschland"
+- "europa"
+- "europe"
+- "firs"
+- "germany"
+- "karte"
+- "metro"
+- "nutracks"
+- "pipe"
+- "vactrain"
