@@ -1,0 +1,12 @@
+name: "B 82500"
+description: |-
+  The B 82500 is a hybrid electric/diesel locomotive, which is mainly used in France for regional passenger service. It can run in diesel mode on non-electrified tracks, but it's more powerful and has a cheaper running cost when run in electric mode on electrified tracks.
+
+  Graphics based on the Millennium Z1 by the OpenGFX team, licensed under the GPL v2.
+tags:
+- "diesel"
+- "electric"
+- "hybrid"
+- "locomotive"
+- "train"
+- "trains"
