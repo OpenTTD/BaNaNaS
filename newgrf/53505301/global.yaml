@@ -1,0 +1,10 @@
+name: "Spanish Trainset"
+description: "The Spanish Trainset contains all the trains that have circulated or are currently circulating in Spain. It is a modern replacement for the Spanish Set Taster 1.30b."
+url: "https://github.com/spainishset/spainset-engines"
+tags:
+- "gauge"
+- "iberian"
+- "spain"
+- "spanish"
+- "track"
+- "train"
