@@ -1,14 +1,15 @@
 name: "Korean Train Set"
 description: |-
-  << 한국 열차 세트 / Korean Train Set >>
-
-  This NewGRF contains many trains in South Korea, such as KTX, KTX-Sancheon, KTX-EUM, ITX-Cheongchun, ITX-Saemaeul, Saemaeul, Mugunghwa, Nuriro, CDC, NDC, Seoul/Incheon/Daejeon/Daegu/Gwangju/Busan subways, Diesel & Electric locomotives of Korail and other tourist trains, etc.
+  << Korean Train Set / 한국 열차 세트 >>
+  This NewGRF contains many trains in South Korea, such as KTX, KTX-Sancheon, KTX-EUM, ITX-Cheongchun, ITX-Saemaeul, Saemaeul, Mugunghwa, Nuriro, CDC, NDC, metros of major cities, Diesel & Electric locomotives of Korail and other tourist trains and so on.
 url: "https://telk.kr/ottd/newgrf/ko_train_set?lang=en"
 tags:
 - "busan"
 - "cdc"
 - "daegu"
 - "daejeon"
+- "dec"
+- "eec"
 - "eum"
 - "gwangju"
 - "haerang"
@@ -18,10 +19,13 @@ tags:
 - "korea"
 - "korean train set"
 - "ktx"
+- "mate"
+- "mika"
 - "mugunghwa"
 - "ndc"
 - "nuriro"
 - "o-train"
+- "pashi"
 - "rok"
 - "s-train"
 - "s.korea"
