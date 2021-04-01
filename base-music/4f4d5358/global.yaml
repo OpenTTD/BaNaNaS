@@ -1,7 +1,6 @@
 name: "OpenMSX"
-description: "OpenMSX is a free music set for OpenTTD. It tries to capture the spirit of the game musically. Even though it has a full complement of music, it still is work in progress as there are songs which can be improved"
+description: "OpenMSX is a free music set for OpenTTD. It tries to capture the spirit of the game musically. Even though it has a full complement of music, it still is work in progress."
 url: "https://github.com/OpenTTD/OpenMSX"
 tags:
 - "base set"
 - "music"
-- "planetmaker"
