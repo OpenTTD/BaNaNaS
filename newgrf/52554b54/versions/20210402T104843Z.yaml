@@ -1,0 +1,32 @@
+version: "1.1"
+license: "Custom"
+upload-date: 2021-04-02T10:48:43Z
+md5sum-partial: "e4381cc7"
+filesize: 7200846
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.6.0"
+
+name: "Representitive UK Trainset"
+description: |-
+  A selection of 2cc UK trains, in a game play orientated set designed for 1950 to 2020.
+
+  Drawn, coded and recorded by Starraid and Gwyd
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=82946"
+tags:
+- "2cc"
+- "8bpp"
+- "br"
+- "british"
+- "brtrains"
+- "gwyd"
+- "pacer"
+- "pacy boi"
+- "rukts"
+- "starraid"
+- "trains"
+- "uk"
+- "ukrs"
+- "united kingdom"
