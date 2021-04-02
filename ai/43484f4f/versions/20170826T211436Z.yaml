@@ -6,17 +6,20 @@ filesize: 41768
 availability: "new-games"
 dependencies:
 - content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+- content-type: "ai-library"
   unique-id: "5046524c"
   md5sum-partial: "e6b1d198"
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
 - content-type: "ai-library"
   unique-id: "51554248"
   md5sum-partial: "8ce55e13"
 - content-type: "ai-library"
   unique-id: "51555051"
   md5sum-partial: "e1b9a30f"
-- content-type: "ai-library"
-  unique-id: "4752412a"
-  md5sum-partial: "f385497c"
 compatibility:
 - name: "master"
   conditions:
