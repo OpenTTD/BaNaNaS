@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2019-04-01T18:05:13Z
 md5sum-partial: "ba1c5579"
 filesize: 52876
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "master"
   conditions:
