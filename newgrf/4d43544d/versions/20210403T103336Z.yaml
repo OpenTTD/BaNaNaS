@@ -1,0 +1,10 @@
+version: "7762"
+license: "GPL v2"
+upload-date: 2021-04-03T10:33:36Z
+md5sum-partial: "a39cd211"
+filesize: 1764948
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.9.2"
