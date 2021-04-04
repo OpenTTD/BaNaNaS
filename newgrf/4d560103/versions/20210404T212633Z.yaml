@@ -1,0 +1,13 @@
+version: "1.2.1"
+license: "GPL v2"
+upload-date: 2021-04-04T21:26:33Z
+md5sum-partial: "756cdeff"
+filesize: 731858
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"
+
+name: "Polish Train Set"
+url: "https://openttd-polska.pl/Thread-Kolej-Polish-Train-Set"
