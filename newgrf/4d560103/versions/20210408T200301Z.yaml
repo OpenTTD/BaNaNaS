@@ -4,6 +4,10 @@ upload-date: 2021-04-08T20:03:01Z
 md5sum-partial: "d5c0dad0"
 filesize: 733757
 availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.2.0"
 
 tags:
 - "PKP"
