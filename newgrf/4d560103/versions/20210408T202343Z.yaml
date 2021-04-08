@@ -1,14 +1,15 @@
-version: "1.2.1"
+version: "1.2.2"
 license: "GPL v2"
-upload-date: 2021-04-08T20:03:01Z
-md5sum-partial: "d5c0dad0"
-filesize: 733757
-availability: "savegames-only"
+upload-date: 2021-04-08T20:23:43Z
+md5sum-partial: "9eebcf28"
+filesize: 733756
+availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
   - ">= 1.2.0"
 
+name: "Polish Train Set"
 tags:
 - "PKP"
 - "Poland"
