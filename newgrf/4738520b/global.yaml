@@ -1,0 +1,6 @@
+name: "Recycled Tracktypes Add-on"
+description: |-
+  This GRF limits the maximum available industrial tracktypes to electrified and unelectrified dual gauge rails to save tracktype slots.
+
+  Before downloading this set, please search for Erato's "Industry Tracktype Set" to see if version 1.1 has released, and if it has then use that instead. This RTS addon was cobbled together from his work and you're probably better off with the official solution than this, but if it hasn't materialized then go ahead and use this instead!
+url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
