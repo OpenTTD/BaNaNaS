@@ -1,4 +1,4 @@
-name: "Iron Horse"
+name: "Iron Horse 1 (Trains)"
 description: |-
   Iron Horse
 
@@ -7,6 +7,8 @@ description: |-
   The trains you need and nothing more, except some extra stuff.  Trains introduced 1860-2000.
 
   Best used with Termite railtypes grf.
+
+  (Outdated - replaced by Iron Horse 2 or newer).
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=71219&start=0"
 tags:
 - "trains"
