@@ -1,0 +1,15 @@
+name: "Cursor / GUI Replacer"
+description: |-
+  Do you dislike the orange cursor that comes in OpenGFX? Wish it was white instead? Me too!
+
+  This simple NewGRF replaces the cursor with a white one, greatly increasing visibility (in most situations).
+
+  It can also optionally replace the rest of the GUI to look like OpenGFX too, if you're using another base graphics set but want the same old feel.
+
+  Please read the readme! It contains important instructions on how to use this correctly (and not waste a NewGRF slot)!
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=88753"
+tags:
+- "cursor"
+- "gui"
+- "interface"
+- "mouse"
