@@ -5,6 +5,7 @@ description: |-
   Graphics based on the Millennium Z1 by the OpenGFX team, licensed under the GPL v2.
 url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/B82500"
 tags:
+- "b82500"
 - "diesel"
 - "electric"
 - "hybrid"
