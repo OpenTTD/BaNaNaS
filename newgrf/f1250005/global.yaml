@@ -1,4 +1,4 @@
-name: "FIRS Industry Replacement Set"
+name: "FIRS Industry Replacement Set 1"
 description: |-
   Bored of default industries?  Make your game more interesting with FIRS Industries.
 
@@ -9,6 +9,8 @@ description: |-
   - primary industries never close, optional secondary industry closure
   - snow graphics
   - 5 'economies', choose simple or advanced gameplay
+
+  (Outdated - replaced by FIRS 2 or newer).
 url: "http://bundles.openttdcoop.org/firs/releases/LATEST/"
 tags:
 - "firs"
