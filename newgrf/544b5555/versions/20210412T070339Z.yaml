@@ -1,0 +1,10 @@
+version: "2.0.3"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-04-12T07:03:39Z
+md5sum-partial: "f0f65c1d"
+filesize: 421321
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.7.0"
