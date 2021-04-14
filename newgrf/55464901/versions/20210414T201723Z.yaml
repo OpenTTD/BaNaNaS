@@ -1,0 +1,17 @@
+version: "1.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-04-14T20:17:23Z
+md5sum-partial: "e70aa6b9"
+filesize: 564916
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+tags:
+- "Bridge"
+- "nrt"
+- "ufiby"
+- "uratt"
+- "urermm"
