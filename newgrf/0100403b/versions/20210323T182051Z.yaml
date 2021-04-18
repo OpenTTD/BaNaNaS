@@ -3,7 +3,7 @@ license: "GPL v3"
 upload-date: 2021-03-23T18:20:51Z
 md5sum-partial: "65bbbbd1"
 filesize: 30352
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "master"
   conditions:
