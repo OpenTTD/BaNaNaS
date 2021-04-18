@@ -1,0 +1,28 @@
+version: "0.7.2b"
+license: "GPL v2"
+upload-date: 2021-04-18T18:47:32Z
+md5sum-partial: "f1a5f750"
+filesize: 277112
+availability: "new-games"
+
+name: "CS_BusSetB2"
+description: |-
+  This is the second file of the second part of the Czechoslovak bus set. This set is containing a large selection of buses from Czech and Slovak producers, but also from some other brands that were in use in the Czecho-slovak region.
+  This file contains buses and coaches from 1982-1991.
+url: "https://github.com/GreyfurWolf/CS_BusSet"
+tags:
+- "Autobus"
+- "Autobusy"
+- "Avia"
+- "Bus"
+- "Chavdar"
+- "Ikarus"
+- "Karosa"
+- "Oasa"
+- "PrimaTL"
+- "Renault"
+- "Road vehicles"
+- "coach"
+- "czech"
+- "czechoslovakia"
+- "slovak"
