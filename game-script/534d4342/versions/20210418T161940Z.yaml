@@ -1,0 +1,31 @@
+version: "2021.04.17"
+license: "GPL v2"
+upload-date: 2021-04-18T16:19:40Z
+md5sum-partial: "3177bdbb"
+filesize: 44818
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+name: "Simple City Builder"
+description: |-
+  Simple City Builder
+
+  by The Dude of Novapolis team
+  https://www.novapolis.net
+
+  Easily configured city builder script.
+
+  - Choose what cargos towns will require to grow (up to all 32 cargos if defined)
+  - Claim towns by placing company headquaters
+  - Deliver cargo to your town to grow it
+  - ECS, FIRS, XIS and YETI supported
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=69014"
+tags:
+- "builder"
+- "city"
+- "cool"
+- "ginger"
+- "town"
