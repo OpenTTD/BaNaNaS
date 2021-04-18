@@ -1,0 +1,8 @@
+name: "Local Authorities and Trees"
+description: "This game script does so that the local authorities don't get as mad at you for cutting down trees, as long as the purpose for cutting down the trees is to build something."
+url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/LocalAuthoritiesAndTrees"
+tags:
+- "local authorities"
+- "rating"
+- "towns"
+- "trees"
