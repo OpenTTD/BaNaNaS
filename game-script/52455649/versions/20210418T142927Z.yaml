@@ -1,9 +1,9 @@
-version: "6.1"
+version: "6.2"
 license: "GPL v2"
-upload-date: 2021-03-07T21:59:50Z
-md5sum-partial: "b32d787f"
-filesize: 40981
-availability: "savegames-only"
+upload-date: 2021-04-18T14:29:27Z
+md5sum-partial: "4720e28d"
+filesize: 41963
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
@@ -18,5 +18,3 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.10.0"
-
-description: "Towns require various cargo deliveries to grow. Required cargos can be randomized. Town growth is limited by percentage of transported specific cargos. Supporting all Industry NewGRF sets."
