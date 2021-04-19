@@ -1,0 +1,21 @@
+version: "1.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-04-19T18:34:13Z
+md5sum-partial: "fdb23e6c"
+filesize: 2001415
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
+
+tags:
+- "3rd rail"
+- "maglev"
+- "metro"
+- "mono"
+- "narrow"
+- "rail"
+- "track"
+- "ufiby"
+- "urermm"
