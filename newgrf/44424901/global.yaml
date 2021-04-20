@@ -2,6 +2,8 @@ name: "Town names of Allgäu"
 description: |-
   Creates random town names based on locations in the german region "Allgäu".
   Examples: Kleinbuchenholz Obereyenberg Unterschwand Kapfingen Hasenhofen
+
+  (c) 2021 Doubi88 (MIT License)
 url: "https://github.com/Doubi88/town-names-of-allgaeu"
 tags:
 - "allgäu"
