@@ -4,3 +4,9 @@ upload-date: 2021-04-16T08:26:28Z
 md5sum-partial: "760dfd86"
 filesize: 1510
 availability: "new-games"
+
+description: |-
+  Creates random town names based on locations in the german region "Allgäu".
+  Examples: Kleinbuchenholz Obereyenberg Unterschwand Kapfingen Hasenhofen
+
+  (c) 2021 Doubi88 (MIT License)
