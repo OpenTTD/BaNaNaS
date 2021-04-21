@@ -1,0 +1,11 @@
+name: "Articulated Road Vehicles Set"
+description: |-
+  This NewGRF adds articulated buses and trucks with the same style as the original vehicles. The latest version of each road vehicle in the Original Vehicles Cargo Set has an articulated counterpart in this set.
+
+  Graphics are based on the graphics for the original road vehicles by the OpenGFX team, licensed under the GPL v2.
+url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/ArticulatedRoadVehicles"
+tags:
+- "articulated"
+- "buses"
+- "road vehicles"
+- "trucks"
