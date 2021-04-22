@@ -1,0 +1,10 @@
+version: "7781"
+license: "GPL v2"
+upload-date: 2021-04-22T20:10:59Z
+md5sum-partial: "328a863d"
+filesize: 1812091
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.9.0"
