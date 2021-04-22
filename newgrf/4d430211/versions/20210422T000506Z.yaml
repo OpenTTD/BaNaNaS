@@ -1,0 +1,10 @@
+version: "2.9"
+license: "GPL v2"
+upload-date: 2021-04-22T00:05:06Z
+md5sum-partial: "fffb4bc9"
+filesize: 81087
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.9.0"
