@@ -1,0 +1,10 @@
+version: "1.1.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-04-23T11:55:45Z
+md5sum-partial: "fc4d2099"
+filesize: 367734
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.10.0"
