@@ -3,7 +3,7 @@ license: "CC-BY-SA v3.0"
 upload-date: 2021-03-22T22:14:24Z
 md5sum-partial: "bde510ed"
 filesize: 2897812
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "master"
   conditions:
