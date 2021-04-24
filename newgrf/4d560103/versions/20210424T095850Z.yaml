@@ -1,9 +1,9 @@
-version: "1.2.2"
+version: "3.0"
 license: "GPL v2"
-upload-date: 2021-04-08T20:23:43Z
-md5sum-partial: "9eebcf28"
-filesize: 733756
-availability: "savegames-only"
+upload-date: 2021-04-24T09:58:50Z
+md5sum-partial: "52fb3d9d"
+filesize: 748370
+availability: "new-games"
 compatibility:
 - name: "master"
   conditions:
