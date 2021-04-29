@@ -1,12 +1,15 @@
 name: "Fridaemon's Objects"
-description: |-
-  This set brings supermarket, modular hypermarkets, warehouses, beach objects, skyscrappers, underground entrances, different types of buildings, vehicles as objects to the game. More coems later ;)
-
-  Very big THANKS to GarryG and to everyone who inspired me.
+description: "This set brings supermarkets, modular hypermarkets, warehouses, beach objects, skyscrappers, underground entrances, different types of buildings, vehicles as objects, bus terminals, bus depots and more to the game. More comes later ;)"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87596"
 tags:
-- "beach objects"
+- "beach"
+- "building"
+- "bus"
 - "eyecandy"
 - "shops"
+- "skyscraper"
+- "stations"
 - "supermarkets"
-- "underground road entrances"
+- "terminals"
+- "truck"
+- "warehouses"
