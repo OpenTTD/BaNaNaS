@@ -4,3 +4,26 @@ upload-date: 2021-04-26T18:48:52Z
 md5sum-partial: "4591d04d"
 filesize: 118873
 availability: "new-games"
+
+description: |-
+  YST train list
+  - Shinkansen 500
+  - Shinkansen 800
+  - AGE
+  - AVE
+  - AVE Velaro
+  - CR600 (600km/h)
+  - CRH1
+  - CRH3
+  - CRH380A
+  - CRH380A test (No Passinger, No
+  Maintenance cost)
+
+  YST-only vehicles
+  HMX, NKX, YTX, VTX, YFX
+  It is a vehicle that should never be copied.
+
+  Vehicle with sprite support (nickname)
+  EMU250, EMU300 (Kingger)
+  CHR380D (Tree of the day)
+  HEMU430X (Las)
