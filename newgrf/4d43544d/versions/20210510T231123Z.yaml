@@ -1,0 +1,10 @@
+version: "7799"
+license: "GPL v2"
+upload-date: 2021-05-10T23:11:23Z
+md5sum-partial: "a30c0fce"
+filesize: 1829333
+availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.9.0"
