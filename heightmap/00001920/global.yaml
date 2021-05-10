@@ -1,0 +1,12 @@
+name: "Italy (4096 x 4096) - Raw"
+description: "A heightmap of Italy, including the islands of Sicily, Sardinia, and Corsica. Also included are some lands across the Alps, and some of the Balkans. The heightmap is composited from multiple heightmap images taken from Tangram Heightmapper. This is the direct result, raw and unedited."
+url: "https://www.tt-forums.net/viewtopic.php?f=60&t=88872"
+tags:
+- "4096"
+- "Italy"
+- "alps"
+- "coast"
+- "islands"
+- "mountains"
+- "ocean"
+- "sea"
