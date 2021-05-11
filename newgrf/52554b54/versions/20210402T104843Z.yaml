@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2021-04-02T10:48:43Z
 md5sum-partial: "e4381cc7"
 filesize: 7200846
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "master"
   conditions:
