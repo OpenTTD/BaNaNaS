@@ -5,7 +5,7 @@ md5sum-partial: "cdd3688d"
 filesize: 455825
 availability: "new-games"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 0.0.0"
   - "< 0.0.0"

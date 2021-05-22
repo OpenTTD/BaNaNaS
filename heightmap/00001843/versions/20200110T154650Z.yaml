@@ -5,6 +5,6 @@ md5sum-partial: "6e646180"
 filesize: 1082462
 availability: "new-games"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.6.0"

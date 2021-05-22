@@ -5,7 +5,7 @@ md5sum-partial: "d3fcfc99"
 filesize: 391976
 availability: "new-games"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.4.3"
   - "< 1.4.3"

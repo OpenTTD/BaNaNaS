@@ -9,7 +9,7 @@ dependencies:
   unique-id: "4b570001"
   md5sum-partial: "72cc99e5"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.10.0"
 

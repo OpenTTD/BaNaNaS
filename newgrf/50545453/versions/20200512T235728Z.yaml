@@ -5,7 +5,7 @@ md5sum-partial: "d3450ad6"
 filesize: 15826
 availability: "savegames-only"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.9.3"
   - "< 1.10.0"

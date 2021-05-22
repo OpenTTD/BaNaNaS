@@ -6,6 +6,6 @@ filesize: 10707
 availability: "savegames-only"
 dependencies: []
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - "< 0.0.1"
