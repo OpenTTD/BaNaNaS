@@ -2,19 +2,11 @@ name: "Unsinkable Sam (Ships)"
 description: |-
   An early preview of Unsinkable Sam
 
-  This features 2 ships.
+  This features a limited selection of ships, including freighters and tankers in various sizes.
 
-  Shackleton Freighter 540t
-  Available 1870
-  Refits all freight
-  Extensive cargo sprite support.
+  Ships are complete for sprites and cargo, but intro dates, speeds and costs are unfinished.
 
-  Gunfleet Tanker 540,000 litres
-  Available 1870
-  Refits most non-edible liquids
-  Ship colour changes depending on cargo.
-
-  Preview 2 release replaces previous alpha releases.  Ship style and stats have been revised following a lot of testing.
+  Preview releases replace previous alpha releases.
 url: "https://grf.farm/unsinkable-sam/index.html"
 tags:
 - "andythenorth"
