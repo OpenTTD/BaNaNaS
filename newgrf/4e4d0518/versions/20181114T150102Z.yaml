@@ -9,6 +9,6 @@ dependencies:
   unique-id: "ac1d0101"
   md5sum-partial: "acd9ae07"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.0.0"

@@ -12,6 +12,6 @@ dependencies:
   unique-id: "52544e41"
   md5sum-partial: "ba1c5579"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.6.0"

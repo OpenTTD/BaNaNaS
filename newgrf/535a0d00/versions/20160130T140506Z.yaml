@@ -9,6 +9,6 @@ dependencies:
   unique-id: "52453200"
   md5sum-partial: "dba84425"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.2.0"

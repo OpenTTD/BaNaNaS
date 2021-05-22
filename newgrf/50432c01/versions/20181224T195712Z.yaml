@@ -5,6 +5,6 @@ md5sum-partial: "ee40daaf"
 filesize: 9358
 availability: "new-games"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 0.7.0"

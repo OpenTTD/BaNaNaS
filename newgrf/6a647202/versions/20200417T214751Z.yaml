@@ -5,6 +5,6 @@ md5sum-partial: "f815ddc2"
 filesize: 22348
 availability: "savegames-only"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.7.2"

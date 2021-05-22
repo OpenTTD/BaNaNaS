@@ -5,7 +5,7 @@ md5sum-partial: "d26c3620"
 filesize: 15827
 availability: "new-games"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.9.3"
   - "< 2.0.0"

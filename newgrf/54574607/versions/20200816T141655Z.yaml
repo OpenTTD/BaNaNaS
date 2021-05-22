@@ -5,6 +5,6 @@ md5sum-partial: "fcdddb17"
 filesize: 14667115
 availability: "savegames-only"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.7.0"

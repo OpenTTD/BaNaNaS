@@ -5,6 +5,6 @@ md5sum-partial: "4c039cc5"
 filesize: 799817
 availability: "savegames-only"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.10.0"

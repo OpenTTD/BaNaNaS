@@ -5,6 +5,6 @@ md5sum-partial: "ae124457"
 filesize: 138335
 availability: "new-games"
 compatibility:
-- name: "master"
+- name: "official"
   conditions:
   - ">= 1.4.1"
