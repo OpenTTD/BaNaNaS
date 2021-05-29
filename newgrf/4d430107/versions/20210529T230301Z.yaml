@@ -1,0 +1,10 @@
+version: "17"
+license: "GPL v2"
+upload-date: 2021-05-29T23:03:01Z
+md5sum-partial: "c6ce285b"
+filesize: 70200
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"
