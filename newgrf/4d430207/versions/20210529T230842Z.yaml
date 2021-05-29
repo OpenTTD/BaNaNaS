@@ -1,0 +1,22 @@
+version: "47"
+license: "GPL v2"
+upload-date: 2021-05-29T23:08:42Z
+md5sum-partial: "f3df0dfd"
+filesize: 701738
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"
+
+tags:
+- "NRT"
+- "bus"
+- "car"
+- "horse"
+- "poland"
+- "polish road set"
+- "polskie drogi"
+- "road"
+- "truck"
+- "vehicle"
