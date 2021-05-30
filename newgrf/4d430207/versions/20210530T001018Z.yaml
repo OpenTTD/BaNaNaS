@@ -1,16 +1,15 @@
-version: "47"
+version: "48"
 license: "GPL v2"
-upload-date: 2021-05-29T23:08:42Z
-md5sum-partial: "f3df0dfd"
-filesize: 701738
-availability: "savegames-only"
+upload-date: 2021-05-30T00:10:18Z
+md5sum-partial: "42084b1f"
+filesize: 701990
+availability: "new-games"
 compatibility:
 - name: "official"
   conditions:
   - ">= 1.10.0"
 
 tags:
-- "NRT"
 - "bus"
 - "car"
 - "horse"
