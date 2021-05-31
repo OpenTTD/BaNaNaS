@@ -3,7 +3,7 @@ license: "CC-0 v1.0"
 upload-date: 2019-04-09T23:39:55Z
 md5sum-partial: "6c879e50"
 filesize: 4533
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "official"
   conditions:
