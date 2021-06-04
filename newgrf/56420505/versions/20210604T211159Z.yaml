@@ -1,0 +1,13 @@
+version: "0.0.3"
+license: "GPL v2"
+upload-date: 2021-06-04T21:11:59Z
+md5sum-partial: "9a5b0e32"
+filesize: 230468362
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.2.0"
+
+name: "BRIX Realism Is XXXX"
+url: "https://github.com/V453000/BRIX"
