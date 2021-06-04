@@ -1,0 +1,10 @@
+version: "411"
+license: "GPL v2"
+upload-date: 2021-06-04T11:53:29Z
+md5sum-partial: "75decd05"
+filesize: 42731
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.11"
