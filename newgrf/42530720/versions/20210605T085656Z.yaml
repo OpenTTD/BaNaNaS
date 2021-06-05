@@ -1,0 +1,17 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2021-06-05T08:56:56Z
+md5sum-partial: "e67c3fbe"
+filesize: 7434
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "42531320"
+  md5sum-partial: "de200ff4"
+- content-type: "newgrf"
+  unique-id: "454e2101"
+  md5sum-partial: "16dd458d"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.3.0"

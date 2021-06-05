@@ -1,0 +1,11 @@
+name: "JP+ NATS Duplicates Disabler"
+description: "Removes duplicate trains from NATS that are included in JP+. Requires both JP+ and NATS to work."
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87899"
+tags:
+- "JP"
+- "JP+"
+- "JPplus"
+- "JR"
+- "Japan"
+- "Japanese"
+- "train"
