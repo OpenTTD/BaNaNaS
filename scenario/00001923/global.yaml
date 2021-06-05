@@ -1,4 +1,4 @@
-name: "Korean peninsula"
+name: "the Korean peninsula"
 description: |-
   Korean peninsula scenario with major cities and 4096x2048.
   Some regions are cropped due to the size.
@@ -15,3 +15,4 @@ tags:
 - "대한민국"
 - "북한"
 - "한국"
+- "한반도"
