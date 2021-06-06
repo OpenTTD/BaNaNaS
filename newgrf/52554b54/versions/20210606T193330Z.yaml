@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2021-06-06T19:33:30Z
 md5sum-partial: "dae1aa27"
 filesize: 7224296
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "official"
   conditions:
