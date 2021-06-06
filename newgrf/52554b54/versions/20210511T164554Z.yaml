@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2021-05-11T16:45:54Z
 md5sum-partial: "a7a94dde"
 filesize: 7207329
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "52544e41"
