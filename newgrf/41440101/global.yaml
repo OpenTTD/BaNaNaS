@@ -1,0 +1,11 @@
+name: "Military Items"
+description: |-
+  The set contains several military airplanes and airports (like carriers).
+  Copyright: 2021 adpro
+  Source: https://github.com/adpro/openttd-military-grf/
+  Development thread: https://www.tt-forums.net/viewtopic.php?f=26&t=88858
+url: "https://github.com/adpro/openttd-military-grf"
+tags:
+- "aircraft"
+- "airport"
+- "military"
