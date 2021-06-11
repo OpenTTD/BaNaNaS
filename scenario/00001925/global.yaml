@@ -1,0 +1,18 @@
+name: "Korean Peninsula"
+description: |-
+  Korean peninsula scenario with major cities and 4096x2048.
+  Some regions are cropped due to the size.
+  Note that there is no industries in this scenario.
+  Need Korean Town Names NewGRF(544b0101).
+  This is made with Korean peninsular heightmap(00001922)
+tags:
+- "dprk"
+- "korea"
+- "north korea"
+- "rok"
+- "south korea"
+- "남한"
+- "대한민국"
+- "북한"
+- "한국"
+- "한반도"
