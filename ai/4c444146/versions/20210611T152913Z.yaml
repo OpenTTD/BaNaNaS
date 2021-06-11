@@ -1,13 +1,10 @@
-version: "v17"
+version: "v18"
 license: "GPL v2"
-upload-date: 2020-12-16T21:19:55Z
-md5sum-partial: "fb04c4ff"
-filesize: 64102
-availability: "savegames-only"
+upload-date: 2021-06-11T15:29:13Z
+md5sum-partial: "7b38a5fe"
+filesize: 64328
+availability: "new-games"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5155534c"
-  md5sum-partial: "757d203b"
 - content-type: "ai-library"
   unique-id: "5343504c"
   md5sum-partial: "e1940278"
@@ -17,4 +14,4 @@ dependencies:
 compatibility:
 - name: "official"
   conditions:
-  - ">= 1.10.0"
+  - ">= 1.11.0"
