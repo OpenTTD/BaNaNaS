@@ -1,0 +1,31 @@
+version: "2.0"
+license: "GPL v2"
+upload-date: 2021-06-12T02:56:56Z
+md5sum-partial: "7c857850"
+filesize: 2413893
+availability: "new-games"
+
+name: "China Aircraft COMAC C919"
+description: |-
+  Now added some new aircraft in the new version: Fung Joe Guey no.2,Xian Y20,Xian Y7/MA60,COMAC ARJ21
+
+  COMAC C919 is China's first large domestic commercial jetliner. You can refit it into different airlines with 32bpp + extrazoom
+
+  Enjoy it !
+  (c)2018-2021 by Leou
+
+  Welcome to visit chinese forum & QQ group:6660736
+  http://www.OpenTTD.imotor.com
+url: "https://www.tt-forums.net/viewtopic.php?p=1204061#p1204061"
+tags:
+- "32bpp"
+- "ARJ21"
+- "MA60"
+- "Y20"
+- "Y7"
+- "aircraft"
+- "c919"
+- "china"
+- "chinese"
+- "full zoom"
+- "plane"
