@@ -8,3 +8,5 @@ compatibility:
 - name: "official"
   conditions:
   - ">= 1.2.0"
+
+url: "https://github.com/Gamunbi/Korean-Tram-Set"
