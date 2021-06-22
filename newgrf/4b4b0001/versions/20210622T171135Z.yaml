@@ -1,9 +1,9 @@
-version: "r1.0.2.1"
-license: "GPL v2"
-upload-date: 2021-06-21T23:51:08Z
-md5sum-partial: "47b7ad17"
-filesize: 956123
-availability: "savegames-only"
+version: "r1.0.3"
+license: "Custom"
+upload-date: 2021-06-22T17:11:35Z
+md5sum-partial: "897b561b"
+filesize: 973232
+availability: "new-games"
 compatibility:
 - name: "official"
   conditions:
@@ -11,7 +11,7 @@ compatibility:
 
 name: "Renegade FIRS"
 description: |-
-  RFIRS r1.0.2. Not compatible with any FIRS versions.
+  RFIRS r1.0.3. Not compatible with any FIRS versions.
 
   RFIRS is a modification of FIRS that makes the production of industries grow over time depending on quality of service provided (engineering supplies now accelerate the growth of the production).
 
