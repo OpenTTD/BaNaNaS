@@ -1,0 +1,10 @@
+version: "4.9"
+license: "GPL v2"
+upload-date: 2021-06-30T19:13:23Z
+md5sum-partial: "fbd84501"
+filesize: 703991
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.9.0"
