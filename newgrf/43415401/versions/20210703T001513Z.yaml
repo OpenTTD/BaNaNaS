@@ -1,0 +1,10 @@
+version: "1.0.0"
+license: "CC-BY v3.0"
+upload-date: 2021-07-03T00:15:13Z
+md5sum-partial: "c5ddf840"
+filesize: 23078585
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"
