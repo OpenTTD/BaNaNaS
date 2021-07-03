@@ -3,8 +3,10 @@ name: Testing
 on:
   push:
     branches:
-    - master
+    - main
   pull_request:
+    branches:
+    - main
 
 jobs:
   linter:
@@ -15,7 +17,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: OpenTTD/bananas-api
-        ref: master
+        ref: main
     - name: Checkout BaNaNaS
       uses: actions/checkout@v2
       with:

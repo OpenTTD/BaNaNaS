@@ -3,7 +3,7 @@ name: Reload server database
 on:
   push:
     branches:
-    - master
+    - main
 
 concurrency: server
 

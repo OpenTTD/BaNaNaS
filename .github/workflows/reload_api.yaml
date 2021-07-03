@@ -3,7 +3,7 @@ name: Reload API database
 on:
   push:
     branches:
-    - master
+    - main
 
 concurrency: api
 
