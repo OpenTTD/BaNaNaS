@@ -4,7 +4,6 @@ upload-date: 2021-07-03T00:15:13Z
 md5sum-partial: "c5ddf840"
 filesize: 23078585
 availability: "new-games"
-compatibility:
-- name: "official"
-  conditions:
-  - ">= 1.10.0"
+compatibility: []
+
+description: "Five giant cats to put onto your map. Cat 5 is animated."
