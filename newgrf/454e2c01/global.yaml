@@ -1,0 +1,10 @@
+name: "North Korean Aviation Set"
+description: |-
+  This NewGRF not only adds new airport objects, mostly compatible with the fake airport objects NewGRF, but it also adds small airports with or without depot which you can use on either end, or in the middle of a runway. Planes won't be able to use eyecandy objects, but at least your eyecandy objects can now be flown to.
+
+  Designed with North Korean airports in mind.
+url: "https://www.tt-forums.net/viewtopic.php?p=1246618#p1246618"
+tags:
+- "dprk"
+- "korea"
+- "north"
