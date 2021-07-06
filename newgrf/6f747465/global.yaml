@@ -2,7 +2,9 @@ name: "Sodor Railway Expansion"
 description: |-
   A train set for OpenTTD, including vehicles from the Thomas The Tank Engine universe. Expands on the UKRS2 set, which can be used for additional units (eg freight cars)
 
-  Drawn by DanMacK, coded by Audigex
+  By DanMack (graphics)
+  Audigex (original code and graphical updates)
+  Bazek (graphical and code updates)
 url: "https://github.com/audigex/OpenTTE"
 tags:
 - "island of sodor"
