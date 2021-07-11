@@ -1,0 +1,10 @@
+version: "3.0.2"
+license: "GPL v2"
+upload-date: 2021-07-11T14:52:58Z
+md5sum-partial: "cae4e057"
+filesize: 751632
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.2.0"
