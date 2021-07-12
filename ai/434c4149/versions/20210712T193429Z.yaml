@@ -1,0 +1,20 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2021-07-12T19:34:29Z
+md5sum-partial: "b24cec14"
+filesize: 17128
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4149544c"
+  md5sum-partial: "affab79f"
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "dcdcf35c"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"

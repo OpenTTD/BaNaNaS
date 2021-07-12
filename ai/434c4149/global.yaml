@@ -1,0 +1,8 @@
+name: "CityLifeAI"
+description: "Populates city with life by adding cars, bikes and service vehicles. Provide good public services to reduce the traffic. Happy cities will grow and connect to nearby towns. Requires newGRF with eyecandy vehicles and GS with ToyLib support. Supports NRT."
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=89121"
+tags:
+- "NRT"
+- "car"
+- "eye candy"
+- "traffic"
