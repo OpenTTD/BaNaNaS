@@ -8,3 +8,10 @@ compatibility:
 - name: "official"
   conditions:
   - ">= 1.9.0"
+
+description: |-
+  The game starts with no Industries available.
+  CHECK THE README OR DEVELOPMENT WEBSITE FOR THE REQUIRED GAME SETTINGS!!
+  You have to buy and place the tile representing the Industry you want.
+  The 1 tile industries can easily be hidden behind nicer looking structures and then stimulate traffic to areas where you otherwise wouldn't have that.
+  There are just 8 different industries accepting and producing a total of 64 cargo's, so you can have many different looking vehicles visiting them.
