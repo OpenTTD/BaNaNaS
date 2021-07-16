@@ -1,0 +1,10 @@
+version: "02"
+license: "GPL v2"
+upload-date: 2021-07-16T09:51:29Z
+md5sum-partial: "197ff1eb"
+filesize: 30667
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.9.0"
