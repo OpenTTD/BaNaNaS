@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2021-07-24T16:29:14Z
 md5sum-partial: "eb5b645b"
 filesize: 9516
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "official"
   conditions:
