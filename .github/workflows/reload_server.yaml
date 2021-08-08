@@ -15,7 +15,7 @@ jobs:
     steps:
     - name: Reload server database
       run: |
-        aws lambda invoke --region ${{ secrets.AWS_REGION }} --function-name "${{ secrets.SERVER_FUNCTION_NAME }}" --payload='{"secret":"${{ secrets.SERVER_RELOAD_SECRET }}"}' output.txt
+        aws lambda invoke --cli-read-timeout 120 --region ${{ secrets.AWS_REGION }} --function-name "${{ secrets.SERVER_FUNCTION_NAME }}" --payload='{"secret":"${{ secrets.SERVER_RELOAD_SECRET }}"}' output.txt
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.SERVER_AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SERVER_AWS_SECRET_ACCESS_KEY }}
