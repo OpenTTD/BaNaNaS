@@ -1,0 +1,10 @@
+version: "1.0b"
+license: "GPL v2"
+upload-date: 2021-08-10T08:20:31Z
+md5sum-partial: "818cb898"
+filesize: 1017515
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.2.0"
