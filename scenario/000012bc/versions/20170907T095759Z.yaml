@@ -8,3 +8,5 @@ compatibility:
 - name: "official"
   conditions:
   - ">= 1.4.1"
+
+name: "Guangdong 1.0a"
