@@ -1,0 +1,7 @@
+name: "Debug Trees"
+description: "Simple NewGRF that replaces all tree sprites with custom graphics that makes it easier to recognize tree type and growth stage. Hope it will help someone to create an awesome tree pack one day. You can find the source code on the github: https://github.com/citymania-org/debug-trees-grf"
+url: "https://github.com/citymania-org/debug-trees-grf"
+tags:
+- "citymania"
+- "debug"
+- "trees"
