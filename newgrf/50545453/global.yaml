@@ -1,5 +1,5 @@
 name: "PTTS - Portuguese Trainset"
-description: "A NewGRF for OpenTTD that contains trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by João Génio ('Genix'). Code by João Génio ('Genix')."
+description: "A NewGRF for OpenTTD that contains trains that have or are currently circulating in Portugal. This set is not complete. Original graphics by João Génio ('Genix3'). Code by João Génio ('Genix3')."
 url: "https://github.com/joaogenio/openttd-portuguese-trainset"
 tags:
 - "comboios"
