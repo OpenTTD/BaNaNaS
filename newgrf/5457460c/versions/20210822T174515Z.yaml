@@ -1,0 +1,14 @@
+version: "1.0.16"
+license: "CC-BY-SA v3.0"
+upload-date: 2021-08-22T17:45:15Z
+md5sum-partial: "aa3dd0fb"
+filesize: 2039321
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "54574607"
+  md5sum-partial: "e39f288e"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"
