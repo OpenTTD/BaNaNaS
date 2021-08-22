@@ -1,0 +1,10 @@
+version: "1.3.13"
+license: "CC-BY-SA v3.0"
+upload-date: 2021-08-22T17:44:27Z
+md5sum-partial: "e39f288e"
+filesize: 19552414
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"
