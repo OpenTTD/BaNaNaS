@@ -1,0 +1,10 @@
+version: "1.0.8"
+license: "CC-BY-SA v3.0"
+upload-date: 2021-08-22T17:29:12Z
+md5sum-partial: "afdade74"
+filesize: 1492197
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 1.10.0"
