@@ -1,9 +1,9 @@
-version: "7.0"
+version: "7.1"
 license: "GPL v2"
-upload-date: 2021-07-12T18:28:52Z
-md5sum-partial: "b70dc3b2"
-filesize: 42137
-availability: "savegames-only"
+upload-date: 2021-08-25T19:26:17Z
+md5sum-partial: "a863382d"
+filesize: 42530
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
