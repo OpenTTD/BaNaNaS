@@ -3,11 +3,11 @@ description: |-
   Simple City Builder
 
   by The Dude of Novapolis team
-  http://novapolis.net
+  https://www.novapolis.net
 
   Easily configured city builder script.
 
-  - Choose what cargos towns will require to grow (up to all 32 cargos if defined)
+  - Choose what cargos towns will require to grow (up to all 64 cargos if defined)
   - Claim towns by placing company headquaters
   - Deliver cargo to your town to grow it
   - ECS, FIRS, XIS and YETI supported
