@@ -1,13 +1,13 @@
-version: "2021.04.17"
+version: "2021.08.25"
 license: "GPL v2"
-upload-date: 2021-04-18T16:19:40Z
-md5sum-partial: "3177bdbb"
-filesize: 44818
-availability: "savegames-only"
+upload-date: 2021-08-25T21:26:04Z
+md5sum-partial: "a18a911b"
+filesize: 47694
+availability: "new-games"
 compatibility:
 - name: "official"
   conditions:
-  - ">= 1.10.0"
+  - ">= 1.11.0"
 
 name: "Simple City Builder"
 description: |-
@@ -18,7 +18,7 @@ description: |-
 
   Easily configured city builder script.
 
-  - Choose what cargos towns will require to grow (up to all 32 cargos if defined)
+  - Choose what cargos towns will require to grow (up to all 64 cargos if defined)
   - Claim towns by placing company headquaters
   - Deliver cargo to your town to grow it
   - ECS, FIRS, XIS and YETI supported
