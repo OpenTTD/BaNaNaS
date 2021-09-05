@@ -1,0 +1,10 @@
+version: "0.8.6"
+license: "GPL v2"
+upload-date: 2021-09-05T18:15:01Z
+md5sum-partial: "f1ee071e"
+filesize: 33247425
+availability: "new-games"
+compatibility:
+- name: "official"
+  conditions:
+  - ">= 12.0"
