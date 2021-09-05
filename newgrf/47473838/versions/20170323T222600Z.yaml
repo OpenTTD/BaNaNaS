@@ -5,7 +5,7 @@ md5sum-partial: "17d9127b"
 filesize: 1278876
 availability: "new-games"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.4.4"
   - "< 1.4.4"

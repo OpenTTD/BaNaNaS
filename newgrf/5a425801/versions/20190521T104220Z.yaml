@@ -5,7 +5,7 @@ md5sum-partial: "b10930fc"
 filesize: 15997
 availability: "new-games"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.0.0"
 

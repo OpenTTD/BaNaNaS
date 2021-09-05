@@ -69,6 +69,6 @@ dependencies:
   unique-id: "fbfb0010"
   md5sum-partial: "6be95390"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.10.0"

@@ -9,6 +9,6 @@ dependencies:
   unique-id: "4d470501"
   md5sum-partial: "8318348c"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.2.0"
