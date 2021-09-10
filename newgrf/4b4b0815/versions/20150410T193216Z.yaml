@@ -5,6 +5,6 @@ md5sum-partial: "f30ca0d2"
 filesize: 40039
 availability: "new-games"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.4.4"

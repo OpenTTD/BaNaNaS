@@ -5,6 +5,6 @@ md5sum-partial: "bf1453f8"
 filesize: 392765
 availability: "new-games"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 0.7.5"

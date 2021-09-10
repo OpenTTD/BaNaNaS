@@ -6,6 +6,6 @@ filesize: 10712
 availability: "savegames-only"
 dependencies: []
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - "< 0.0.1"

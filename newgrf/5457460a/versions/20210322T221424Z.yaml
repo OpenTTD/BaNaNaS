@@ -5,6 +5,6 @@ md5sum-partial: "bde510ed"
 filesize: 2897812
 availability: "savegames-only"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.7.0"

@@ -5,6 +5,6 @@ md5sum-partial: "33fb755d"
 filesize: 1450533
 availability: "savegames-only"
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.10.0"

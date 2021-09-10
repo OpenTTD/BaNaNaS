@@ -6,6 +6,6 @@ filesize: 7434
 availability: "new-games"
 dependencies: []
 compatibility:
-- name: "official"
+- name: "vanilla"
   conditions:
   - ">= 1.3.0"
