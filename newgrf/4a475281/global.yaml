@@ -1,0 +1,13 @@
+name: "Multi Aspect Signals"
+description: |-
+  Multi Aspect Signals
+
+  This GRF includes 4-aspect signal graphics (red, yellow, double-yellow, green) for the block signal, PBS and one-way PBS signal types (light signals not semaphores).
+
+  This GRF requires an OpenTTD version which supports this feature such as JGR's patchpack v0.43.0 or later.
+
+  Realistic braking must be enabled for extra signal aspects to be used.
+url: "https://github.com/JGRennison/multi-aspect-signals-grf"
+tags:
+- "jgrpp"
+- "signals"
