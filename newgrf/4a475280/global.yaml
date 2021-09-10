@@ -1,0 +1,9 @@
+name: "Extra Station Names"
+description: |-
+  This GRF adds extra station name strings for when all the default names have been used up, instead of "Town Station #NNN".
+
+  Requires an OpenTTD version which supports this feature such as JGR's patchpack v0.42.3 or later.
+url: "https://github.com/JGRennison/extra-station-names-sample-grf"
+tags:
+- "jgrpp"
+- "station names"
