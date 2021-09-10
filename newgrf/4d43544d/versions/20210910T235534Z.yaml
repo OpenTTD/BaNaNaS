@@ -1,0 +1,10 @@
+version: "7923"
+license: "GPL v2"
+upload-date: 2021-09-10T23:55:34Z
+md5sum-partial: "fe30e5d6"
+filesize: 1841430
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.9.0"
