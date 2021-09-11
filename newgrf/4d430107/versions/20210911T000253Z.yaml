@@ -1,0 +1,10 @@
+version: "18"
+license: "GPL v2"
+upload-date: 2021-09-11T00:02:53Z
+md5sum-partial: "24c1ac0a"
+filesize: 69041
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 1.10.0"
