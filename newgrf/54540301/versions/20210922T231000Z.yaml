@@ -1,0 +1,10 @@
+version: "1.5.0 beta1"
+license: "GPL v3"
+upload-date: 2021-09-22T23:10:00Z
+md5sum-partial: "f4313528"
+filesize: 26278
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
