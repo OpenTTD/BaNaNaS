@@ -1,0 +1,14 @@
+name: "Original Industries Disabler"
+description: |-
+  ----------------------------
+  Disables default industries.
+
+  Useful, for example, when you want to play with a specific ECS vector, but don't want to use the Town vector.
+
+  Use at your own risk.
+tags:
+- "default"
+- "disable"
+- "original"
+- "turn off"
+- "vanilla industries"
