@@ -1,11 +1,18 @@
 name: "Original Industries Disabler"
 description: |-
-  ----------------------------
+  ---
   Disables default industries.
 
   Useful, for example, when you want to play with a specific ECS vector, but don't want to use the Town vector.
+  Or maybe you just want to deliver lots of coal to a power station without any distractions.
 
   Use at your own risk.
+
+  ----------------------
+
+  This version has a parameter for each industry.
+
+  If you order now we'll also throw in a set of steak knives!
 tags:
 - "default"
 - "disable"
