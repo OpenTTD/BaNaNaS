@@ -1,0 +1,23 @@
+version: "0.1.1"
+license: "GPL v3"
+upload-date: 2021-10-13T13:44:23Z
+md5sum-partial: "feed0c2c"
+filesize: 22301
+availability: "new-games"
+
+name: "Korean Tram Set"
+description: |-
+  한국 전차 세트
+
+  한국 전차 세트는 구한말부터 일제강점기까지의 한반도, 그리고 해방 후 대한민국에서 운행했던 전차들을 구현한 NewGRF입니다.
+
+  Korean Tram Set.
+
+  Korean Tram Set incloudes the trams in South Korea.
+url: "https://github.com/Gamunbi/Korean-Tram-Set"
+tags:
+- "Korea"
+- "Korean"
+- "Tram"
+- "전차"
+- "한국"
