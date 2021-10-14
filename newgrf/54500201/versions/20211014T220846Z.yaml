@@ -1,0 +1,20 @@
+version: "0.14"
+license: "GPL v3"
+upload-date: 2021-10-14T22:08:46Z
+md5sum-partial: "1f0e34eb"
+filesize: 324444
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.7.0"
+
+name: "North American Passenger RR"
+description: "North American Passenger Railroads (NAPR) is a train set which includes passenger-carrying part of the north american class I railroads: passeger locomotives, coaches and multiple units."
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=77274"
+tags:
+- "Canada"
+- "NAPR"
+- "North America"
+- "rail"
+- "train"
