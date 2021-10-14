@@ -10,7 +10,9 @@ compatibility:
   - ">= 1.7.0"
 
 name: "North American Passenger RR"
-description: "North American Passenger Railroads (NAPR) is a train set which includes passenger-carrying part of the north american class I railroads: passeger locomotives, coaches and multiple units."
+description: |-
+  North American Passenger Railroads (NAPR) set is a trainset created with the target to contain all North American - USA, Canada and Mexica - class I railroads passenger equipment: steam, diesel and electric locomotives, EMUs and DMUs, passenger/mail cars, turbine trainsets, etc.
+  Drawn and coded by Tony Pixel (C) 2017-2021.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=77274"
 tags:
 - "Canada"
