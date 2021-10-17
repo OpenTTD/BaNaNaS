@@ -1,0 +1,16 @@
+version: "B1.00.3"
+license: "Custom"
+upload-date: 2021-10-17T19:56:39Z
+md5sum-partial: "cb5c224d"
+filesize: 189094
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.40.0"
+
+name: "STGFX !Buses!"
+url: "https://www.tt-forums.net/viewtopic.php?f=67&t=88252"
