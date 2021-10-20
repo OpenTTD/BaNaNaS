@@ -5,12 +5,15 @@ md5sum-partial: "c4a88d94"
 filesize: 25848
 availability: "new-games"
 compatibility:
-- name: "jgrpp"
+- name: "vanilla"
   conditions:
   - ">= 1.2.0"
 
 name: "Korean Tram Set"
-description: "Korean Tram Set adds trams that operated from the Korean Empire to before liberation from Japan and newly manufactured trams in South Korea since the 2000s."
+description: |-
+  Korean Tram Set adds trams that operated from the Korean Empire to before liberation from Japan and newly manufactured trams in South Korea since the 2000s.
+
+  대한 제국기부터 해방 이전까지 운행했던 노면전차와, 2000년대 이후 한국에서 새로 제작된 노면전차를 추가해주는 NewGRF입니다.
 url: "https://github.com/Gamunbi/Korean-Tram-Set"
 tags:
 - "Korea"

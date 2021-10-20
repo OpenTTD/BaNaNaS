@@ -4,6 +4,10 @@ upload-date: 2021-10-13T13:44:23Z
 md5sum-partial: "feed0c2c"
 filesize: 22301
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
 
 name: "Korean Tram Set"
 description: |-
