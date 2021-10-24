@@ -1,9 +1,9 @@
-version: "7.1"
+version: "7.2"
 license: "GPL v2"
-upload-date: 2021-08-25T19:26:17Z
-md5sum-partial: "a863382d"
-filesize: 42530
-availability: "savegames-only"
+upload-date: 2021-10-24T21:10:17Z
+md5sum-partial: "2f6cdf9a"
+filesize: 43677
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
@@ -18,3 +18,6 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.34.0"
