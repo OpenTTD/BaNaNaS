@@ -7,14 +7,6 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - "< 1.10.0"
+  - ">= 1.10.0"
 
-tags:
-- "NRT"
-- "buses"
-- "extended"
-- "generic"
-- "horse"
-- "trams"
-- "trucks"
-- "zephyris"
+tags: []
