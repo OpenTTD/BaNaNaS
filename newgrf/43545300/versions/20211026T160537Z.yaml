@@ -1,0 +1,15 @@
+version: "0.6.1"
+license: "GPL v2"
+upload-date: 2021-10-26T16:05:37Z
+md5sum-partial: "b33e9e06"
+filesize: 18868207
+availability: "new-games"
+
+name: "8/32bpp Chinese Trains in NML"
+description: |-
+  Chinese Trains Set in NML.
+  Chinese Forum: openttd.imotor.com
+  QQ group: 6660736
+  Original graphics by Leou,
+  coding by dirace
+url: "http://openttd.imotor.com"
