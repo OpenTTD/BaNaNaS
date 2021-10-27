@@ -3,9 +3,12 @@ description: |-
   Heightmap for northwest Spain(Galicia, Portugal down to Porto and Asturias until Ribadesella)
 
   Made with https://tangrams.github.io/
+
+  Mapa de alturas centrado en Galiza, inclúe tamén o norte de Portugal e Asturias ata Ribadesella. No sur tamén cubre ata un pouco máis o sur de Zamora.
 url: "https://tangrams.github.io/heightmapper/#8.3/42.3155/-7.1574"
 tags:
 - "asturias"
+- "españa"
 - "galicia"
 - "heightmap"
 - "portugal"
