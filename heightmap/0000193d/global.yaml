@@ -1,0 +1,13 @@
+name: "Galicia Hightmap"
+description: |-
+  Heightmap for northwest Spain(Galicia, Portugal down to Porto and Asturias until Ribadesella)
+
+  Made with https://tangrams.github.io/
+url: "https://tangrams.github.io/heightmapper/#8.3/42.3155/-7.1574"
+tags:
+- "asturias"
+- "galicia"
+- "heightmap"
+- "portugal"
+- "scenario"
+- "spain"
