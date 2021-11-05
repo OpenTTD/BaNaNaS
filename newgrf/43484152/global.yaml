@@ -1,0 +1,6 @@
+name: "UK Logo Character Replacement"
+description: "This NewGRF replaces the $, €, ¬ and ¦ characters with UK railway logos, so these symbols can be added to station names. This NewGRF is targeted at UK users, hence the replacement of the $ and € symbol. This can be set as a static NewGRF (for those who know what that means, if you don't, don't worry, just enjoy the symbols)"
+tags:
+- "Gwyd"
+- "Logo"
+- "UK"
