@@ -1,0 +1,10 @@
+version: "r231"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-11-11T17:27:46Z
+md5sum-partial: "7a3fe4c9"
+filesize: 1102501
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
