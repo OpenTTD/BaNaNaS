@@ -1,0 +1,10 @@
+version: "1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-11-12T19:49:45Z
+md5sum-partial: "6f94a6b4"
+filesize: 1245119
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
