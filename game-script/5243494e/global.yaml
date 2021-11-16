@@ -1,0 +1,3 @@
+name: "Rebuild Closed Industries"
+description: "A relatively crude GameScript that attempts to immediately rebuild closed industries in the same place."
+url: "https://github.com/Vampyrbyte/OpenTTD-GS-RebuildClosedIndustries"
