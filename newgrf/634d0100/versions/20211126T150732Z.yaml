@@ -1,17 +1,24 @@
-version: "1"
+version: "1.1"
 license: "GPL v2"
 upload-date: 2021-11-26T15:07:32Z
 md5sum-partial: "8dc377a8"
 filesize: 8205
 availability: "new-games"
 
-name: "betabridgesu"
+name: "betabridges"
 description: |-
-  Better bridges parameters, tweaked for U&Bridges:
-  This newgrf should be placed after U&Bridges newgrf.
-url: "https://www.tt-forums.net/viewtopic.php?p=1250007#p1250007"
+  Better bridges parameters of standard openttd bridges:
+  1. first grid, suspension and cantilever bridges available in half of XIX century;
+  2. corrected spread and ratio of speeds and costs;
+  3. bridge base costs and ground levelling costs raised 8x, additionally tunnel building and water clearing costs increased 4x;
+  4. similar properties of suspension and cantilever bridges;
+  5. short bridges (concrete, grider) can be 5 tiles long (+ 2 bridge heads);
+  6. silicon bridge for very fast trains (vaccum tube etc).
+url: "http://www.tt-forums.net/viewtopic.php?p=1150742"
 tags:
 - "bridge"
 - "cost"
-- "fix"
-- "ubify"
+- "fast"
+- "replacement"
+- "tube"
+- "vacuum"
