@@ -1,0 +1,17 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2021-11-26T15:07:32Z
+md5sum-partial: "8dc377a8"
+filesize: 8205
+availability: "new-games"
+
+name: "betabridgesu"
+description: |-
+  Better bridges parameters, tweaked for U&Bridges:
+  This newgrf should be placed after U&Bridges newgrf.
+url: "https://www.tt-forums.net/viewtopic.php?p=1250007#p1250007"
+tags:
+- "bridge"
+- "cost"
+- "fix"
+- "ubify"
