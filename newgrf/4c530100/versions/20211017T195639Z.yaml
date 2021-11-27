@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2021-10-17T19:56:39Z
 md5sum-partial: "cb5c224d"
 filesize: 189094
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
