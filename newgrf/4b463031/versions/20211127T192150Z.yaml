@@ -1,0 +1,28 @@
+version: "1.0.1"
+license: "GPL v3"
+upload-date: 2021-11-27T19:21:50Z
+md5sum-partial: "4b51f802"
+filesize: 17531
+availability: "new-games"
+
+name: "Galician Town Names"
+description: |-
+  Engade os nomes dos 313 Concellos galegos o xerador de nomes así como un xerador de nomes de parroquias cos nomes máis comúns e a toponimia galega.
+
+
+  Adds the names of the 313 town council from Galicia (northwest Spain). It also creates random names based on the religious/civil districts (parroquias).
+
+
+
+  Copyright (C) 2021 Pablo Villaverde Castro @clanKirfed
+url: "https://github.com/GalizaTTD/galician-town-names/"
+tags:
+- "concellos"
+- "galego"
+- "galicia"
+- "galician"
+- "localidades"
+- "names"
+- "nomes"
+- "town"
+- "vilas"
