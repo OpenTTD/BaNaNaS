@@ -1,0 +1,10 @@
+version: "r233"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2021-12-15T02:20:30Z
+md5sum-partial: "9db2c734"
+filesize: 1105795
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
