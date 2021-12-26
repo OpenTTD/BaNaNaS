@@ -1,0 +1,18 @@
+name: "Santa Catarina 1955 - Vanilla"
+description: |-
+  Scenario for the Brazilian State of Santa Catarina. Also encompasses northern part of Rio Grande do Sul and a little of Paraná.
+
+  Features:
+  - Start date 1955
+  - Population approximately reflects 1960 census data (1 pop = 100 habitants)
+  - Economy roughly represents historical panorama
+  - Temperate climate and economy
+
+  Enjoy!
+url: "https://github.com/arthur-pandolfo/openTTD/tree/main/scenario_Santa_Catarina"
+tags:
+- "Brazil"
+- "Rio Grande do Sul"
+- "Santa Catarina"
+- "Scenario"
+- "Vanilla"
