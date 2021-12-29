@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2020-04-01T06:57:56Z
 md5sum-partial: "0c36a216"
 filesize: 1805746
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
