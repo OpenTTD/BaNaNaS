@@ -4,3 +4,7 @@ upload-date: 2022-01-03T18:46:36Z
 md5sum-partial: "5f3e598d"
 filesize: 398535
 availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "4b570002"
+  md5sum-partial: "30eacc70"
