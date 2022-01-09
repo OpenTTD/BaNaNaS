@@ -4,3 +4,10 @@ upload-date: 2022-01-09T01:44:23Z
 md5sum-partial: "bc48d909"
 filesize: 66152
 availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4356524f"
+  md5sum-partial: "77416e84"
+- content-type: "ai-library"
+  unique-id: "5046524c"
+  md5sum-partial: "e6b1d198"
