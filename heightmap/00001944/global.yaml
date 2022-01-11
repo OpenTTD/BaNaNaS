@@ -1,13 +1,14 @@
 name: "Japan 8k"
 description: |-
   Japan Hokkaido to Okinanawa heightmap
+  Recommended height is from 40 to 100
   For JGR users:
-  When used max size 1 tile = 163m
+  When used with maximum resolution 1 tile = 163m
   For real time use 912 ticks per minute
 tags:
-- "Heightmap"
-- "Hokkaido"
-- "Japan"
-- "Kanto"
-- "Okinawa"
-- "Tokyo"
+- "heightmap"
+- "hokkaido"
+- "japan"
+- "kanto"
+- "okinawa"
+- "tokyo"
