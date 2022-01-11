@@ -1,0 +1,13 @@
+name: "Japan 8k"
+description: |-
+  Japan Hokkaido to Okinanawa heightmap
+  For JGR users:
+  When used max size 1 tile = 163m
+  For real time use 912 ticks per minute
+tags:
+- "Heightmap"
+- "Hokkaido"
+- "Japan"
+- "Kanto"
+- "Okinawa"
+- "Tokyo"
