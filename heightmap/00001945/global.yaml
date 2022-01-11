@@ -1,0 +1,11 @@
+name: "Greater Tokyo 8k"
+description: |-
+  Heightmap of greater Tokyo region
+  Recommended height is 200
+  For JGR users:
+  When used on maximum resolution 1 tile = 36m
+  For real time use 1500 ticks per minute
+tags:
+- "japan"
+- "kanto"
+- "tokyo"
