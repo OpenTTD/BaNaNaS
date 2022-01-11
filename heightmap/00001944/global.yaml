@@ -4,7 +4,7 @@ description: |-
   Recommended height is from 40 to 100
   For JGR users:
   When used with maximum resolution 1 tile = 163m
-  For real time use 912 ticks per minute
+  For real time use 300 ticks per minute
 tags:
 - "heightmap"
 - "hokkaido"
