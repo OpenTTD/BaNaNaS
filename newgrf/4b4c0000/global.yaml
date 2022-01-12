@@ -1,0 +1,9 @@
+name: "Vietnamese Town Names Extended"
+description: |-
+  This NewGRF provides more than 600 existing Vietnamese village, town and city names to OpenTTD
+
+  Unicode font is required to display town names correctly
+url: "https://github.com/KhoiCanDev/openttd-vietnamese-town-names"
+tags:
+- "town names"
+- "vietnamese"
