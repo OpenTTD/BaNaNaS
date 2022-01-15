@@ -1,0 +1,10 @@
+version: "2.2"
+license: "GPL v3"
+upload-date: 2022-01-15T13:41:38Z
+md5sum-partial: "7a85d4ad"
+filesize: 32908
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
