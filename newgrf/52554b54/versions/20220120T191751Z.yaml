@@ -1,0 +1,14 @@
+version: "1.3"
+license: "GPL v3"
+upload-date: 2022-01-20T19:17:51Z
+md5sum-partial: "d8600803"
+filesize: 7287079
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "53554b54"
+  md5sum-partial: "0aafb3f9"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12"
