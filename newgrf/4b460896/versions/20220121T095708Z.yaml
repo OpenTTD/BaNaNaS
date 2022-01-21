@@ -1,0 +1,13 @@
+version: "1"
+license: "Custom"
+upload-date: 2022-01-21T09:57:08Z
+md5sum-partial: "741c8623"
+filesize: 5797
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.1"
