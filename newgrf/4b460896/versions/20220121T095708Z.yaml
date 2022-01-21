@@ -11,3 +11,5 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.1"
+
+url: "https://www.tt-forums.net/viewtopic.php?p=1159299#p1159299"
