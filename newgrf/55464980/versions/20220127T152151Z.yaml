@@ -8,3 +8,5 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
+
+name: "U&Trees"
