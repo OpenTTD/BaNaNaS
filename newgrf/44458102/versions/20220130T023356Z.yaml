@@ -1,0 +1,15 @@
+version: "1.0.7"
+license: "GPL v2"
+upload-date: 2022-01-30T02:33:56Z
+md5sum-partial: "9473ab15"
+filesize: 65854
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.0.0"
+
+description: |-
+  Why not take a winter vacation to Honolulu with Hale!
+
+  Hale is 8 houses, 4 apartment buildings, 6 offices and one temple/church to replace the equivalent existing sprite in the base set. The sprites are drawn by myself, and each is inspired by a real building or buildings somewhere in Honolulu, mostly Downtown, Mo'ili'ili, Waikiki and Kahala thus far. This version of this GRF is intended to function as a static grf, so you can use it multiplayer games that use tropic maps with no Newgrfs loaded.
