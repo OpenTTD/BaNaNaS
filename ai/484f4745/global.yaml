@@ -1,0 +1,13 @@
+name: "AAAHogEx"
+description: "AAAHogEx is a highly competitive AI. This AI designs transportation routes based on the supply and demand of the map. Therefore, it works well in NewGRF such as FIRS, ECS, and YETI where complex industrial chains are required."
+tags:
+- "ai"
+- "aircraft"
+- "airplanes"
+- "buses"
+- "ecs"
+- "firs"
+- "ships"
+- "trains"
+- "trucks"
+- "yeti"
