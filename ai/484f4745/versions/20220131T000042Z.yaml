@@ -1,0 +1,14 @@
+version: "2"
+license: "GPL v3"
+upload-date: 2022-01-31T00:00:42Z
+md5sum-partial: "26c66ce1"
+filesize: 110706
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "4752412a"
+  md5sum-partial: "f385497c"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
