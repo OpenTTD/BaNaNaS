@@ -1,0 +1,10 @@
+name: "Early Vehicle Set"
+description: |-
+  This NewGRF contains road vehicles and trains that appear earlier than the original vehicles, so that you can start games before 1900. For ships, there are other NewGRFs with sailing ships.
+
+  Graphics are based on various graphics by the OpenGFX team, licensed under the GPL v2.
+url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/EarlyVehicleSet"
+tags:
+- "horses"
+- "road vehicles"
+- "steam trains"
