@@ -1,9 +1,9 @@
-version: "9"
+version: "10"
 license: "GPL v3"
-upload-date: 2022-02-07T05:25:31Z
-md5sum-partial: "665b4854"
-filesize: 115449
-availability: "savegames-only"
+upload-date: 2022-02-07T05:48:14Z
+md5sum-partial: "a3cae3be"
+filesize: 115444
+availability: "new-games"
 dependencies:
 - content-type: "ai-library"
   unique-id: "4752412a"
