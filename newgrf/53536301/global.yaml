@@ -1,0 +1,17 @@
+name: "paxWorkers"
+description: |-
+  This just renames the cargo "Passengers" to "Workers".
+
+  It's meant to be used with the "Wannaroo Tourist Set" and other NewGRFs
+  utilizing passengers as workforce like "Improved Town Industries" or
+  "Manpower OGFX-Industries".
+
+  Stolen from "Lumberjack Industries" by 2TallTyler
+url: "https://git.estate/scitor/paxWorkers"
+tags:
+- "industry"
+- "manpower"
+- "passengers"
+- "replacement"
+- "worker"
+- "workers"
