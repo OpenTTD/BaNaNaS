@@ -1,9 +1,9 @@
-version: "1.0.0"
+version: "1.1.0"
 license: "GPL v2"
-upload-date: 2021-11-14T13:02:28Z
-md5sum-partial: "6477c7f0"
-filesize: 9761
-availability: "savegames-only"
+upload-date: 2022-02-15T14:02:09Z
+md5sum-partial: "1aa02665"
+filesize: 10248
+availability: "new-games"
 
 name: "Hybrid Trains"
 description: |-
@@ -15,7 +15,6 @@ tags:
 - "b82500"
 - "b83500"
 - "b84500"
-- "battery"
 - "diesel"
 - "electric"
 - "hybrid"
