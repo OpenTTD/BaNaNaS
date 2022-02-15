@@ -1,0 +1,27 @@
+name: "Ultimate Cargo Payment Override"
+description: |-
+  Can change all 64 cargo payment rates,
+  no matter the industry...
+
+  Does NOT change payment decay (yet).
+
+  Howto:
+  - place as last NewGRF
+  - toggle console ~ or ` or (?)
+  - type "dump_info cargotypes"
+  - find all the cargo IDs to change.
+
+  Usually its
+  00 PASS
+  01 COAL
+  02 MAIL
+  etc...
+url: "https://git.estate/scitor/UltimateCargoPaymentOverride"
+tags:
+- "cargo"
+- "cargorate"
+- "change"
+- "customize"
+- "payment"
+- "payments"
+- "server"
