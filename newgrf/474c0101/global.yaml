@@ -1,11 +1,13 @@
-name: "B 82500"
+name: "Hybrid Trains"
 description: |-
-  The B 82500 is a hybrid electric/diesel locomotive, which is mainly used in France for regional passenger service. It can run in diesel mode on non-electrified tracks, but it's more powerful and has a cheaper running cost when run in electric mode on electrified tracks.
+  This NewGRF contains two hybrid electric/diesel locomotives and one hybrid electric/battery locomotive. They can run in diesel/battery mode on non-electrified tracks, but are more powerful and have a cheaper running cost when run in electric mode on electrified tracks.
 
-  Graphics based on the Millennium Z1 by the OpenGFX team, licensed under the GPL v2.
-url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/B82500"
+  Graphics are based on the Millenium Z1 by the OpenGFX team, licensed under the GPL v2.
+url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/HybridTrains"
 tags:
 - "b82500"
+- "b83500"
+- "b84500"
 - "diesel"
 - "electric"
 - "hybrid"
