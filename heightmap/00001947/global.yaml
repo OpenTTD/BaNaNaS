@@ -1,0 +1,28 @@
+name: "St.Helena and Tristan da Cunha"
+description: |-
+  Saint Helena, Ascension and Tristan da Cunha
+  ============================================
+
+  This is a heightmap of the real world islands in the south atlantic ocean, plus Gough Island a few uninhabited like Inaccessible Island and Nightingale Islands.
+
+  All to scale, but moved together since they are pretty far away from eachother.
+
+  good heights:
+  64 @ 2048
+  32 @ 1024
+  24 @ 512
+
+  changes:
+  v2: original image (more shades)
+  v1: exported through openttd
+tags:
+- "ascension"
+- "cunha"
+- "edinburgh"
+- "georgetown"
+- "helena"
+- "islands"
+- "jamestown"
+- "ocean"
+- "tristan"
+- "volcano"
