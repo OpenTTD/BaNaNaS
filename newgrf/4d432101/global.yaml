@@ -1,0 +1,19 @@
+name: "HotHut"
+description: |-
+  Replacement for tropical house set,
+  based on default houses with altered properties,
+  with many new houses added.
+  Early houses spawn depend on terrain:
+  African-inspired wattle huts in rainforest,
+  stilt houses near river, Middle-East clay houses on desert.
+  Some houses classes should appear as distinctive clusters, for example separate slums or residential districts.
+  Additional settings for street lamps and pavement replacement.
+tags:
+- "Africa"
+- "cities"
+- "desert"
+- "houses"
+- "huts"
+- "rainforest"
+- "towns"
+- "tropical"
