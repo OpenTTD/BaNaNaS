@@ -5,7 +5,7 @@ description: |-
   Formerly known as 'Original vehicle names' in language selection box of OpenTTD prior to 0.7.
 
   Source:
-  http://devs.openttd.org/~frosch/origveh.nfo
+  https://github.com/frosch123/quaking/blob/main/OriginalVehicleNames/origveh.nfo
 url: ""
 tags:
 - "names"
