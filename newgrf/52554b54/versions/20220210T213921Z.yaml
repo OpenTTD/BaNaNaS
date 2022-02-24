@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2022-02-10T21:39:21Z
 md5sum-partial: "7dc196ff"
 filesize: 7595390
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "53554b54"
