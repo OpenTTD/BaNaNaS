@@ -1,0 +1,29 @@
+name: "Simple Cargo Decay Override"
+description: |-
+  Simple Cargo Decay Override
+  ===============================
+
+  Can change all 64 cargo payment decay rates*,
+  no matter the industry...
+
+  * changes the time it takes until decay sets in. can be set up to ~750d (+2y)
+
+  Howto:
+  - place as last NewGRF
+  - toggle console ~ or ` or (?)
+  - type "dump_info cargotypes"
+  - find all the cargo IDs to change.
+
+  Usually its
+  00 PASS
+  01 COAL
+  02 MAIL
+  etc...
+url: "https://git.estate/scitor/SimpleCargoDecayOverride"
+tags:
+- "cargo"
+- "customize"
+- "decay"
+- "payment"
+- "payments"
+- "server"
