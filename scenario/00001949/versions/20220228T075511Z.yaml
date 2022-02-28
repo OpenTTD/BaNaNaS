@@ -5,6 +5,9 @@ md5sum-partial: "99ab73b1"
 filesize: 3522766
 availability: "new-games"
 compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.46.1"
+  - "< 0"
