@@ -1,0 +1,31 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2022-02-28T00:08:25Z
+md5sum-partial: "09429615"
+filesize: 10010
+availability: "new-games"
+
+description: |-
+  Ultimate Cargo Payment Override
+  ===============================
+
+  Can change all 64 cargo payment rates,
+  no matter the industry...
+
+  Does NOT change payment decay.
+  Check `SimpleCargoDecayOverride` for that.
+
+  Howto:
+  - place as last NewGRF
+  - toggle console ~ or ` or (?)
+  - type "dump_info cargotypes"
+  - find all the cargo IDs to change
+  - set Game Options to British Pounds (GBP) for easy reading
+
+  Usually its
+  00 PASS
+  01 COAL
+  02 MAIL
+  etc...
+
+  Default payment values in the readme.txt or OTTD wiki
