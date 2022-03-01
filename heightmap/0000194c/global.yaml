@@ -3,11 +3,11 @@ description: |-
   Heightmap of Sudogwon(Seoul Capital Area)
 
   Recommended height is 50.
-  If you use a larger map using JGR, you can play in a size similar to the actual size.
+  If you play in size 8192x8192 using JGR, you can play similar to the actual size.
 
-  This map includes most of Seoul, Gyeonggi, Incheon and includes parts of North Korea, Gangwon, Chungcheongnam-do, Chungcheongbuk-do.
+  This map includes most of Seoul, Gyeonggi, Incheon and includes parts of Gangwon, Chungcheong, DRPK.
 
-  수도권 높이맵에는 서울, 인천, 경기도의 대부분이 포함되어 있으며 북한, 강원도, 충청남도, 충청북도의 일부분을 포함합니다.
+  수도권 높이맵에는 서울,인천,경기가 포함되어 있으며 강원,충남,충북,북한의 일부분을 포함합니다. JGR을 이용하여 8192x8192 크기로 플레이하면 실제와 비슷한 크기로 구현할수있습니다.
 tags:
 - "2k"
 - "Gyeonggi"
