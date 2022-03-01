@@ -8,17 +8,7 @@ description: |-
 
   * changes the time it takes until decay sets in. can be set up to ~750d (+2y)
 
-  Howto:
-  - place as last NewGRF
-  - toggle console ~ or ` or (?)
-  - type "dump_info cargotypes"
-  - find all the cargo IDs to change.
-
-  Usually its
-  00 PASS
-  01 COAL
-  02 MAIL
-  etc...
+  See readme for more info
 url: "https://www.tt-forums.net/viewtopic.php?p=1252060"
 tags:
 - "cargo"
