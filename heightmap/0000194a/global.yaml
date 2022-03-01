@@ -1,11 +1,11 @@
-name: "Greater Seoul 4K (Sudogwon)"
+name: "Greater Seoul 4K (+Gangwon)"
 description: |-
-  Heightmap of Sudogwon (Seoul Capital Area)
+  Heightmap of Sudogwon(Seoul Capital Area) + Gangwon
 
   Recommended height is 50.
   If you use a larger map using JGR, you can play in a size similar to the actual size.
 
-  This map includes most of Seoul, Gyeonggi-do, Incheon, and Gangwon-do, and includes parts of North Korea, Chungcheongnam-do, Chungcheongbuk-do, and Gyeongsangbuk-do.
+  This map includes most of Seoul, Gyeonggi, Incheon, and Gangwon, and includes parts of North Korea, Chungcheongnam-do, Chungcheongbuk-do, and Gyeongsangbuk-do.
 
   이 높이맵에는 서울, 인천, 경기도, 강원도의 대부분이 포함되어 있으며 북한, 충청남도, 충청북도, 경상북도의 일부분을 포함합니다.
 tags:
@@ -16,6 +16,7 @@ tags:
 - "south korea"
 - "sudogwon"
 - "ソウル"
+- "강원도"
 - "대한민국"
 - "서울"
 - "수도권"
