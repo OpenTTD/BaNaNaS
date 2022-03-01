@@ -1,0 +1,16 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2022-03-01T12:52:16Z
+md5sum-partial: "312ee48c"
+filesize: 10451
+availability: "new-games"
+
+description: |-
+  Simple Cargo Decay Override
+  ===============================
+
+  Can change all 64 cargo payment decay rates*, no matter the industry...
+
+  * changes the time it takes until decay sets in. can be set up to ~750d (+2y) or ignores time & distance completely
+
+  See readme for more info
