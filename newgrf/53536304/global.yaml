@@ -1,0 +1,25 @@
+name: "Easy Station Rating Override"
+description: |-
+  Easy Station Rating Override
+  ==============================
+
+  Changes station rating to 100% (for each cargo), or
+  depending on cargo amount waiting (customizable).
+
+  Howto:
+  - place as last NewGRF
+  - toggle console ~ or ` or (?)
+  - type "dump_info cargotypes"
+  - find all the cargo IDs to change.
+
+  Usually its
+  00 PASS
+  01 COAL
+  02 MAIL
+  etc...
+url: "https://git.estate/scitor/EasyStationRatingOverride"
+tags:
+- "cargo"
+- "override"
+- "rating"
+- "station"
