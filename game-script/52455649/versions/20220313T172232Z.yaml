@@ -1,9 +1,9 @@
-version: "7.2"
+version: "8.0"
 license: "GPL v2"
-upload-date: 2021-10-24T21:10:17Z
-md5sum-partial: "2f6cdf9a"
-filesize: 43677
-availability: "savegames-only"
+upload-date: 2022-03-13T17:22:32Z
+md5sum-partial: "7d90e3fb"
+filesize: 48475
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
