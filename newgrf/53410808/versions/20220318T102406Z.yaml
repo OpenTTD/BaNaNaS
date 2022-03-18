@@ -1,0 +1,27 @@
+version: "0.1.3"
+license: "GPL v2"
+upload-date: 2022-03-18T10:24:06Z
+md5sum-partial: "b78552c4"
+filesize: 87800393
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.44.0"
+
+name: "GETS German Extrazoom Trainset"
+description: |-
+  German Extra-Zoom Trainset in 32bpp.
+
+  Features long trains from 1900 - today.
+url: "https://github.com/GarlicBread42/GETS"
+tags:
+- "32bpp"
+- "EZ"
+- "extrazoom"
+- "german"
+- "gets"
+- "trains"
