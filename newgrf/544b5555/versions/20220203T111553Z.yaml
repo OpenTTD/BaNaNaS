@@ -3,7 +3,7 @@ license: "CC-BY-NC-SA v3.0"
 upload-date: 2022-02-03T11:15:53Z
 md5sum-partial: "bf43f3f2"
 filesize: 518573
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
