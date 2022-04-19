@@ -3,6 +3,6 @@ license: "GPL v2"
 upload-date: 2022-02-15T14:18:58Z
 md5sum-partial: "0260fe95"
 filesize: 10353
-availability: "new-games"
+availability: "savegames-only"
 
 url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/HybridTrains"
