@@ -1,0 +1,17 @@
+name: "LtJoker's Mountains and Lakes"
+description: |-
+  A 2048x2048 heightmap with a large landmass with mountain ranges. The landmass is split in half by a large lake, leaving a connecting land bridge. Use with max-height 128.
+
+  Enjoy
+url: "https://github.com/vacuumbreather/"
+tags:
+- "2048"
+- "2048x2048"
+- "height"
+- "heightmap"
+- "lake"
+- "lakes"
+- "map"
+- "mountain"
+- "mountainous"
+- "mountains"
