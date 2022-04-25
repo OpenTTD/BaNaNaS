@@ -1,0 +1,17 @@
+name: "LtJoker's Continents"
+description: |-
+  A 2048x2048 heightmap with two large continents separated by an ocean. The continents have large mountain ranges. Use with max-height 128.
+
+  Enjoy
+url: "https://github.com/vacuumbreather/"
+tags:
+- "2048"
+- "2048x2048"
+- "continents"
+- "height"
+- "heightmap"
+- "map"
+- "mountain"
+- "mountainous"
+- "mountains"
+- "ocean"
