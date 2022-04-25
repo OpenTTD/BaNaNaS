@@ -1,0 +1,13 @@
+name: "LtJoker's Hilly Peninsula"
+description: |-
+  A 2048x2048 heightmap with a hilly peninsula and a few larger islands. Use with max-height 16.
+
+  Enjoy
+url: "https://github.com/vacuumBreather/"
+tags:
+- "2048"
+- "2048x2048"
+- "height"
+- "heightmap"
+- "hilly"
+- "map"
