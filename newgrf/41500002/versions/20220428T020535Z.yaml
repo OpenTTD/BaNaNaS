@@ -3,6 +3,6 @@ license: "GPL v3"
 upload-date: 2022-04-28T02:05:35Z
 md5sum-partial: "85377f59"
 filesize: 17645
-availability: "new-games"
+availability: "savegames-only"
 
 name: "same-gui"
