@@ -8,3 +8,30 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.2"
+
+description: |-
+  #########################
+  AUSTRALIA 4K
+  -----
+  TOWN ONLY (NO INDUSTRIES)
+  #########################
+
+  A large 4096x4096 tile
+  map of Australia for
+  your down under transport
+  pleasure.
+
+  WARNING: Town Only!
+  No Industry sets loaded!
+  No Industries placed!
+
+  Enable newgrf and scenario
+  dev options in your
+  "openttd.cfg" to add
+  industry GRF's of your
+  own choosing (such as ECS
+  or FIRS)
+
+  ENJOY!!!
+  - Nekomaster
+  #########################
