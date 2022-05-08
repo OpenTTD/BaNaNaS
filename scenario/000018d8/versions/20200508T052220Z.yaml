@@ -9,6 +9,7 @@ compatibility:
   conditions:
   - ">= 1.10.0"
 
+name: "Australia 4K - EMPTY"
 description: |-
   -
   AUSTRALIA 4K - EMPTY (NO TOWN OR INDUSTRY)
