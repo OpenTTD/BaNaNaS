@@ -3,7 +3,7 @@ license: "CC-BY-NC-ND v3.0"
 upload-date: 2022-05-09T04:30:20Z
 md5sum-partial: "065830a8"
 filesize: 7644
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "jgrpp"
   conditions:
