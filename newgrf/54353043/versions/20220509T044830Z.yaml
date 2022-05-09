@@ -1,0 +1,10 @@
+version: "1"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2022-05-09T04:48:30Z
+md5sum-partial: "7e040494"
+filesize: 7644
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.47.1"
