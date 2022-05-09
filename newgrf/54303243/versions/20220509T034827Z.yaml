@@ -4,6 +4,10 @@ upload-date: 2022-05-09T03:48:27Z
 md5sum-partial: "e96ebfb1"
 filesize: 7642
 availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.47.1"
 
 name: "Tot's CDG  02"
 description: "Used to control existing cargo from industry sets."
