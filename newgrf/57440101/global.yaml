@@ -1,11 +1,18 @@
 name: "IRSet - Indian Railways Set"
 description: |-
-  IRSET - The NewGRF Set based on the Majestic Indian Railways!
-  This is a set created with the help of these guys:
-  CODERS: WOOZYDRAGON4018
-  SPRITERS: ROTTERDXM, SOMEINDIANGUY99, PURNO, WOOZYDRAGON4018.
-  HELPERS: AZUSA, SEAN | SPNDA, CHRIS (ERATO).
-url: "https://github.com/WoozyDragon4018/IRSet"
+  IRSet is a NewGRF Set based on the Majestic Indian Railways.
+  Version: v0.0.9 - Alpha 9
+
+  Coders:
+  WoozyDragon4018
+
+  Spriters:
+  SomeIndianGuy99, Yoshi, rotterdxm
+
+  Special Thanks to:
+  seAn | spnda, NekoMaster, Chris(Erato), Azusa, Purno, Emperor Jake, DenLillePrins/BL/Rob
+url: "https://www.tt-forums.net/viewtopic.php?p=1253184#p1253184"
 tags:
+- "india"
 - "indian railways"
 - "irset"
