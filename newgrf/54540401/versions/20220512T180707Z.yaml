@@ -1,0 +1,26 @@
+version: "2.0"
+license: "GPL v3"
+upload-date: 2022-05-12T18:07:07Z
+md5sum-partial: "ad185ece"
+filesize: 28982
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
+
+description: |-
+  Vanilla-inspired industries which require serving and growing towns. Challenging but satisfying.
+
+  Visit website for more information.
+
+  Created by 2TallTyler.
+url: "https://github.com/2TallTyler/improved_town_industries"
+tags:
+- "2TallTyler"
+- "economy"
+- "industries"
+- "industry"
+- "temperate"
+- "worker"
+- "workers"
