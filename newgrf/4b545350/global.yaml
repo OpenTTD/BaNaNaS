@@ -1,0 +1,18 @@
+name: "Korean Train Set+ Addon"
+description: |-
+  한국 열차 세트+ 애드온은 시험용으로 제작되었던 차량이나 생산이 예정된 한국의 열차와 가상의 2층열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다.
+
+  The Korean Train Set+ add-on adds both experimental and planned Korean trains and virtual double-decker trains. This GRF is a NewGRF produced separately from YST.
+
+  제작: 경부라이너(GBLINER)
+url: "https://github.com/GBLINER/KoreanTrainSet_Plus"
+tags:
+- "2층열차"
+- "EMU"
+- "GTX"
+- "HEMU-430X"
+- "ITX"
+- "KTX"
+- "한국열차세트"
+- "한국열차세트플러스"
+- "해무"
