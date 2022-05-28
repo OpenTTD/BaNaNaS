@@ -1,0 +1,15 @@
+name: "European Train Set"
+description: |-
+  The European Train Set adds European trains such as France, Germany, England, Italy, and Spain.
+
+  유럽열차세트는 프랑스, 독일, 영국, 이탈리아, 스페인 등등 유럽의 열차를 추가해줍니다.
+
+  Produced: GBLINER
+url: "https://github.com/GBLINER/EuropeanTrainSet"
+tags:
+- "AVE"
+- "European"
+- "Eurostar"
+- "ICE"
+- "Italo"
+- "TGV"
