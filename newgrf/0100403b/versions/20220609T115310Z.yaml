@@ -1,0 +1,10 @@
+version: "1.6"
+license: "GPL v3"
+upload-date: 2022-06-09T11:53:10Z
+md5sum-partial: "5bed0733"
+filesize: 112761
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
