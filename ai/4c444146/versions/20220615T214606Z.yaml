@@ -1,0 +1,36 @@
+version: "v19"
+license: "GPL v2"
+upload-date: 2022-06-15T21:46:06Z
+md5sum-partial: "db5ab677"
+filesize: 97081
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+- content-type: "ai-library"
+  unique-id: "73637056"
+  md5sum-partial: "0bfd7cab"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "LuDiAI AfterFix"
+description: |-
+  LuDiAI AfterFix is an AI that builds road, air and ship routes transporting either mail or passengers.
+
+  It's an AI that is built upon the original work of lukin_'s LuDiAI. Initial work was on fixing issues found on the original, but it became something more of its own later on.
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=83806"
+tags:
+- "air"
+- "aircraft"
+- "bus"
+- "canal"
+- "helicopter"
+- "mail"
+- "passengers"
+- "road"
+- "ship"
+- "truck"
+- "water"
