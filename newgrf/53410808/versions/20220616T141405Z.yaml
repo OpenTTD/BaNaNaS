@@ -1,0 +1,13 @@
+version: "0.1.5"
+license: "GPL v2"
+upload-date: 2022-06-16T14:14:05Z
+md5sum-partial: "57e38a81"
+filesize: 135996434
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.5"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.36"
