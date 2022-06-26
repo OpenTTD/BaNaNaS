@@ -1,0 +1,12 @@
+name: "World Town Names"
+description: |-
+  This NewGRF contains 872 real-life town and city names from all over the world, including and not limited to Brazil, China, Egypt, Finland, Germany, Iceland, India, Iran, Japan, the United Kingdom, and the United States. Names are spelled in English, but sometimes contain accented characters.
+
+  Thanks to Wikipedia for providing these names.
+
+  This NewGRF is released as CC0 (Public Domain) and also via the Unlicense.
+url: "https://www.tt-forums.net/viewtopic.php?t=90048"
+tags:
+- "names"
+- "town"
+- "world"
