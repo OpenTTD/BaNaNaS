@@ -1,0 +1,12 @@
+name: "Omni-Gauge Railtype"
+description: |-
+  Omni-gauge track is a fictional track setup with rails for 3000mm gauge, Iberian/Indian gauge, 1524mm Russian gauge, 1435mm Standard gauge, 1067mm and 1000mm narrow gauge, and 600mm Decauville.
+
+  It looks a bit ugly from trying to overlay all the sprites, but it's mostly to be used in place of countless gauge combinations that would otherwise be necessary.
+
+  An electrified omni-gauge track is also included for a bit of realism in an otherwise unrealistic set.
+url: "https://www.tt-forums.net/viewtopic.php?t=90066"
+tags:
+- "compatibility"
+- "railtype"
+- "tracktype"
