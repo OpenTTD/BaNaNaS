@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2021-10-24T11:44:23Z
 md5sum-partial: "d9ac3f59"
 filesize: 13476
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "jgrpp"
   conditions:
