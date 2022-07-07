@@ -1,0 +1,10 @@
+version: "8222"
+license: "GPL v2"
+upload-date: 2022-07-07T21:33:34Z
+md5sum-partial: "169c641d"
+filesize: 1887852
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.9.0"
