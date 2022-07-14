@@ -1,0 +1,10 @@
+version: "r236"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2022-07-14T01:52:11Z
+md5sum-partial: "58f70134"
+filesize: 1111055
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
