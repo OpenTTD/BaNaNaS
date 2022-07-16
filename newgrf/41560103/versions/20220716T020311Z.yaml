@@ -8,3 +8,18 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
+
+tags:
+- "NRT"
+- "articulated"
+- "bus"
+- "coach"
+- "express"
+- "extended"
+- "generic"
+- "horse"
+- "lorry"
+- "road"
+- "trailer"
+- "trams"
+- "truck"
