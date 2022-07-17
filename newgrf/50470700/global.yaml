@@ -1,0 +1,10 @@
+name: "Fake Bridges Waypoints"
+description: |-
+  A set of waypoints that simulate bridges over rivers. To be used along with "Auz Creek and Drain Objects" and "Auz Water Objects".
+
+  See readme for more details.
+
+  by DemianWSE
+url: "https://github.com/DemianWSE/FakeBridgesWaypoints"
+tags:
+- "waypoints"
