@@ -1,0 +1,10 @@
+version: "24"
+license: "GPL v3"
+upload-date: 2022-07-23T04:34:04Z
+md5sum-partial: "9503409d"
+filesize: 151902
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
