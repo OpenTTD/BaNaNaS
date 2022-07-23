@@ -1,0 +1,22 @@
+version: "1.2"
+license: "Custom"
+upload-date: 2022-07-23T22:12:58Z
+md5sum-partial: "1eebe257"
+filesize: 4761758
+availability: "new-games"
+
+name: "Temporal8´s Real Cars 32bpp"
+description: |-
+  Changelog:
+
+  - Adaptable Max Speed Parameter Added.
+  - VW Beetle name fixed.
+  - Tractive Effort fixed in some vehicles.
+url: "https://www.tt-forums.net/viewtopic.php?t=87622"
+tags:
+- "32 bpp"
+- "32 bpp vehicles"
+- "cars"
+- "real cars"
+- "temporal8"
+- "vehicles"
