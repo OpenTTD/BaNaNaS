@@ -1,9 +1,9 @@
-version: "8.1"
+version: "8.2"
 license: "GPL v2"
-upload-date: 2022-05-08T09:30:55Z
-md5sum-partial: "d11649cd"
-filesize: 48782
-availability: "savegames-only"
+upload-date: 2022-08-06T13:55:58Z
+md5sum-partial: "78b9aeb0"
+filesize: 51655
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
