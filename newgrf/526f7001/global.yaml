@@ -2,5 +2,6 @@ name: "Frenchies Town Names"
 description: "The game only provides a limited amount of French city names. Other NewGRFs provide city names from a list of existing cities. That's boring. This NewGRF provides generated fake French-sounding yet amusing city names for all your OpenTTD games!"
 url: "https://github.com/roptat/frenchies-town-names"
 tags:
+- "france"
 - "french"
 - "town"
