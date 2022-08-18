@@ -1,0 +1,54 @@
+version: "2222"
+license: "Custom"
+upload-date: 2022-08-18T03:56:30Z
+md5sum-partial: "128bdc5c"
+filesize: 369538
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.5.3"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0.0"
+
+name: "NARS Add-on Set 2cc"
+description: |-
+  Date: 2022-08-17
+
+  An add-on train set for NARS 2.5 to 2.52 (and newer) that adds a bunch more North American locomotives and railcars!
+
+  NARS 2.5 PASSENGER MOD RECOMMENDED!
+  (Railcars and passenger/mail cars capacities are balanced against the passenger mod!)
+
+  See Readme for details and full credits
+
+  Special thanks :
+  Sylf - Taught me NML coding
+  Transportman - 2cc Trains NML Code
+url: "https://www.tt-forums.net/viewtopic.php?p=1186834#p1186834"
+tags:
+- "2.5"
+- "2.51"
+- "2.52"
+- "2.5x"
+- "2cc"
+- "addon"
+- "america"
+- "canada"
+- "expansion"
+- "master"
+- "mexcio"
+- "murica"
+- "na"
+- "nars"
+- "neko"
+- "nekomaster"
+- "north"
+- "rail"
+- "set"
+- "states"
+- "train"
+- "trains"
+- "united"
+- "usa"
