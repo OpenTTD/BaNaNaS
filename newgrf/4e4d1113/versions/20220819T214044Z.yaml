@@ -1,0 +1,42 @@
+version: "1.0.6M"
+license: "GPL v2"
+upload-date: 2022-08-19T21:40:44Z
+md5sum-partial: "a03923b5"
+filesize: 640969
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.7.2"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.28.0"
+
+name: "NORTH AMERICAN INDUSTRY SET"
+description: |-
+  .
+  .
+  NORTH AMERICAN INDUSTRY SET
+  (aka "NAIS" or NA Industries)
+
+  An industry set for North America!
+
+  Based on FIRS 3.X code (by AndyTheNorth), modified by me (NekoMaster)
+url: "https://www.tt-forums.net/viewtopic.php?t=84039"
+tags:
+- "american"
+- "canada"
+- "firs"
+- "industrial"
+- "industries"
+- "industry"
+- "master"
+- "mexico"
+- "na"
+- "nais"
+- "nek0"
+- "neko"
+- "nekomaster"
+- "north"
+- "set"
+- "usa"
