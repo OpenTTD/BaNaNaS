@@ -1,0 +1,17 @@
+version: "v1.2"
+license: "GPL v2"
+upload-date: 2022-08-21T01:43:24Z
+md5sum-partial: "405bfe78"
+filesize: 50043
+availability: "new-games"
+
+name: "Fake Bridges Waypoints"
+description: |-
+  A set of waypoints that simulate bridges over rivers. To be used along with "Auz Creek and Drain Objects" and "Auz Water Objects".
+
+  See readme for more details.
+
+  by DemianWSE and GarryG
+url: "https://github.com/DemianWSE/FakeBridgesWaypoints"
+tags:
+- "waypoints"
