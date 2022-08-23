@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2021-02-03T08:16:36Z
 md5sum-partial: "bdba2700"
 filesize: 7722
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
