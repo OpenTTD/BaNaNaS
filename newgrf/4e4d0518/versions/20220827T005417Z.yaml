@@ -7,10 +7,10 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 0.0.0"
+  - ">= 0.5.3"
 - name: "jgrpp"
   conditions:
-  - ">= 0.0.0"
+  - ">= 0.1.0"
 
 name: "NARS Add-on Set 2cc"
 description: |-
