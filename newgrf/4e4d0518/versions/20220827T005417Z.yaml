@@ -1,0 +1,65 @@
+version: "2208262034"
+license: "Custom"
+upload-date: 2022-08-27T00:54:17Z
+md5sum-partial: "b41ed859"
+filesize: 369559
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0.0"
+
+name: "NARS Add-on Set 2cc"
+description: |-
+  -
+  -
+  Date: 2022-08-26
+
+  An Add-on Set for the
+  "North American Railway Set 2.5"
+  That adds lots of engines and cars!
+  ~ NOW WITH EMUS! ~
+
+  NARS 2.5 PASSENGER MOD RECOMMENDED!
+  NORTH AMERICAN TRACK SET RECOMMENDED!
+
+  See Readme for details and full credits!
+
+  Special thanks : Sylf - Taught me NML coding
+  Transportman - 2cc Trains NML Code
+url: "https://www.tt-forums.net/viewtopic.php?t=76411"
+tags:
+- "add"
+- "add-on"
+- "america"
+- "american"
+- "amtrak"
+- "ca"
+- "can"
+- "canada"
+- "gauge"
+- "master"
+- "mex"
+- "mexico"
+- "mx"
+- "na"
+- "narrow"
+- "nars"
+- "nek0"
+- "nek0-"
+- "neko"
+- "neko-"
+- "nekomaster"
+- "north"
+- "on"
+- "rail"
+- "railway"
+- "road"
+- "slug"
+- "standard"
+- "us"
+- "usa"
+- "via"
