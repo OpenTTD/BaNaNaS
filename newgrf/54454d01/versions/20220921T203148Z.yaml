@@ -1,0 +1,25 @@
+version: "1.4"
+license: "Custom"
+upload-date: 2022-09-21T20:31:48Z
+md5sum-partial: "2ec6f48d"
+filesize: 5829841
+availability: "new-games"
+
+name: "Temporal8´s Real Cars 32bpp"
+description: |-
+  A little update to my previous "Real Cars" version.
+
+  (Do not confuse with my other newgrf named "Real Vehicles" that has a different theme.)
+
+  Changelog:
+
+  - 12 new cars added.
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?t=87622"
+tags:
+- "32bpp cars"
+- "32bpp vehicles"
+- "real cars"
+- "temporal8"
+- "vehicles"
