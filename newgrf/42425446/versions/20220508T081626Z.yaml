@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2022-05-08T08:16:26Z
 md5sum-partial: "93b51d4e"
 filesize: 10008
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   Fixes swedish trains

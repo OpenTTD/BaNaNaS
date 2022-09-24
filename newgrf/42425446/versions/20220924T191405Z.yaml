@@ -1,0 +1,13 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2022-09-24T19:14:05Z
+md5sum-partial: "e576de55"
+filesize: 10051
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "41490006"
+  md5sum-partial: "37860ff7"
+
+name: "Swedish trains fix"
+url: "https://github.com/Brickblock1/Swedish-trains-fix"
