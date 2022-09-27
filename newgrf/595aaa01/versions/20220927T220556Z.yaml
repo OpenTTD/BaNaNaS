@@ -1,0 +1,33 @@
+version: "1.2"
+license: "GPL v2"
+upload-date: 2022-09-27T22:05:56Z
+md5sum-partial: "6fc76924"
+filesize: 60934
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.45.0"
+
+name: "JP+ Metro Set v1.2"
+description: |-
+  JP+ Metro Set introducing metro trains from all over Japan.
+
+  Requires JapanSetTracks
+
+  Drawn by Yozora, *SaYa*
+  Coded by Yozora and JP+ Team
+
+  https://github.com/Yozora3/JPplusMetro
+  2022
+url: "https://github.com/Yozora3/JPplusMetro"
+tags:
+- "JP"
+- "JP+"
+- "Metro"
+- "Subway"
+- "Tokyo"
+- "Train"
