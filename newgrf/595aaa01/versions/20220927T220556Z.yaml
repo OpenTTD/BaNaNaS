@@ -12,7 +12,7 @@ compatibility:
   conditions:
   - ">= 0.45.0"
 
-name: "JP+ Metro Set v1.2"
+name: "JP+ Metro"
 description: |-
   JP+ Metro Set introducing metro trains from all over Japan.
 
