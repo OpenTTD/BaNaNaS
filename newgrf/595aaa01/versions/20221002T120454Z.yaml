@@ -1,0 +1,15 @@
+version: "2.1"
+license: "GPL v2"
+upload-date: 2022-10-02T12:04:54Z
+md5sum-partial: "0a9b202f"
+filesize: 83943
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.45.0"
+
+name: "JP+ Metro"
