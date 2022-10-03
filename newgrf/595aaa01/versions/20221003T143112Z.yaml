@@ -1,9 +1,9 @@
-version: "2.1"
+version: "3.0"
 license: "GPL v2"
-upload-date: 2022-10-02T12:04:54Z
-md5sum-partial: "0a9b202f"
-filesize: 83943
-availability: "savegames-only"
+upload-date: 2022-10-03T14:31:12Z
+md5sum-partial: "238337aa"
+filesize: 98785
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
