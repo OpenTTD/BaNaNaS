@@ -1,0 +1,28 @@
+version: "Beta2"
+license: "Custom"
+upload-date: 2022-10-08T14:08:34Z
+md5sum-partial: "c26d2c44"
+filesize: 143590916
+availability: "new-games"
+
+name: "Temporal8 Real Industries 32bpp"
+description: |-
+  Beta 2 version: I recommend using it with my 32bpp townset named "Real Houses Townset" and "Real Trucks set" for a better 32bpp experience.
+
+  Changelog:
+
+  - Heavy Vehicles Factory: heavy vehicles can now be produced.
+  - Coal and Iron Ore mines: Fixed production values.
+  - Stadiums 1 and 2: Players Creation fixed.
+  - Schools: the number of produced students were adjusted.
+  - Bank: Slope placement fixed.
+  - Bistro: Slope placement fixed.
+  - High school campus (New Industry).
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?t=90183"
+tags:
+- "32bpp industries"
+- "32bpp industry"
+- "Real Industries industries"
+- "industry temporal8"
