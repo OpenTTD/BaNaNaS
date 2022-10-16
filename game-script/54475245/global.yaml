@@ -1,0 +1,4 @@
+name: "Town Growth Resetter"
+description: "Resets all town growth rates to their default values. Useful if another Game Script left custom values for town growth after it was removed by whatever means."
+tags:
+- "town"
