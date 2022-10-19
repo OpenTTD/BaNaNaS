@@ -3,7 +3,7 @@ license: "GPL v3"
 upload-date: 2020-12-03T01:24:39Z
 md5sum-partial: "1a3c6168"
 filesize: 16625
-availability: "new-games"
+availability: "savegames-only"
 
 tags:
 - "1700"
