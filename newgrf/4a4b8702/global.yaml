@@ -1,0 +1,13 @@
+name: "Field Spawner"
+description: |-
+  A 1-tile dummy industry which generates farm fields. Useful for decorating your map without having to place objects or farm industries.
+
+  Has a parameter to enable automatic spawning of fields upon map generation.
+
+  Coded by Emperor Jake, based on code by 2TallTyler. License: GPLv3
+url: "https://www.tt-forums.net/viewtopic.php?t=86883"
+tags:
+- "eyecandy"
+- "farm"
+- "field"
+- "industry"
