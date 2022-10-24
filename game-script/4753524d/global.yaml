@@ -1,3 +1,5 @@
 name: "Goal and Story Page Remover"
 description: "With the run of this game script on a save or scenario, you can remove all preexisting goals and story pages that linger after downloading a saved game. That way, you don't have useless extra goals and story pages in the save. Helpful for when you download a saved game and find extra goals and story pages inside!"
 url: ""
+tags:
+- "reset"
