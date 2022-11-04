@@ -1,0 +1,12 @@
+version: "0.9.0"
+license: "GPL v2"
+upload-date: 2022-11-04T17:27:12Z
+md5sum-partial: "2a38eaaf"
+filesize: 19073
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.9.3"
+
+description: "A NewGRF for OpenTTD that contains trains that circulate(d) in Portugal. This set is not complete. Original graphics by João Génio ('Genix3'). Code by João Génio ('Genix3')."
