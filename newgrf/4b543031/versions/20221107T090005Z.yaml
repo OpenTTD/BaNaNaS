@@ -7,4 +7,4 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 12.2"
+  - ">= 1.2.0"
