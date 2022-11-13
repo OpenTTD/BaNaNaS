@@ -1,0 +1,10 @@
+version: "1.3.14"
+license: "CC-BY-SA v3.0"
+upload-date: 2022-11-13T21:00:57Z
+md5sum-partial: "ce2d37fd"
+filesize: 19543817
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
