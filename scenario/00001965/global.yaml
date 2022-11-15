@@ -1,14 +1,16 @@
 name: "Alpine Imperial 1840"
 description: |-
-  === ALPINE IMPERIAL 1840 ===
-  The economically backward Empire has lagged behind continental powers. You have been brought on to help create a transport network for a backwards, small, rural nation, turning it into a steel-making powerhouse.
-  === FEATURES ===
-  Based on Cpt.K's Alpine Confluence (1.0)
+  ALPINE IMPERIAL 1840
+  The economically backward Empire has lagged behind continental powers. You have been brought on to help create a transport network for a backwards, small, rural nation, turning it into an industrial powerhouse.
+
+  Custom named towns, rivers, mountains, industries
+  Based on Alpine Confluence
   Realistic town distribution
   Realistic industry distribution
   Primitive road network
   FIRS 4.15.1, Basic economy
-  === OTHER ===
+  Rail, road, sea, air GRFs
+
   Created by WendellSenior
   Credit to CaptainKlutz for heightmap
 tags:
