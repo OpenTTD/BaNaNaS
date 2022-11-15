@@ -1,0 +1,13 @@
+version: "1.0"
+license: "CC-0 v1.0"
+upload-date: 2022-11-15T13:53:12Z
+md5sum-partial: "6bb78532"
+filesize: 546553
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.2"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.49.0"
