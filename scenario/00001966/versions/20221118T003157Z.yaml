@@ -1,0 +1,13 @@
+version: "1.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2022-11-18T00:31:57Z
+md5sum-partial: "19193ef3"
+filesize: 1182443
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.2"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.49.0"
