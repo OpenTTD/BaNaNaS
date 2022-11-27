@@ -1,0 +1,10 @@
+version: "1.0.18"
+license: "CC-BY-SA v3.0"
+upload-date: 2022-11-27T21:32:34Z
+md5sum-partial: "3b6b677c"
+filesize: 2125642
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
