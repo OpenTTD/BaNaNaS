@@ -1,9 +1,9 @@
-version: "0.1.6"
+version: "0.1.7"
 license: "GPL v2"
-upload-date: 2022-09-14T19:45:02Z
-md5sum-partial: "b6b86442"
-filesize: 146832351
-availability: "savegames-only"
+upload-date: 2022-11-28T16:18:44Z
+md5sum-partial: "4da1cd3d"
+filesize: 161328207
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
@@ -20,6 +20,7 @@ description: |-
 url: "https://github.com/GarlicBread42/GETS"
 tags:
 - "32bpp"
+- "Bundesbahn"
 - "EZ"
 - "extrazoom"
 - "german"
