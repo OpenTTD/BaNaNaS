@@ -1,0 +1,9 @@
+name: "Banks to supplement ECS vectors"
+description: |-
+  Allows to build banks accepting gold or valuables.
+
+  Intends to substitute disappearing banks of ECS Houses.
+
+  Made by: chujo
+tags:
+- "ECS, bank"
