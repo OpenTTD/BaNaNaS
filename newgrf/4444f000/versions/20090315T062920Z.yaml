@@ -8,3 +8,4 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 0.6.3"
+  - "< 1.0.0"
