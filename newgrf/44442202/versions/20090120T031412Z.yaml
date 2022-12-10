@@ -8,3 +8,7 @@ dependencies:
 - content-type: "newgrf"
   unique-id: "44440111"
   md5sum-partial: "9b5051e7"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 1.0.0"
