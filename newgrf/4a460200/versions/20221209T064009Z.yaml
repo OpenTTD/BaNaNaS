@@ -11,3 +11,5 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.32 - rc1"
+
+description: "*THIS GRF IS OBSOLETE*"
