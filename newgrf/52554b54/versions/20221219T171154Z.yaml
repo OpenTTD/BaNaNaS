@@ -1,0 +1,15 @@
+version: "1.4"
+license: "GPL v3"
+upload-date: 2022-12-19T17:11:54Z
+md5sum-partial: "d424d3b0"
+filesize: 7671816
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "53554b54"
+  md5sum-partial: "0aafb3f9"
+
+description: |-
+  A selection of 2cc UK trains, in a game play and eyecandy oriented set designed for 1870 to 2025.
+
+  Drawn, coded, and recorded by UnholyPhish and Gwyd, with extra help from andythenorth and Colourbox.
