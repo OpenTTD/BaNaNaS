@@ -1,0 +1,13 @@
+version: "1.2.0"
+license: "GPL v2"
+upload-date: 2022-12-22T18:39:38Z
+md5sum-partial: "9b782940"
+filesize: 21234
+availability: "new-games"
+
+description: |-
+  Tea Tea Deluxe adds tea to OpenTTD!
+
+  Tea tree farms produce tea leaves. Deliver them to tea factories asap. The luxurious Tea Tea Deluxe is created in the factories and enjoyed in teahouses in civilised cities.
+
+  Version 1.2.0 adds custom train carriages, and should therefore work on older versions of the game that don't have refittable goods wagons.
