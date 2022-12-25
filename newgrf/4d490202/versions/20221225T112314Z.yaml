@@ -1,0 +1,12 @@
+version: "2.2.0"
+license: "GPL v2"
+upload-date: 2022-12-25T11:23:14Z
+md5sum-partial: "e9d5daab"
+filesize: 126037010
+availability: "new-games"
+
+name: "CZTR Tram set"
+description: "CZTR Tram set in 32bpp"
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
+tags:
+- "CZTR"

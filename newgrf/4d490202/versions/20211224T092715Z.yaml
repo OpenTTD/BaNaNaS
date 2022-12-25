@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2021-12-24T09:27:15Z
 md5sum-partial: "f598c458"
 filesize: 115232927
-availability: "new-games"
+availability: "savegames-only"
 
 name: "CZTR Tram set"
 description: "Set of Czech trams. By CZTR team."
