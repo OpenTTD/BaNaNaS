@@ -1,0 +1,10 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2022-12-30T05:49:43Z
+md5sum-partial: "c2b9a6f5"
+filesize: 780154
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.4.0"
