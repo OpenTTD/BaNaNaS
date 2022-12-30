@@ -1,0 +1,19 @@
+version: "0.7"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2022-12-30T22:24:39Z
+md5sum-partial: "c57e73c7"
+filesize: 3401326
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
+
+description: |-
+  The xUSSR Railway Set includes locomotives, DMUs, EMUs and other rolling stock
+  from the former Russian Empire, Soviet Union and several countries containing
+  former U.S.S.R. All the vehicles are drawn in realistic extended scale,
+  exceeding original Transport Tycoon graphics. All technical features such as
+  power, tractive effort, capacity, production date are based on peculiarities
+  and functionality of real vehicles.
+  Copyright (C) 2004-2022 by The xUSSR Railway Set developers.
