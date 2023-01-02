@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2022-12-22T18:39:38Z
 md5sum-partial: "9b782940"
 filesize: 21234
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   Tea Tea Deluxe adds tea to OpenTTD!
