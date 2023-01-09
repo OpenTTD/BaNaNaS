@@ -1,6 +1,1 @@
-name: "Highspeed Trains"
-description: "This is the train, tram and car objects required for the Highspeed Tracks"
-tags:
-- "Road"
-- "Trains"
-- "Trams"
+blacklisted: true
