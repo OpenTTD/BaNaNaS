@@ -1,0 +1,5 @@
+name: "Mountains and Prairies"
+description: |-
+  An epic 2048x4096 handcrafted scenario based on Western Canada. Deliver grain from elevators across the prairies to ports in the west and east. Transport coal and ores from the mountains and build a complex interconnected network across this vast map.
+  Town names are taken from ghost-towns in the region. Requires AIRS 1.1.0 and JGRPP 0.40.5 or later.
+url: "https://www.tt-forums.net/viewtopic.php?t=90531"
