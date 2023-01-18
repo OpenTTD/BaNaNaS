@@ -20,7 +20,4 @@ dependencies:
 - content-type: "newgrf"
   unique-id: "6a647209"
   md5sum-partial: "b5d59a62"
-compatibility:
-- name: "jgrpp"
-  conditions:
-  - ">= 0.40.5"
+compatibility: []
