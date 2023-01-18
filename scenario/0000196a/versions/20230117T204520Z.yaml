@@ -1,26 +1,16 @@
-version: "1.5"
+version: "0.1"
 license: "CC-BY-SA v3.0"
 upload-date: 2023-01-17T20:45:20Z
 md5sum-partial: "45760495"
 filesize: 11155653
 availability: "new-games"
-dependencies:
-- content-type: "newgrf"
-  unique-id: "43485053"
-  md5sum-partial: "73997f87"
-- content-type: "newgrf"
-  unique-id: "44440a80"
-  md5sum-partial: "2f7f4bc7"
-- content-type: "newgrf"
-  unique-id: "4e445903"
-  md5sum-partial: "93425a54"
-- content-type: "newgrf"
-  unique-id: "4e4d0920"
-  md5sum-partial: "6029a925"
-- content-type: "newgrf"
-  unique-id: "6a647209"
-  md5sum-partial: "b5d59a62"
+dependencies: []
 compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 999"
 - name: "jgrpp"
   conditions:
   - ">= 999"
+
+description: "Do not use. Broken version."
