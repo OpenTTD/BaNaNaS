@@ -1,0 +1,26 @@
+version: "1.6"
+license: "CC-BY-SA v3.0"
+upload-date: 2023-01-18T20:29:44Z
+md5sum-partial: "24e4807e"
+filesize: 11155637
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "43485053"
+  md5sum-partial: "73997f87"
+- content-type: "newgrf"
+  unique-id: "44440a80"
+  md5sum-partial: "2f7f4bc7"
+- content-type: "newgrf"
+  unique-id: "4e445903"
+  md5sum-partial: "3cb86497"
+- content-type: "newgrf"
+  unique-id: "4e4d0920"
+  md5sum-partial: "6029a925"
+- content-type: "newgrf"
+  unique-id: "6a647209"
+  md5sum-partial: "b5d59a62"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.40.5"
