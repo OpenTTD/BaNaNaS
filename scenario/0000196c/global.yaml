@@ -1,0 +1,27 @@
+name: "Venezuela (512x512)"
+description: |-
+  This scenario contains some cities and towns from venezuela.
+
+  Size: 512x512
+
+  * ONLY TOWNS. NO INDUSTRIES *
+
+  Settings: Towns aren't allowed to build roads, you can change this in the settings menu.
+
+  Also contains a few towns from Colombia, Brazil, Curacao, Grenada, Trinidad & Tobago and Guyana.
+tags:
+- "amazonas"
+- "aruba"
+- "barbados"
+- "bonaire"
+- "brazil"
+- "colombia"
+- "curacao"
+- "grenada"
+- "grenadines"
+- "saint vincent"
+- "scenario"
+- "south america"
+- "tobago"
+- "trinidad"
+- "venezuela"
