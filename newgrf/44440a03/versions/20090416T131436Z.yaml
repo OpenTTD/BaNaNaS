@@ -8,5 +8,12 @@ dependencies:
 - content-type: "newgrf"
   unique-id: "44440a01"
   md5sum-partial: "e1b68b07"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 0"
+- name: "jgrpp"
+  conditions:
+  - "< 0"
 
 description: "The optional aircraft for Av8 in a seperate grf.  Load this file after Av8 with multiple engine sets activated to get all the aircraft in the set."
