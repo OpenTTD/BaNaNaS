@@ -11,4 +11,7 @@ dependencies:
 compatibility:
 - name: "vanilla"
   conditions:
-  - "< 1.0.0"
+  - "< 0"
+- name: "jgrpp"
+  conditions:
+  - "< 0"
