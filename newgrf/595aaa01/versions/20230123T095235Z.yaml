@@ -1,0 +1,15 @@
+version: "7.2"
+license: "GPL v2"
+upload-date: 2023-01-23T09:52:35Z
+md5sum-partial: "c864875e"
+filesize: 204962
+availability: "new-games"
+
+name: "JP+ Metro - Yokohama update"
+description: |-
+  JP+Metro introducing metro trains from all over Japan.
+  Drawn by: Yozora, *SaYa*, Toni Babelony
+  Coded by: Yozora and JP+ Team
+
+  2023
+url: "https://github.com/Yozora3/JPplusMetro"
