@@ -8,3 +8,5 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.9.0"
+
+name: "XIS Extreme Industry Set"
