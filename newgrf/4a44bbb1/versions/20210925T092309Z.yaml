@@ -8,3 +8,5 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.0.0"
+
+name: "SHARK Ship Set"
