@@ -5,6 +5,7 @@ md5sum-partial: "23cec795"
 filesize: 30384
 availability: "savegames-only"
 
+name: "Vactrain Set [OLD VERSION]"
 description: "This NewGRF adds a Vacuum Tube railtype, and matching trains, to OpenTTD. The vacuum, combined with maglev technology, enables a frictionless environment in which trains are able to reach extremely high speeds. Coded in NML by Emperor Jake, track and tube graphics mainly by Zephyris, train graphics by Emperor Jake. Copyright 2011, released under GPLv3."
 tags:
 - "emperor jake"

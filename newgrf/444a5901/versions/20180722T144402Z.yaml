@@ -8,3 +8,5 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.4.0"
+
+name: "Vactrain Set"
