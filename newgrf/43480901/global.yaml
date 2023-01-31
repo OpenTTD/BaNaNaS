@@ -1,0 +1,14 @@
+name: "Ground Tiles with Autoslope"
+description: |-
+  One simple object - a tile of concrete from 'ISR/DWE-style Objects' made slope-aware.
+
+  Allows to nestle ISR and DWE stations and objects in terraced terrain.
+
+  Original flat tile graphics by: Quast65
+  Slopes graphics and coding by: chujo
+url: "https://www.tt-forums.net/viewtopic.php?t=90559"
+tags:
+- "DWE"
+- "ISR"
+- "concrete"
+- "slope"
