@@ -12,4 +12,4 @@ compatibility:
 description: |-
   v0.2: Change configures and road names; add Chinese (Simplified) translations, making it the first official-released road set supporting Chinese language.
 
-  Bitumen and Concrete Roads, some with Fences (snow aware), from Australia, Europe and America. Use only with OpenTTD 1.10 or later!
+  Roads with speed limits (MPH, KM/H, M/S) and American, European, Australian graphics. A fork of AuzRattRoads. Use with 1.10.0 or JGRPP 0.32-RC1 or higher!
