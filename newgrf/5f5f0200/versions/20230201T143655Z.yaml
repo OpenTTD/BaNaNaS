@@ -1,0 +1,15 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2023-02-01T14:36:55Z
+md5sum-partial: "61d5ba24"
+filesize: 839287
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
+
+description: |-
+  v0.2: Change configures and road names; add Chinese (Simplified) translations, making it the first official-released road set supporting Chinese language.
+
+  Bitumen and Concrete Roads, some with Fences (snow aware), from Australia, Europe and America. Use only with OpenTTD 1.10 or later!
