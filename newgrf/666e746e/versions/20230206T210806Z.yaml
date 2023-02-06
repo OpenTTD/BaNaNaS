@@ -1,0 +1,12 @@
+version: "0.2.0"
+license: "GPL v3"
+upload-date: 2023-02-06T21:08:06Z
+md5sum-partial: "7b708c81"
+filesize: 13968
+availability: "new-games"
+
+name: "First Names as Town Names"
+description: "A bunch of first names, as town names. Version 0.2.0 has 322 names. Last updated on 2023-02-07. Now you can name your towns \"Freya\", \"Anna\", \"George\", and \"Brian\", alongside other given names."
+url: "https://github.com/a-random-lemurian/openttd-fnatn"
+tags:
+- "town-names"
