@@ -10,6 +10,6 @@ compatibility:
   - ">= 13.0.0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.53.0"
+  - ">= 0.50.0"
 
 description: "A standalone set of electric interurban cars from 20th century America. Currently includes wooden and steel coach, combine, and freight motors and trailers, as well as small steeplecab electric locomotives. Coded in NML. All resources created by Victor Fleet (ruiluth)."
