@@ -3,7 +3,7 @@ license: "Custom"
 upload-date: 2023-02-10T14:39:22Z
 md5sum-partial: "96fea703"
 filesize: 20053
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "jgrpp"
   conditions:

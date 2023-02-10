@@ -1,0 +1,10 @@
+version: "0 6 1"
+license: "Custom"
+upload-date: 2023-02-10T15:30:19Z
+md5sum-partial: "ce00501e"
+filesize: 19532
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.48.0"
