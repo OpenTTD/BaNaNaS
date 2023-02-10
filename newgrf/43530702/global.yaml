@@ -1,23 +1,32 @@
-name: "S.U.V."
+name: "SUV"
 description: |-
-  SUV (Supplement Unsurfaced Road Vehicle Set) supplies your OTTD game with a set of multi-purpose off road trucks (and SUVs ...), which can run on various Road Types. This makes the vehicles of this set the all-rounders you need on your strife to create a vast web of (bumpy) country roads.
-  This sets needs dirt Road Types to fully work (see readme.txt).
+  SUV (Supplement Unsurfaced Road Vehicle Set) supplies your OTTD game with a set of multi-purpose off road trucks (and SUVs ...) from Eastern Europe, which can run on various Road Types. This makes the vehicles of this set the all-rounders you need on your strife to create a vast web of (bumpy) country roads.
+
+  For supported Road Type GRFs, see readme.txt
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=82984"
 tags:
 - "RV"
-- "amphibious"
+- "barkas"
 - "bus"
 - "czech"
 - "east"
+- "europe"
+- "gaz"
 - "german"
+- "kirovets"
+- "liaz"
 - "multicar"
-- "nrt"
 - "off road"
+- "paz"
 - "road type"
 - "road vehicle"
+- "robur"
 - "russia"
+- "skoda"
 - "soviet"
 - "suv"
 - "trabant"
 - "tractor"
 - "truck"
+- "wartburg"
+- "zetor"
