@@ -1,0 +1,11 @@
+name: "JP+ signal extension"
+description: |-
+  JP+ signal extension to add multiple aspects to the existing japanese signal set.
+  requires JGRPP to be of any use
+url: "https://www.tt-forums.net/viewtopic.php?t=90581"
+tags:
+- "japan"
+- "jgrpp"
+- "jp+"
+- "newgrf"
+- "signals"
