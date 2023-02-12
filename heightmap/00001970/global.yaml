@@ -1,0 +1,11 @@
+name: "Better Ukraine x2048"
+description: |-
+  A map of Ukraine with the correct orientation. (Choose default Counter-clockwise rotation).
+
+  Features Carpatian and Crimean mountains, Black and Azov seas and many inland rivers.
+tags:
+- "2048"
+- "east europe"
+- "europe"
+- "heightmap"
+- "ukraine"
