@@ -2,7 +2,7 @@ name: "JP+ Metro Set"
 description: |-
   JP+ Metro Set introducing metro trains from all over Japan.
 
-  Drawn by Yozora, *SaYa*, Toni Babelony
+  Drawn by Yozora, *SaYa*, Toni Babelony, Takamaro
   Coded by Yozora and JP+ Team
   2022
 url: "https://github.com/Yozora3/JPplusMetro"
@@ -10,7 +10,9 @@ tags:
 - "JP"
 - "JP+"
 - "Japan"
+- "Osaka"
 - "Tokyo"
+- "Yokohama"
 - "metro"
 - "subway"
 - "train"
