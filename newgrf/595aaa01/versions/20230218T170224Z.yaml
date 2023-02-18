@@ -1,0 +1,15 @@
+version: "8.1"
+license: "GPL v2"
+upload-date: 2023-02-18T17:02:24Z
+md5sum-partial: "a3e9972a"
+filesize: 308658
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.50"
+
+name: "JP+ Metro - Osaka update"
