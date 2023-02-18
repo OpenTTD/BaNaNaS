@@ -1,0 +1,24 @@
+version: "8.0"
+license: "GPL v2"
+upload-date: 2023-02-18T12:45:07Z
+md5sum-partial: "0e35862c"
+filesize: 308741
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.50"
+
+name: "JP+ Metro - Osaka update"
+url: "https://github.com/Yozora3/JPplusMetro"
+tags:
+- "JP"
+- "Japan"
+- "Osaka"
+- "Tokyo"
+- "Yokohama"
+- "metro"
+- "subway"
