@@ -2,6 +2,11 @@ version: "6.40"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2015-04-25T16:22:35Z
 md5sum-partial: "7d4dd258"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 25546
 availability: "new-games"
 compatibility:

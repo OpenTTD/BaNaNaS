@@ -2,6 +2,11 @@ version: "rc-5"
 license: "GPL v2"
 upload-date: 2014-09-08T07:50:38Z
 md5sum-partial: "8e891e5a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 203046
 availability: "savegames-only"
 

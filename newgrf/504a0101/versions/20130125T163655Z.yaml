@@ -2,5 +2,10 @@ version: "1.3"
 license: "GPL v2"
 upload-date: 2013-01-25T16:36:55Z
 md5sum-partial: "addf703d"
+classification:
+  set: "airport"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9756
 availability: "new-games"

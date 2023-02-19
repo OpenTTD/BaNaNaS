@@ -2,6 +2,11 @@ version: "8"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2016-06-25T00:07:54Z
 md5sum-partial: "fa056ddd"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 18362
 availability: "savegames-only"
 
@@ -14,9 +19,3 @@ description: |-
 
   (c)2015-16 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "car"
-- "newgrf"
-- "racing"
-- "road"
-- "vehicles"

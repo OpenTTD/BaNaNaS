@@ -2,6 +2,11 @@ version: "7079"
 license: "GPL v2"
 upload-date: 2019-05-19T23:53:52Z
 md5sum-partial: "fa5f1e13"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1237619
 availability: "savegames-only"
 compatibility:

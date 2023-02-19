@@ -2,6 +2,11 @@ version: "0.4.1"
 license: "GPL v2"
 upload-date: 2019-05-16T04:05:31Z
 md5sum-partial: "375e0541"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 126682
 availability: "savegames-only"
 compatibility:

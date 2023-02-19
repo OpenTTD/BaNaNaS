@@ -2,5 +2,10 @@ version: "0.9"
 license: "GPL v3"
 upload-date: 2021-06-30T17:18:43Z
 md5sum-partial: "8e2207a4"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 13620
 availability: "savegames-only"

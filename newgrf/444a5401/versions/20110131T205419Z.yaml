@@ -2,11 +2,12 @@ version: "1.0.0-Beta6"
 license: "GPL v2"
 upload-date: 2011-01-31T20:54:19Z
 md5sum-partial: "15dc283b"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 368639
 availability: "savegames-only"
 
 description: "Beta1 of NuTracks. Contain a wide array of different tracks, different speeds and different costs. Costs can be adjusted, as well as the speedlimits. See the ingame newgrf settings GUI"
-tags:
-- "rails"
-- "railtypes"
-- "tracks"

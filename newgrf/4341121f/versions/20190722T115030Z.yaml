@@ -2,6 +2,11 @@ version: "2.0.0-Alpha-15"
 license: "GPL v2"
 upload-date: 2019-07-22T11:50:30Z
 md5sum-partial: "cf2ce3f0"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1083510
 availability: "savegames-only"
 

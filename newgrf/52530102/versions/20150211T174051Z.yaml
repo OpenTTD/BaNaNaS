@@ -2,6 +2,11 @@ version: "1"
 license: "CC-0 v1.0"
 upload-date: 2015-02-11T17:40:51Z
 md5sum-partial: "1547ae60"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 4172
 availability: "new-games"
 compatibility:

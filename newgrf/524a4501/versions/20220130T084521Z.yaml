@@ -2,6 +2,11 @@ version: "v0.6.8.0"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2022-01-30T08:45:21Z
 md5sum-partial: "4e53b6d2"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1864656
 availability: "new-games"
 

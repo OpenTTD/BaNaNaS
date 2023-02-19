@@ -2,6 +2,11 @@ version: "1.0"
 license: "Custom"
 upload-date: 2015-03-24T23:05:23Z
 md5sum-partial: "7d8cfeec"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 112553
 availability: "new-games"
 compatibility:

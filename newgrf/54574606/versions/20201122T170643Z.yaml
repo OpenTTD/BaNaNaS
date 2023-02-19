@@ -2,6 +2,11 @@ version: "1.0.3"
 license: "CC-BY-SA v3.0"
 upload-date: 2020-11-22T17:06:43Z
 md5sum-partial: "130ffd18"
+classification:
+  set: "rail-infra"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 2535350
 availability: "savegames-only"
 compatibility:

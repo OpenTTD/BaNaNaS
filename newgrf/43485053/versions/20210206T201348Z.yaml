@@ -2,6 +2,11 @@ version: "1.10.0"
 license: "GPL v2"
 upload-date: 2021-02-06T20:13:48Z
 md5sum-partial: "725668ce"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 294802
 availability: "savegames-only"
 
@@ -18,6 +23,3 @@ description: |-
   - extra tiles for buildings
   - replaces dock graphics
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=53362"
-tags:
-- "firs"
-- "stations"

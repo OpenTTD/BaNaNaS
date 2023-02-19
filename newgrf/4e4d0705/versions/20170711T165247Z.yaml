@@ -2,6 +2,11 @@ version: "1.01"
 license: "GPL v2"
 upload-date: 2017-07-11T16:52:47Z
 md5sum-partial: "f89b5d93"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 98286
 availability: "savegames-only"
 
@@ -19,26 +24,3 @@ description: |-
   Released under GPL v2
 
   SEE README FOR DETAILS!
-tags:
-- "america"
-- "canada"
-- "master"
-- "mexico"
-- "nek0"
-- "nek0master"
-- "neko"
-- "neko-master"
-- "nekomaster"
-- "north"
-- "nutracks"
-- "of"
-- "rail"
-- "railtype"
-- "set"
-- "states"
-- "track"
-- "tracktype"
-- "type"
-- "types"
-- "united"
-- "usa"

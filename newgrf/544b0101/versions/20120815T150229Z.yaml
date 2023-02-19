@@ -2,6 +2,11 @@ version: "1.0"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2012-08-15T15:02:29Z
 md5sum-partial: "7f09a8d2"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8367
 availability: "savegames-only"
 
@@ -16,10 +21,3 @@ description: |-
   ***** MADE IN KOREA *****
 
   (c) TELK (www.korct.com)
-tags:
-- "kor"
-- "korea"
-- "korean"
-- "s.korea"
-- "skorea"
-- "south korea"

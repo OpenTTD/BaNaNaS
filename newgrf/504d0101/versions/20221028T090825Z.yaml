@@ -2,6 +2,11 @@ version: "0.20.0"
 license: "Custom"
 upload-date: 2022-10-28T09:08:25Z
 md5sum-partial: "568fc523"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 94215
 availability: "new-games"
 

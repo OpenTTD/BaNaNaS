@@ -2,6 +2,11 @@ version: "27"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-01-07T02:58:07Z
 md5sum-partial: "ba326708"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 125220
 availability: "savegames-only"
 
@@ -14,10 +19,3 @@ description: |-
 
   (c)2015-17 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "car"
-- "monuments"
-- "objects"
-- "road"
-- "sport"
-- "vehicles"

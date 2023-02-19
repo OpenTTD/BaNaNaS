@@ -2,31 +2,13 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2017-12-24T15:49:21Z
 md5sum-partial: "68b9a306"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 47635
 availability: "savegames-only"
 
 name: "RIMS"
 description: "Real International Maglev Set. Contains real maglev trains from around the world. Spiritual sucessor of MMT, Modern Maglev Trains."
-tags:
-- "beijing"
-- "berlin"
-- "birmingham"
-- "changsha"
-- "china"
-- "germany"
-- "high speed"
-- "japan"
-- "korea"
-- "l0"
-- "m-bahn"
-- "maglev"
-- "mbahn"
-- "mmt"
-- "modern"
-- "shanghai"
-- "shinkansen"
-- "south korea"
-- "train"
-- "trains"
-- "uk"
-- "united kingdom"

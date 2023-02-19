@@ -2,6 +2,11 @@ version: "0.1"
 license: "CC-BY v3.0"
 upload-date: 2018-08-09T18:22:16Z
 md5sum-partial: "279366f2"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 68309
 availability: "new-games"
 compatibility:

@@ -2,6 +2,11 @@ version: "r242"
 license: "GPL v2"
 upload-date: 2014-11-01T09:48:17Z
 md5sum-partial: "2e148052"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 91590
 availability: "savegames-only"
 
@@ -11,7 +16,3 @@ description: |-
   r242: Minimap colors to distinguish all those track types.
   r239: Sorting order added.
   r237: Alignment problems fixed.
-tags:
-- "rails"
-- "railtypes"
-- "tracks"

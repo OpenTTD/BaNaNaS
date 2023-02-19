@@ -2,5 +2,10 @@ version: "0.1a"
 license: "GPL v2"
 upload-date: 2020-05-09T02:36:36Z
 md5sum-partial: "8116bd0a"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 35574
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2011-07-29T00:14:31Z
 md5sum-partial: "d701e321"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 80507
 availability: "new-games"
 compatibility:

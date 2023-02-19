@@ -2,12 +2,10 @@ version: "0.5"
 license: "GPL v2"
 upload-date: 2020-05-28T21:30:34Z
 md5sum-partial: "f5b6c4df"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 215348
 availability: "savegames-only"
-
-tags:
-- "omnigauge"
-- "recycled graphics"
-- "trackbed"
-- "tri-gauge"
-- "useless tracks"

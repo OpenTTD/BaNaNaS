@@ -2,5 +2,10 @@ version: "1.0"
 license: "Custom"
 upload-date: 2022-07-27T18:17:00Z
 md5sum-partial: "43da57b8"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 4973760
 availability: "new-games"

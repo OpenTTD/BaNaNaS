@@ -2,6 +2,11 @@ version: "9"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-10-04T00:03:17Z
 md5sum-partial: "655983b0"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 11090
 availability: "savegames-only"
 
@@ -16,9 +21,3 @@ description: |-
 
   (c)2017 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "city"
-- "halloween"
-- "names"
-- "silversurferzzz"
-- "town"

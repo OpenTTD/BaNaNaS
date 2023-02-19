@@ -2,6 +2,11 @@ version: "1.0"
 license: "GPL v3"
 upload-date: 2010-02-24T23:11:21Z
 md5sum-partial: "b2c94bf1"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12636
 availability: "savegames-only"
 dependencies:
@@ -19,16 +24,3 @@ description: |-
   change single values with BaseCosts Mod v3
 
   (if you have proposals for other Presets, send it to Ammler)
-tags:
-- "ammler"
-- "base costs"
-- "basecosts"
-- "challenge"
-- "goulp"
-- "luukland"
-- "nothing"
-- "openttd"
-- "openttdcoop"
-- "presets"
-- "terraform"
-- "wwottdgd"

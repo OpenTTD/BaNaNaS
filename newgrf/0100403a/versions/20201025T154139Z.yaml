@@ -2,6 +2,11 @@ version: "09.5"
 license: "GPL v2"
 upload-date: 2020-10-25T15:41:39Z
 md5sum-partial: "c2647614"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 244323
 availability: "savegames-only"
 compatibility:

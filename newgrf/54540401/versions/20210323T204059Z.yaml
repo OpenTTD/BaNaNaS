@@ -2,6 +2,11 @@ version: "1.7.3"
 license: "GPL v3"
 upload-date: 2021-03-23T20:40:59Z
 md5sum-partial: "18cb8673"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 29769
 availability: "savegames-only"
 compatibility:

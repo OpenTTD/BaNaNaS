@@ -2,6 +2,11 @@ version: "1.2"
 license: "Custom"
 upload-date: 2011-04-26T02:19:26Z
 md5sum-partial: "a559efe4"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 25878
 availability: "new-games"
 dependencies:

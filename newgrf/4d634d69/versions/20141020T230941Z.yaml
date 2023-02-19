@@ -2,6 +2,11 @@ version: "1.4"
 license: "GPL v2"
 upload-date: 2014-10-20T23:09:41Z
 md5sum-partial: "94904cad"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 176736
 availability: "savegames-only"
 

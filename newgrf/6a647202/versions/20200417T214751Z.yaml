@@ -2,6 +2,11 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2020-04-17T21:47:51Z
 md5sum-partial: "f815ddc2"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 22348
 availability: "savegames-only"
 compatibility:

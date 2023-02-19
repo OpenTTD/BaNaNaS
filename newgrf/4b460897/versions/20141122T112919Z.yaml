@@ -2,6 +2,11 @@ version: "2"
 license: "Custom"
 upload-date: 2014-11-22T11:29:19Z
 md5sum-partial: "b248d127"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8631
 availability: "new-games"
 compatibility:

@@ -2,6 +2,11 @@ version: "1.2.0"
 license: "Custom"
 upload-date: 2019-02-27T13:56:01Z
 md5sum-partial: "963122b9"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 53084
 availability: "savegames-only"
 dependencies:

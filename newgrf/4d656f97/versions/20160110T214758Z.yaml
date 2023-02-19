@@ -2,6 +2,11 @@ version: "1.2 (19feb2012)"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2016-01-10T21:47:58Z
 md5sum-partial: "b73ea6bc"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 484552
 availability: "new-games"
 compatibility:

@@ -2,6 +2,8 @@ version: "2"
 license: "GPL v2"
 upload-date: 2022-04-18T19:50:51Z
 md5sum-partial: "5c2a0b70"
+classification:
+  set: "unknown"
 filesize: 8456
 availability: "new-games"
 compatibility:

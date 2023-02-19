@@ -2,6 +2,11 @@ version: "alpha-18"
 license: "GPL v2"
 upload-date: 2016-01-03T19:18:40Z
 md5sum-partial: "90c2e15d"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 176485
 availability: "savegames-only"
 

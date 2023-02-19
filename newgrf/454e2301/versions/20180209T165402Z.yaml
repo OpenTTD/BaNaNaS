@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY v3.0"
 upload-date: 2018-02-09T16:54:02Z
 md5sum-partial: "8e862142"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12200
 availability: "new-games"
 compatibility:

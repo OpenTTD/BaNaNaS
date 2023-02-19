@@ -2,20 +2,14 @@ version: "3.0.1"
 license: "GPL v2"
 upload-date: 2021-04-24T10:52:36Z
 md5sum-partial: "4ab2e31b"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 748365
 availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.2.0"
-
-tags:
-- "PKP"
-- "Poland"
-- "Polska"
-- "kolej"
-- "polish"
-- "polski"
-- "rail"
-- "railways"
-- "trains"

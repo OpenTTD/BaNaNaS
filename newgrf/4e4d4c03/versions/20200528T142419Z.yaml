@@ -2,5 +2,10 @@ version: "0"
 license: "Custom"
 upload-date: 2020-05-28T14:24:19Z
 md5sum-partial: "d7352c82"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 2019
 availability: "savegames-only"

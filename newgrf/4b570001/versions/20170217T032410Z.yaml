@@ -2,19 +2,14 @@ version: "0.3.2"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-02-17T03:24:10Z
 md5sum-partial: "e3a63749"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 31998
 availability: "savegames-only"
 
 description: |-
   It adds several korean station pieces into OpenTTD.
   한국식 역사 조각들을 몇 개 추가해 줍니다.
-tags:
-- "kor"
-- "korea"
-- "s. korea"
-- "south korea"
-- "station"
-- "남한"
-- "대한민국"
-- "역"
-- "한국"

@@ -2,5 +2,10 @@ version: "1.9"
 license: "CC-BY v3.0"
 upload-date: 2021-11-13T10:55:59Z
 md5sum-partial: "f1ce7224"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 264967
 availability: "new-games"

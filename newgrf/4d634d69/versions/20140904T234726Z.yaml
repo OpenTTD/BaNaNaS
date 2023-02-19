@@ -2,6 +2,11 @@ version: "0.6"
 license: "GPL v2"
 upload-date: 2014-09-04T23:47:26Z
 md5sum-partial: "0ce3869a"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 149942
 availability: "savegames-only"
 
@@ -12,7 +17,3 @@ description: |-
   Extractive industry have limited resources and before its life end, production level will drop to the lowest one.
 
   Additionally there are switches to controll industry closure/creation.
-tags:
-- "industry"
-- "passengers"
-- "replacement"

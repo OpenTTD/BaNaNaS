@@ -2,6 +2,11 @@ version: "1"
 license: "GPL v3"
 upload-date: 2009-01-21T01:48:57Z
 md5sum-partial: "4a85260d"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12736
 availability: "new-games"
 compatibility:

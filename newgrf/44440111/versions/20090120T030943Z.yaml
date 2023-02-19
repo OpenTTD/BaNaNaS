@@ -2,6 +2,11 @@ version: "3.04"
 license: "Custom"
 upload-date: 2009-01-20T03:09:43Z
 md5sum-partial: "9b5051e7"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 771587
 availability: "new-games"
 compatibility:

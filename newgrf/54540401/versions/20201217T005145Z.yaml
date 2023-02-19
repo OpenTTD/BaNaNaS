@@ -2,15 +2,10 @@ version: "1.7.0"
 license: "GPL v3"
 upload-date: 2020-12-17T00:51:45Z
 md5sum-partial: "82b51505"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 24662
 availability: "savegames-only"
-
-tags:
-- "1700"
-- "2TallTyler"
-- "commuter"
-- "commuters"
-- "industries"
-- "industry"
-- "worker"
-- "workers"

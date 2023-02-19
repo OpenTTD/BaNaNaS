@@ -2,6 +2,11 @@ version: "1.5.0 beta2"
 license: "GPL v3"
 upload-date: 2021-10-24T19:44:47Z
 md5sum-partial: "c2d7aa04"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 26338
 availability: "savegames-only"
 compatibility:

@@ -2,10 +2,10 @@ version: "1.4"
 license: "CC-0 v1.0"
 upload-date: 2017-11-12T03:41:45Z
 md5sum-partial: "cf8fcb60"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 4730
 availability: "savegames-only"
-
-tags:
-- "english"
-- "funny"
-- "town names"

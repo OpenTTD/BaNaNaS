@@ -2,10 +2,10 @@ version: "2.0.0-alpha2"
 license: "GPL v2"
 upload-date: 2012-04-14T12:36:21Z
 md5sum-partial: "d447c3c4"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 441165
 availability: "savegames-only"
-
-tags:
-- "dutch"
-- "metro"
-- "train"

@@ -2,6 +2,11 @@ version: "0.4"
 license: "GPL v2"
 upload-date: 2015-10-20T20:30:43Z
 md5sum-partial: "fdc4eb8e"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 28684
 availability: "savegames-only"
 
@@ -9,4 +14,3 @@ description: |-
   Instead of special houses, town industries are provided as terminal blackholes (water tower for water cargo, workshop for vehicles and gasoline, petrol station for gasoline and car dealer for vehicles).
   These industries are relatively cheap (must replace houses, only one industry per town, two per city).
   Cargo stockpile is limited (this option can be switched off) and cargo consumption rate depend on town population.
-tags: []

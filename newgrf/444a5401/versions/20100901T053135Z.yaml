@@ -2,12 +2,14 @@ version: "r112"
 license: "GPL v2"
 upload-date: 2010-09-01T05:31:35Z
 md5sum-partial: "23fcf402"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 284640
 availability: "savegames-only"
 
 description: |-
   New Tracks with different properties and costs.
   Intended to use with the 2cc trainset nightly/upcomeing version 2 :)
-tags:
-- "new"
-- "tracks"

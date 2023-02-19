@@ -2,6 +2,11 @@ version: "1.0.1"
 license: "CC-BY-SA v3.0"
 upload-date: 2020-12-20T14:43:41Z
 md5sum-partial: "1082a677"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 1409049
 availability: "savegames-only"
 compatibility:

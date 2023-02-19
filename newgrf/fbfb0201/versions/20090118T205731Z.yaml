@@ -2,5 +2,10 @@ version: "Beta 1.1"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2009-01-18T20:57:31Z
 md5sum-partial: "c3714ccd"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 236662
 availability: "savegames-only"

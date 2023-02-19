@@ -2,6 +2,11 @@ version: "2"
 license: "CC-0 v1.0"
 upload-date: 2022-06-27T10:38:56Z
 md5sum-partial: "a82e6741"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8509
 availability: "new-games"
 
@@ -13,7 +18,3 @@ description: |-
 
   This NewGRF is released as CC0 (Public Domain) and also via the Unlicense.
 url: "https://www.tt-forums.net/viewtopic.php?t=90048"
-tags:
-- "names"
-- "town"
-- "world"

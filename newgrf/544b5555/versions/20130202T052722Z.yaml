@@ -2,6 +2,11 @@ version: "0.7.30"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2013-02-02T05:27:22Z
 md5sum-partial: "2cc07940"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 92593
 availability: "savegames-only"
 
@@ -11,14 +16,3 @@ description: |-
   ★ 한국 열차 세트 ★
 
   * Graphic by skyu / Programmed by TELK
-tags:
-- "kts"
-- "ktx"
-- "mugunghwa"
-- "saemaeul"
-- "south korea"
-- "telk"
-- "무궁화"
-- "새마을"
-- "텔크"
-- "한국 열차 세트"

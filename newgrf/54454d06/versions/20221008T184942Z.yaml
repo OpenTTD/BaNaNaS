@@ -2,5 +2,10 @@ version: "Beta 1.0"
 license: "Custom"
 upload-date: 2022-10-08T18:49:42Z
 md5sum-partial: "55fc970e"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 90529195
 availability: "new-games"

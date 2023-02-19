@@ -2,6 +2,11 @@ version: "B01"
 license: "GPL v3"
 upload-date: 2014-10-30T15:05:15Z
 md5sum-partial: "ed9df036"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 37167
 availability: "savegames-only"
 
@@ -10,9 +15,3 @@ description: |-
   -Very-very beta , tramway-railroad crossing isn't working.
   -Some bridge with this, aren't looking good.
   -Some road set -II- .
-tags:
-- "city"
-- "gauge"
-- "rail"
-- "track"
-- "tram"

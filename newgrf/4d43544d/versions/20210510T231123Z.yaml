@@ -2,6 +2,11 @@ version: "7799"
 license: "GPL v2"
 upload-date: 2021-05-10T23:11:23Z
 md5sum-partial: "a30c0fce"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1829333
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "1.00"
 license: "GPL v2"
 upload-date: 2011-06-17T15:04:32Z
 md5sum-partial: "7f44eb5f"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7641
 availability: "savegames-only"
 

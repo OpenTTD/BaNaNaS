@@ -2,6 +2,11 @@ version: "0"
 license: "CC-0 v1.0"
 upload-date: 2015-10-12T04:34:35Z
 md5sum-partial: "5e257938"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 3303
 availability: "new-games"
 compatibility:

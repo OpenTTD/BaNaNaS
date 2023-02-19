@@ -2,8 +2,10 @@ version: "2.0.0-RC1"
 license: "GPL v2"
 upload-date: 2016-03-23T21:13:51Z
 md5sum-partial: "a4148fcd"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 784077
 availability: "savegames-only"
-
-tags:
-- "firs"

@@ -2,6 +2,11 @@ version: "0.7.0"
 license: "GPL v2"
 upload-date: 2011-12-31T22:50:27Z
 md5sum-partial: "b4e85d0a"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 344241
 availability: "savegames-only"
 
@@ -18,12 +23,3 @@ description: |-
   Other features:
   - availability of some industries restricted by date
   - lickable pixels!
-tags:
-- "andythenorth"
-- "cargo"
-- "firs"
-- "foobar"
-- "industry"
-- "planetmaker"
-- "terkhen"
-- "yexo"

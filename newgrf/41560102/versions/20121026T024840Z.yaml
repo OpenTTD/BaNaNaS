@@ -2,6 +2,11 @@ version: "v5"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2012-10-26T02:48:40Z
 md5sum-partial: "057bcfaf"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 25011
 availability: "savegames-only"
 
@@ -9,8 +14,3 @@ description: |-
   Pipelines for the people!
   Pipelines coded as a railtype. 12 vehicles from 1860 to 2012. The vehicles available are called pumps and are represented as very fast arrows (I would recommend to not use full load on orders).
   Higher construction and maintenance costs than railroad. But very low running costs.
-tags:
-- "pipe"
-- "pipeline"
-- "rail_type"
-- "train"

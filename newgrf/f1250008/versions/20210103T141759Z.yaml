@@ -2,6 +2,11 @@ version: "4.0.0-beta-4"
 license: "GPL v2"
 upload-date: 2021-01-03T14:17:59Z
 md5sum-partial: "6db1ae4c"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 782315
 availability: "savegames-only"
 compatibility:
@@ -22,8 +27,3 @@ description: |-
   - nice graphics
   - such features
 url: "https://grf.farm/firs/index.html"
-tags:
-- "FIRS"
-- "Industries"
-- "Industry"
-- "andythenorth"

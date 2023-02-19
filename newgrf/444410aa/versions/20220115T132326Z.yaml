@@ -2,5 +2,10 @@ version: "103"
 license: "GPL v2"
 upload-date: 2022-01-15T13:23:26Z
 md5sum-partial: "cda5a408"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 101567
 availability: "savegames-only"

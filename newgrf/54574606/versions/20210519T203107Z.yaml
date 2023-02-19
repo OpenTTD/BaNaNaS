@@ -2,5 +2,10 @@ version: "1.1.6"
 license: "CC-BY-SA v3.0"
 upload-date: 2021-05-19T20:31:07Z
 md5sum-partial: "a153004d"
+classification:
+  set: "rail-infra"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 2633369
 availability: "savegames-only"

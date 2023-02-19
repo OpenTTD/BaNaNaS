@@ -2,6 +2,11 @@ version: "4"
 license: "GPL v2"
 upload-date: 2016-06-13T01:33:41Z
 md5sum-partial: "af908557"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 62388
 availability: "new-games"
 compatibility:

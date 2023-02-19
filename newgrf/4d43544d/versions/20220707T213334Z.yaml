@@ -2,6 +2,11 @@ version: "8222"
 license: "GPL v2"
 upload-date: 2022-07-07T21:33:34Z
 md5sum-partial: "169c641d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1887852
 availability: "new-games"
 compatibility:

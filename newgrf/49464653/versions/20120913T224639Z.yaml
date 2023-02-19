@@ -2,9 +2,10 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2012-09-13T22:46:39Z
 md5sum-partial: "554b05bd"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 16176
 availability: "savegames-only"
-
-tags:
-- "fake"
-- "subways"

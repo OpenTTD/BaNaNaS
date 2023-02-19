@@ -2,6 +2,11 @@ version: "19"
 license: "GPL v2"
 upload-date: 2015-07-14T19:54:19Z
 md5sum-partial: "1d297aad"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 339745
 availability: "savegames-only"
 
@@ -11,10 +16,3 @@ description: |-
   Slow vehicles, truck and buses subsets can be switched off, if not desired.
   Trucks are compatible with all cargo sets (except toyland).
   Buses can carry passengers or ECS tourists.
-tags:
-- "bus"
-- "horse"
-- "poland"
-- "road"
-- "truck"
-- "vehicle"

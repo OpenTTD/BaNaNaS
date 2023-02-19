@@ -2,5 +2,10 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2022-12-17T16:37:38Z
 md5sum-partial: "c1ecf250"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 17871
 availability: "new-games"

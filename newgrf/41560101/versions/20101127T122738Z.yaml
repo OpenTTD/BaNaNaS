@@ -2,6 +2,11 @@ version: "0.5"
 license: "Custom"
 upload-date: 2010-11-27T12:27:38Z
 md5sum-partial: "3d78a1bd"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 3139
 availability: "savegames-only"
 

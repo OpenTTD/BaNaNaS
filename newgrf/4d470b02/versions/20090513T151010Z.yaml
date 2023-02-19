@@ -2,6 +2,11 @@ version: "2.0beta-r707"
 license: "GPL v2"
 upload-date: 2009-05-13T15:10:10Z
 md5sum-partial: "d3b86f86"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7657
 availability: "new-games"
 compatibility:

@@ -2,5 +2,10 @@ version: "46"
 license: "GPL v2"
 upload-date: 2019-02-20T20:21:31Z
 md5sum-partial: "05aa45a8"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 33640259
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "1.01"
 license: "GPL v2"
 upload-date: 2014-04-13T09:01:42Z
 md5sum-partial: "cba54916"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 44454
 availability: "savegames-only"
 
@@ -12,6 +17,3 @@ description: |-
   Default trains are disabled
 
   Some sprites based on sprites from 2CC, DACH, Dutch Trainset. Released under GPLv 2, refer to readme.txt.
-tags:
-- "luxembourg"
-- "trains"

@@ -2,6 +2,11 @@ version: "10"
 license: "GPL v2"
 upload-date: 2021-08-04T20:52:16Z
 md5sum-partial: "2b87d58b"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 23658
 availability: "new-games"
 compatibility:

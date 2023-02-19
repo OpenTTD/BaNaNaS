@@ -2,5 +2,10 @@ version: "1"
 license: "GPL v3"
 upload-date: 2009-01-21T01:46:58Z
 md5sum-partial: "d6dabf4e"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12625
 availability: "new-games"

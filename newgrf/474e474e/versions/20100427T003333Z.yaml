@@ -2,6 +2,11 @@ version: "r14"
 license: "GPL v3"
 upload-date: 2010-04-27T00:33:33Z
 md5sum-partial: "dd131c3f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 23803
 availability: "savegames-only"
 

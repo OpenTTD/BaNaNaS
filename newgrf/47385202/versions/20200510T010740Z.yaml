@@ -2,13 +2,10 @@ version: "1.6"
 license: "GPL v2"
 upload-date: 2020-05-10T01:07:40Z
 md5sum-partial: "f4acf13d"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 51414
 availability: "savegames-only"
-
-tags:
-- "roadtypes"
-- "tele"
-- "utilities"
-- "wire"
-- "wired"
-- "wires"

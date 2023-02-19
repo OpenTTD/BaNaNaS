@@ -2,11 +2,14 @@ version: "r230"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-10-24T18:14:46Z
 md5sum-partial: "e84106ec"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1102479
 availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
-
-tags: []

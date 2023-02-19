@@ -2,6 +2,11 @@ version: "r7"
 license: "GPL v2"
 upload-date: 2010-09-08T03:37:35Z
 md5sum-partial: "f2c8664d"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9573
 availability: "new-games"
 compatibility:

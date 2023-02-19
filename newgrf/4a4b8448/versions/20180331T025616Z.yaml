@@ -2,6 +2,11 @@ version: "v2"
 license: "GPL v3"
 upload-date: 2018-03-31T02:56:16Z
 md5sum-partial: "9fabe36c"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12606
 availability: "new-games"
 compatibility:

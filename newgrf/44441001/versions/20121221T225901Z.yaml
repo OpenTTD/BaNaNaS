@@ -2,6 +2,11 @@ version: "Dreadnought"
 license: "Custom"
 upload-date: 2012-12-21T22:59:01Z
 md5sum-partial: "4831fa59"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 77805
 availability: "savegames-only"
 dependencies:

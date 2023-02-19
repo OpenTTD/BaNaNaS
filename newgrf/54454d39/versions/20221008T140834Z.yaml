@@ -2,6 +2,11 @@ version: "Beta2"
 license: "Custom"
 upload-date: 2022-10-08T14:08:34Z
 md5sum-partial: "c26d2c44"
+classification:
+  set: "industry"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 143590916
 availability: "new-games"
 
@@ -21,8 +26,3 @@ description: |-
 
   Enjoy!
 url: "https://www.tt-forums.net/viewtopic.php?t=90183"
-tags:
-- "32bpp industries"
-- "32bpp industry"
-- "Real Industries industries"
-- "industry temporal8"

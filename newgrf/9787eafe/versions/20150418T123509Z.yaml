@@ -2,6 +2,11 @@ version: "alpha-15"
 license: "GPL v2"
 upload-date: 2015-04-18T12:35:09Z
 md5sum-partial: "88d9c389"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 111636
 availability: "savegames-only"
 
@@ -15,6 +20,3 @@ description: |-
   alpha-14: bug fixes, translations
 
   Not savegame compatible with previous alpha versions.
-tags:
-- "road"
-- "vehicles"

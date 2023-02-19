@@ -2,6 +2,11 @@ version: "1.01"
 license: "GPL v3"
 upload-date: 2020-04-28T00:08:12Z
 md5sum-partial: "a585a0f8"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12954
 availability: "savegames-only"
 
@@ -13,12 +18,3 @@ description: |-
 
   Coded by 2TallTyler.
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=86956"
-tags:
-- "candy"
-- "eye"
-- "eye-candy"
-- "eyecandy"
-- "fountain"
-- "plaza"
-- "square"
-- "statue"

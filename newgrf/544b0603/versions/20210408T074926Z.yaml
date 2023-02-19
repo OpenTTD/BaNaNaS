@@ -2,5 +2,10 @@ version: "1.0.1"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-04-08T07:49:26Z
 md5sum-partial: "ef082b5e"
+classification:
+  set: "unknown"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 32661
 availability: "savegames-only"

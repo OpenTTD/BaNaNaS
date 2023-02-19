@@ -2,6 +2,11 @@ version: "0.5"
 license: "GPL v2"
 upload-date: 2011-04-25T20:28:10Z
 md5sum-partial: "8e9ee7c0"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 149870
 availability: "savegames-only"
 
@@ -16,8 +21,3 @@ description: |-
   - some cargo graphic support
   - some passenger tiles
   - replaces dock graphics
-tags:
-- "andythenorth"
-- "firs"
-- "stations"
-- "yexo"

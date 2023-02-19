@@ -2,13 +2,10 @@ version: "0.1.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2011-03-26T03:11:21Z
 md5sum-partial: "ecb6918c"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10652
 availability: "savegames-only"
-
-tags:
-- "fence"
-- "landscape"
-- "newobject"
-- "object"
-- "terrain"
-- "wire"

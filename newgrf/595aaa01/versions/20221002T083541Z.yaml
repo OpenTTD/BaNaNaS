@@ -2,6 +2,11 @@ version: "2.0"
 license: "GPL v2"
 upload-date: 2022-10-02T08:35:41Z
 md5sum-partial: "132722b5"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 83947
 availability: "savegames-only"
 compatibility:
@@ -23,11 +28,3 @@ description: |-
 
   2022
 url: "https://github.com/Yozora3/JPplusMetro"
-tags:
-- "JP"
-- "JP+"
-- "Japan"
-- "Tokyo"
-- "metro"
-- "subway"
-- "train"

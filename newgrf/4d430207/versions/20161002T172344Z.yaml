@@ -2,6 +2,11 @@ version: "34"
 license: "GPL v2"
 upload-date: 2016-10-02T17:23:44Z
 md5sum-partial: "0387f8bf"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 465308
 availability: "savegames-only"
 

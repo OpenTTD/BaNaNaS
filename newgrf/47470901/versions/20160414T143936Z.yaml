@@ -2,6 +2,11 @@ version: "9"
 license: "GPL v2"
 upload-date: 2016-04-14T14:39:36Z
 md5sum-partial: "70878bcc"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 411742
 availability: "savegames-only"
 

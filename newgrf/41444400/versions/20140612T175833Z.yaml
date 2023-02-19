@@ -2,6 +2,8 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2014-06-12T17:58:33Z
 md5sum-partial: "073c2cb1"
+classification:
+  set: "unknown"
 filesize: 7280
 availability: "new-games"
 compatibility:

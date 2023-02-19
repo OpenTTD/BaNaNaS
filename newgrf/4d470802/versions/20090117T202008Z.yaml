@@ -2,6 +2,11 @@ version: "2.0"
 license: "GPL v2"
 upload-date: 2009-01-17T20:20:08Z
 md5sum-partial: "56a6e4c9"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7473
 availability: "new-games"
 dependencies:

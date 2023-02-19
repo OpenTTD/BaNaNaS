@@ -2,6 +2,11 @@ version: "2.6-jgr"
 license: "GPL v2"
 upload-date: 2019-06-15T03:15:48Z
 md5sum-partial: "c8c109be"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 301138
 availability: "savegames-only"
 

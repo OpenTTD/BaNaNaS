@@ -2,6 +2,11 @@ version: "v. 1.6"
 license: "GPL v2"
 upload-date: 2014-08-09T00:22:42Z
 md5sum-partial: "005d8c5e"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 22916
 availability: "new-games"
 compatibility:

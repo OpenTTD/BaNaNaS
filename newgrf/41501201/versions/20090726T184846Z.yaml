@@ -2,6 +2,11 @@ version: "0.5c"
 license: "GPL v2"
 upload-date: 2009-07-26T18:48:46Z
 md5sum-partial: "4d8604ee"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 124797
 availability: "savegames-only"
 
@@ -13,9 +18,3 @@ description: |-
   Changes in 0.5c:
   New vehicles - Cascade C10 and C16 Logging Trucks
   Graphic support for FIRS sand cargo
-tags:
-- "bulldozers"
-- "heqs"
-- "road vehicles"
-- "tractors"
-- "trucks"

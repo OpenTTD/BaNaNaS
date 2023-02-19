@@ -2,6 +2,11 @@ version: "1.0 (31Dec2010)"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2010-12-30T22:22:39Z
 md5sum-partial: "7645d30f"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 403144
 availability: "savegames-only"
 

@@ -2,6 +2,11 @@ version: "1.5"
 license: "GPL v3"
 upload-date: 2021-10-02T05:41:38Z
 md5sum-partial: "3314c9e6"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 105269
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "1.1"
 license: "GPL v2"
 upload-date: 2014-10-05T18:09:56Z
 md5sum-partial: "5d20c7aa"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 168283
 availability: "savegames-only"
 

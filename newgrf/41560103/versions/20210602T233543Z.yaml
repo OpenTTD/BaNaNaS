@@ -2,6 +2,11 @@ version: "r227"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-06-02T23:35:43Z
 md5sum-partial: "a47272ef"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1101225
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "2"
 license: "GPL v2"
 upload-date: 2023-02-09T11:28:23Z
 md5sum-partial: "2ad53ab2"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8176
 availability: "new-games"
 compatibility:

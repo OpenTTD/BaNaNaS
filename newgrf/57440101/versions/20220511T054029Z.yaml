@@ -2,6 +2,11 @@ version: "0.0.9"
 license: "GPL v2"
 upload-date: 2022-05-11T05:40:29Z
 md5sum-partial: "3ecb0490"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 102554
 availability: "new-games"
 
@@ -19,7 +24,3 @@ description: |-
   Special Thanks to:
   seAn | spnda, NekoMaster, Chris(Erato), Azusa, Purno, Emperor Jake, DenLillePrins/BL/Rob
 url: "https://www.tt-forums.net/viewtopic.php?p=1253184#p1253184"
-tags:
-- "IR"
-- "India"
-- "Indian Railways"

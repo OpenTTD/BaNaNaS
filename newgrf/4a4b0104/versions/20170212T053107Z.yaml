@@ -2,6 +2,11 @@ version: "v4"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-02-12T05:31:07Z
 md5sum-partial: "2c6ac867"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 32857
 availability: "new-games"
 compatibility:

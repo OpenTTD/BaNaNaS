@@ -2,6 +2,11 @@ version: "03"
 license: "GPL v2"
 upload-date: 2021-10-03T14:16:29Z
 md5sum-partial: "ccd10fea"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 29448
 availability: "savegames-only"
 compatibility:

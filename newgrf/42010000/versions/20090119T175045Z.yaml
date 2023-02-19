@@ -2,13 +2,12 @@ version: "0.1"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2009-01-19T17:50:45Z
 md5sum-partial: "5400c1ef"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9518
 availability: "savegames-only"
 
 description: "Light signals similar to those found on german railway lines."
-tags:
-- "german"
-- "infrastructure"
-- "signal"
-- "signals"
-- "track"

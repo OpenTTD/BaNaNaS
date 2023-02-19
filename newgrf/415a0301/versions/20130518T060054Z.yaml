@@ -2,6 +2,11 @@ version: "1.2.0"
 license: "GPL v2"
 upload-date: 2013-05-18T06:00:54Z
 md5sum-partial: "433c292e"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 352377
 availability: "savegames-only"
 
@@ -11,9 +16,3 @@ description: |-
   Designed to work with OpenGFX, including support for OpenGFX+ Landscape. Original TTD graphics are not supported, though use of other NewGRFs can minimize the problems. See readme for details.
 
   By Andrew350
-tags:
-- "american"
-- "opengfx"
-- "road"
-- "united states"
-- "usa"

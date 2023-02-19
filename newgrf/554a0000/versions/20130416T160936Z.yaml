@@ -2,6 +2,11 @@ version: "1.4.0"
 license: "CC-BY-SA v3.0"
 upload-date: 2013-04-16T16:09:36Z
 md5sum-partial: "f7410a67"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1133149
 availability: "new-games"
 compatibility:

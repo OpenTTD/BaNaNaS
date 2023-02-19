@@ -2,6 +2,11 @@ version: "0.2"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2012-07-27T05:59:05Z
 md5sum-partial: "ee5dc29c"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 97742
 availability: "savegames-only"
 
@@ -12,8 +17,3 @@ description: |-
   This GRF is fully compatible with TownCarsAI.
 
   See the included readme for more complete information.
-tags:
-- "emergency vehicles"
-- "eyecandy"
-- "road vehicles"
-- "rvs"

@@ -2,6 +2,11 @@ version: "2.0.0-Alpha-18"
 license: "GPL v2"
 upload-date: 2019-08-02T09:33:06Z
 md5sum-partial: "d9963036"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1084864
 availability: "savegames-only"
 

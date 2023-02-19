@@ -2,6 +2,11 @@ version: "B5 (28 Jun 2009"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-06-28T13:30:34Z
 md5sum-partial: "4e73d142"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 168345
 availability: "savegames-only"
 

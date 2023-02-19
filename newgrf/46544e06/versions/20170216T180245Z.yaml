@@ -2,5 +2,10 @@ version: "0.1.0a"
 license: "Custom"
 upload-date: 2017-02-16T18:02:45Z
 md5sum-partial: "beddb58a"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 5730
 availability: "savegames-only"

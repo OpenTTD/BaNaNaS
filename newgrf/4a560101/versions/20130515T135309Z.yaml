@@ -2,9 +2,10 @@ version: "0.5.0"
 license: "GPL v2"
 upload-date: 2013-05-15T13:53:09Z
 md5sum-partial: "fb0fcbe7"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 2223699
 availability: "savegames-only"
-
-tags:
-- "finland"
-- "train"

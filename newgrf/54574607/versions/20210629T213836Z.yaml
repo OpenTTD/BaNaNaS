@@ -2,6 +2,11 @@ version: "1.3.12"
 license: "CC-BY-SA v3.0"
 upload-date: 2021-06-29T21:38:36Z
 md5sum-partial: "bde9805d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 20549784
 availability: "savegames-only"
 compatibility:

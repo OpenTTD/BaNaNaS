@@ -2,6 +2,11 @@ version: "0.5.4"
 license: "GPL v2"
 upload-date: 2010-11-17T19:51:56Z
 md5sum-partial: "227c7d95"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 342953
 availability: "savegames-only"
 
@@ -18,12 +23,3 @@ description: |-
   Other features:
   - some industries only available after a certain date
   - lickable pixels!
-tags:
-- "andythenorth"
-- "developing"
-- "firs"
-- "foobar"
-- "industry"
-- "newgrf"
-- "nightly"
-- "testing"

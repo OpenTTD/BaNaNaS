@@ -2,6 +2,11 @@ version: "0.04"
 license: "GPL v3"
 upload-date: 2010-03-15T12:20:29Z
 md5sum-partial: "1abb78cb"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 91555
 availability: "new-games"
 compatibility:

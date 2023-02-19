@@ -2,6 +2,11 @@ version: "0.0.4"
 license: "CC-BY-SA v3.0"
 upload-date: 2014-07-16T01:05:42Z
 md5sum-partial: "d2eb5529"
+classification:
+  set: "industry"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 25999420
 availability: "savegames-only"
 

@@ -2,6 +2,11 @@ version: "1100"
 license: "GPL v2"
 upload-date: 2017-05-29T15:31:15Z
 md5sum-partial: "da864a61"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 155619
 availability: "savegames-only"
 dependencies:
@@ -20,20 +25,3 @@ description: |-
 
   Special thanks : Sylf - Taught me NML coding
   Transportman - 2cc Trains NML Code
-tags:
-- "add-on"
-- "america"
-- "amtrak"
-- "canada"
-- "master"
-- "mexico"
-- "nars"
-- "nek0"
-- "nek0master"
-- "neko"
-- "nekomaster"
-- "north"
-- "northamerica"
-- "set"
-- "slug"
-- "usa"

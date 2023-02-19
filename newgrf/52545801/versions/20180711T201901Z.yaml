@@ -2,6 +2,11 @@ version: "1.5"
 license: "GPL v3"
 upload-date: 2018-07-11T20:19:01Z
 md5sum-partial: "9b328eab"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12753
 availability: "new-games"
 compatibility:

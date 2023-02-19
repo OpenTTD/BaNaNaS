@@ -2,16 +2,14 @@ version: "0.9.2"
 license: "GPL v3"
 upload-date: 2019-04-07T17:47:55Z
 md5sum-partial: "0121f169"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 215229
 availability: "savegames-only"
 
 description: |-
   North American Passenger Railroads (NAPR) is a trainset which contains (will contain) most of all North American - USA, Canada, Mexica and some other - class I railroads passenger equipment.
   Drawn and coded by Tony Pixel.
-tags:
-- "canada"
-- "mexica"
-- "napr"
-- "north america"
-- "trainset"
-- "usa"

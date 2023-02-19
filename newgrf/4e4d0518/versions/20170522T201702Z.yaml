@@ -2,6 +2,11 @@ version: "1022"
 license: "GPL v2"
 upload-date: 2017-05-22T20:17:02Z
 md5sum-partial: "44bfbe99"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 57264
 availability: "savegames-only"
 
@@ -18,18 +23,3 @@ description: |-
   *See Readme for more details!*
 
   Thanks to Sylf for teaching me NML code, and transportman for the 2cc Trains Set code.
-tags:
-- "add-on"
-- "america"
-- "canada"
-- "master"
-- "mexico"
-- "nars"
-- "nek0"
-- "nek0master"
-- "neko"
-- "nekomaster"
-- "north"
-- "northamerica"
-- "set"
-- "usa"

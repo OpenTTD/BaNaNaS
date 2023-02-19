@@ -2,5 +2,10 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2017-11-08T18:31:57Z
 md5sum-partial: "dd9e4d26"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 26809
 availability: "new-games"

@@ -2,6 +2,11 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2021-04-12T06:24:39Z
 md5sum-partial: "da46d27a"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 129423
 availability: "new-games"
 compatibility:

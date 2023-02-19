@@ -2,6 +2,11 @@ version: "1.4.0"
 license: "GPL v2"
 upload-date: 2011-11-12T14:14:36Z
 md5sum-partial: "07601561"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 162648
 availability: "savegames-only"
 
@@ -20,11 +25,3 @@ description: |-
 
   HEQS vehicles look good & range from 1t to huge.
   Compatible with FIRS, PBI and ECS
-tags:
-- "andythenorth"
-- "bulldozers"
-- "heavy equipment"
-- "heqs"
-- "road vehicles"
-- "tractors"
-- "trucks"

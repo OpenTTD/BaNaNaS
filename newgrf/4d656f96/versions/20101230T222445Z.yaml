@@ -2,6 +2,11 @@ version: "B5 (27 Dec 2010"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2010-12-30T22:24:45Z
 md5sum-partial: "682c2b4b"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 70820
 availability: "new-games"
 compatibility:

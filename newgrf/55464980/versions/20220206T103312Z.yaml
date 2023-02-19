@@ -2,6 +2,11 @@ version: "2"
 license: "GPL v2"
 upload-date: 2022-02-06T10:33:12Z
 md5sum-partial: "51412522"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 306811
 availability: "new-games"
 compatibility:

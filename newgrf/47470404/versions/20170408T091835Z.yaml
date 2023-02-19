@@ -2,8 +2,12 @@ version: "19"
 license: "GPL v2"
 upload-date: 2017-04-08T09:18:35Z
 md5sum-partial: "8fc90fd6"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 751499
 availability: "savegames-only"
 
 description: "NSWTrains is trains that operated within the State of New cSouth Wales Australia from 1855"
-tags: []

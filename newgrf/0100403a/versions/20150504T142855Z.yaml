@@ -2,10 +2,10 @@ version: "B04"
 license: "GPL v3"
 upload-date: 2015-05-04T14:28:55Z
 md5sum-partial: "37808152"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 59416
 availability: "savegames-only"
-
-tags:
-- "building"
-- "decoration"
-- "object"

@@ -2,6 +2,11 @@ version: "0.1"
 license: "GPL v3"
 upload-date: 2019-12-19T23:02:51Z
 md5sum-partial: "7ea846be"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 904159
 availability: "savegames-only"
 compatibility:
@@ -12,8 +17,3 @@ compatibility:
 name: "U&RaTT"
 description: "New graphics roads with a wide variety, from dirt roads to highways, including trolleybuses and trams"
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84591"
-tags:
-- "roadtype"
-- "tram"
-- "trolleybus"
-- "uratt"

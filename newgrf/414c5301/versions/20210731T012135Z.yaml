@@ -2,6 +2,11 @@ version: "6"
 license: "GPL v2"
 upload-date: 2021-07-31T01:21:35Z
 md5sum-partial: "43e3b41c"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 18213
 availability: "savegames-only"
 compatibility:

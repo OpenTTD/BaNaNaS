@@ -2,6 +2,11 @@ version: "2.0beta-r704"
 license: "GPL v2"
 upload-date: 2009-05-09T21:41:45Z
 md5sum-partial: "64f32cca"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7627
 availability: "savegames-only"
 

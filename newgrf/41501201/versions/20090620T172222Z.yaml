@@ -2,6 +2,11 @@ version: "0.5b"
 license: "GPL v2"
 upload-date: 2009-06-20T17:22:22Z
 md5sum-partial: "8f61d2cf"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 126781
 availability: "savegames-only"
 
@@ -11,9 +16,3 @@ description: |-
   It includes some vehicles that are just plain useful, some very large vehicles which radically change the gameplay possibilities of road vehicles, and some things that are mostly eye candy, but can haul cargo profitably.
 
   Changes in 0.5b: new vehicle "Red Peak Articulated Crawler"
-tags:
-- "bulldozers"
-- "heqs"
-- "road vehicles"
-- "tractors"
-- "trucks"

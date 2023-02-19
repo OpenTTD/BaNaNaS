@@ -2,6 +2,11 @@ version: "1.2"
 license: "GPL v2"
 upload-date: 2013-10-27T01:57:10Z
 md5sum-partial: "a056ae54"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 52807
 availability: "savegames-only"
 

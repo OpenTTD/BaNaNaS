@@ -2,6 +2,11 @@ version: "2"
 license: "GPL v2"
 upload-date: 2020-04-09T12:17:26Z
 md5sum-partial: "bfa81f17"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 509757
 availability: "new-games"
 compatibility:

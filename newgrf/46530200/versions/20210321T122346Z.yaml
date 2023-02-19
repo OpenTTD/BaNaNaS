@@ -2,6 +2,11 @@ version: "B1.00.01"
 license: "Custom"
 upload-date: 2021-03-21T12:23:46Z
 md5sum-partial: "36da8ea8"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 163346
 availability: "savegames-only"
 compatibility:

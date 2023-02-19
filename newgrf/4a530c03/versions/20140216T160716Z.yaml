@@ -2,5 +2,10 @@ version: "2014.02.13"
 license: "Custom"
 upload-date: 2014-02-16T16:07:16Z
 md5sum-partial: "6faba891"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 6224
 availability: "savegames-only"

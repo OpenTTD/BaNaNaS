@@ -2,9 +2,10 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2021-04-09T09:51:16Z
 md5sum-partial: "60129708"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 116227
 availability: "savegames-only"
-
-tags:
-- "erato"
-- "industrial"

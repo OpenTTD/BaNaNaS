@@ -2,6 +2,11 @@ version: "Alpha 0.2"
 license: "GPL v2"
 upload-date: 2018-03-25T16:08:53Z
 md5sum-partial: "75114e76"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8531
 availability: "new-games"
 compatibility:

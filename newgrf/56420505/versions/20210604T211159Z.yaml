@@ -2,6 +2,11 @@ version: "0.0.3"
 license: "GPL v2"
 upload-date: 2021-06-04T21:11:59Z
 md5sum-partial: "9a5b0e32"
+classification:
+  set: "landscape"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 230468362
 availability: "new-games"
 compatibility:

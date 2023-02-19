@@ -2,6 +2,11 @@ version: "0.3"
 license: "GPL v2"
 upload-date: 2009-01-17T18:54:28Z
 md5sum-partial: "6cfc6328"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10835
 availability: "new-games"
 compatibility:

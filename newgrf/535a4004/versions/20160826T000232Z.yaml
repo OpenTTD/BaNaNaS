@@ -2,6 +2,11 @@ version: "11"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2016-08-26T00:02:32Z
 md5sum-partial: "ed8c6777"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 83396
 availability: "savegames-only"
 
@@ -16,10 +21,3 @@ description: |-
   CC BY-NC-SA
 
   Warning: Mechanics and new neumatics not included in the set :-D
-tags:
-- "car"
-- "newgrf"
-- "racing"
-- "road"
-- "tram"
-- "vehicles"

@@ -2,5 +2,10 @@ version: "V2.0.2"
 license: "CC-BY-SA v3.0"
 upload-date: 2021-04-07T12:16:45Z
 md5sum-partial: "e86eca38"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 118852
 availability: "savegames-only"

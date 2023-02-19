@@ -2,5 +2,10 @@ version: "1.1"
 license: "CC-0 v1.0"
 upload-date: 2021-08-14T15:57:43Z
 md5sum-partial: "1ef7b9ea"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12035
 availability: "new-games"

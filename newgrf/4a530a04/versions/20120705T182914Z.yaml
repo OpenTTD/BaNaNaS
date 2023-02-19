@@ -2,5 +2,10 @@ version: "2012.07.05"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2012-07-05T18:29:14Z
 md5sum-partial: "ae09ef76"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 13443
 availability: "savegames-only"

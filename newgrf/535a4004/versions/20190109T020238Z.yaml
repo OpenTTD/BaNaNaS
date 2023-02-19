@@ -2,15 +2,10 @@ version: "32"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2019-01-09T02:02:38Z
 md5sum-partial: "2eb19b0f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 100201
 availability: "savegames-only"
-
-tags:
-- "cars"
-- "racing"
-- "road"
-- "rvs"
-- "silversurferzzz"
-- "streetcars"
-- "trams"
-- "vehicles"

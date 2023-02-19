@@ -2,6 +2,11 @@ version: "alpha-8"
 license: "GPL v2"
 upload-date: 2014-12-29T07:36:39Z
 md5sum-partial: "b007b4a2"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 86260
 availability: "savegames-only"
 
@@ -13,6 +18,3 @@ description: |-
   This one is better than the ones before though.
 
   Not savegame compatible with previous alpha versions.
-tags:
-- "road"
-- "vehicles"

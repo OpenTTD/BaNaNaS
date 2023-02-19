@@ -2,6 +2,11 @@ version: "4"
 license: "GPL v2"
 upload-date: 2019-01-20T03:31:25Z
 md5sum-partial: "bcf6e7ef"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 134688
 availability: "new-games"
 compatibility:

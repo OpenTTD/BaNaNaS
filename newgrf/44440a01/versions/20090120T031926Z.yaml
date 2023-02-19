@@ -2,5 +2,10 @@ version: "v1.331"
 license: "Custom"
 upload-date: 2009-01-20T03:19:26Z
 md5sum-partial: "a7ea6fb6"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 844766
 availability: "savegames-only"

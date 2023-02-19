@@ -2,6 +2,11 @@ version: "1.1"
 license: "CC-BY v3.0"
 upload-date: 2019-11-24T18:16:17Z
 md5sum-partial: "f289e34a"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 124842
 availability: "new-games"
 compatibility:

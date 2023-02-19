@@ -2,6 +2,11 @@ version: "002"
 license: "GPL v2"
 upload-date: 2020-11-02T12:46:19Z
 md5sum-partial: "276177a0"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 52738
 availability: "savegames-only"
 

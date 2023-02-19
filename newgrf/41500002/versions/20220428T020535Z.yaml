@@ -2,6 +2,11 @@ version: "0.1.0"
 license: "GPL v3"
 upload-date: 2022-04-28T02:05:35Z
 md5sum-partial: "85377f59"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 17645
 availability: "savegames-only"
 

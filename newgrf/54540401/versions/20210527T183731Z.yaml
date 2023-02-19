@@ -2,5 +2,10 @@ version: "1.7.7"
 license: "GPL v3"
 upload-date: 2021-05-27T18:37:31Z
 md5sum-partial: "d3d8eaa8"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 35823
 availability: "savegames-only"

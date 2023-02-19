@@ -2,6 +2,11 @@ version: "2.0 beta1"
 license: "GPL v3"
 upload-date: 2010-05-21T13:24:48Z
 md5sum-partial: "66608bd4"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 259944
 availability: "savegames-only"
 dependencies:
@@ -16,6 +21,3 @@ description: |-
   * Intercity multiple units that attach MU-wagons. Fast and low capacity/loading speed.
   * Commuter multiple units that attach MU-wagons. Medium speed/capacity/loading speed
   * Metro trains. Slow speed, high capacity/loading speed.
-tags:
-- "2cc"
-- "trainset"

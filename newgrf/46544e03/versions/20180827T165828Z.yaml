@@ -2,6 +2,11 @@ version: "0.2.9"
 license: "GPL v2"
 upload-date: 2018-08-27T16:58:28Z
 md5sum-partial: "b90e1d26"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 14457
 availability: "savegames-only"
 

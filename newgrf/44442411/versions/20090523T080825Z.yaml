@@ -2,5 +2,10 @@ version: "0.2"
 license: "Custom"
 upload-date: 2009-05-23T08:08:25Z
 md5sum-partial: "be9a79f6"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 149305
 availability: "savegames-only"

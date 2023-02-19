@@ -2,6 +2,11 @@ version: "1.2"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2011-01-29T03:26:04Z
 md5sum-partial: "bcda97d2"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 32207
 availability: "savegames-only"
 

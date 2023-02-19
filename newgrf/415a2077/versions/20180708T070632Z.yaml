@@ -2,6 +2,11 @@ version: "0.4.0"
 license: "GPL v2"
 upload-date: 2018-07-08T07:06:32Z
 md5sum-partial: "d5d52187"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 642409
 availability: "savegames-only"
 compatibility:

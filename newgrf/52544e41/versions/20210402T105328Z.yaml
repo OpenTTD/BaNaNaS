@@ -2,6 +2,11 @@ version: "1.4.0"
 license: "GPL v2"
 upload-date: 2021-04-02T10:53:28Z
 md5sum-partial: "cfa1a686"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1366107
 availability: "new-games"
 compatibility:

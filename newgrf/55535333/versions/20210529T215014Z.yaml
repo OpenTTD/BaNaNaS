@@ -2,5 +2,10 @@ version: "preview-9"
 license: "GPL v2"
 upload-date: 2021-05-29T21:50:14Z
 md5sum-partial: "9aca5167"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 554443
 availability: "savegames-only"

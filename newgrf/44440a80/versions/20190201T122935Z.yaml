@@ -2,6 +2,11 @@ version: "0.9.2"
 license: "Custom"
 upload-date: 2019-02-01T12:29:35Z
 md5sum-partial: "29b25598"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 446539
 availability: "savegames-only"
 

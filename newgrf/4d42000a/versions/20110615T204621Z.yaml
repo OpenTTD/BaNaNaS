@@ -2,6 +2,11 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2011-06-15T20:46:21Z
 md5sum-partial: "387a6339"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 28648
 availability: "savegames-only"
 
@@ -15,7 +20,3 @@ description: |-
   A set of British trams starting in 1884
 
   Mostly drawn by Ameecher with contributions by Bob, Born Acorn and AndrewA. Coded by Bob using GRFMaker v4.06B
-tags:
-- "british"
-- "tram"
-- "uk"

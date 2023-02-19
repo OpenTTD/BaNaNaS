@@ -2,6 +2,11 @@ version: "1.0"
 license: "Custom"
 upload-date: 2022-06-03T00:14:28Z
 md5sum-partial: "dce528db"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 2279414
 availability: "new-games"
 

@@ -2,11 +2,10 @@ version: "200"
 license: "Custom"
 upload-date: 2018-07-29T01:58:36Z
 md5sum-partial: "81961256"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 1083007
 availability: "savegames-only"
-
-tags:
-- "32bpp"
-- "train"
-- "uk"
-- "ukrs"

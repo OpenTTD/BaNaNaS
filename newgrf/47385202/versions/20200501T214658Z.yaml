@@ -2,17 +2,14 @@ version: "0.3a"
 license: "GPL v2"
 upload-date: 2020-05-01T21:46:58Z
 md5sum-partial: "0e98adec"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 84618
 availability: "savegames-only"
 
 name: "Utility Roadtype Set"
 description: "Made from reused GPL v2 content. Credits to DJ Nekkid, McZapkie, planetmaker, GarryG, Quast65, Zimmlock, George, Red*Star, Purno, Pikkabird, Dante123, Zero.Eight, and the Tycoonez.com community. Visit website if I forgot to credit you!"
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
-tags:
-- "electricity"
-- "pipeline"
-- "roadtype"
-- "telecom"
-- "utilities"
-- "wired"
-- "wires"

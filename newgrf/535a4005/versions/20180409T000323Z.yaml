@@ -2,6 +2,11 @@ version: "64"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-04-09T00:03:23Z
 md5sum-partial: "30f62936"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 411924
 availability: "savegames-only"
 
@@ -23,14 +28,3 @@ description: |-
   CC BY-NC-ND
 
   =======2nd Anniversary Edition=======
-tags:
-- "buses"
-- "cars"
-- "japanese"
-- "road"
-- "silversurferzzz"
-- "snow"
-- "streetcars"
-- "trams"
-- "trucks"
-- "vehicles"

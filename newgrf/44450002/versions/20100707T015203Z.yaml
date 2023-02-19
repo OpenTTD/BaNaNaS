@@ -2,8 +2,10 @@ version: "0.2.0"
 license: "GPL v2"
 upload-date: 2010-07-07T01:52:03Z
 md5sum-partial: "58f91ebd"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 59786
 availability: "savegames-only"
-
-tags:
-- "mlss"

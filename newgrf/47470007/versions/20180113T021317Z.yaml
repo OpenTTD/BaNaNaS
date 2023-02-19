@@ -2,5 +2,10 @@ version: "3"
 license: "GPL v2"
 upload-date: 2018-01-13T02:13:17Z
 md5sum-partial: "58a94645"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 465736
 availability: "savegames-only"

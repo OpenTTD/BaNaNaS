@@ -2,6 +2,11 @@ version: "4"
 license: "GPL v2"
 upload-date: 2018-04-18T22:42:42Z
 md5sum-partial: "e45a4629"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1554316
 availability: "new-games"
 compatibility:

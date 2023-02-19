@@ -2,6 +2,11 @@ version: "0.3.0"
 license: "GPL v2"
 upload-date: 2021-06-02T14:47:49Z
 md5sum-partial: "de200ff4"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1078706
 availability: "savegames-only"
 compatibility:

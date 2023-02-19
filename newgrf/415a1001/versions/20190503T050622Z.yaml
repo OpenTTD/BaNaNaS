@@ -2,6 +2,11 @@ version: "0.4.0 beta 1"
 license: "GPL v2"
 upload-date: 2019-05-03T05:06:22Z
 md5sum-partial: "cdff202e"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 71166
 availability: "savegames-only"
 

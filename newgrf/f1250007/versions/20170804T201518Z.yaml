@@ -2,6 +2,11 @@ version: "3.0.0-alpha-5"
 license: "GPL v2"
 upload-date: 2017-08-04T20:15:18Z
 md5sum-partial: "95b2fab9"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 901165
 availability: "savegames-only"
 

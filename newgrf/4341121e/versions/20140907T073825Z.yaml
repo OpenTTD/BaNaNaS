@@ -2,6 +2,11 @@ version: "rc-3"
 license: "GPL v2"
 upload-date: 2014-09-07T07:38:25Z
 md5sum-partial: "feadeddb"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 177198
 availability: "savegames-only"
 

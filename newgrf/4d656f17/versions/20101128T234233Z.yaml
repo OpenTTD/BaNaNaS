@@ -2,6 +2,11 @@ version: "v4 (04 Oct 2008"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2010-11-28T23:42:33Z
 md5sum-partial: "8a4f8a04"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 788602
 availability: "new-games"
 compatibility:

@@ -2,6 +2,11 @@ version: "12"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-06-05T00:03:02Z
 md5sum-partial: "b42639f7"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 53695
 availability: "savegames-only"
 
@@ -16,16 +21,3 @@ description: |-
 
   (c)2015-18 SilverSurferZzZ
   CC BY-NC-ND
-tags:
-- "buoys"
-- "cargo icons"
-- "city"
-- "eyecandy"
-- "icons"
-- "japanese"
-- "landscape"
-- "names"
-- "naruto"
-- "objects"
-- "silversurferzzz"
-- "town"

@@ -2,6 +2,11 @@ version: "1.6"
 license: "GPL v2"
 upload-date: 2016-09-15T23:40:18Z
 md5sum-partial: "f19f58d3"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 63712
 availability: "new-games"
 compatibility:

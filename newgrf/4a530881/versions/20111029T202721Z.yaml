@@ -2,6 +2,11 @@ version: "2011.10.29"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2011-10-29T20:27:21Z
 md5sum-partial: "efd1bf4e"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8883
 availability: "savegames-only"
 
@@ -15,8 +20,3 @@ description: |-
   Version # 2011.10.29
 
   Coded Together by Jan Skoch
-tags:
-- "cityvuilder"
-- "cool"
-- "ginger"
-- "luukland"

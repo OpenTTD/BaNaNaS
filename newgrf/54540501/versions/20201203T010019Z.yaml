@@ -2,12 +2,10 @@ version: "0.4.0"
 license: "GPL v3"
 upload-date: 2020-12-03T01:00:19Z
 md5sum-partial: "b940eb5f"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 16623
 availability: "savegames-only"
-
-tags:
-- "1700"
-- "2TallTyler"
-- "canal"
-- "canalboat"
-- "erie"

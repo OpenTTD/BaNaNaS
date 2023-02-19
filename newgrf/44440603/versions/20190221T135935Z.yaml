@@ -2,6 +2,11 @@ version: "100"
 license: "CC-0 v1.0"
 upload-date: 2019-02-21T13:59:35Z
 md5sum-partial: "4d4bb789"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 68942
 availability: "new-games"
 compatibility:

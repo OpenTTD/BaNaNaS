@@ -2,20 +2,14 @@ version: "48"
 license: "GPL v2"
 upload-date: 2021-05-30T00:10:18Z
 md5sum-partial: "42084b1f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 701990
 availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
-
-tags:
-- "bus"
-- "car"
-- "horse"
-- "poland"
-- "polish road set"
-- "polskie drogi"
-- "road"
-- "truck"
-- "vehicle"

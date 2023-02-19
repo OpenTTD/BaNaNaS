@@ -2,6 +2,11 @@ version: "r1.0.2.1"
 license: "GPL v2"
 upload-date: 2021-06-21T23:51:08Z
 md5sum-partial: "47b7ad17"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 956123
 availability: "savegames-only"
 compatibility:
@@ -23,7 +28,3 @@ description: |-
   - nice graphics
   - such features
 url: "https://github.com/k-Knight/rfirs"
-tags:
-- "firs"
-- "industries"
-- "rfirs"

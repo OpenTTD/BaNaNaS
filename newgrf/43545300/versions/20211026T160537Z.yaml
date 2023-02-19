@@ -2,6 +2,11 @@ version: "0.6.1"
 license: "GPL v2"
 upload-date: 2021-10-26T16:05:37Z
 md5sum-partial: "b33e9e06"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 18868207
 availability: "new-games"
 

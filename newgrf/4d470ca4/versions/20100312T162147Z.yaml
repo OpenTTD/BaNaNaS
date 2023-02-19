@@ -2,5 +2,10 @@ version: "r6-A4"
 license: "GPL v3"
 upload-date: 2010-03-12T16:21:47Z
 md5sum-partial: "8184347f"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12758
 availability: "savegames-only"

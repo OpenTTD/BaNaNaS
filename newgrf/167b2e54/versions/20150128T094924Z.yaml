@@ -2,6 +2,11 @@ version: "B06"
 license: "GPL v3"
 upload-date: 2015-01-28T09:49:24Z
 md5sum-partial: "7eb5e4cb"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 60299
 availability: "new-games"
 compatibility:

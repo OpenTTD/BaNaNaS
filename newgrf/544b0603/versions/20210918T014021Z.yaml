@@ -2,6 +2,11 @@ version: "1.2.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-09-18T01:40:21Z
 md5sum-partial: "e7c39334"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 35241
 availability: "new-games"
 
@@ -10,18 +15,3 @@ description: |-
 
   Provide signals and mark signs of South Korea.
   Supports multi-aspects signal feature of JGRPP.
-tags:
-- "korea"
-- "korean"
-- "mark"
-- "multi aspects"
-- "sign"
-- "signal"
-- "남한"
-- "다현시"
-- "대한민국"
-- "신호"
-- "신호기"
-- "신호등"
-- "표지"
-- "한국"

@@ -2,5 +2,10 @@ version: "v2"
 license: "GPL v2"
 upload-date: 2010-11-21T16:03:06Z
 md5sum-partial: "a4041dca"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7515
 availability: "savegames-only"

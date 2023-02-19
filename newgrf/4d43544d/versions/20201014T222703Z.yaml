@@ -2,15 +2,14 @@ version: "7592"
 license: "GPL v2"
 upload-date: 2020-10-14T22:27:03Z
 md5sum-partial: "96d4f2ae"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1598476
 availability: "savegames-only"
 
 description: |-
   V4 CEE Trains is a fork from 2cc Trains In NML for OpenTTD with some additions from other newgrfs. This set is focused on train from Central and East Europe (mostly Visegrad group).
   Beside of 2cc colors, trains can be refitted to some national liveries. Custom trackset is provided with normal and broad gauge tracks and 3 different catenary system (and also 3rd rail metro track).
-tags:
-- "Europe"
-- "central"
-- "east"
-- "trains"
-- "v4"

@@ -2,9 +2,10 @@ version: "1.1"
 license: "CC-0 v1.0"
 upload-date: 2017-11-10T05:41:50Z
 md5sum-partial: "afbf225b"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 4209
 availability: "savegames-only"
-
-tags:
-- "names"
-- "town"

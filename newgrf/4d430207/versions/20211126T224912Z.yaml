@@ -2,6 +2,11 @@ version: "5.5"
 license: "GPL v2"
 upload-date: 2021-11-26T22:49:12Z
 md5sum-partial: "c3aaab4f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 752316
 availability: "new-games"
 compatibility:

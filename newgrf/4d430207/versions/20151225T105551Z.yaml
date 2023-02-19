@@ -2,6 +2,11 @@ version: "28"
 license: "GPL v2"
 upload-date: 2015-12-25T10:55:51Z
 md5sum-partial: "aef4d3dd"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 698665
 availability: "savegames-only"
 

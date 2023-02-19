@@ -2,6 +2,11 @@ version: "2.0.0-Alpha-3"
 license: "GPL v2"
 upload-date: 2019-01-19T19:23:53Z
 md5sum-partial: "cb692213"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1018583
 availability: "savegames-only"
 
@@ -15,4 +20,3 @@ description: |-
   Designed to be used with 'vehicles expire' set to to 'on', Horse 2 has a *lot* of vehicles and crowds the buy menu unless expiry is used.
 
   Not compatible with 2.0.0-Alpha-2 savegames.
-tags: []

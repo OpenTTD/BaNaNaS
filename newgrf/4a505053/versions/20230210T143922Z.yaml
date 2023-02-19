@@ -2,6 +2,11 @@ version: "0 5 1"
 license: "Custom"
 upload-date: 2023-02-10T14:39:22Z
 md5sum-partial: "96fea703"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 20053
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "1.1.8"
 license: "CC-BY-SA v3.0"
 upload-date: 2021-06-27T14:46:13Z
 md5sum-partial: "a8e245df"
+classification:
+  set: "rail-infra"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 2422357
 availability: "savegames-only"
 compatibility:

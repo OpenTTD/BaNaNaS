@@ -2,6 +2,11 @@ version: "0.2.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2011-04-28T17:45:34Z
 md5sum-partial: "b5d2ab5f"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12743
 availability: "new-games"
 compatibility:

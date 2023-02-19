@@ -2,13 +2,10 @@ version: "1.0.1"
 license: "GPL v2"
 upload-date: 2017-07-27T12:42:13Z
 md5sum-partial: "416988a6"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 30513
 availability: "savegames-only"
-
-tags:
-- "br"
-- "gwyd"
-- "nse"
-- "pep"
-- "trains"
-- "uk"

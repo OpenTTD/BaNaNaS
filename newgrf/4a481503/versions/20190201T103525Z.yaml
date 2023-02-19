@@ -2,6 +2,11 @@ version: "0.1"
 license: "Custom"
 upload-date: 2019-02-01T10:35:25Z
 md5sum-partial: "f5ed9616"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10307
 availability: "savegames-only"
 
@@ -15,12 +20,3 @@ description: |-
   0 Passenger cars
 
   Coded and drawn by ruiluth.All rights reserved (at least for the moment).
-tags:
-- "american"
-- "early"
-- "overhaul"
-- "pacific"
-- "southern"
-- "steam"
-- "train"
-- "trains"

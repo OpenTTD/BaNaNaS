@@ -2,6 +2,11 @@ version: "1.8"
 license: "GPL v2"
 upload-date: 2018-09-10T18:28:11Z
 md5sum-partial: "aac1cbd7"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 751478
 availability: "new-games"
 dependencies:

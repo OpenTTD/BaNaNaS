@@ -2,5 +2,10 @@ version: "r600"
 license: "GPL v2"
 upload-date: 2010-03-10T17:10:54Z
 md5sum-partial: "04140157"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 232285
 availability: "savegames-only"

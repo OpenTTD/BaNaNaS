@@ -2,6 +2,11 @@ version: "2012.07.05"
 license: "GPL v2"
 upload-date: 2012-07-05T17:08:58Z
 md5sum-partial: "7a0ccb77"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 27274
 availability: "savegames-only"
 
@@ -13,8 +18,3 @@ description: |-
   Rest edited By The Dude
 
   2012.07.05
-tags:
-- "cool"
-- "ginger"
-- "luukland"
-- "trainset"

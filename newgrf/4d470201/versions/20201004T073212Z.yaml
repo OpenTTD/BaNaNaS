@@ -2,6 +2,11 @@ version: "0.9.0 BETA"
 license: "GPL v2"
 upload-date: 2020-10-04T07:32:12Z
 md5sum-partial: "c04e98f7"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 32428
 availability: "new-games"
 compatibility:

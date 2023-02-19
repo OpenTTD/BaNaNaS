@@ -2,6 +2,11 @@ version: "1.4"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-11-12T19:26:25Z
 md5sum-partial: "2f9e3238"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 551824
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "2.1"
 license: "GPL v2"
 upload-date: 2017-10-30T01:23:24Z
 md5sum-partial: "12cdf0b8"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 100812
 availability: "savegames-only"
 compatibility:

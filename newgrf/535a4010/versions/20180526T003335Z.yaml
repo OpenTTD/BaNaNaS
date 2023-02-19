@@ -2,6 +2,11 @@ version: "26"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-05-26T00:33:35Z
 md5sum-partial: "0d8a03bb"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 56038
 availability: "savegames-only"
 
@@ -16,15 +21,3 @@ description: |-
 
   (c)2017-18 SilverSurferZzZ
   CC BY-NC-ND
-tags:
-- "buoys"
-- "cargo icons"
-- "city"
-- "eyecandy"
-- "icons"
-- "kaijus"
-- "landscape"
-- "names"
-- "objects"
-- "silversurferzzz"
-- "town"

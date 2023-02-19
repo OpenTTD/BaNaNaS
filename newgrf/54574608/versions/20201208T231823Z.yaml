@@ -2,6 +2,11 @@ version: "1.1.4"
 license: "CC-BY-SA v3.0"
 upload-date: 2020-12-08T23:18:23Z
 md5sum-partial: "f4d39c32"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 4615444
 availability: "savegames-only"
 compatibility:

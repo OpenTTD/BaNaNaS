@@ -2,5 +2,10 @@ version: "7075"
 license: "GPL v2"
 upload-date: 2019-05-17T10:40:30Z
 md5sum-partial: "ca60c5b2"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1199195
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "0.2"
 license: "GPL v3"
 upload-date: 2009-03-11T20:49:43Z
 md5sum-partial: "287fd773"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 13768
 availability: "savegames-only"
 

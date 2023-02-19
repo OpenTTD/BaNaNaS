@@ -2,6 +2,11 @@ version: "1.0.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-09-28T10:41:02Z
 md5sum-partial: "018b8128"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 270965
 availability: "new-games"
 compatibility:

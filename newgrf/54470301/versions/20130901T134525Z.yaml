@@ -2,11 +2,12 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2013-09-01T13:45:25Z
 md5sum-partial: "a2d734e8"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8907
 availability: "savegames-only"
 
 description: "Fake bridges are eyecandy objects to simulate water flowing under foundations."
-tags:
-- "bridge"
-- "eyecandy"
-- "zooks"

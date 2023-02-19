@@ -2,5 +2,10 @@ version: "2.2.0"
 license: "GPL v2"
 upload-date: 2020-06-15T18:01:43Z
 md5sum-partial: "19ff2b4f"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 27025869
 availability: "savegames-only"

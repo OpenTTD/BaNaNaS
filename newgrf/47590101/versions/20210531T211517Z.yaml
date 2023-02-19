@@ -2,12 +2,14 @@ version: "1.3"
 license: "CC-0 v1.0"
 upload-date: 2021-05-31T21:15:17Z
 md5sum-partial: "be536b37"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 5140
 availability: "new-games"
 
 name: "Winnipeg Town Names"
 description: "Town names for OpenTTD based on street names and neighbourhoods in Winnipeg, Canada; and town names elsewhere in Manitoba."
 url: "https://github.com/gabrieljyoung/openttd-winnipeg-town-names"
-tags:
-- "townnames"
-- "winnipeg"

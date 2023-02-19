@@ -2,6 +2,11 @@ version: "alpha-17"
 license: "GPL v2"
 upload-date: 2015-12-11T19:52:49Z
 md5sum-partial: "54d46e55"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 144429
 availability: "savegames-only"
 

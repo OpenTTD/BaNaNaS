@@ -2,5 +2,10 @@ version: "7609"
 license: "GPL v2"
 upload-date: 2020-10-31T00:36:36Z
 md5sum-partial: "fbf62cbf"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1640706
 availability: "savegames-only"

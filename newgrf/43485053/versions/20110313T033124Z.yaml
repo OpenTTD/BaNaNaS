@@ -2,6 +2,11 @@ version: "0.2"
 license: "GPL v2"
 upload-date: 2011-03-13T03:31:24Z
 md5sum-partial: "2daa7186"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 17486
 availability: "savegames-only"
 
@@ -12,8 +17,3 @@ description: |-
 
   - simple station tiles for use with FIRS industry set
   - buffers added to tiles automatically
-tags:
-- "andythenorth"
-- "firs"
-- "stations"
-- "yexo"

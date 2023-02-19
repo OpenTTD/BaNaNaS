@@ -2,6 +2,11 @@ version: "0.9.1"
 license: "GPL v2"
 upload-date: 2010-11-07T21:37:49Z
 md5sum-partial: "96c567dc"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 153517
 availability: "savegames-only"
 
@@ -19,11 +24,3 @@ description: |-
 
   HEQS 0.9.0 has good-looking vehicles in sizes from 2t to 390t
   Compatible with FIRS, PBI and ECS
-tags:
-- "andythenorth"
-- "bulldozers"
-- "heavy equipment"
-- "heqs"
-- "road vehicles"
-- "tractors"
-- "trucks"

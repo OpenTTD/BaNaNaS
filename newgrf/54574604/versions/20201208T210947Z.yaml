@@ -2,18 +2,14 @@ version: "2.2.3"
 license: "CC-BY-SA v3.0"
 upload-date: 2020-12-08T21:09:47Z
 md5sum-partial: "cfd85800"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 27154048
 availability: "savegames-only"
 
 name: "Timberwolf's UK Road Vehicles 2"
 description: "A set of vehicles common in the UK, including trucks, buses, trams, vans and cars from the Victorian era to the present day. Features 2x zoom and 32bpp graphics for all vehicles. (HD version with 4x zoom also available)"
 url: "https://github.com/mattkimber/timberwolfs_road_vehicles"
-tags:
-- "bus"
-- "buses"
-- "road"
-- "timberwolf"
-- "truck"
-- "trucks"
-- "uk"
-- "vehicles"

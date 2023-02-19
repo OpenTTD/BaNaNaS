@@ -2,6 +2,11 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2015-02-24T20:46:27Z
 md5sum-partial: "c382104c"
+classification:
+  set: "town"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 2477929
 availability: "savegames-only"
 
@@ -13,10 +18,3 @@ description: |-
   Hope you like it.
 
   (c)Feb 2015 by Leou
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "full zoom"
-- "headquarters"
-- "hq"

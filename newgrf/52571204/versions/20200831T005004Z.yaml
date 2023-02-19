@@ -2,5 +2,10 @@ version: "NRT r205"
 license: "GPL v2"
 upload-date: 2020-08-31T00:50:04Z
 md5sum-partial: "b99f595e"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1095796
 availability: "savegames-only"

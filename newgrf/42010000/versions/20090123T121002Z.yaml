@@ -2,5 +2,10 @@ version: "0.4"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2009-01-23T12:10:02Z
 md5sum-partial: "6fe46bea"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 16172
 availability: "new-games"

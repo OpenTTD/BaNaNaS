@@ -2,6 +2,11 @@ version: "0.5.0"
 license: "GPL v2"
 upload-date: 2021-06-26T16:26:31Z
 md5sum-partial: "6c90d21c"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 103385
 availability: "savegames-only"
 compatibility:
@@ -14,7 +19,3 @@ description: |-
   Copyright: 2021 adpro
   Source: https://github.com/adpro/openttd-military-grf/
   Development thread: https://www.tt-forums.net/viewtopic.php?f=26&t=88858
-tags:
-- "aircraft"
-- "airport"
-- "military"

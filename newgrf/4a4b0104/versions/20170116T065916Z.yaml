@@ -2,6 +2,11 @@ version: "v2"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-01-16T06:59:16Z
 md5sum-partial: "8763de2c"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 25470
 availability: "savegames-only"
 

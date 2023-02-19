@@ -2,5 +2,10 @@ version: "Eggnog"
 license: "Custom"
 upload-date: 2012-12-30T09:18:48Z
 md5sum-partial: "7e29dd80"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 86106
 availability: "savegames-only"

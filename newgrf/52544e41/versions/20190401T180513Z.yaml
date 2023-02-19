@@ -2,6 +2,11 @@ version: "1.3.0"
 license: "Custom"
 upload-date: 2019-04-01T18:05:13Z
 md5sum-partial: "ba1c5579"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 52876
 availability: "savegames-only"
 compatibility:

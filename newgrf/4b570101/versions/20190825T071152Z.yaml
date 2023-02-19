@@ -2,6 +2,11 @@ version: "3.0 beta-2"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2019-08-25T07:11:52Z
 md5sum-partial: "04c0f516"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 83975
 availability: "new-games"
 compatibility:

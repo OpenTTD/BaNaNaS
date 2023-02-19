@@ -2,6 +2,11 @@ version: "4"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-04-16T02:44:19Z
 md5sum-partial: "af7f598d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8887
 availability: "new-games"
 
@@ -11,5 +16,3 @@ description: |-
 
   https://github.com/landofcash/xussr-ottd-fix
 url: "https://www.youtube.com/channel/UClHDms-XsD-0StOm6kRqtpA/about"
-tags:
-- "xUSSR"

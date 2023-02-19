@@ -2,5 +2,10 @@ version: "121"
 license: "GPL v2"
 upload-date: 2022-01-25T20:41:35Z
 md5sum-partial: "d8f31571"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 102750
 availability: "savegames-only"

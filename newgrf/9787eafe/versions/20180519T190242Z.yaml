@@ -2,6 +2,11 @@ version: "1.4.1"
 license: "GPL v2"
 upload-date: 2018-05-19T19:02:42Z
 md5sum-partial: "04acd20a"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 429828
 availability: "new-games"
 compatibility:

@@ -2,5 +2,10 @@ version: "3"
 license: "Custom"
 upload-date: 2020-06-10T19:59:06Z
 md5sum-partial: "a484fd5b"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 5028
 availability: "new-games"

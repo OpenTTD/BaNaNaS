@@ -2,21 +2,10 @@ version: "0.2"
 license: "GPL v2"
 upload-date: 2014-07-27T08:00:44Z
 md5sum-partial: "0ac3c9e1"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 690937
 availability: "savegames-only"
-
-tags:
-- "boat"
-- "boats"
-- "capacity"
-- "cargo"
-- "ferry"
-- "fish"
-- "ocean"
-- "reddit"
-- "redfish"
-- "rivers"
-- "sea"
-- "ship"
-- "ships"
-- "water"

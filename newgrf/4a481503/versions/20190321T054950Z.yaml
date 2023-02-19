@@ -2,6 +2,11 @@ version: "0.4"
 license: "Custom"
 upload-date: 2019-03-21T05:49:50Z
 md5sum-partial: "0d93deb8"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 74950
 availability: "savegames-only"
 
@@ -16,12 +21,3 @@ description: |-
   1 Caboose
 
   Coded and drawn by ruiluth. All rights reserved (at least for the moment).
-tags:
-- "american"
-- "early"
-- "overhaul"
-- "pacific"
-- "southern"
-- "steam"
-- "train"
-- "trains"

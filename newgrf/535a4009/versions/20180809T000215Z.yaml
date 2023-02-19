@@ -2,6 +2,11 @@ version: "18"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-08-09T00:02:15Z
 md5sum-partial: "9ed42092"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 114631
 availability: "savegames-only"
 
@@ -20,19 +25,3 @@ description: |-
 
   (c)2017-18 SilverSurferZzZ
   CC BY-NC-ND
-tags:
-- "base cost"
-- "basecost"
-- "buoys"
-- "cargo icons"
-- "challenge"
-- "city"
-- "cost"
-- "eyecandy"
-- "halloween"
-- "harder"
-- "landscape"
-- "names"
-- "objects"
-- "silversurferzzz"
-- "town"

@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2022-05-09T04:33:53Z
 md5sum-partial: "f6c61d4b"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7645
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "0.4.0"
 license: "GPL v2"
 upload-date: 2021-06-07T05:37:19Z
 md5sum-partial: "31850e3a"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 80674
 availability: "savegames-only"
 compatibility:

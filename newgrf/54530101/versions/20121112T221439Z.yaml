@@ -2,5 +2,10 @@ version: "1"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2012-11-12T22:14:39Z
 md5sum-partial: "7558d33e"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8590
 availability: "savegames-only"

@@ -2,5 +2,10 @@ version: "7604"
 license: "GPL v2"
 upload-date: 2020-10-26T01:09:37Z
 md5sum-partial: "a86e012f"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1629846
 availability: "savegames-only"

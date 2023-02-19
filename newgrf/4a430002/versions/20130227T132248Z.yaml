@@ -2,10 +2,10 @@ version: "0.8.2"
 license: "GPL v2"
 upload-date: 2013-02-27T13:22:48Z
 md5sum-partial: "2a214cb9"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 731607
 availability: "savegames-only"
-
-tags:
-- "industrial"
-- "isr"
-- "stations"

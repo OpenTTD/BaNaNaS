@@ -2,6 +2,11 @@ version: "r0014"
 license: "GPL v2"
 upload-date: 2016-09-28T20:24:15Z
 md5sum-partial: "9cce104b"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 41779
 availability: "savegames-only"
 
@@ -26,27 +31,3 @@ description: |-
 
   Coding : NekoMaster
   Graphics : DanMacK, NekoMaster, Pack Man, PikkaBird
-tags:
-- "addon"
-- "america"
-- "american"
-- "canada"
-- "canadian"
-- "grf"
-- "mexican"
-- "mexico"
-- "nars"
-- "nars 2.5"
-- "nars 2.51"
-- "north"
-- "rail"
-- "road"
-- "set"
-- "states"
-- "trains"
-- "united"
-- "united states of america"
-- "us"
-- "us of a"
-- "usa"
-- "way"

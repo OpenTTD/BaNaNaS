@@ -2,6 +2,11 @@ version: "beta 0.0.9"
 license: "GPL v2"
 upload-date: 2015-09-20T18:09:43Z
 md5sum-partial: "b5213b10"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 64772
 availability: "new-games"
 compatibility:

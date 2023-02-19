@@ -2,5 +2,10 @@ version: "1.1"
 license: "GPL v2"
 upload-date: 2018-01-07T09:48:48Z
 md5sum-partial: "c436327a"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 11191
 availability: "new-games"

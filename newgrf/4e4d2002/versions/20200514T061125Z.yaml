@@ -2,5 +2,7 @@ version: "42069"
 license: "GPL v2"
 upload-date: 2020-05-14T06:11:25Z
 md5sum-partial: "4c6ed5b6"
+classification:
+  set: "unknown"
 filesize: 7679
 availability: "new-games"
