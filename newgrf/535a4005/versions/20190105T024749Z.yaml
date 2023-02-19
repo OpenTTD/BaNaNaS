@@ -2,6 +2,11 @@ version: "92"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2019-01-05T02:47:49Z
 md5sum-partial: "c2da4505"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 712997
 availability: "savegames-only"
 
@@ -19,15 +24,3 @@ description: |-
 
   (c)2015-19 SilverSurferZzZ
   CC BY-NC-ND
-tags:
-- "buses"
-- "cars"
-- "japanese"
-- "road"
-- "rvs"
-- "silversurferzzz"
-- "snow"
-- "streetcars"
-- "trams"
-- "trucks"
-- "vehicles"

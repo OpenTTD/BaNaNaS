@@ -2,5 +2,10 @@ version: "1.6"
 license: "CC-BY v3.0"
 upload-date: 2022-12-20T23:42:11Z
 md5sum-partial: "78965aee"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 35620
 availability: "new-games"

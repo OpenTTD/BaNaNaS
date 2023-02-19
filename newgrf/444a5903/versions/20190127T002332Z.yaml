@@ -2,5 +2,10 @@ version: "1.1.FORK2"
 license: "GPL v2"
 upload-date: 2019-01-27T00:23:32Z
 md5sum-partial: "fb6db32a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 68585
 availability: "savegames-only"

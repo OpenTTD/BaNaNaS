@@ -2,6 +2,11 @@ version: "1.0.0"
 license: "GPL v3"
 upload-date: 2020-07-16T03:25:57Z
 md5sum-partial: "2b9cd4a2"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 19825
 availability: "savegames-only"
 compatibility:

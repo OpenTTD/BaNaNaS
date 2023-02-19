@@ -2,5 +2,10 @@ version: "1"
 license: "CC-0 v1.0"
 upload-date: 2023-02-01T01:25:21Z
 md5sum-partial: "94bde907"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 5789
 availability: "new-games"

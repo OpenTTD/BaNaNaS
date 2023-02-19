@@ -2,11 +2,14 @@ version: "1.1-alpha"
 license: "GPL v3"
 upload-date: 2012-03-04T23:32:55Z
 md5sum-partial: "8cf2e3f2"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 449493
 availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "535a0d00"
   md5sum-partial: "621be488"
-
-tags: []

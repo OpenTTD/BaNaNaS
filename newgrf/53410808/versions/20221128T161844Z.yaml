@@ -2,6 +2,11 @@ version: "0.1.7"
 license: "GPL v2"
 upload-date: 2022-11-28T16:18:44Z
 md5sum-partial: "4da1cd3d"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 161328207
 availability: "new-games"
 compatibility:
@@ -18,11 +23,3 @@ description: |-
 
   Features long trains from 1900 - today.
 url: "https://github.com/GarlicBread42/GETS"
-tags:
-- "32bpp"
-- "Bundesbahn"
-- "EZ"
-- "extrazoom"
-- "german"
-- "gets"
-- "trains"

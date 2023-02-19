@@ -2,6 +2,11 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2018-01-29T20:35:37Z
 md5sum-partial: "4eef6d8c"
+classification:
+  set: "water-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9498
 availability: "new-games"
 compatibility:

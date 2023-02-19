@@ -2,6 +2,11 @@ version: "2.0.0"
 license: "GPL v2"
 upload-date: 2012-02-03T17:33:01Z
 md5sum-partial: "20b5d812"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 139646
 availability: "new-games"
 compatibility:

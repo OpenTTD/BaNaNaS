@@ -2,5 +2,10 @@ version: "Beta 1.0"
 license: "Custom"
 upload-date: 2021-12-06T21:47:01Z
 md5sum-partial: "a94f2d3b"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 65370967
 availability: "new-games"

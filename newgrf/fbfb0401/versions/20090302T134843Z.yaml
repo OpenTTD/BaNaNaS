@@ -2,5 +2,10 @@ version: "0.2.2"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-03-02T13:48:43Z
 md5sum-partial: "e497afeb"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 372688
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "14"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2018-01-02T00:03:01Z
 md5sum-partial: "d3da104c"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 21300
 availability: "savegames-only"
 
@@ -16,11 +21,3 @@ description: |-
 
   (c)2017 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "city"
-- "eyecandy"
-- "kaijus"
-- "landscape"
-- "names"
-- "silversurferzzz"
-- "town"

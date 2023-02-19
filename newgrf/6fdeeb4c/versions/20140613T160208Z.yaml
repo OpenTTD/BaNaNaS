@@ -2,6 +2,11 @@ version: "1.8"
 license: "GPL v3"
 upload-date: 2014-06-13T16:02:08Z
 md5sum-partial: "602306c2"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 45642
 availability: "new-games"
 dependencies:

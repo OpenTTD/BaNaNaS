@@ -2,6 +2,11 @@ version: "2011.01.01"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2011-01-02T11:57:15Z
 md5sum-partial: "89a2a4bf"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 226075
 availability: "savegames-only"
 
@@ -17,10 +22,3 @@ description: |-
 
   Special thanks to all who contribute to NewGRF wiki http://wiki.ttdpatch.net/tiki-index.php?page=GRFActionsDetailed,
   and to Josef Drexler for his astonishing work with TTD
-tags:
-- "cargo"
-- "ecs"
-- "firs"
-- "refit"
-- "set"
-- "vehicle"

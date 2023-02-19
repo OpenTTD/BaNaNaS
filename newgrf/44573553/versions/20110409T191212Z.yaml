@@ -2,6 +2,11 @@ version: "V0.1"
 license: "GPL v2"
 upload-date: 2011-04-09T19:12:12Z
 md5sum-partial: "ef7529eb"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12360
 availability: "new-games"
 compatibility:

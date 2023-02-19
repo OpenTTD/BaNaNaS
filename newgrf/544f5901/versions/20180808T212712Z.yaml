@@ -2,6 +2,11 @@ version: "1.6"
 license: "GPL v2"
 upload-date: 2018-08-08T21:27:12Z
 md5sum-partial: "6d72aec1"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 18993
 availability: "new-games"
 compatibility:

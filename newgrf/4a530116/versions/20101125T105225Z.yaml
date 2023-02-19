@@ -2,6 +2,11 @@ version: "2010.11.24"
 license: "GPL v2"
 upload-date: 2010-11-25T10:52:25Z
 md5sum-partial: "c5f9320e"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 140441
 availability: "savegames-only"
 
@@ -17,10 +22,3 @@ description: |-
 
   Special thanks to all who contribute to NewGRF wiki http://wiki.ttdpatch.net/tiki-index.php?page=GRFActionsDetailed,
   and to Josef Drexler for his astonishing work with TTD
-tags:
-- "cagro"
-- "ecs"
-- "new"
-- "set"
-- "stand"
-- "vehicles"

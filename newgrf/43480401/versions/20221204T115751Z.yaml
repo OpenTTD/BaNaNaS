@@ -2,5 +2,10 @@ version: "1"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2022-12-04T11:57:51Z
 md5sum-partial: "20c3e75f"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8114
 availability: "new-games"

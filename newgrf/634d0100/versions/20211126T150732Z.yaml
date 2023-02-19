@@ -2,6 +2,11 @@ version: "1.1"
 license: "GPL v2"
 upload-date: 2021-11-26T15:07:32Z
 md5sum-partial: "8dc377a8"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8205
 availability: "savegames-only"
 
@@ -15,10 +20,3 @@ description: |-
   5. short bridges (concrete, grider) can be 5 tiles long (+ 2 bridge heads);
   6. silicon bridge for very fast trains (vaccum tube etc).
 url: "http://www.tt-forums.net/viewtopic.php?p=1150742"
-tags:
-- "bridge"
-- "cost"
-- "fast"
-- "replacement"
-- "tube"
-- "vacuum"

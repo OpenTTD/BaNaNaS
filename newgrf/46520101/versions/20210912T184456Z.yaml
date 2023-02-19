@@ -2,23 +2,14 @@ version: "4.1"
 license: "GPL v2"
 upload-date: 2021-09-12T18:44:56Z
 md5sum-partial: "a82eece8"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 6789285
 availability: "savegames-only"
 
 name: "Fridaemon's Objects"
 description: "This set brings supermarkets, modular hypermarkets, warehouses, beach objects, skyscrapers, underground entrances, different types of buildings, vehicles as objects, bus terminals, bus depots and more to the game."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87596"
-tags:
-- "beach"
-- "buildings"
-- "bus"
-- "eyecandy"
-- "garages"
-- "houses"
-- "shops"
-- "skyscraper"
-- "stations"
-- "supermarkets"
-- "terminals"
-- "trucks"
-- "warehouses"

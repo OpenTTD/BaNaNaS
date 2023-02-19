@@ -2,6 +2,11 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2009-12-24T15:34:19Z
 md5sum-partial: "9697117c"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 158859
 availability: "savegames-only"
 
@@ -15,8 +20,3 @@ description: |-
   FISH 0.1 starts in 1900.   Future versions may start earlier.
 
   FISH is compatible with most industry sets and cargos, including default industries, FIRS and PBI.
-tags:
-- "andythenorth"
-- "boats"
-- "fish"
-- "ships"

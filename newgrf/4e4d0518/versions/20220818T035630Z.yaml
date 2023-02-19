@@ -2,6 +2,11 @@ version: "2222"
 license: "Custom"
 upload-date: 2022-08-18T03:56:30Z
 md5sum-partial: "128bdc5c"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 369538
 availability: "savegames-only"
 compatibility:
@@ -27,28 +32,3 @@ description: |-
   Sylf - Taught me NML coding
   Transportman - 2cc Trains NML Code
 url: "https://www.tt-forums.net/viewtopic.php?p=1186834#p1186834"
-tags:
-- "2.5"
-- "2.51"
-- "2.52"
-- "2.5x"
-- "2cc"
-- "addon"
-- "america"
-- "canada"
-- "expansion"
-- "master"
-- "mexcio"
-- "murica"
-- "na"
-- "nars"
-- "neko"
-- "nekomaster"
-- "north"
-- "rail"
-- "set"
-- "states"
-- "train"
-- "trains"
-- "united"
-- "usa"

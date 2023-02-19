@@ -2,5 +2,10 @@ version: "beta-8"
 license: "GPL v2"
 upload-date: 2016-10-23T08:22:56Z
 md5sum-partial: "25324e4a"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 411041
 availability: "savegames-only"

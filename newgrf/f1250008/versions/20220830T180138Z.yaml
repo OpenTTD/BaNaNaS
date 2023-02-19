@@ -2,5 +2,10 @@ version: "4.7.0"
 license: "GPL v2"
 upload-date: 2022-08-30T18:01:38Z
 md5sum-partial: "eecf4abe"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 891102
 availability: "savegames-only"

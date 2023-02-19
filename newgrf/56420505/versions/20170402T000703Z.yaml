@@ -2,6 +2,11 @@ version: "0.0.1"
 license: "GPL v2"
 upload-date: 2017-04-02T00:07:03Z
 md5sum-partial: "47e34f29"
+classification:
+  set: "landscape"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 73348407
 availability: "savegames-only"
 
@@ -12,9 +17,3 @@ description: |-
 
   Brought to you by V453000
   www.openttdcoop.org
-tags:
-- "32bpp"
-- "extra"
-- "ez"
-- "v453000"
-- "zoom"

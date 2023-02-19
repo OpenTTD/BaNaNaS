@@ -2,6 +2,11 @@ version: "5"
 license: "GPL v2"
 upload-date: 2019-04-15T00:50:18Z
 md5sum-partial: "cdba2002"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 20382
 availability: "savegames-only"
 compatibility:

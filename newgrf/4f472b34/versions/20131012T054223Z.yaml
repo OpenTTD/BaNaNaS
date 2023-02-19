@@ -2,12 +2,10 @@ version: "1.0.1"
 license: "GPL v2"
 upload-date: 2013-10-12T05:42:23Z
 md5sum-partial: "c15196d1"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 2742890
 availability: "savegames-only"
-
-tags:
-- "landscape"
-- "object"
-- "opengfx"
-- "planetmaker"
-- "zephyris"

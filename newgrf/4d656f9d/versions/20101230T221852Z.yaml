@@ -2,6 +2,11 @@ version: "B6 (31 Dec 2010"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2010-12-30T22:18:52Z
 md5sum-partial: "35232ee6"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 288388
 availability: "savegames-only"
 

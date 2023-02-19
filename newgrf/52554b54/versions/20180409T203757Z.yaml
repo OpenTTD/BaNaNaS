@@ -2,6 +2,11 @@ version: "0.1.2"
 license: "Custom"
 upload-date: 2018-04-09T20:37:57Z
 md5sum-partial: "223f676b"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 3933355
 availability: "savegames-only"
 
@@ -9,15 +14,3 @@ description: |-
   A selection of 2cc UK trains, in a game play orientated set
 
   Drawn, coded and recorded by Starraid and Gwyd
-tags:
-- "2cc"
-- "8bpp"
-- "br"
-- "british"
-- "gwyd"
-- "pacer"
-- "pacy boi"
-- "rukts"
-- "starraid"
-- "trains"
-- "uk"

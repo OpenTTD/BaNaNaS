@@ -2,5 +2,10 @@ version: "NRT r206"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2020-09-15T10:50:44Z
 md5sum-partial: "dfd74cc3"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1096409
 availability: "savegames-only"

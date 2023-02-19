@@ -2,5 +2,10 @@ version: "0.4.2"
 license: "CC-0 v1.0"
 upload-date: 2020-08-19T14:06:47Z
 md5sum-partial: "e981ae31"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 132383
 availability: "savegames-only"

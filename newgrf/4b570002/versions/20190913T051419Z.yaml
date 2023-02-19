@@ -2,21 +2,14 @@ version: "0.6"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2019-09-13T05:14:19Z
 md5sum-partial: "78900e9d"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 134046
 availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "4b570001"
   md5sum-partial: "88445ebc"
-
-tags:
-- "kiwitree"
-- "kor"
-- "korea"
-- "s. korea"
-- "south korea"
-- "station"
-- "남한"
-- "대한민국"
-- "역"
-- "한국"

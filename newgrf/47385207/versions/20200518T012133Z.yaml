@@ -2,6 +2,11 @@ version: "0.1a"
 license: "GPL v2"
 upload-date: 2020-05-18T01:21:33Z
 md5sum-partial: "fbb52274"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10712
 availability: "savegames-only"
 dependencies: []

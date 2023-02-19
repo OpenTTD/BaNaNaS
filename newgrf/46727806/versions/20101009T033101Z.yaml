@@ -2,5 +2,10 @@ version: "0.2.1"
 license: "GPL v2"
 upload-date: 2010-10-09T03:31:01Z
 md5sum-partial: "685bd54f"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 91548
 availability: "savegames-only"

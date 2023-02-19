@@ -2,6 +2,11 @@ version: "10.1"
 license: "GPL v2"
 upload-date: 2015-04-05T22:11:26Z
 md5sum-partial: "7d758be0"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 267053
 availability: "savegames-only"
 
@@ -9,8 +14,3 @@ description: |-
   Polish Road Set - most popular vehicles produced, assembled or imported to Poland.
   Version 1* beta contains only trucks, tractors and minivans, urban and long distance buses will be added later.
   Trucks are compatible with all cargo sets (except toyland).
-tags:
-- "poland"
-- "road"
-- "truck"
-- "vehicle"

@@ -2,6 +2,11 @@ version: "B1.00.02"
 license: "Custom"
 upload-date: 2021-03-25T23:11:03Z
 md5sum-partial: "26973b00"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 172270
 availability: "savegames-only"
 compatibility:
@@ -14,12 +19,3 @@ description: |-
   Set of trolleybuses operated in Slovak republic.
   Famous Škoda 14Tr and 15Tr and some others. Vehicles can use CC or real live liveries from Slovak cities: Bratislava, Banská Bystrica, Žilina, Prešov and Košice.
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=88634&p=1242795#p1242795"
-tags:
-- "slovak"
-- "slovenské"
-- "slovenský"
-- "stgfx"
-- "trolejbus"
-- "trolejbusy"
-- "trolleybus"
-- "trolleybuses"

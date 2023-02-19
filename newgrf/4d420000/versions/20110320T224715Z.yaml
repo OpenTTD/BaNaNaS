@@ -2,6 +2,11 @@ version: "0.7"
 license: "GPL v2"
 upload-date: 2011-03-20T22:47:15Z
 md5sum-partial: "5e2b523d"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 44792
 availability: "savegames-only"
 dependencies:
@@ -15,8 +20,3 @@ description: |-
   FIRS compatible - you'll get some odd cargo effects if using it without
 
   Some load sprites still to be done
-tags:
-- "british"
-- "bus"
-- "lorry"
-- "truck"

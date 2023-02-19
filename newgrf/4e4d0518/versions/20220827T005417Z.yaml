@@ -2,6 +2,11 @@ version: "2208262034"
 license: "Custom"
 upload-date: 2022-08-27T00:54:17Z
 md5sum-partial: "b41ed859"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 369559
 availability: "new-games"
 compatibility:
@@ -31,35 +36,3 @@ description: |-
   Special thanks : Sylf - Taught me NML coding
   Transportman - 2cc Trains NML Code
 url: "https://www.tt-forums.net/viewtopic.php?t=76411"
-tags:
-- "add"
-- "add-on"
-- "america"
-- "american"
-- "amtrak"
-- "ca"
-- "can"
-- "canada"
-- "gauge"
-- "master"
-- "mex"
-- "mexico"
-- "mx"
-- "na"
-- "narrow"
-- "nars"
-- "nek0"
-- "nek0-"
-- "neko"
-- "neko-"
-- "nekomaster"
-- "north"
-- "on"
-- "rail"
-- "railway"
-- "road"
-- "slug"
-- "standard"
-- "us"
-- "usa"
-- "via"

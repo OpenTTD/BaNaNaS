@@ -2,6 +2,11 @@ version: "1.1.0"
 license: "GPL v2"
 upload-date: 2022-02-15T14:02:09Z
 md5sum-partial: "1aa02665"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10248
 availability: "savegames-only"
 
@@ -11,13 +16,3 @@ description: |-
 
   Graphics are based on the Millenium Z1 by the OpenGFX team, licensed under the GPL v2.
 url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/HybridTrains"
-tags:
-- "b82500"
-- "b83500"
-- "b84500"
-- "diesel"
-- "electric"
-- "hybrid"
-- "locomotive"
-- "train"
-- "trains"

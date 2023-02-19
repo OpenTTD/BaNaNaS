@@ -2,14 +2,10 @@ version: "1.0"
 license: "GPL v3"
 upload-date: 2013-11-23T20:28:29Z
 md5sum-partial: "58c74065"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 31518
 availability: "savegames-only"
-
-tags:
-- "3rd rail"
-- "4th rail"
-- "rail"
-- "rails"
-- "skyem123"
-- "track"
-- "tracks"

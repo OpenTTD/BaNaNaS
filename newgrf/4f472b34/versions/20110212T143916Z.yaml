@@ -2,12 +2,12 @@ version: "0.1.1"
 license: "GPL v2"
 upload-date: 2011-02-12T14:39:16Z
 md5sum-partial: "116f9ae5"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 608346
 availability: "savegames-only"
 
 description: "OpenGFX+ Landscape supplies gridless alternative landscape sprites and offers some NewObjects for eye candy"
-tags:
-- "landscape"
-- "object"
-- "planetmaker"
-- "zephyris"

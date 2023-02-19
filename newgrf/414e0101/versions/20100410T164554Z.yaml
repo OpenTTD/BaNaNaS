@@ -2,6 +2,11 @@ version: "0.3"
 license: "GPL v2"
 upload-date: 2010-04-10T16:45:54Z
 md5sum-partial: "b053e423"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 199350
 availability: "savegames-only"
 

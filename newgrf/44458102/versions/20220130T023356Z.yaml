@@ -2,6 +2,11 @@ version: "1.0.7"
 license: "GPL v2"
 upload-date: 2022-01-30T02:33:56Z
 md5sum-partial: "9473ab15"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 65854
 availability: "savegames-only"
 compatibility:

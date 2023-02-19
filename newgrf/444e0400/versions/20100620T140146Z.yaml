@@ -2,5 +2,10 @@ version: "0.2.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2010-06-20T14:01:46Z
 md5sum-partial: "735d3d74"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 51514
 availability: "new-games"

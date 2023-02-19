@@ -2,6 +2,11 @@ version: "0.2.0"
 license: "GPL v3"
 upload-date: 2021-10-20T15:26:03Z
 md5sum-partial: "c4a88d94"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 25848
 availability: "savegames-only"
 compatibility:
@@ -15,10 +20,3 @@ description: |-
 
   대한 제국기부터 해방 이전까지 운행했던 노면전차와, 2000년대 이후 한국에서 새로 제작된 노면전차를 추가해주는 NewGRF입니다.
 url: "https://github.com/Gamunbi/Korean-Tram-Set"
-tags:
-- "Korea"
-- "Korean"
-- "Tram"
-- "전차"
-- "트램"
-- "한국"

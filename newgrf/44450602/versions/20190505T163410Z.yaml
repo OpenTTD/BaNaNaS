@@ -2,6 +2,11 @@ version: "0.6.5"
 license: "GPL v2"
 upload-date: 2019-05-05T16:34:10Z
 md5sum-partial: "315ab806"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 389383
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "0.5.0"
 license: "GPL v2"
 upload-date: 2015-10-29T09:28:44Z
 md5sum-partial: "b778a774"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 8454084
 availability: "savegames-only"
 dependencies:
@@ -20,9 +25,3 @@ description: |-
   Enjoy it !
 
   (c)Oct 2015 by Leou
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "full zoom"
-- "trains"

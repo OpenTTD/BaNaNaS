@@ -2,6 +2,11 @@ version: "B1.00.03"
 license: "Custom"
 upload-date: 2021-10-17T19:56:39Z
 md5sum-partial: "cb5c224d"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 189094
 availability: "savegames-only"
 compatibility:

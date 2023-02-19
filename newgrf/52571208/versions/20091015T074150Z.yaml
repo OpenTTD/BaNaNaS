@@ -2,8 +2,10 @@ version: "0.3"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2009-10-15T07:41:50Z
 md5sum-partial: "03c80a1f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 200658
 availability: "savegames-only"
-
-tags:
-- "cars"

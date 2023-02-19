@@ -2,6 +2,11 @@ version: "0.4e"
 license: "GPL v2"
 upload-date: 2009-06-12T07:01:10Z
 md5sum-partial: "3e3e0edf"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 110257
 availability: "savegames-only"
 
@@ -11,9 +16,3 @@ description: |-
   It includes some vehicles that are just plain useful, some very large vehicles which radically change the gameplay possibilities of road vehicles, and some things that are mostly eye candy, but can haul cargo profitably.
 
   Changes in 0.4e: additional graphics for No. 6 Bulldozer.  Code cleanup for all bulldozers.
-tags:
-- "bulldozers"
-- "heqs"
-- "road vehicles"
-- "tractors"
-- "trucks"

@@ -2,6 +2,11 @@ version: "2.21"
 license: "Custom"
 upload-date: 2013-03-03T00:20:45Z
 md5sum-partial: "fceec76c"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1283320
 availability: "new-games"
 compatibility:

@@ -2,6 +2,11 @@ version: "squid-rc-1"
 license: "GPL v2"
 upload-date: 2014-08-16T19:27:53Z
 md5sum-partial: "605d1a1d"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 456595
 availability: "savegames-only"
 

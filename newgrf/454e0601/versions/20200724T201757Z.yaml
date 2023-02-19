@@ -2,5 +2,10 @@ version: "1.9"
 license: "Custom"
 upload-date: 2020-07-24T20:17:57Z
 md5sum-partial: "0b897d07"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 149278
 availability: "savegames-only"

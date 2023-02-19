@@ -2,6 +2,11 @@ version: "r0036"
 license: "GPL v2"
 upload-date: 2016-10-02T04:49:19Z
 md5sum-partial: "baed1bf3"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 66243
 availability: "savegames-only"
 
@@ -26,30 +31,3 @@ description: |-
 
   Coding : NekoMaster
   Graphics : DanMacK, NekoMaster, Pack Man, PikkaBird
-tags:
-- "addon"
-- "america"
-- "american"
-- "canada"
-- "canadian"
-- "grf"
-- "master"
-- "mexican"
-- "mexico"
-- "nars"
-- "nars 2.5"
-- "nars 2.51"
-- "neko"
-- "nekomaster"
-- "north"
-- "rail"
-- "road"
-- "set"
-- "states"
-- "trains"
-- "united"
-- "united states of america"
-- "us"
-- "us of a"
-- "usa"
-- "way"

@@ -2,6 +2,11 @@ version: "Modified2 3.14"
 license: "CC-BY v3.0"
 upload-date: 2017-07-25T23:47:48Z
 md5sum-partial: "c1772ed8"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1750574
 availability: "new-games"
 compatibility:

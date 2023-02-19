@@ -2,6 +2,11 @@ version: "0.3.4"
 license: "Custom"
 upload-date: 2012-10-12T12:07:36Z
 md5sum-partial: "b5ca83a4"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 944931
 availability: "savegames-only"
 
@@ -13,17 +18,3 @@ description: |-
 
   Brought to you by V453000
   www.openttdcoop.org
-tags:
-- "badass"
-- "gameplay"
-- "insanity"
-- "madness"
-- "nuts"
-- "openttdcoop"
-- "pro"
-- "public"
-- "slug"
-- "steamer"
-- "v453000"
-- "weirdness"
-- "zone"

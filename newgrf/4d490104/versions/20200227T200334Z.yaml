@@ -2,6 +2,11 @@ version: "2.1.2"
 license: "GPL v2"
 upload-date: 2020-02-27T20:03:34Z
 md5sum-partial: "81f0f392"
+classification:
+  set: "rail-infra"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 17325652
 availability: "new-games"
 compatibility:

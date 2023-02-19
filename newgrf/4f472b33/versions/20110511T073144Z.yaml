@@ -2,12 +2,10 @@ version: "0.3.0"
 license: "GPL v2"
 upload-date: 2011-05-11T07:31:44Z
 md5sum-partial: "e0b9802a"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 116439
 availability: "savegames-only"
-
-tags:
-- "industries"
-- "opengfx"
-- "opengfx+"
-- "planetmaker"
-- "terkhen"

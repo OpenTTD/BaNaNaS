@@ -2,6 +2,11 @@ version: "39"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-02-18T00:53:38Z
 md5sum-partial: "fc751703"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 189195
 availability: "savegames-only"
 
@@ -19,12 +24,3 @@ description: |-
 
   (c)2015-17 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "bus"
-- "car"
-- "road"
-- "silversurferzzz"
-- "snow"
-- "tram"
-- "truck"
-- "vehicles"

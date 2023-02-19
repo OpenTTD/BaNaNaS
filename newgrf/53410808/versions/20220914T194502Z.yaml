@@ -2,6 +2,11 @@ version: "0.1.6"
 license: "GPL v2"
 upload-date: 2022-09-14T19:45:02Z
 md5sum-partial: "b6b86442"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 146832351
 availability: "savegames-only"
 compatibility:
@@ -18,10 +23,3 @@ description: |-
 
   Features long trains from 1900 - today.
 url: "https://github.com/GarlicBread42/GETS"
-tags:
-- "32bpp"
-- "EZ"
-- "extrazoom"
-- "german"
-- "gets"
-- "trains"

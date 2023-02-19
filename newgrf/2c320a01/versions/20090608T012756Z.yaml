@@ -2,5 +2,10 @@ version: "0.4b"
 license: "GPL v3"
 upload-date: 2009-06-08T01:27:56Z
 md5sum-partial: "c915d065"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 19733
 availability: "savegames-only"

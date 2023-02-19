@@ -2,6 +2,11 @@ version: "v1.1"
 license: "Custom"
 upload-date: 2020-12-12T23:28:39Z
 md5sum-partial: "e1eb2d38"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 32346
 availability: "new-games"
 compatibility:
@@ -17,5 +22,3 @@ description: |-
 
   Created by António "Esbeleleu" Carvalho
 url: "https://github.com/Esbeleleu/CP-Trainset"
-tags:
-- "Train"

@@ -2,5 +2,10 @@ version: "0.18.0"
 license: "Custom"
 upload-date: 2020-12-16T08:49:04Z
 md5sum-partial: "0c4ae11c"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 84247
 availability: "savegames-only"

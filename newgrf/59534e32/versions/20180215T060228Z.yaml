@@ -2,16 +2,14 @@ version: "V11.0.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2018-02-15T06:02:28Z
 md5sum-partial: "20a210c8"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 92822
 availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "4d470501"
   md5sum-partial: "8318348c"
-
-tags:
-- "crh"
-- "high"
-- "speed"
-- "tgv"
-- "yst"

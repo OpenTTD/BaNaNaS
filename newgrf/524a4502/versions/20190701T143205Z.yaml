@@ -2,5 +2,10 @@ version: "v0.6.6.6"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2019-07-01T14:32:05Z
 md5sum-partial: "e2d4c8b3"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 56828
 availability: "savegames-only"

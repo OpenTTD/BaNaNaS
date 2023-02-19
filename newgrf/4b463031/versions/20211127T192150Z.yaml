@@ -2,6 +2,11 @@ version: "1.0.1"
 license: "GPL v3"
 upload-date: 2021-11-27T19:21:50Z
 md5sum-partial: "4b51f802"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 17531
 availability: "new-games"
 
@@ -16,13 +21,3 @@ description: |-
 
   Copyright (C) 2021 Pablo Villaverde Castro @clanKirfed
 url: "https://github.com/GalizaTTD/galician-town-names/"
-tags:
-- "concellos"
-- "galego"
-- "galicia"
-- "galician"
-- "localidades"
-- "names"
-- "nomes"
-- "town"
-- "vilas"

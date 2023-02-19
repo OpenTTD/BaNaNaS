@@ -2,16 +2,14 @@ version: "1.3.2"
 license: "GPL v3"
 upload-date: 2020-12-21T15:19:12Z
 md5sum-partial: "214d2497"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 21026
 availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
-
-tags:
-- "2TallTyler"
-- "builder"
-- "city"
-- "houses"
-- "zoning"

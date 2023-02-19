@@ -2,6 +2,11 @@ version: "0.1"
 license: "CC-0 v1.0"
 upload-date: 2020-04-04T11:39:36Z
 md5sum-partial: "1288656f"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 3152
 availability: "new-games"
 compatibility:

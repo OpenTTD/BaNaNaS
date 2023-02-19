@@ -2,6 +2,11 @@ version: "0.4d"
 license: "GPL v2"
 upload-date: 2009-06-11T21:16:10Z
 md5sum-partial: "bded3510"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 220338
 availability: "savegames-only"
 
@@ -9,9 +14,3 @@ description: |-
   The Heavy Equipment Set (HEQS) is a road vehicle set featuring trucks, tractors and heavy equipment for mining, logging, farming and other specialised uses.
 
   It includes some vehicles that are just plain useful, some very large vehicles which radically change the gameplay possibilities of road vehicles, and some things that are mostly eye candy, but can haul cargo profitably.
-tags:
-- "bulldozers"
-- "heqs"
-- "road vehicles"
-- "tractors"
-- "trucks"

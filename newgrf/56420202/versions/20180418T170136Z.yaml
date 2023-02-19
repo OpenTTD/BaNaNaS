@@ -2,6 +2,11 @@ version: "0.0.6"
 license: "GPL v2"
 upload-date: 2018-04-18T17:01:36Z
 md5sum-partial: "bdc286ba"
+classification:
+  set: "rail-infra"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 17854484
 availability: "savegames-only"
 compatibility:

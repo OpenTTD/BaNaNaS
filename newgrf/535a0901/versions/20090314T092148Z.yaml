@@ -2,5 +2,10 @@ version: "1"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-03-14T09:21:48Z
 md5sum-partial: "bece0fb9"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8242
 availability: "new-games"

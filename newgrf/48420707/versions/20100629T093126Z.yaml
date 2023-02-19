@@ -2,5 +2,10 @@ version: "v0.2"
 license: "GPL v2"
 upload-date: 2010-06-29T09:31:26Z
 md5sum-partial: "8a26252f"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7216
 availability: "savegames-only"

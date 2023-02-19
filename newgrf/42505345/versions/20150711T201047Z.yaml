@@ -2,6 +2,11 @@ version: "0"
 license: "CC-0 v1.0"
 upload-date: 2015-07-11T20:10:47Z
 md5sum-partial: "6d2560c8"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 3614
 availability: "savegames-only"
 dependencies:

@@ -2,5 +2,10 @@ version: "2.2"
 license: "Custom"
 upload-date: 2013-02-25T07:49:16Z
 md5sum-partial: "42bdf12a"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1282721
 availability: "savegames-only"

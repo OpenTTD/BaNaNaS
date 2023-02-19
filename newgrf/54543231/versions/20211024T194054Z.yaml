@@ -2,6 +2,11 @@ version: "1.0 beta1"
 license: "GPL v3"
 upload-date: 2021-10-24T19:40:54Z
 md5sum-partial: "adf3736e"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 18662
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "9"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2016-01-14T02:53:33Z
 md5sum-partial: "1fa302a7"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10782
 availability: "savegames-only"
 
@@ -12,12 +17,3 @@ description: |-
 
   (c)2015-16 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "city"
-- "constellations"
-- "moons"
-- "names"
-- "newgrf"
-- "planets"
-- "stars"
-- "town"

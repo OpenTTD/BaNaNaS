@@ -2,6 +2,11 @@ version: "2"
 license: "GPL v2"
 upload-date: 2009-03-20T19:01:47Z
 md5sum-partial: "20ab6d74"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8752
 availability: "new-games"
 compatibility:

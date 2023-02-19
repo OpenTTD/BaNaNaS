@@ -2,6 +2,11 @@ version: "3.0"
 license: "GPL v2"
 upload-date: 2021-04-24T09:58:50Z
 md5sum-partial: "52fb3d9d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 748370
 availability: "savegames-only"
 compatibility:
@@ -10,13 +15,3 @@ compatibility:
   - ">= 1.2.0"
 
 name: "Polish Train Set"
-tags:
-- "PKP"
-- "Poland"
-- "Polska"
-- "kolej"
-- "polish"
-- "polski"
-- "rail"
-- "railways"
-- "trains"

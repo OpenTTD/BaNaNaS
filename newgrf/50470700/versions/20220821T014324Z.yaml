@@ -2,6 +2,11 @@ version: "v1.2"
 license: "GPL v2"
 upload-date: 2022-08-21T01:43:24Z
 md5sum-partial: "405bfe78"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 50043
 availability: "new-games"
 
@@ -13,5 +18,3 @@ description: |-
 
   by DemianWSE and GarryG
 url: "https://github.com/DemianWSE/FakeBridgesWaypoints"
-tags:
-- "waypoints"

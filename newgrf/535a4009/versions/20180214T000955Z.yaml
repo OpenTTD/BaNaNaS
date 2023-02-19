@@ -2,6 +2,11 @@ version: "13"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2018-02-14T00:09:55Z
 md5sum-partial: "1437d8a0"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 48688
 availability: "savegames-only"
 
@@ -18,12 +23,3 @@ description: |-
 
   (c)2017-18 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "buoys"
-- "city"
-- "eyecandy"
-- "halloween"
-- "landscape"
-- "names"
-- "silversurferzzz"
-- "town"

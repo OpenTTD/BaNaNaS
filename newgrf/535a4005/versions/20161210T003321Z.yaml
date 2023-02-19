@@ -2,6 +2,11 @@ version: "34"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2016-12-10T00:33:21Z
 md5sum-partial: "1df3da65"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 119975
 availability: "savegames-only"
 
@@ -16,9 +21,3 @@ description: |-
 
   (c)2015-16 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "car"
-- "road"
-- "tram"
-- "truck"
-- "vehicles"

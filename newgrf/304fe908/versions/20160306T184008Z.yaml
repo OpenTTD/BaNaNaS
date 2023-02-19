@@ -2,6 +2,11 @@ version: "RB+"
 license: "GPL v3"
 upload-date: 2016-03-06T18:40:08Z
 md5sum-partial: "f7bcfc49"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 37167
 availability: "new-games"
 compatibility:

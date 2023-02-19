@@ -2,6 +2,11 @@ version: "1.0b"
 license: "Custom"
 upload-date: 2019-08-11T16:32:23Z
 md5sum-partial: "a76ab6aa"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 30797
 availability: "new-games"
 dependencies:

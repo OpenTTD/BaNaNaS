@@ -2,13 +2,12 @@ version: "0.2.0"
 license: "GPL v2"
 upload-date: 2011-04-25T20:29:36Z
 md5sum-partial: "69e6eaeb"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 103304
 availability: "savegames-only"
 
 description: "This set enhances the default industries by allowing all industries to close down, allow to select industry chains independent of climate and making industries ground tile aware."
-tags:
-- "industries"
-- "opengfx"
-- "opengfx+"
-- "planetmaker"
-- "terkhen"

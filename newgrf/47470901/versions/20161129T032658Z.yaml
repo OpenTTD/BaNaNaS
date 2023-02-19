@@ -2,6 +2,11 @@ version: "23"
 license: "GPL v2"
 upload-date: 2016-11-29T03:26:58Z
 md5sum-partial: "45e4e7c5"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 933497
 availability: "savegames-only"
 

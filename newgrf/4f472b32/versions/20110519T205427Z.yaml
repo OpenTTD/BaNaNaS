@@ -2,11 +2,12 @@ version: "0.2.0"
 license: "GPL v2"
 upload-date: 2011-05-19T20:54:27Z
 md5sum-partial: "ea1216c6"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 63570
 availability: "savegames-only"
 
 description: "OpenGFX+ Road Vehicles enhances default road vehicles to be able to handle new cargos, and extends them with new road vehicles and trams. It has been designed to match the OpenGFX style, and includes graphics by DanMacK and Zephyris."
-tags:
-- "opengfx"
-- "openttdcoop"
-- "road vehicle"

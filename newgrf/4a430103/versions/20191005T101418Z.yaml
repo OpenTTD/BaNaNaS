@@ -2,5 +2,10 @@ version: "0.1.1"
 license: "GPL v2"
 upload-date: 2019-10-05T10:14:18Z
 md5sum-partial: "0711bcf1"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8358
 availability: "savegames-only"

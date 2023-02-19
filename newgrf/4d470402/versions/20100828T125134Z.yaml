@@ -2,13 +2,10 @@ version: "r12"
 license: "GPL v2"
 upload-date: 2010-08-28T12:51:34Z
 md5sum-partial: "28e63de6"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 20769
 availability: "savegames-only"
-
-tags:
-- "city"
-- "europe"
-- "names"
-- "nml"
-- "swiss"
-- "town"

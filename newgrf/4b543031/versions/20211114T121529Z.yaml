@@ -2,6 +2,11 @@ version: "beta0.1.1"
 license: "GPL v3"
 upload-date: 2021-11-14T12:15:29Z
 md5sum-partial: "5edc9079"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 159211
 availability: "savegames-only"
 compatibility:
@@ -12,10 +17,3 @@ compatibility:
 name: "Korean Tracks"
 description: "This is Korean Tracks NewGRF."
 url: "https://github.com/Gamunbi/Korean-Tracks"
-tags:
-- "Korea"
-- "Korean"
-- "Rail"
-- "Track"
-- "선로"
-- "한국"

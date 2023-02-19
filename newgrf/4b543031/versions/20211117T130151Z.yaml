@@ -2,6 +2,11 @@ version: "1.0.0"
 license: "GPL v3"
 upload-date: 2021-11-17T13:01:51Z
 md5sum-partial: "4c416c21"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 222216
 availability: "savegames-only"
 compatibility:
@@ -12,10 +17,3 @@ compatibility:
 name: "Korean Tracks"
 description: "Korean Tracks NewGRF adds train and metro tracks of South Korea. Recommended to use with Korean Train Set NewGRF."
 url: "https://github.com/Gamunbi/Korean-Tracks"
-tags:
-- "Korea"
-- "Korean"
-- "Rail"
-- "Track"
-- "선로"
-- "한국"

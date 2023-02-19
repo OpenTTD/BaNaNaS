@@ -2,6 +2,11 @@ version: "0.0.1"
 license: "CC-BY v3.0"
 upload-date: 2015-12-16T00:18:36Z
 md5sum-partial: "ed425c8a"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9751
 availability: "new-games"
 compatibility:

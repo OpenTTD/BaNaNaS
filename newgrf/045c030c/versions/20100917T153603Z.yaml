@@ -2,6 +2,11 @@ version: "2.00"
 license: "GPL v3"
 upload-date: 2010-09-17T15:36:03Z
 md5sum-partial: "f42cf9eb"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 27461
 availability: "new-games"
 compatibility:

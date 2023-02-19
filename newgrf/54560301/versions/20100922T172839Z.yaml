@@ -2,6 +2,11 @@ version: "0.2"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2010-09-22T17:28:39Z
 md5sum-partial: "ed22416e"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 55978
 availability: "new-games"
 compatibility:

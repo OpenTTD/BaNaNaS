@@ -2,5 +2,10 @@ version: "2.0"
 license: "GPL v2"
 upload-date: 2021-01-17T02:20:53Z
 md5sum-partial: "68cc31c9"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 267844
 availability: "savegames-only"

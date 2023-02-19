@@ -2,6 +2,11 @@ version: "0.3"
 license: "GPL v2"
 upload-date: 2020-02-27T04:31:28Z
 md5sum-partial: "bf42add6"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 213365
 availability: "new-games"
 compatibility:

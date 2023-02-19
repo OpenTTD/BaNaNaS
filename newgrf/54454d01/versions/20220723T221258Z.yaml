@@ -2,6 +2,11 @@ version: "1.2"
 license: "Custom"
 upload-date: 2022-07-23T22:12:58Z
 md5sum-partial: "1eebe257"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 4761758
 availability: "savegames-only"
 
@@ -13,10 +18,3 @@ description: |-
   - VW Beetle name fixed.
   - Tractive Effort fixed in some vehicles.
 url: "https://www.tt-forums.net/viewtopic.php?t=87622"
-tags:
-- "32 bpp"
-- "32 bpp vehicles"
-- "cars"
-- "real cars"
-- "temporal8"
-- "vehicles"

@@ -2,11 +2,10 @@ version: "0.8.1"
 license: "GPL v2"
 upload-date: 2012-05-27T09:31:15Z
 md5sum-partial: "bb11b5cb"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 175107
 availability: "savegames-only"
-
-tags:
-- "andythenorth"
-- "firs"
-- "stations"
-- "yexo"

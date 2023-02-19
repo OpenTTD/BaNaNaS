@@ -2,6 +2,11 @@ version: "1.4"
 license: "Custom"
 upload-date: 2022-09-21T20:31:48Z
 md5sum-partial: "2ec6f48d"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 5829841
 availability: "new-games"
 
@@ -17,9 +22,3 @@ description: |-
 
   Enjoy!
 url: "https://www.tt-forums.net/viewtopic.php?t=87622"
-tags:
-- "32bpp cars"
-- "32bpp vehicles"
-- "real cars"
-- "temporal8"
-- "vehicles"

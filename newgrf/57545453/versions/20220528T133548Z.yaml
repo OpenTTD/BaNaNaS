@@ -2,20 +2,10 @@ version: "2022.05.28"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2022-05-28T13:35:48Z
 md5sum-partial: "a10db51f"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 29709
 availability: "savegames-only"
-
-tags:
-- "Acela"
-- "Afrosiyob"
-- "Al Boraq"
-- "Haramain"
-- "Morocco"
-- "NHSRCL"
-- "THSR"
-- "Taiwan"
-- "USA"
-- "Uzbekistan"
-- "india"
-- "saudi arabia"
-- "yst"

@@ -2,6 +2,11 @@ version: "B08.1.5"
 license: "GPL v3"
 upload-date: 2017-04-03T13:59:37Z
 md5sum-partial: "672f6bee"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 217730
 availability: "savegames-only"
 compatibility:

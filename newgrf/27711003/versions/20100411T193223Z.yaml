@@ -2,6 +2,11 @@ version: "nightly r506"
 license: "GPL v2"
 upload-date: 2010-04-11T19:32:23Z
 md5sum-partial: "66b9d140"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 218630
 availability: "savegames-only"
 dependencies:
@@ -16,6 +21,3 @@ description: |-
   * Intercity multiple units that attach MU-wagons. Fast and low capacity/loading speed.
   * Commuter multiple units that attach MU-wagons. Medium speed/capacity/loading speed
   * Metro trains. Slow speed, high capacity/loading speed.
-tags:
-- "2cc"
-- "trainset"

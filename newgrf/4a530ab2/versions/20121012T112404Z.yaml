@@ -2,5 +2,10 @@ version: "2012.10.12"
 license: "GPL v2"
 upload-date: 2012-10-12T11:24:04Z
 md5sum-partial: "077f1379"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 288075
 availability: "new-games"

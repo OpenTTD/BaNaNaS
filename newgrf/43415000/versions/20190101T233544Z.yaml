@@ -2,6 +2,11 @@ version: "0.5.0"
 license: "GPL v2"
 upload-date: 2019-01-01T23:35:44Z
 md5sum-partial: "fbae0c1a"
+classification:
+  set: "airport"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 555155
 availability: "new-games"
 compatibility:

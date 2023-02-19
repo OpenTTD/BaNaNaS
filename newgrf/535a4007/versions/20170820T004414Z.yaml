@@ -2,6 +2,11 @@ version: "20"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-08-20T00:44:14Z
 md5sum-partial: "78231c35"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 178117
 availability: "savegames-only"
 
@@ -16,8 +21,3 @@ description: |-
 
   (c)2017 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "airplane"
-- "ship"
-- "silversurferzzz"
-- "vehicles"

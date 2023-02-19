@@ -2,5 +2,10 @@ version: "4.3"
 license: "GPL v2"
 upload-date: 2021-02-21T22:34:56Z
 md5sum-partial: "face8fea"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 80460
 availability: "savegames-only"

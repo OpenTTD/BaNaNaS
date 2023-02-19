@@ -2,6 +2,11 @@ version: "0."
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2009-01-19T20:55:58Z
 md5sum-partial: "748467f7"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9899
 availability: "savegames-only"
 
@@ -9,9 +14,3 @@ description: |-
   Light signals similar to those found on german railway lines.
 
   Set parameter 1 to remove signs on exit signal posts.
-tags:
-- "german"
-- "infrastructure"
-- "signal"
-- "signals"
-- "track"

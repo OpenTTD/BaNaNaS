@@ -2,6 +2,11 @@ version: "3.2"
 license: "GPL v2"
 upload-date: 2018-09-23T00:58:07Z
 md5sum-partial: "9f732ee4"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 14436
 availability: "savegames-only"
 

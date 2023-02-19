@@ -2,6 +2,11 @@ version: "0.3"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2009-01-20T22:03:11Z
 md5sum-partial: "45292df1"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 15600
 availability: "savegames-only"
 

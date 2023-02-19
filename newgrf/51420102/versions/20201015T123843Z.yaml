@@ -2,6 +2,11 @@ version: "2"
 license: "GPL v2"
 upload-date: 2020-10-15T12:38:43Z
 md5sum-partial: "c7bdae69"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 53216
 availability: "new-games"
 
@@ -9,9 +14,3 @@ description: |-
   THIS VERSION IS OBSOLETE!!
 
   Use Modular Wider Bridges Set v003 (or newer) instead
-tags:
-- "Bridges"
-- "JGR"
-- "Modular"
-- "Patchpack"
-- "Wider"

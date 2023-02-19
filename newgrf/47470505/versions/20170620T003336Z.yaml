@@ -2,6 +2,11 @@ version: "29"
 license: "GPL v2"
 upload-date: 2017-06-20T00:33:36Z
 md5sum-partial: "2f29ba45"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 818991
 availability: "new-games"
 compatibility:

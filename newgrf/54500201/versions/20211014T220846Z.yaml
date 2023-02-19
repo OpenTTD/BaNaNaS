@@ -2,6 +2,11 @@ version: "0.14"
 license: "GPL v3"
 upload-date: 2021-10-14T22:08:46Z
 md5sum-partial: "1f0e34eb"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 324444
 availability: "new-games"
 compatibility:
@@ -14,9 +19,3 @@ description: |-
   North American Passenger Railroads (NAPR) set is a trainset created with the target to contain all North American - USA, Canada and Mexica - class I railroads passenger equipment: steam, diesel and electric locomotives, EMUs and DMUs, passenger/mail cars, turbine trainsets, etc.
   Drawn and coded by Tony Pixel (C) 2017-2021.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=77274"
-tags:
-- "Canada"
-- "NAPR"
-- "North America"
-- "rail"
-- "train"

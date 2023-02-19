@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2022-05-09T03:46:20Z
 md5sum-partial: "11be5aab"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 7642
 availability: "savegames-only"
 compatibility:
@@ -10,5 +15,3 @@ compatibility:
   - ">= 0.47.1"
 
 description: "Used to control existing cargo from industry sets."
-tags:
-- "The Old Tire"

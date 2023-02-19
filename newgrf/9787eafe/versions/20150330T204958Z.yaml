@@ -2,6 +2,11 @@ version: "alpha-12"
 license: "GPL v2"
 upload-date: 2015-03-30T20:49:58Z
 md5sum-partial: "44ec8d16"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 106689
 availability: "savegames-only"
 
@@ -15,6 +20,3 @@ description: |-
   alpha-12: more new sprites, updated translations
 
   Not savegame compatible with previous alpha versions.
-tags:
-- "road"
-- "vehicles"

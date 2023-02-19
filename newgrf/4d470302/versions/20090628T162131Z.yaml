@@ -2,5 +2,10 @@ version: "1.0beta"
 license: "GPL v3"
 upload-date: 2009-06-28T16:21:31Z
 md5sum-partial: "52bfbea5"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 13315
 availability: "savegames-only"

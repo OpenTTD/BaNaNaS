@@ -2,5 +2,10 @@ version: "1.7"
 license: "Custom"
 upload-date: 2010-04-21T16:07:39Z
 md5sum-partial: "efee1435"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 913462
 availability: "savegames-only"

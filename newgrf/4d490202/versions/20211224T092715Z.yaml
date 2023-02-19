@@ -2,15 +2,14 @@ version: "2.1.0"
 license: "GPL v2"
 upload-date: 2021-12-24T09:27:15Z
 md5sum-partial: "f598c458"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 115232927
 availability: "savegames-only"
 
 name: "CZTR Tram set"
 description: "Set of Czech trams. By CZTR team."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
-tags:
-- "32"
-- "CZTR"
-- "Set"
-- "Tram"
-- "bpp"

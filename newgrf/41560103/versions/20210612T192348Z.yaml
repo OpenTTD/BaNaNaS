@@ -2,6 +2,11 @@ version: "r228"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-06-12T19:23:48Z
 md5sum-partial: "82652c20"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1101312
 availability: "savegames-only"
 compatibility:

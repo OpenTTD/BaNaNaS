@@ -2,6 +2,11 @@ version: "v1.15.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2018-04-05T09:06:38Z
 md5sum-partial: "e2a70587"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 138310
 availability: "savegames-only"
 

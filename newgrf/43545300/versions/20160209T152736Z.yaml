@@ -2,6 +2,11 @@ version: "0.0.1"
 license: "GPL v2"
 upload-date: 2016-02-09T15:27:36Z
 md5sum-partial: "7116ea65"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
 filesize: 11017132
 availability: "savegames-only"
 
@@ -11,10 +16,3 @@ description: |-
   QQ group:  6660736
   Original graphics by Leou,
   coding by dirace
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "full zoom"
-- "nml"
-- "trains"

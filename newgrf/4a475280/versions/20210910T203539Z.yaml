@@ -2,6 +2,8 @@ version: "1"
 license: "GPL v2"
 upload-date: 2021-09-10T20:35:39Z
 md5sum-partial: "8999f6f6"
+classification:
+  set: "unknown"
 filesize: 8221
 availability: "savegames-only"
 compatibility:

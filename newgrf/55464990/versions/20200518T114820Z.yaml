@@ -2,6 +2,11 @@ version: "1c"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2020-05-18T11:48:20Z
 md5sum-partial: "1a7f4f2d"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1861121
 availability: "savegames-only"
 compatibility:
@@ -12,12 +17,3 @@ compatibility:
 name: "U&ReRMM 2"
 description: "New railway tracks (from slowest to fastest), metro line, narrow gauge line, mono and maglev with new graphics"
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84591"
-tags:
-- "3rd"
-- "maglev"
-- "metro"
-- "mono"
-- "narrow"
-- "rail"
-- "track"
-- "urermm"

@@ -2,6 +2,11 @@ version: "6"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2017-07-30T00:03:23Z
 md5sum-partial: "929d6a2d"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10529
 availability: "savegames-only"
 
@@ -12,9 +17,3 @@ description: |-
 
   (c)2017 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "city"
-- "lovers"
-- "names"
-- "silversurferzzz"
-- "town"

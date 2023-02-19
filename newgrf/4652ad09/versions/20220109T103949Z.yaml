@@ -2,5 +2,10 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2022-01-09T10:39:49Z
 md5sum-partial: "3335c320"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 510297
 availability: "new-games"

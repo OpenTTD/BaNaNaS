@@ -2,6 +2,11 @@ version: "Gobi"
 license: "Custom"
 upload-date: 2018-02-23T21:30:52Z
 md5sum-partial: "bcfa6e79"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 86140
 availability: "savegames-only"
 compatibility:

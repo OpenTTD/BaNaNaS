@@ -2,13 +2,12 @@ version: "0.4.0"
 license: "GPL v2"
 upload-date: 2012-06-15T16:10:56Z
 md5sum-partial: "3fd44fd2"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 103222
 availability: "savegames-only"
 
 description: "OpenGFX+ Road Vehicles{BLACK} enhances default road vehicles while keeping a design that matches the OpenGFX style. Coded by Terkhen and planetmaker. Graphics by DanMacK, Zephyris and molace."
-tags:
-- "bus"
-- "opengfx"
-- "openttdcoop"
-- "road vehicle"
-- "truck"

@@ -2,11 +2,10 @@ version: "1.4.2"
 license: "GPL v2"
 upload-date: 2015-01-30T12:15:35Z
 md5sum-partial: "f6b79f76"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 694302
 availability: "savegames-only"
-
-tags:
-- "cargo"
-- "cargos"
-- "industries"
-- "industry"

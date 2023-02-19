@@ -2,5 +2,10 @@ version: "1.11"
 license: "Custom"
 upload-date: 2014-08-29T07:46:40Z
 md5sum-partial: "5de426fd"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 169499376
 availability: "savegames-only"

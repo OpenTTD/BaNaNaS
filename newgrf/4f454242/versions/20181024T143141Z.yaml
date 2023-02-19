@@ -2,6 +2,11 @@ version: "alpha-r02"
 license: "GPL v2"
 upload-date: 2018-10-24T14:31:41Z
 md5sum-partial: "72f2490a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 39882
 availability: "savegames-only"
 
@@ -9,13 +14,3 @@ description: |-
   Set with ÖBB Trains from Austria.
   Contains High Speed Engines, EMUs and DMUs.
   Brought to you by PNDA, Yoshi, Gwyd and Tony Pixel.
-tags:
-- "alpine"
-- "austria"
-- "europe"
-- "gwyd"
-- "oebb"
-- "pnda"
-- "trainset"
-- "öbb"
-- "österreich"

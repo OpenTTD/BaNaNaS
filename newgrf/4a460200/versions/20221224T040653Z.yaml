@@ -2,6 +2,11 @@ version: "0.1.0"
 license: "GPL v3"
 upload-date: 2022-12-24T04:06:53Z
 md5sum-partial: "c38294b6"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 65199
 availability: "new-games"
 compatibility:
@@ -15,20 +20,3 @@ compatibility:
 name: "DROP JF Fork"
 description: "Roads with speed limits and Dutch graphics. A fork of DROP. Use with 1.10.0 or JGRPP 0.32-RC1 or higher!"
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
-tags:
-- "Javelin"
-- "JohnFranklin"
-- "autobahn"
-- "bicycle"
-- "bike"
-- "drop"
-- "dutch"
-- "europa"
-- "european"
-- "highway"
-- "motorway"
-- "netherlands"
-- "notroadtypes"
-- "nrt"
-- "road"
-- "velo"

@@ -2,5 +2,10 @@ version: "NRT r207"
 license: "GPL v2"
 upload-date: 2020-12-21T01:38:23Z
 md5sum-partial: "78f391de"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1095942
 availability: "new-games"

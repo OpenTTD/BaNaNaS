@@ -2,6 +2,11 @@ version: "5"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2016-02-15T22:20:05Z
 md5sum-partial: "6bd96857"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8670
 availability: "savegames-only"
 
@@ -12,9 +17,3 @@ description: |-
 
   (c)2015-16 SilverSurferZzZ
   CC BY-NC-SA
-tags:
-- "city"
-- "names"
-- "naruto"
-- "newgrf"
-- "town"

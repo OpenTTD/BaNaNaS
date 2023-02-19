@@ -2,6 +2,11 @@ version: "1.7"
 license: "GPL v3"
 upload-date: 2014-02-06T12:13:32Z
 md5sum-partial: "eee31861"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 42043
 availability: "savegames-only"
 dependencies:
@@ -18,10 +23,3 @@ description: |-
   --------:)--------
   Next update:
   -----------SOON----------
-tags:
-- ""
-- "bus"
-- "ikarus"
-- "metro"
-- "tgv"
-- "train"

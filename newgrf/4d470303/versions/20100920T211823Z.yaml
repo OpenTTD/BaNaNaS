@@ -2,5 +2,10 @@ version: "3.2"
 license: "GPL v3"
 upload-date: 2010-09-20T21:18:23Z
 md5sum-partial: "8f903fac"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 14838
 availability: "savegames-only"

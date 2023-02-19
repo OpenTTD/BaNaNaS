@@ -2,6 +2,11 @@ version: "1.0.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2020-06-30T17:18:10Z
 md5sum-partial: "db0cf56f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 27171
 availability: "new-games"
 compatibility:

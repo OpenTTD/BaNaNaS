@@ -2,5 +2,10 @@ version: "2014.11.29"
 license: "Custom"
 upload-date: 2014-11-30T12:05:10Z
 md5sum-partial: "7516f3c7"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 10108
 availability: "savegames-only"

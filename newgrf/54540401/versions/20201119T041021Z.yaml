@@ -2,21 +2,14 @@ version: "1.6.0"
 license: "GPL v3"
 upload-date: 2020-11-19T04:10:21Z
 md5sum-partial: "0737e203"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 23350
 availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
-
-tags:
-- "1700"
-- "2TallTyler"
-- "cargodist"
-- "commuter"
-- "commuters"
-- "improved town layouts"
-- "industries"
-- "industry"
-- "worker"
-- "workers"

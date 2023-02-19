@@ -2,6 +2,11 @@ version: "1.1"
 license: "Custom"
 upload-date: 2021-04-02T10:48:43Z
 md5sum-partial: "e4381cc7"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 7200846
 availability: "savegames-only"
 compatibility:
@@ -15,18 +20,3 @@ description: |-
 
   Drawn, coded and recorded by Starraid and Gwyd
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=82946"
-tags:
-- "2cc"
-- "8bpp"
-- "br"
-- "british"
-- "brtrains"
-- "gwyd"
-- "pacer"
-- "pacy boi"
-- "rukts"
-- "starraid"
-- "trains"
-- "uk"
-- "ukrs"
-- "united kingdom"

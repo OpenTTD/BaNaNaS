@@ -2,6 +2,11 @@ version: "0.4.2"
 license: "GPL v2"
 upload-date: 2022-04-18T14:12:29Z
 md5sum-partial: "45c480ee"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1417990
 availability: "new-games"
 compatibility:
@@ -12,11 +17,3 @@ compatibility:
 name: "JP+ Multiple Units (JGR/JNR/JR)"
 description: "JP+ Multiple Units includes JGR/JNR/JR operated DMUs, EMUs and railcars. This set can be used alongside other Japanese sets, please check the parameters. Narrow gauge tracks are required."
 url: "https://www.tt-forums.net/viewtopic.php?p=1238366#p1238366"
-tags:
-- "JP"
-- "JP+"
-- "JPplus"
-- "JR"
-- "Japan"
-- "Japanese"
-- "train"

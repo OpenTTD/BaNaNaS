@@ -2,5 +2,10 @@ version: "BETA 1.1"
 license: "CC-0 v1.0"
 upload-date: 2009-04-11T14:28:31Z
 md5sum-partial: "827631b2"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 23379
 availability: "new-games"

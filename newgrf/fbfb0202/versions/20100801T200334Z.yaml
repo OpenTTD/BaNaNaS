@@ -2,5 +2,10 @@ version: "0.9.0-beta"
 license: "GPL v2"
 upload-date: 2010-08-01T20:03:34Z
 md5sum-partial: "d8395aab"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 255411
 availability: "savegames-only"

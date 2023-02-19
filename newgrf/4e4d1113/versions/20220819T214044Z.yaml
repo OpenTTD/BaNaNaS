@@ -2,6 +2,11 @@ version: "1.0.6M"
 license: "GPL v2"
 upload-date: 2022-08-19T21:40:44Z
 md5sum-partial: "a03923b5"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 640969
 availability: "new-games"
 compatibility:
@@ -23,20 +28,3 @@ description: |-
 
   Based on FIRS 3.X code (by AndyTheNorth), modified by me (NekoMaster)
 url: "https://www.tt-forums.net/viewtopic.php?t=84039"
-tags:
-- "american"
-- "canada"
-- "firs"
-- "industrial"
-- "industries"
-- "industry"
-- "master"
-- "mexico"
-- "na"
-- "nais"
-- "nek0"
-- "neko"
-- "nekomaster"
-- "north"
-- "set"
-- "usa"

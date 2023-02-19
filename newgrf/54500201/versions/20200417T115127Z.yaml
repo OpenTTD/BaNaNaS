@@ -2,6 +2,11 @@ version: "0.13"
 license: "GPL v3"
 upload-date: 2020-04-17T11:51:27Z
 md5sum-partial: "1d313613"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 290880
 availability: "savegames-only"
 compatibility:

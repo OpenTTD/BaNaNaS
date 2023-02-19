@@ -2,5 +2,10 @@ version: "1.1"
 license: "GPL v2"
 upload-date: 2021-12-19T14:31:53Z
 md5sum-partial: "f44bba22"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 27498
 availability: "savegames-only"

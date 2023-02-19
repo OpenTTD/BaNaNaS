@@ -2,6 +2,11 @@ version: "31"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-04-20T00:03:38Z
 md5sum-partial: "60512890"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 52265
 availability: "savegames-only"
 
@@ -16,18 +21,3 @@ description: |-
 
   (c)2015-18 SilverSurferZzZ
   CC BY-NC-ND
-tags:
-- "buoys"
-- "cargo icons"
-- "city"
-- "constellations"
-- "eyecandy"
-- "icons"
-- "landscape"
-- "moons"
-- "names"
-- "objects"
-- "planets"
-- "silversurferzzz"
-- "stars"
-- "town"

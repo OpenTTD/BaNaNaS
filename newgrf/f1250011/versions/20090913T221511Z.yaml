@@ -2,5 +2,10 @@ version: "r217a"
 license: "GPL v2"
 upload-date: 2009-09-13T22:15:11Z
 md5sum-partial: "87d12af6"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 180848
 availability: "savegames-only"

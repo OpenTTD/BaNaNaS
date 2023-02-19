@@ -2,5 +2,10 @@ version: "Beta 2.01"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-03-16T22:52:37Z
 md5sum-partial: "4f02b0d8"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 247029
 availability: "savegames-only"

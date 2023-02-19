@@ -2,6 +2,11 @@ version: "2.0.0-Alpha-4"
 license: "GPL v2"
 upload-date: 2019-01-29T11:10:26Z
 md5sum-partial: "01e166c7"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1037043
 availability: "savegames-only"
 
@@ -13,4 +18,3 @@ description: |-
   Stick to 1950-2050.  Trains introduced before 1950 may have unfinished sprites.
 
   Designed to be used with 'vehicles expire' set to to 'on', Horse 2 has a *lot* of vehicles and crowds the buy menu unless expiry is used.
-tags: []

@@ -2,5 +2,10 @@ version: "42"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2019-01-03T02:06:08Z
 md5sum-partial: "c95fb83c"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 134192
 availability: "savegames-only"

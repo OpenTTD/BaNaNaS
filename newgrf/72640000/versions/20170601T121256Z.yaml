@@ -2,6 +2,11 @@ version: "1"
 license: "GPL v2"
 upload-date: 2017-06-01T12:12:56Z
 md5sum-partial: "ccdaecab"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 22948
 availability: "new-games"
 compatibility:

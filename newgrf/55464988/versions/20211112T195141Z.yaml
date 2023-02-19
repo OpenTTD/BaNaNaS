@@ -2,6 +2,11 @@ version: "1"
 license: "GPL v3"
 upload-date: 2021-11-12T19:51:41Z
 md5sum-partial: "4adc5c57"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 804929
 availability: "savegames-only"
 compatibility:

@@ -2,6 +2,11 @@ version: "3"
 license: "CC-BY-SA v3.0"
 upload-date: 2011-03-08T12:57:50Z
 md5sum-partial: "4439f1df"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 17169
 availability: "new-games"
 compatibility:

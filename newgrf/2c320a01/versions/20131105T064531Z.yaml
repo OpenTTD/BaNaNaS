@@ -2,6 +2,11 @@ version: "3.0"
 license: "GPL v3"
 upload-date: 2013-11-05T06:45:31Z
 md5sum-partial: "065916bd"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 21582
 availability: "new-games"
 compatibility:

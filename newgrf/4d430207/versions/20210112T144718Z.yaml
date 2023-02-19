@@ -2,6 +2,11 @@ version: "46"
 license: "GPL v2"
 upload-date: 2021-01-12T14:47:18Z
 md5sum-partial: "65cb39c7"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 520891
 availability: "savegames-only"
 compatibility:

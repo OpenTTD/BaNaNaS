@@ -2,6 +2,11 @@ version: "B1.00.06"
 license: "Custom"
 upload-date: 2022-03-24T20:58:29Z
 md5sum-partial: "d3787fd5"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 274185
 availability: "new-games"
 

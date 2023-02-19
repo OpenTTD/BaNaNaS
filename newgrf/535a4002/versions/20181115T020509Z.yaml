@@ -2,6 +2,11 @@ version: "36"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-11-15T02:05:09Z
 md5sum-partial: "297cb571"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 159684
 availability: "savegames-only"
 
@@ -14,14 +19,3 @@ description: |-
 
   (c)2015-18 SilverSurferZzZ
   CC BY-NC-ND
-tags:
-- "buses"
-- "cars"
-- "famous"
-- "icons"
-- "objects"
-- "road"
-- "silversurferzzz"
-- "toolbar"
-- "trucks"
-- "vehicles"

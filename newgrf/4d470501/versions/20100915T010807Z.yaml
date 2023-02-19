@@ -2,5 +2,7 @@ version: "8.0"
 license: "GPL v3"
 upload-date: 2010-09-15T01:08:07Z
 md5sum-partial: "8318348c"
+classification:
+  set: "unknown"
 filesize: 12509
 availability: "savegames-only"

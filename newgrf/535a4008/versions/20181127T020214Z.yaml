@@ -2,6 +2,11 @@ version: "31"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-11-27T02:02:14Z
 md5sum-partial: "6ab6b1ea"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 119234
 availability: "savegames-only"
 

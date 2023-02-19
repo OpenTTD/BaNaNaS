@@ -2,5 +2,10 @@ version: "7023"
 license: "GPL v2"
 upload-date: 2019-04-04T08:46:22Z
 md5sum-partial: "21cd3427"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1120800
 availability: "savegames-only"

@@ -2,5 +2,10 @@ version: "1.0.0"
 license: "Custom"
 upload-date: 2022-01-12T15:53:54Z
 md5sum-partial: "a14bc320"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 6057
 availability: "new-games"

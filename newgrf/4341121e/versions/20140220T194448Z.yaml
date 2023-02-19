@@ -2,8 +2,12 @@ version: "alpha-1"
 license: "GPL v2"
 upload-date: 2014-02-20T19:44:48Z
 md5sum-partial: "db88ea4c"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 188371
 availability: "savegames-only"
 
 description: "Iron Horse!"
-tags: []

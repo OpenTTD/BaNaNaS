@@ -2,5 +2,10 @@ version: "0.4.2"
 license: "GPL v2"
 upload-date: 2014-10-19T18:29:32Z
 md5sum-partial: "4da9fe9a"
+classification:
+  set: "airport"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 383999
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "0.8.0"
 license: "GPL v2"
 upload-date: 2021-12-31T18:46:04Z
 md5sum-partial: "72c48272"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 449061
 availability: "new-games"
 compatibility:
@@ -11,10 +16,3 @@ compatibility:
 
 name: "Mop's Expanded Road Vehicles"
 description: "Selection of passenger and freight road and tramway vehicles taking advantage of NRT features. Graphics by Supermop in an OpenGFX inspired style & scale."
-tags:
-- "mop"
-- "nrt"
-- "roadtypes"
-- "rv"
-- "trams"
-- "trolleybi"

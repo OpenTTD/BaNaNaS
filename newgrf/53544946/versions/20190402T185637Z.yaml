@@ -2,10 +2,10 @@ version: "0.2"
 license: "GPL v2"
 upload-date: 2019-04-02T18:56:37Z
 md5sum-partial: "6da1891d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 60379
 availability: "savegames-only"
-
-tags:
-- "france"
-- "french"
-- "gwyd"

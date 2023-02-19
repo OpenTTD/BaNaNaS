@@ -2,5 +2,10 @@ version: "0.1-alpha"
 license: "GPL v2"
 upload-date: 2020-10-03T21:59:29Z
 md5sum-partial: "5be3f891"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 2738808
 availability: "savegames-only"

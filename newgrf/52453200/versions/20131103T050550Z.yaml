@@ -2,6 +2,11 @@ version: "3.0"
 license: "GPL v3"
 upload-date: 2013-11-03T05:05:50Z
 md5sum-partial: "cbba13b5"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 408868
 availability: "savegames-only"
 

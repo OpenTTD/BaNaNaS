@@ -2,5 +2,10 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2019-08-19T13:36:04Z
 md5sum-partial: "e584aaf0"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 191362
 availability: "savegames-only"

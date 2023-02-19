@@ -2,6 +2,11 @@ version: "Alpha"
 license: "GPL v3"
 upload-date: 2009-09-30T16:14:01Z
 md5sum-partial: "52de8f25"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1500837
 availability: "savegames-only"
 

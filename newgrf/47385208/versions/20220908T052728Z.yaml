@@ -2,5 +2,10 @@ version: "0.2"
 license: "Custom"
 upload-date: 2022-09-08T05:27:28Z
 md5sum-partial: "ac30d8c7"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8324
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "7666"
 license: "GPL v2"
 upload-date: 2020-12-26T01:11:46Z
 md5sum-partial: "431742db"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 1688331
 availability: "savegames-only"
 compatibility:

@@ -2,11 +2,12 @@ version: "r234"
 license: "GPL v2"
 upload-date: 2014-10-12T09:08:02Z
 md5sum-partial: "4442dbe4"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 91607
 availability: "savegames-only"
 
 description: "Contains many new track types, each with a different speed limit and cost that can both be adjusted."
-tags:
-- "rails"
-- "railtypes"
-- "tracks"

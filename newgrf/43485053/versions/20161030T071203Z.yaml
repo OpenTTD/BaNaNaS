@@ -2,8 +2,10 @@ version: "1.7.0"
 license: "GPL v2"
 upload-date: 2016-10-30T07:12:03Z
 md5sum-partial: "3c4699aa"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 260903
 availability: "savegames-only"
-
-tags:
-- "stations"

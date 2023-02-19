@@ -2,6 +2,11 @@ version: "r232"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2021-12-07T14:51:05Z
 md5sum-partial: "6b33fa45"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1105640
 availability: "savegames-only"
 compatibility:

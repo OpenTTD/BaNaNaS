@@ -2,6 +2,11 @@ version: "04"
 license: "GPL v2"
 upload-date: 2022-04-12T09:10:49Z
 md5sum-partial: "baebfd2c"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 29446
 availability: "savegames-only"
 compatibility:

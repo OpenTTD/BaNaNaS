@@ -2,6 +2,11 @@ version: "25"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-04-22T00:48:21Z
 md5sum-partial: "f0c13abd"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 187590
 availability: "savegames-only"
 

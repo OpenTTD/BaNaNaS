@@ -2,6 +2,11 @@ version: "2.0.0 Beta4.1"
 license: "GPL v3"
 upload-date: 2010-09-06T18:08:14Z
 md5sum-partial: "1dd625ff"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 282609
 availability: "savegames-only"
 

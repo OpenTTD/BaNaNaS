@@ -2,5 +2,10 @@ version: "0.4a"
 license: "GPL v2"
 upload-date: 2020-09-27T21:01:37Z
 md5sum-partial: "7eb809a0"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 106981
 availability: "savegames-only"

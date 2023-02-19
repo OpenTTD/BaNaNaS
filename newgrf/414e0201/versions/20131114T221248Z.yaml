@@ -2,8 +2,12 @@ version: "squid-alpha-1"
 license: "GPL v2"
 upload-date: 2013-11-14T22:12:48Z
 md5sum-partial: "f128c7c5"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 609832
 availability: "savegames-only"
 
 description: "Squid Ate FISH!"
-tags: []

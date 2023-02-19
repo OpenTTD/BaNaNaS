@@ -2,6 +2,11 @@ version: "alpha-9"
 license: "GPL v2"
 upload-date: 2015-01-20T11:09:48Z
 md5sum-partial: "47dd1185"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 86620
 availability: "savegames-only"
 
@@ -15,6 +20,3 @@ description: |-
   alpha-9 fixes a serious loading speed bug in alpha-8 (some vehicles wouldn't load at all).
 
   Not savegame compatible with previous alpha versions.
-tags:
-- "road"
-- "vehicles"

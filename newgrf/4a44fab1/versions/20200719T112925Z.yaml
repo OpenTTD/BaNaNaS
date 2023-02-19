@@ -2,6 +2,11 @@ version: "0.3"
 license: "GPL v2"
 upload-date: 2020-07-19T11:29:25Z
 md5sum-partial: "3f98860e"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12532
 availability: "new-games"
 
@@ -14,13 +19,3 @@ description: |-
   - Allows you to represent much more realistic liveries
   - As a side-effect, some colours in the GUI may be  changed, but everything is still perfectly readable
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=56701"
-tags:
-- "2cc"
-- "colors"
-- "colours"
-- "company"
-- "eyecandy"
-- "gui"
-- "liveries"
-- "livery"
-- "new"

@@ -2,6 +2,11 @@ version: "1.0.372 Alpha"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2012-01-19T11:28:19Z
 md5sum-partial: "0162c1aa"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 704358
 availability: "savegames-only"
 

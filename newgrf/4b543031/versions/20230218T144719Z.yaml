@@ -2,6 +2,11 @@ version: "1.3.1"
 license: "GPL v3"
 upload-date: 2023-02-18T14:47:19Z
 md5sum-partial: "f2010295"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 327693
 availability: "new-games"
 compatibility:

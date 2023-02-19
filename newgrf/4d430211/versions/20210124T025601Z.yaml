@@ -2,14 +2,12 @@ version: "2.8"
 license: "GPL v2"
 upload-date: 2021-01-24T02:56:01Z
 md5sum-partial: "65e342c0"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 81041
 availability: "savegames-only"
 
 description: "Set of generic 600 mm narrow gauge trains, inspired by HEQS \"industrial trams\". Set include horses, small steam, diesel and electric locomotives produced and used mainly in Germany and used in many other countries, freight and passengers cars and dedicated cheap 600mm narrow gauge and universal dual gauge."
-tags:
-- "600mm"
-- "Europe"
-- "gauge"
-- "narrow"
-- "track"
-- "train"

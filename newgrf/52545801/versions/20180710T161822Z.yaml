@@ -2,6 +2,11 @@ version: "1"
 license: "GPL v3"
 upload-date: 2018-07-10T16:18:22Z
 md5sum-partial: "abfc9091"
+classification:
+  set: "economy"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 12995
 availability: "savegames-only"
 

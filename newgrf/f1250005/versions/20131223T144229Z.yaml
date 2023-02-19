@@ -2,6 +2,11 @@ version: "1.3.0"
 license: "GPL v2"
 upload-date: 2013-12-23T14:42:29Z
 md5sum-partial: "71231bae"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 631628
 availability: "savegames-only"
 
@@ -15,8 +20,3 @@ description: |-
   - primary industries never close, optional secondary industry closure
   - snow graphics
   - 5 'economies', for simple or complex gameplay (up to 32 cargos & 49 industries).
-tags:
-- "cargo"
-- "cargos"
-- "industries"
-- "industry"

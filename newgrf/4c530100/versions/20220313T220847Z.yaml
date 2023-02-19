@@ -2,11 +2,13 @@ version: "B1.00.05 REVAGO"
 license: "Custom"
 upload-date: 2022-03-13T22:08:47Z
 md5sum-partial: "91d58131"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 264698
 availability: "savegames-only"
 
 name: "STGFX Buses !BETA!"
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=88252"
-tags:
-- "buses"
-- "slovak"

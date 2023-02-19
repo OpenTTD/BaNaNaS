@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2020-04-13T00:15:08Z
 md5sum-partial: "df24b766"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8958
 availability: "new-games"
 compatibility:

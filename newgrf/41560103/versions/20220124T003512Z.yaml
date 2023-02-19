@@ -2,6 +2,11 @@ version: "r234"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2022-01-24T00:35:12Z
 md5sum-partial: "c9da5b6d"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 1105878
 availability: "savegames-only"
 compatibility:

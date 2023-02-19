@@ -2,6 +2,11 @@ version: "0.7.5"
 license: "CC-BY-SA v3.0"
 upload-date: 2014-11-18T13:55:27Z
 md5sum-partial: "71b3e635"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 18862721
 availability: "savegames-only"
 
@@ -13,32 +18,3 @@ description: |-
 
   Brought to you by V453000
   www.openttdcoop.org
-tags:
-- "asdf"
-- "badass"
-- "bricks"
-- "c4t"
-- "cat"
-- "creeper"
-- "gameplay"
-- "insanity"
-- "madness"
-- "maglev"
-- "meow"
-- "minecraft"
-- "monorail"
-- "nuts"
-- "omfg"
-- "openttdcoop"
-- "pro"
-- "public"
-- "purr"
-- "ships"
-- "slug"
-- "steamer"
-- "v453000"
-- "weirdness"
-- "wetrails"
-- "wtf"
-- "zomg"
-- "zone"

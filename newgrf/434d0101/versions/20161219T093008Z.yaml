@@ -2,8 +2,10 @@ version: "0.1"
 license: "CC-BY-SA v3.0"
 upload-date: 2016-12-19T09:30:08Z
 md5sum-partial: "f0a83d03"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8489
 availability: "savegames-only"
-
-tags:
-- "citymania"

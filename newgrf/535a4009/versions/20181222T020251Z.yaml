@@ -2,5 +2,10 @@ version: "20"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-12-22T02:02:51Z
 md5sum-partial: "0c88fe66"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 113250
 availability: "savegames-only"

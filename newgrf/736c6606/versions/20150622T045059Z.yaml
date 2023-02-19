@@ -2,6 +2,11 @@ version: "R0011"
 license: "GPL v2"
 upload-date: 2015-06-22T04:50:59Z
 md5sum-partial: "11001364"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9679
 availability: "new-games"
 compatibility:

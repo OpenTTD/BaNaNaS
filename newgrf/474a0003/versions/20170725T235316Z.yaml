@@ -2,6 +2,11 @@ version: "Modified1 Gamma"
 license: "Custom"
 upload-date: 2017-07-25T23:53:16Z
 md5sum-partial: "dd20f675"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 204554
 availability: "new-games"
 compatibility:

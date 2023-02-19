@@ -2,6 +2,11 @@ version: "0.1"
 license: "GPL v2"
 upload-date: 2020-02-25T19:35:37Z
 md5sum-partial: "cf99e621"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 13179
 availability: "new-games"
 compatibility:

@@ -2,6 +2,11 @@ version: "3"
 license: "GPL v2"
 upload-date: 2021-07-23T01:25:52Z
 md5sum-partial: "624ef239"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 9178
 availability: "savegames-only"
 compatibility:

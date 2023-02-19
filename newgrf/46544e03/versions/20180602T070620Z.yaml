@@ -2,6 +2,11 @@ version: "0.1.9b"
 license: "GPL v2"
 upload-date: 2018-06-02T07:06:20Z
 md5sum-partial: "cadaa025"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 13605
 availability: "savegames-only"
 

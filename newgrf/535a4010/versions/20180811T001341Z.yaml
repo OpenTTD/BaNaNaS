@@ -2,24 +2,10 @@ version: "34"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2018-08-11T00:13:41Z
 md5sum-partial: "891aa065"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 115542
 availability: "savegames-only"
-
-tags:
-- "base cost"
-- "basecost"
-- "buoys"
-- "cargo icons"
-- "challenge"
-- "city"
-- "cost"
-- "eyecandy"
-- "harder"
-- "icons"
-- "japanese"
-- "kaijus"
-- "landscape"
-- "names"
-- "objects"
-- "silversurferzzz"
-- "town"

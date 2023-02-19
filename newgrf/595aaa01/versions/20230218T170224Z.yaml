@@ -2,6 +2,11 @@ version: "8.1"
 license: "GPL v2"
 upload-date: 2023-02-18T17:02:24Z
 md5sum-partial: "a3e9972a"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 308658
 availability: "new-games"
 compatibility:

@@ -2,6 +2,11 @@ version: "B03"
 license: "GPL v3"
 upload-date: 2014-11-29T13:38:12Z
 md5sum-partial: "125a2dae"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 63494
 availability: "savegames-only"
 

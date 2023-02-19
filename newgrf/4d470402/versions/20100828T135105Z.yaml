@@ -2,6 +2,11 @@ version: "r13"
 license: "GPL v2"
 upload-date: 2010-08-28T13:51:05Z
 md5sum-partial: "50d558b2"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 20807
 availability: "new-games"
 compatibility:

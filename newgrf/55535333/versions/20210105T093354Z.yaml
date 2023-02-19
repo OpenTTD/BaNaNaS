@@ -2,6 +2,11 @@ version: "preview-3"
 license: "GPL v2"
 upload-date: 2021-01-05T09:33:54Z
 md5sum-partial: "1ddf1e91"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 123542
 availability: "savegames-only"
 
@@ -26,7 +31,3 @@ description: |-
 
   Preview replaces previous alpha releases.  Ship style and stats have been revised following a lot of testing.
 url: "https://grf.farm/unsinkable-sam/preview-2/index.html"
-tags:
-- "andythenorth"
-- "boats"
-- "ships"

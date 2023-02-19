@@ -2,6 +2,11 @@ version: "10"
 license: "GPL v2"
 upload-date: 2015-02-15T13:01:11Z
 md5sum-partial: "537761fe"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 49998
 availability: "savegames-only"
 
@@ -10,7 +15,3 @@ description: |-
   Purchased single trams have option to buy trailers via refit menu.
   Note: huge capacity is counted including standing places, therefore reduced comfort must be taken into account - use with caution, for massive urban transit only.
   Running costs of fast trams depend on speed.
-tags:
-- "poland"
-- "tram"
-- "urban"

@@ -2,5 +2,10 @@ version: "1.2"
 license: "GPL v3"
 upload-date: 2016-02-20T15:23:07Z
 md5sum-partial: "92b822d3"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 226273
 availability: "new-games"

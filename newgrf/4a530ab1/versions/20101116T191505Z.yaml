@@ -2,6 +2,11 @@ version: "2010.11.16"
 license: "GPL v3"
 upload-date: 2010-11-16T19:15:05Z
 md5sum-partial: "8e4a20b6"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 142263
 availability: "new-games"
 compatibility:

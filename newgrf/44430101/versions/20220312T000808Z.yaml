@@ -2,5 +2,10 @@ version: "0"
 license: "GPL v2"
 upload-date: 2022-03-12T00:08:08Z
 md5sum-partial: "71c068f7"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 11540
 availability: "new-games"

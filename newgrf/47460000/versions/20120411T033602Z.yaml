@@ -2,6 +2,11 @@ version: "2"
 license: "GPL v2"
 upload-date: 2012-04-11T03:36:02Z
 md5sum-partial: "a4f4dabc"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 4637710
 availability: "new-games"
 compatibility:

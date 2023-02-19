@@ -2,5 +2,10 @@ version: "1.0.3"
 license: "CC-0 v1.0"
 upload-date: 2016-07-10T15:39:28Z
 md5sum-partial: "816b81ed"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 8840
 availability: "savegames-only"

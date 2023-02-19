@@ -2,6 +2,11 @@ version: "49"
 license: "GPL v2"
 upload-date: 2020-04-09T00:15:29Z
 md5sum-partial: "b43db055"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
 filesize: 33692389
 availability: "savegames-only"
 compatibility:

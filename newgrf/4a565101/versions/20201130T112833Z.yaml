@@ -2,9 +2,12 @@ version: "0.4.1"
 license: "GPL v3"
 upload-date: 2020-11-30T11:28:33Z
 md5sum-partial: "10318476"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
 filesize: 105519
 availability: "savegames-only"
 
 url: "https://github.com/javelinnl/spacey"
-tags:
-- "newgrf/4a565101/10318476"

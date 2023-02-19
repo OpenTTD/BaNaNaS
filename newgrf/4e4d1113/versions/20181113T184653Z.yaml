@@ -2,5 +2,10 @@ version: "1.0.5"
 license: "GPL v2"
 upload-date: 2018-11-13T18:46:53Z
 md5sum-partial: "cd904adc"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 639526
 availability: "savegames-only"

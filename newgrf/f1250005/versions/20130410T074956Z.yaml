@@ -2,6 +2,11 @@ version: "1.0.1"
 license: "GPL v2"
 upload-date: 2013-04-10T07:49:56Z
 md5sum-partial: "95242b82"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 544959
 availability: "savegames-only"
 
@@ -15,8 +20,3 @@ description: |-
   - multiple 'economies', featuring up to 50 industry types and 32 cargos (or fewer for simpler gameplay)
 
   ** not compatible with FIRS versions before 0.8.x.
-tags:
-- "cargo"
-- "cargos"
-- "industries"
-- "industry"

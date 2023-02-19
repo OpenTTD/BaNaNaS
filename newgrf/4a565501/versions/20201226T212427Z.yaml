@@ -2,10 +2,12 @@ version: "0.2"
 license: "GPL v3"
 upload-date: 2020-12-26T21:24:27Z
 md5sum-partial: "033e4f9b"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 26318
 availability: "new-games"
 
 url: "https://github.com/javelinnl/velo"
-tags:
-- "bicycle"
-- "tram"

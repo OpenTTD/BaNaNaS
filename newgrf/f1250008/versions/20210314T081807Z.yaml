@@ -2,5 +2,10 @@ version: "4.0.0-beta-5"
 license: "GPL v2"
 upload-date: 2021-03-14T08:18:07Z
 md5sum-partial: "52d1c30f"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
 filesize: 803553
 availability: "savegames-only"
