@@ -1,14 +1,14 @@
-version: "8.1"
+version: "8.2"
 license: "GPL v2"
-upload-date: 2023-02-18T17:02:24Z
-md5sum-partial: "a3e9972a"
+upload-date: 2023-02-20T09:37:48Z
+md5sum-partial: "a393349b"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 308658
-availability: "savegames-only"
+filesize: 331810
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
@@ -18,3 +18,4 @@ compatibility:
   - ">= 0.50"
 
 name: "JP+ Metro - Osaka update"
+url: "https://github.com/Yozora3/JPplusMetro"
