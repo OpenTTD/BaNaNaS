@@ -1,0 +1,21 @@
+version: "0 9 1"
+license: "Custom"
+upload-date: 2023-02-24T23:25:55Z
+md5sum-partial: "77ae4359"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 22002
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.48.0"
+
+name: "JP+ Signal Extension"
+description: |-
+  JP+ signal extension to add multiple aspects to the existing japanese signal set.
+  requires JGRPP to be of any use
+url: "https://www.tt-forums.net/viewtopic.php?t=90581"
