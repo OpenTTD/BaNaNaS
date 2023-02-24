@@ -13,3 +13,6 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.6.0"
+  - "< 1.9.3"
+
+name: "BRTrains v0.5 [OBSOLETE]"
