@@ -1,0 +1,29 @@
+version: "1 0 0"
+license: "Custom"
+upload-date: 2023-02-25T19:48:52Z
+md5sum-partial: "7ed4636c"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 22853
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.48.0"
+
+name: "JP+ Signal Extension"
+description: |-
+  First full version now with enough original (albeit imperfect) graphics.
+
+  JP+ Signal Extension to add multiple aspects to the existing japanese signal set.
+  requires JGRPP to be of any use.
+
+  two variants of many signals based on the original japanese signal graphics. One for normal sections and one intended for more densely signalled sections.
+
+  two variants of dwarf signal, colour and non colour lights.
+
+  shinkansen block markers will appear on the opposite side of the track.
+url: "https://www.tt-forums.net/viewtopic.php?t=90581"
