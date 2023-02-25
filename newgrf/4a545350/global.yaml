@@ -4,7 +4,7 @@ description: |-
 
   일본 열차 세트+ 애드온은 일본의 신칸센과 여러 열차를 추가해줍니다. 이 GRF는 YST에서 분리되어 제작된 NewGRF입니다.
 
-  producer: GBLINER
+  producer: Coconut
 url: "https://github.com/GBLINER/JapaneseTrainSet_Plus"
 tags:
 - "japan"
