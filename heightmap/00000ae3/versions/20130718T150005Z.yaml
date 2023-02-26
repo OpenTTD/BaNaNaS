@@ -2,6 +2,10 @@ version: "1"
 license: "GPL v2"
 upload-date: 2013-07-18T15:00:05Z
 md5sum-partial: "7455d59c"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "hilly"
 filesize: 4639229
 availability: "savegames-only"
 

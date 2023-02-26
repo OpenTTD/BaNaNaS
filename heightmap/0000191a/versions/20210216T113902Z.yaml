@@ -2,5 +2,9 @@ version: "1.1"
 license: "GPL v3"
 upload-date: 2021-02-16T11:39:02Z
 md5sum-partial: "ef83f4ed"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "mountainous"
 filesize: 6003240
 availability: "new-games"

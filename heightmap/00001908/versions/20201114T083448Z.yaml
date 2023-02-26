@@ -2,6 +2,10 @@ version: "1"
 license: "GPL v2"
 upload-date: 2020-11-14T08:34:48Z
 md5sum-partial: "9b255e48"
+classification:
+  shape: "square"
+  resolution: "normal"
+  terrain-type: "flat"
 filesize: 28481
 availability: "new-games"
 

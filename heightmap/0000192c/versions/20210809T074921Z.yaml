@@ -2,5 +2,9 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2021-08-09T07:49:21Z
 md5sum-partial: "a6c127de"
+classification:
+  shape: "rectangle"
+  resolution: "high"
+  terrain-type: "hilly"
 filesize: 11479877
 availability: "new-games"

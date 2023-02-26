@@ -2,6 +2,10 @@ version: "1.003"
 license: "CC-0 v1.0"
 upload-date: 2013-07-31T21:18:06Z
 md5sum-partial: "b91961a8"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "mountainous"
 filesize: 85239
 availability: "new-games"
 compatibility:

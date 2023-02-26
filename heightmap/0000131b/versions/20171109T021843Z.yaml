@@ -2,5 +2,9 @@ version: "1"
 license: "Custom"
 upload-date: 2017-11-09T02:18:43Z
 md5sum-partial: "3b743016"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "hilly"
 filesize: 1379656
 availability: "new-games"

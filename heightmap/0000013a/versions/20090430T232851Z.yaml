@@ -2,6 +2,10 @@ version: "1"
 license: "GPL v2"
 upload-date: 2009-04-30T23:28:51Z
 md5sum-partial: "c54d4aaa"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "flat"
 filesize: 118650
 availability: "new-games"
 compatibility:

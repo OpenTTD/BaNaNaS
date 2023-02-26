@@ -2,11 +2,9 @@ version: "1.0000"
 license: "CC-0 v1.0"
 upload-date: 2013-07-31T00:15:12Z
 md5sum-partial: "f46d675c"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "mountainous"
 filesize: 85147
 availability: "savegames-only"
-
-tags:
-- "1024"
-- "canyon"
-- "fiction"
-- "hilly"
