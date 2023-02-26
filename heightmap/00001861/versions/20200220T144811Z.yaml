@@ -2,6 +2,10 @@ version: "v1.0"
 license: "GPL v3"
 upload-date: 2020-02-20T14:48:11Z
 md5sum-partial: "e565f8e8"
+classification:
+  shape: "rectangle"
+  resolution: "normal"
+  terrain-type: "hilly"
 filesize: 37898
 availability: "new-games"
 compatibility:

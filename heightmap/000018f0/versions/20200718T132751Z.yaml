@@ -2,5 +2,9 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2020-07-18T13:27:51Z
 md5sum-partial: "aca79554"
+classification:
+  shape: "rectangle"
+  resolution: "high"
+  terrain-type: "flat"
 filesize: 6442848
 availability: "new-games"

@@ -2,6 +2,10 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2019-11-09T14:31:42Z
 md5sum-partial: "73f6239f"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "hilly"
 filesize: 16522410
 availability: "new-games"
 compatibility:

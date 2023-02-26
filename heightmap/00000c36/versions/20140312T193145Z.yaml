@@ -2,6 +2,10 @@ version: "1"
 license: "GPL v3"
 upload-date: 2014-03-12T19:31:45Z
 md5sum-partial: "767055b5"
+classification:
+  shape: "rectangle"
+  resolution: "high"
+  terrain-type: "flat"
 filesize: 2821942
 availability: "new-games"
 compatibility:

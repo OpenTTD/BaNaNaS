@@ -2,5 +2,9 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2020-05-16T11:47:43Z
 md5sum-partial: "4c86e546"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "flat"
 filesize: 3901962
 availability: "new-games"

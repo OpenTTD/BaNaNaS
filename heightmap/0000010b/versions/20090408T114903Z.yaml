@@ -2,5 +2,9 @@ version: "1"
 license: "CC-BY v3.0"
 upload-date: 2009-04-08T11:49:03Z
 md5sum-partial: "4dd2564c"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "mountainous"
 filesize: 2238153
 availability: "new-games"

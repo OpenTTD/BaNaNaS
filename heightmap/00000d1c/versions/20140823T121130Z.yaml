@@ -2,6 +2,10 @@ version: "2"
 license: "CC-0 v1.0"
 upload-date: 2014-08-23T12:11:30Z
 md5sum-partial: "3265f95b"
+classification:
+  shape: "rectangle"
+  resolution: "high"
+  terrain-type: "hilly"
 filesize: 1035892
 availability: "new-games"
 compatibility:
