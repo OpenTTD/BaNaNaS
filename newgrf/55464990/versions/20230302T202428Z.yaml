@@ -1,0 +1,18 @@
+version: "1.6"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2023-03-02T20:24:28Z
+md5sum-partial: "c4c761c5"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 2094566
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51.0"
