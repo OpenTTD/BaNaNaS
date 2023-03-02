@@ -1,15 +1,18 @@
-version: "1"
+version: "4"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2021-11-12T19:49:45Z
-md5sum-partial: "6f94a6b4"
+upload-date: 2023-03-02T20:19:02Z
+md5sum-partial: "6b84f8ad"
 classification:
   set: "rail-infra"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 1245119
-availability: "savegames-only"
+filesize: 1325109
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51.0"
