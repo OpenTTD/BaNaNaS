@@ -1,4 +1,4 @@
-version: "2.12"
+version: "2.13"
 license: "Custom"
 upload-date: 2023-03-03T01:01:30Z
 md5sum-partial: "a4ccf2a5"
@@ -14,5 +14,6 @@ compatibility:
   conditions:
   - ">= 1.9.0"
 
+name: "BSPI - Stockpile Industries"
 description: "Original OpenTTD Temperate economy industries with stockpiling mode added. Please read the documentation or visit the forum topic for setting parameter."
 url: "https://www.tt-forums.net/viewtopic.php?t=84735"
