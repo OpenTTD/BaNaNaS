@@ -1,0 +1,11 @@
+version: "1.8.5"
+license: "GPL v3"
+upload-date: 2023-03-04T19:45:26Z
+md5sum-partial: "fd9ae2f8"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 170097
+availability: "new-games"
