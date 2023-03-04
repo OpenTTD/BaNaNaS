@@ -1,0 +1,11 @@
+version: "1.8"
+license: "GPL v3"
+upload-date: 2023-03-04T17:04:45Z
+md5sum-partial: "79b5d6aa"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 169190
+availability: "new-games"
