@@ -6,3 +6,11 @@ description: |-
   Audigex (original code and graphical updates)
   Bazek (graphical and code updates)
 url: "https://github.com/audigex/OpenTTE"
+regions:
+- "GB"
+- "GB-ENG"
+- "GB-LND"
+- "GB-NIR"
+- "GB-SCT"
+- "GB-WLS"
+- "IM"
