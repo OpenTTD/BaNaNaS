@@ -3,5 +3,5 @@ description: |-
   Romanian Road Vehicle Set (RVR)
   by Cudar
 url: "http://kgstudioscudar.synthasite.com/"
-tags:
-- "rvr"
+regions:
+- "RO"

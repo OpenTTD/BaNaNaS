@@ -13,23 +13,7 @@ description: |-
   Special thanks : Sylf - Taught me NML coding
   Transportman - 2cc Trains NML Code
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76411"
-tags:
-- "add-on"
-- "america"
-- "amtrak"
-- "canada"
-- "gauge"
-- "master"
-- "mexico"
-- "narrow"
-- "nars"
-- "nek0"
-- "nek0master"
-- "neko"
-- "nekomaster"
-- "north"
-- "northamerica"
-- "set"
-- "slug"
-- "standard"
-- "usa"
+regions:
+- "CA"
+- "MX"
+- "US"

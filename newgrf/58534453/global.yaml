@@ -1,6 +1,5 @@
 name: "Dutch Stations Set"
 description: "Dutch platforms and station buildings."
 url: "http://www.tt-wiki.net/wiki/Dutch_Stationset"
-tags:
-- "dutch"
-- "station"
+regions:
+- "NL"

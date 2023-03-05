@@ -9,10 +9,5 @@ description: |-
    - Greece 1k by Terec
 
   Terec - February 2023
-tags:
-- "1k"
-- "Cuba"
-- "Heightmap"
-- "Historical"
-- "Realistic"
-- "Terec"
+regions:
+- "CU"

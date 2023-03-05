@@ -4,8 +4,5 @@ description: |-
   Drawing: Andersl, Batti5
   Codeing: Cudar
 url: "http://romaniainopenttd.synthasite.com/"
-tags:
-- "newgrf"
-- "romtrain"
-- "set"
-- "train"
+regions:
+- "RO"

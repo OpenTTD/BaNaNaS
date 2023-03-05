@@ -6,23 +6,7 @@ description: |-
 
   This set needs dirt Road Types to fully work (see readme.txt).
 url: "https://www.tt-forums.net/viewtopic.php?p=1258086"
-tags:
-- "JF"
-- "JohnFranklin"
-- "RV"
-- "amphibious"
-- "bus"
-- "czech"
-- "east"
-- "german"
-- "multicar"
-- "nrt"
-- "off road"
-- "road type"
-- "road vehicle"
-- "russia"
-- "soviet"
-- "suv"
-- "trabant"
-- "tractor"
-- "truck"
+regions:
+- "CZ"
+- "DE"
+- "RU"

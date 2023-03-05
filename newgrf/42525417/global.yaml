@@ -3,8 +3,5 @@ description: |-
   Alpha Version of BRTracks
   Coding & Graphics by Leanden & Gwyd
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76908"
-tags:
-- "br"
-- "brtracks"
-- "tracks"
-- "uk"
+regions:
+- "GB"

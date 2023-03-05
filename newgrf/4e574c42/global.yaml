@@ -1,3 +1,5 @@
 name: "Icelandic Town names"
 description: "List of almost every Icelandic town"
 url: ""
+regions:
+- "IS"

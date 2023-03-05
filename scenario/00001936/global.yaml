@@ -1,11 +1,8 @@
 name: "Alpine region XIS"
 description: "Map of Alpine regions with XIS industries. Unfortunately some industries don't look properly due to initial grf mismanagement. Hope it's not fatal."
-tags:
-- "XIS"
-- "alpine"
-- "austria"
-- "france"
-- "germany"
-- "italy"
-- "mountains"
-- "switzerland"
+regions:
+- "AT"
+- "CH"
+- "DE"
+- "FR"
+- "IT"

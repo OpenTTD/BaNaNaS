@@ -1,5 +1,5 @@
 name: "Iceland"
 description: "Whole Iceland, 2048x2048, arctic climate, with towns and industries."
 url: ""
-tags:
-- "iceland"
+regions:
+- "IS"

@@ -1,9 +1,5 @@
 name: "Filip Tailor"
 description: "Based on a heightmap, as realistic as possible, includes everything (towns, rivers, industry, significant places, etc.) Newgrfs needed (follow the link below)"
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=43261"
-tags:
-- "america"
-- "realistic"
-- "reality"
-- "temperate"
-- "usa"
+regions:
+- "US"

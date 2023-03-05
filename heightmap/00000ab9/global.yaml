@@ -6,8 +6,6 @@ description: |-
 
   Thanks to Moriarty, JonScaife, and the folks responsible for the European, Carribean, and Iceland heightmaps of which parts were used.
 url: ""
-tags:
-- "europe"
-- "heightmap"
-- "iceland"
-- "japan"
+regions:
+- "IS"
+- "JP"

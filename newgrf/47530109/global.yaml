@@ -1,3 +1,5 @@
 name: "Hungarian GYSEV-SET"
 description: ""
 url: ""
+regions:
+- "HU"

@@ -4,10 +4,5 @@ description: |-
 
   대한 제국기부터 해방 이전까지 운행했던 노면전차와, 2000년대 이후 한국에서 새로 제작된 노면전차를 추가해주는 NewGRF입니다.
 url: "https://github.com/Gamunbi/Korean-Tram-Set"
-tags:
-- "Korea"
-- "Korean"
-- "Tram"
-- "전차"
-- "트램"
-- "한국"
+regions:
+- "KR"

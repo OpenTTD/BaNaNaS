@@ -6,9 +6,6 @@ description: |-
   For more details visit:
   http://www.tt-ms.de/forum/showthread.php?tid=5011
 url: "http://www.tt-ms.de/forum/showthread.php?tid=5011"
-tags:
-- "berlin"
-- "brandenburg"
-- "db"
-- "o"
-- "real"
+regions:
+- "DE-BB"
+- "DE-BE"

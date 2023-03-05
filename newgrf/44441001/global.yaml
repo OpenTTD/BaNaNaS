@@ -1,9 +1,5 @@
 name: "UKRS2+ UK Railway Add-on Set"
 description: "The UK Railway Add-on Set.  Contains additional UK rail vehicles drawn by other people for use with UKRS2."
 url: "http://users.tt-forums.net/pikka/wiki/index.php?title=UK_Railway_Add-on_Set"
-tags:
-- "addon"
-- "british"
-- "pikka"
-- "trains"
-- "ukrs"
+regions:
+- "GB"

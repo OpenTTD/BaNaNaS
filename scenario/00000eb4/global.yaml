@@ -8,10 +8,5 @@ description: |-
   -Temperated climate despite of São Paulo’s tropical weather
   -Requires NewGRF “Improved Road Vehicles”
 url: ""
-tags:
-- "brasil"
-- "brazil"
-- "estado"
-- "mapa"
-- "sao paulo"
-- "sp"
+regions:
+- "BR-SP"

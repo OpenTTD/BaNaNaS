@@ -3,8 +3,3 @@ description: |-
   A 2:1 rectangular map featuring procedurally generated hills and rocky outcrops along the sides of a river winding into the sea. Suitable for all sizes and all climates.
   For 4096x2048 games, a max height of 20 or above is recommended.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
-tags:
-- "coast"
-- "hills"
-- "mountains"
-- "river"

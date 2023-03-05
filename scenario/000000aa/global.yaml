@@ -12,9 +12,6 @@ description: |-
   No use of a heightmap, only "drawn by hand" using a common atlas.
   Have a look at the german tt-forums for downloading all 4 versions of the USA-Scenario.
 url: "http://www.tt-ms.de/forum/showthread.php?tid=3959"
-tags:
-- "arctic"
-- "canada"
-- "northamerica"
-- "realistic"
-- "usa"
+regions:
+- "CA"
+- "US"

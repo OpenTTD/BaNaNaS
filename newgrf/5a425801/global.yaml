@@ -7,9 +7,5 @@ description: |-
   制作: Zbx1425
   网站: www.zbx1425.cn
 url: "https://www.zbx1425.cn"
-tags:
-- "chinese"
-- "city"
-- "custom"
-- "name"
-- "town"
+regions:
+- "CN"

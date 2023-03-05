@@ -11,12 +11,5 @@ description: |-
 
   By Seedorsi.
 url: ""
-tags:
-- "1024"
-- "512"
-- "asia"
-- "india"
-- "mail"
-- "mumbai"
-- "passengers"
-- "subcontinent"
+regions:
+- "IN"

@@ -6,8 +6,3 @@ description: |-
 
   The Metro Track Set supports the default TTD graphics, OpenGFX, the Total Town Replacement Set (v3), the North American Roads Set (v1) and the UK Roadset (v1). Please refer to the readme on how to enable support for these sets if they are not detected automagically.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=28051"
-tags:
-- "2cc"
-- "metro"
-- "third rail"
-- "tracks"

@@ -8,9 +8,6 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/April 2016
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1167845#p1167845"
-tags:
-- "canada"
-- "new-york"
-- "ottava"
-- "subarctic"
-- "usa"
+regions:
+- "CA"
+- "US"

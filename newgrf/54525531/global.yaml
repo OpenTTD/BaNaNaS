@@ -1,6 +1,3 @@
 name: "Greater Bandung Districs Names"
-tags:
-- "bandung"
-- "indonesia"
-- "townnames"
-- "west java"
+regions:
+- "ID"

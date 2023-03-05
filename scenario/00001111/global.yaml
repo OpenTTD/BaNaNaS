@@ -8,11 +8,5 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/December 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1179986#p1179986"
-tags:
-- "orenburg"
-- "russia"
-- "samara"
-- "saratov"
-- "subarctic"
-- "the middle volga region"
-- "ulyanovsk"
+regions:
+- "RU"

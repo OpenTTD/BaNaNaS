@@ -1,7 +1,3 @@
 name: "Banking Crisis"
 description: "Welcome to the rubber forest. Destroying aqueducts will be your most expensive hobby in this game and your competitors will hate you for doing so. Ships will let you specify orders with endpoints up to a distance of 130 tiles from the previous order's endpoint. They won't mind if you delete orders later, though. And don't trust your bank. It may drown."
 url: ""
-tags:
-- "aquaeduct abuse"
-- "rubber forest"
-- "undergroud road network"

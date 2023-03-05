@@ -1,7 +1,5 @@
 name: "CSDSet v 1.5.0"
 description: "Czech Trains Set v 1.5.0"
 url: "http://ttd.tycoonez.com/?id=151"
-tags:
-- "cs"
-- "czech"
-- "trains"
+regions:
+- "CZ"

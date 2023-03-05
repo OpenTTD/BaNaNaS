@@ -1,12 +1,5 @@
 name: "TheBus Stops"
 description: "Take a ride to the beach with Honolulu city & county styled bus stops! Extra zoom available by parameter."
 url: "https://www.tt-forums.net/viewtopic.php?t=89602"
-tags:
-- "HNL"
-- "Hawaii"
-- "buses"
-- "extra zoom"
-- "mop"
-- "roadstops"
-- "rv"
-- "trams"
+regions:
+- "US-HI"

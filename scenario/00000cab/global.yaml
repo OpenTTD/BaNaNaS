@@ -12,9 +12,7 @@ description: |-
   Welcome to visit our chinese forum
   http://www.OpenTTD.imotor.com
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=70503&p=1119546#p1119546"
-tags:
-- "china"
-- "chinese"
-- "chn"
-- "japan"
-- "korea"
+regions:
+- "CN"
+- "JP"
+- "KR"

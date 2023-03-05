@@ -14,11 +14,7 @@ description: |-
   brickie
   Wasila
 url: ""
-tags:
-- "britain"
-- "england"
-- "london"
-- "scenario"
-- "temperate"
-- "uk"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-LND"
+- "GB-WLS"

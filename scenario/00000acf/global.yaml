@@ -4,3 +4,5 @@ description: |-
 
   This scenario only includes cities, but if you want industries, add some if you wish and post it on this thread (the url link).
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=64720"
+regions:
+- "ID"

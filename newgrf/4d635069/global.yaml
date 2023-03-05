@@ -5,9 +5,3 @@ description: |-
   Power plants are not available prior certain date (0 for disabling them).
   Additionally some tweaks are provided to avoid cluttering of fountains and monuments, hotel supports ECS.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=73081"
-tags:
-- "coal"
-- "houses"
-- "power plant"
-- "replacement"
-- "town"

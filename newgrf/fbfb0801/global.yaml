@@ -1,6 +1,5 @@
 name: "Dutch Rail Furniture"
 description: "Dutch replacements for level rail crossings. The terrain and road is in OpenGFX style. May be overridden by a NewGRF with railtypes."
 url: "http://www.tt-forums.net/viewtopic.php?t=58880"
-tags:
-- "dutch"
-- "level crossing"
+regions:
+- "NL"

@@ -4,6 +4,5 @@ description: |-
 
   Unicode font is required to display town names correctly
 url: "https://github.com/KhoiCanDev/openttd-vietnamese-town-names"
-tags:
-- "town names"
-- "vietnamese"
+regions:
+- "VN"

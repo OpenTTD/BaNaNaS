@@ -1,7 +1,5 @@
 name: "Bulgaria Scenario"
 description: "A nice Bulgaria scenario suitable for 2-3 players. Resources are a feast."
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=45559"
-tags:
-- "bulgaria"
-- "europe"
-- "scenario"
+regions:
+- "BG"

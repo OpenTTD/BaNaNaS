@@ -13,5 +13,6 @@ description: |-
 
   Work In Progress
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=74756&p=1167701#p1167701"
-tags:
-- "ottdsg"
+regions:
+- "MY"
+- "SG"

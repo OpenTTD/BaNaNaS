@@ -1,3 +1,5 @@
 name: "Hungarian Town Names"
 description: "Fixed several small bugs."
 url: ""
+regions:
+- "HU"

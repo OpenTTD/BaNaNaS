@@ -1,3 +1,5 @@
 name: "Fiji"
 description: "This is the same Fiji map as the first one, but in this version there are 11 more towns."
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=66767"
+regions:
+- "FJ"

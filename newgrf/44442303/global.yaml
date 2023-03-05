@@ -1,8 +1,5 @@
 name: "UK Railway Set tracks"
 description: "\"Finescale\" (ie slightly narrower) tracks for use with the UK Railway Set or the trainset of your choice.  Includes 3rd rail tracks and different costs for different track types, custom depot, crossing and other graphics."
 url: "http://www.pikkarail.com/"
-tags:
-- "3rd rail"
-- "newrailtypes"
-- "pikka"
-- "ukrs"
+regions:
+- "GB"

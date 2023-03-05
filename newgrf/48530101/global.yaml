@@ -1,6 +1,3 @@
 name: "Reduced Passenger Payment"
 description: "Reduces the payment for passengers to 1/2 of the default value (and optionally the payment for mails)"
 url: ""
-tags:
-- "passengers"
-- "payment"

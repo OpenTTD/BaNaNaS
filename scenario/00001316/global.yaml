@@ -3,3 +3,5 @@ description: |-
   Hungary map from 1900 years.
   Based on Europe v1.0.
 url: "https://github.com/akoscomp/openttd-scenario"
+regions:
+- "HU"

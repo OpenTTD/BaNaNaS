@@ -1,11 +1,5 @@
 name: "Alaskan Town Names"
 description: "A set of real town names from Alaska."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=34795&p=644032#p644032"
-tags:
-- "alaskan"
-- "american"
-- "arctic"
-- "paulc"
-- "town names"
-- "united states"
-- "usa"
+regions:
+- "US-AK"

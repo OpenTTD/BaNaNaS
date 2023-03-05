@@ -9,11 +9,5 @@ description: |-
   Created by pAter.
   Last update: 2020-06-21.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=74417"
-tags:
-- "europe"
-- "firs"
-- "poland"
-- "polish"
-- "polska"
-- "polski"
-- "polskie"
+regions:
+- "PL"

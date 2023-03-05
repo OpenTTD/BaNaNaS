@@ -1,3 +1,5 @@
 name: "New England Town Names"
 description: "Alright, listen up, here it is, no flim flam, no jim jam, just kaah paakin kaaki wearin' New England fun. Includes all 880 cities and towns from across New Hampshire, Maine, Vermont, Massachusetts, Connecticut, and Rhode Island (as collected off Wikipedia on 2/6/2020). Enjoy!"
 url: ""
+regions:
+- "US"

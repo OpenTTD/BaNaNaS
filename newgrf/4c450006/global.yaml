@@ -10,10 +10,5 @@ description: |-
   Welcome to visit our chinese forum & QQ group:6660736
   http://www.OpenTTD.imotor.com
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=70494&p=1159067#p1159067"
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "crh"
-- "full zoom"
-- "trains"
+regions:
+- "CN"

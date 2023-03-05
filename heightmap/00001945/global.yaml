@@ -5,7 +5,5 @@ description: |-
   For JGR users:
   When used on maximum resolution 1 tile = 36m
   For real time use 1500 ticks per minute
-tags:
-- "japan"
-- "kanto"
-- "tokyo"
+regions:
+- "JP-13"

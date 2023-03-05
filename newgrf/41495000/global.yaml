@@ -1,6 +1,5 @@
 name: "Swedish Town Names"
 description: "Two lists with Swedish town names - one generator for fake namesn and one list with 128 real names (+ the generator)."
 url: ""
-tags:
-- "names"
-- "town"
+regions:
+- "SE"

@@ -6,13 +6,5 @@ description: |-
   Try to earn money in the Sahara Desert but don't forget to drink water at times.
   Become Rich and maybe you will have a nice hotel near the oasis.
 url: "http://data.imagup.com/6/1115198500.jpeg"
-tags:
-- "africa"
-- "desert"
-- "hard"
-- "hot"
-- "map"
-- "north"
-- "petrol"
-- "sahara"
-- "water"
+regions:
+- "UN-002"

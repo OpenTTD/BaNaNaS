@@ -5,18 +5,5 @@ description: |-
   Extra bridges linking Malaysia removed.
   Only 2 bridges from Tuas and Woodlands linked.
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=49778"
-tags:
-- "ang mo kio"
-- "bedok"
-- "cbd"
-- "choa chu kang"
-- "eunos"
-- "hougang"
-- "pasir ris"
-- "punggol"
-- "sengkang"
-- "serangoon"
-- "simei"
-- "singapore"
-- "tampines"
-- "yishun"
+regions:
+- "SG"

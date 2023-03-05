@@ -1,3 +1,5 @@
 name: "DPRK Industry v1 fix"
 description: "Fixes an issue with the cargo weights in the North Korean Industry Set."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745&p=1237620#p1237620"
+regions:
+- "KP"

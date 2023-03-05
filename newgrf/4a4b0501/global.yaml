@@ -1,8 +1,5 @@
 name: "Total Bridge Renewal Set UKRS"
 description: ""
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=56243"
-tags:
-- "bridges"
-- "roads"
-- "tbrs"
-- "uk"
+regions:
+- "GB"

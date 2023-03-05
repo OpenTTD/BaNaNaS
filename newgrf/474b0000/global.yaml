@@ -1,7 +1,5 @@
 name: "Estonian Town Names"
 description: "This extension adds the possibility to use the names of real cities, towns and villages existing in Estonia."
 url: "https://github.com/gynter/openttd-estonian-town-names"
-tags:
-- "estonia"
-- "estonian"
-- "town names"
+regions:
+- "EE"

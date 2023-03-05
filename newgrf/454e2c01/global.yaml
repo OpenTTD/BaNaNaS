@@ -4,7 +4,5 @@ description: |-
 
   Designed with North Korean airports in mind.
 url: "https://www.tt-forums.net/viewtopic.php?p=1246618#p1246618"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

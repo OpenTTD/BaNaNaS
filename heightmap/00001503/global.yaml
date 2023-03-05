@@ -1,3 +1,5 @@
 name: "North Korea"
 description: ""
 url: ""
+regions:
+- "KR"

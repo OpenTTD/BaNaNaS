@@ -3,3 +3,5 @@ replaced-by:
   unique-id: "47470404"
 description: "NSWTrains is trains that operated within the State of New cSouth Wales Australia from 1855"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=74193&start=20"
+regions:
+- "AU-NSW"

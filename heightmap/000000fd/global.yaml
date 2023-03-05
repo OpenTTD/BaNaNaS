@@ -8,17 +8,10 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "africa"
-- "angola"
-- "basin"
-- "central africa"
-- "congo"
-- "congo river basin"
-- "democraphic republic of the con"
-- "equatorial guinea"
-- "gabon"
-- "heightmap"
-- "moriarty"
-- "zambia"
+regions:
+- "AO"
+- "CD"
+- "CG"
+- "GA"
+- "GQ"
+- "ZM"

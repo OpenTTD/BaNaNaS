@@ -8,17 +8,5 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/June 2016
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1169840#p1169840"
-tags:
-- "belarus"
-- "czech republic"
-- "eastern europe"
-- "hungary"
-- "latvia"
-- "lithuania"
-- "moldova"
-- "poland"
-- "romania"
-- "russia"
-- "slovakia"
-- "subarctic"
-- "ukraine"
+regions:
+- "UN-151"

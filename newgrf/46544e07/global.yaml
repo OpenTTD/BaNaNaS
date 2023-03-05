@@ -1,4 +1,5 @@
 name: "FicTown Names"
+archived: true
 replaced-by:
   unique-id: "46544e07"
 description: |-
@@ -9,9 +10,3 @@ description: |-
 
   Additionally, as a courtesy to the community, the source code can be found on the listed website so that it can be modified and said modifications published.
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=75348"
-tags:
-- "fiction"
-- "legacy"
-- "legacy version"
-- "town names"
-archived: true

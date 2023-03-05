@@ -8,11 +8,8 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/January 2017
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1181969#p1181969"
-tags:
-- "england"
-- "ireland"
-- "northern ireland"
-- "scotland"
-- "subarctic"
-- "uk"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-NIR"
+- "GB-SCT"
+- "GB-WLS"

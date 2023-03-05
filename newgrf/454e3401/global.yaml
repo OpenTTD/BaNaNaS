@@ -1,8 +1,5 @@
 name: "DPRK Stations v2 - Eyecandy"
 description: "This NewGRF contains a large variety of wayside objects and other bits and bobs for use with the North Korean (DPRK) station set v2."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745&p=1240935#p1240935"
-tags:
-- "dprk"
-- "korea"
-- "north"
-- "signs"
+regions:
+- "KP"

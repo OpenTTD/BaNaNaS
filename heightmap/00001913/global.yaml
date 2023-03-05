@@ -10,8 +10,6 @@ description: |-
 
   Contact Cpt.Klutz for inquiries.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
-tags:
-- "China"
-- "STRM"
-- "Taiwan"
-- "heightmap"
+regions:
+- "CN"
+- "TW"

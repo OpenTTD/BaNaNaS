@@ -6,19 +6,5 @@ description: |-
 
   2019
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85651"
-tags:
-- "arroio dos ratos"
-- "brasil"
-- "brazil"
-- "cachoeirinha"
-- "canoas"
-- "delta"
-- "eldorado do sul"
-- "gravatai"
-- "islands"
-- "porto alegre"
-- "real world"
-- "rio grande do sul"
-- "rs"
-- "scenario"
-- "viamão"
+regions:
+- "BR-RS"

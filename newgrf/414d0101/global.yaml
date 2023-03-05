@@ -1,7 +1,5 @@
 name: "Random Welsh Town Names"
 description: "Generates Welsh town names from a list of prefixes and suffixes."
 url: "https://github.com/Welshmilla/Random_Welsh_Town_Names"
-tags:
-- "town"
-- "wales"
-- "welsh"
+regions:
+- "GB-WLS"

@@ -1,3 +1,5 @@
 name: "Hungarian MAV-SET2 beta(old)"
 description: "MÁV (Hungarian State Railways) vehicles from 1868 to the present."
 url: ""
+regions:
+- "HU"

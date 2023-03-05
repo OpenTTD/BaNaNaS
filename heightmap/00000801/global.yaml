@@ -4,8 +4,5 @@ description: |-
 
   Uses enhanced (cube function) processing of SRTM4 data
 url: "http://diymediahome.org/openttd-cuba-scenario/"
-tags:
-- "cuba"
-- "heightmap"
-- "jonscaife"
-- "srtm"
+regions:
+- "CU"

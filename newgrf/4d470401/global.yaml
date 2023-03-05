@@ -8,9 +8,5 @@ description: |-
 
   2009-01-18 / Ammler
 url: "http://grfcrawler.tt-forums.net/details.php?do=details&id=216"
-tags:
-- "city"
-- "europe"
-- "names"
-- "swiss"
-- "town"
+regions:
+- "CH"

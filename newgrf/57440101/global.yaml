@@ -12,7 +12,5 @@ description: |-
   Special Thanks to:
   seAn | spnda, NekoMaster, Chris(Erato), Azusa, Purno, Emperor Jake, DenLillePrins/BL/Rob
 url: "https://www.tt-forums.net/viewtopic.php?p=1253184#p1253184"
-tags:
-- "india"
-- "indian railways"
-- "irset"
+regions:
+- "IN"

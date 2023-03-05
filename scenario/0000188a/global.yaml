@@ -1,3 +1,5 @@
 name: "St. Helena"
 description: "A scenario based on a heightmap of St. Helena, with random towns and industry."
 url: ""
+regions:
+- "SH"

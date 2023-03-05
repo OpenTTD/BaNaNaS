@@ -12,17 +12,7 @@ description: |-
   -- PNDA 2018 --
   GPL v2 Licence
 url: "https://www.tt-forums.net/viewtopic.php?t=83509"
-tags:
-- "bombardier"
-- "db"
-- "europe"
-- "germany"
-- "locomotive"
-- "pkp"
-- "poland"
-- "sbb"
-- "set"
-- "switzerland"
-- "train"
-- "trainset"
-- "traxx"
+regions:
+- "CH"
+- "DE"
+- "PL"

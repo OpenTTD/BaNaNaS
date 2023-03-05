@@ -11,10 +11,3 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.37.0"
-
-tags:
-- "america"
-- "dibujaron"
-- "firs"
-- "nars"
-- "realistic"

@@ -1,3 +1,5 @@
 name: "Japanese Signals"
 description: "Japanese Signals."
 url: "http://www.as-st.com/ttd/japan/index.html"
+regions:
+- "JP"

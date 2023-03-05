@@ -8,8 +8,6 @@ description: |-
 
   Greetz philb
 url: ""
-tags:
-- "sachsen"
-- "saxony"
-- "schweiz"
-- "switzerland"
+regions:
+- "CH"
+- "DE-SN"

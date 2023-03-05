@@ -10,14 +10,7 @@ description: |-
 
   by DarkHoodness
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=77124"
-tags:
-- "britain"
-- "british isles"
-- "flat"
-- "flatter"
-- "great britain"
-- "ireland"
-- "scotland"
-- "uk"
-- "united kingdom"
-- "wales"
+regions:
+- "GB-SCT"
+- "GB-WLS"
+- "IE"

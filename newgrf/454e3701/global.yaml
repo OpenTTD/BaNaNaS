@@ -1,11 +1,7 @@
 name: "Trackless Trackset"
 description: "A trackset for use with Industrial Stations Renewal, CHIPS, Auz Freight Stations, the North Korean trainset, or JapanSet tracks, to fill up holes left by, for instance, diagonal tracks, or for a smoother transition elsewhere. It adds tracks that will serve to fill in the ground that is left as grass."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=76868&p=1237666#p1237666"
-tags:
-- "Australian"
-- "CHIPS"
-- "DPRK"
-- "Eyecandy"
-- "Fake"
-- "ISR"
-- "Japan Set"
+regions:
+- "AU"
+- "JP"
+- "KP"

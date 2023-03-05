@@ -7,17 +7,6 @@ description: |-
   Enjoy!
 
   Note: Eureka is town in-game althrough its meteorological station in real world. But I was through: "Nah, with two towns, it will be boring."
-tags:
-- "1880"
-- "alert"
-- "america"
-- "canada"
-- "ellesmere"
-- "eureka"
-- "fiord"
-- "grise"
-- "inuit"
-- "island"
-- "masterstudiocz"
-- "north"
-- "nunavut"
+regions:
+- "CA-NU"
+- "US"

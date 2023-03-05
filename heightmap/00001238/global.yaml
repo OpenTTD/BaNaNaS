@@ -1,5 +1,5 @@
 name: "California"
 description: ""
 url: ""
-tags:
-- "usa"
+regions:
+- "US-CA"

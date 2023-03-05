@@ -9,12 +9,5 @@ description: |-
 
   Copyright (C) 2021  Pablo Villaverde Castro @clanKirfed
 url: "https://github.com/pvillaverde/openttd-galician-town-names"
-tags:
-- "concellos"
-- "galego"
-- "galicia"
-- "galician"
-- "names"
-- "nomes"
-- "town"
-- "vilas"
+regions:
+- "ES-GA"

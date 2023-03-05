@@ -1,9 +1,6 @@
 name: "City Objects"
 description: "City decoration objects..."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=71516"
-tags:
-- "building"
-- "decoration"
-- "new york"
-- "object"
-- "paris"
+regions:
+- "FR-75"
+- "US-NY"

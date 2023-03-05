@@ -1,10 +1,5 @@
 name: "Total Bridge Renewal Set ARRS"
 description: "The Total Bridge Renewal Set Version 1.2 modified to match the American Road Replacement Set"
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=64433"
-tags:
-- "american"
-- "bridge"
-- "road"
-- "tbrs"
-- "united states"
-- "usa"
+regions:
+- "US"

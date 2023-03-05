@@ -10,7 +10,5 @@ description: |-
 
   Buses moved to BBB
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=48651"
-tags:
-- "british"
-- "lorry"
-- "truck"
+regions:
+- "GB"

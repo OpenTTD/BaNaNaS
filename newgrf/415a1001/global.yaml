@@ -4,14 +4,5 @@ description: |-
 
   This is the successor/replacement to the American Road Replacement Set
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76183"
-tags:
-- "american"
-- "cobblestone"
-- "dirt"
-- "gravel"
-- "notroadtypes"
-- "nrt"
-- "road"
-- "sett"
-- "united states"
-- "usa"
+regions:
+- "US"

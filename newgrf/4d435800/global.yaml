@@ -4,8 +4,5 @@ description: |-
 
   Coding and graphics by David Dallaston, additional graphics by extended set contributors.
 url: "https://github.com/CMircea/UKRS2"
-tags:
-- "british"
-- "pikka"
-- "trains"
-- "ukrs"
+regions:
+- "GB"

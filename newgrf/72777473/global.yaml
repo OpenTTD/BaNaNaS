@@ -1,8 +1,5 @@
 name: "UK Town Set"
 description: "UK-like town buildings; includes normal and terraced houses, terraced shops, offices, churches and a few special historical buildings. Big cities also get tall offices and skyscrapers."
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=48565"
-tags:
-- "house"
-- "town"
-- "uk"
-- "zephyris"
+regions:
+- "GB"

@@ -4,8 +4,5 @@ description: |-
 
   Set of the Czech trams + tram rails in 32bpp with extrazoom. By CZTR team
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
-tags:
-- "32bpp"
-- "cz"
-- "extrazoom"
-- "realistic"
+regions:
+- "CZ"

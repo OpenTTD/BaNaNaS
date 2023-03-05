@@ -1,6 +1,5 @@
 name: "Australian town names"
 description: "Australian town, suburb and station names obtained from the openstreetmap project. More than 13.000 names!"
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=74478"
-tags:
-- "australia"
-- "town names"
+regions:
+- "AU"

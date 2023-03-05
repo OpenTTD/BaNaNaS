@@ -4,12 +4,5 @@ description: |-
 
   Copyright 2011 by Wm Minchin [v.3, 2011-03-08, CC-BY-SA 3.0]
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=53313"
-tags:
-- "ab"
-- "alberta"
-- "ca"
-- "canada"
-- "canadian"
-- "minchinweb"
-- "names"
-- "town"
+regions:
+- "CA-AB"

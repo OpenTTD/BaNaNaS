@@ -8,7 +8,5 @@ description: |-
 
   * 1024x512 Sub-Tropic scenario
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=37138"
-tags:
-- "island"
-- "real world"
-- "tropical"
+regions:
+- "CU"

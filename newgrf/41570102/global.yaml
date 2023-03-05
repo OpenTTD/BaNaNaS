@@ -1,8 +1,3 @@
 name: "Modern Waypoint"
 description: "Modern-style gantry waypoint modeled after OpenTTD's tubular bridge."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=76933"
-tags:
-- "checkpoint"
-- "gantry"
-- "station"
-- "waypoint"

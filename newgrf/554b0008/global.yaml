@@ -9,9 +9,5 @@ description: |-
 
   Code & Graphics Copyright 2018 UKX Team.
 url: ""
-tags:
-- "british"
-- "trains"
-- "uk"
-- "uk8"
-- "ukx"
+regions:
+- "GB"

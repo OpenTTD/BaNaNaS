@@ -1,8 +1,5 @@
 name: "Combined American Signal Set"
 description: "Semaphore, Searchlight, Colour Light and Position Light signals, for all three climates. Pre and PBS functionality.  By Pikkabird, original semaphore and position light graphics by DaleStan and zero1000."
 url: "http://www.as-st.com/ttd/newusa/index.html?disFr=download.html"
-tags:
-- "america"
-- "pikka"
-- "signal"
-- "us"
+regions:
+- "US"

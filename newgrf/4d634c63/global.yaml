@@ -1,8 +1,3 @@
 name: "Logging camp"
 description: "Logging camp replaces original forest, then cut trees like lumber mill but is available also for temperate and arctic climate. Unlike lumber mill, forest logging camps in case of temperate and arctic climate, appears randomly on the map and thus keep tree growth balanced (especially useful for large multiplayer maps). In case of tropical climate, logging camp replaces lumber mill."
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=71330"
-tags:
-- "forest"
-- "industry"
-- "replacement"
-- "tree"

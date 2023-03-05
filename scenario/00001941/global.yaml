@@ -5,9 +5,8 @@ description: |-
   Ideas for improvement? Send them in at hypnotics.team@gmail.com
 
   Created by the Hypnotics Team!
-tags:
-- "andorra"
-- "france"
-- "iberian"
-- "portugal"
-- "spain"
+regions:
+- "AD"
+- "ES"
+- "FR"
+- "PT"

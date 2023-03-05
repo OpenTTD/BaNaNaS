@@ -6,6 +6,5 @@ description: |-
 
   Please see the thread for more details.
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=73713"
-tags:
-- "australia"
-- "newgrf"
+regions:
+- "AU"

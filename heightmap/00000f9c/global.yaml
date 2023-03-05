@@ -8,8 +8,5 @@ description: |-
 
   Made with Stable 1.5.3, April 2016, by Timeflyer
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=74586&p=1166594#p1166594"
-tags:
-- "heightmap"
-- "japan"
-- "japanese"
-- "nippon"
+regions:
+- "JP"

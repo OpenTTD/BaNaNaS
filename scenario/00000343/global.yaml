@@ -8,6 +8,5 @@ description: |-
 
   Greetz philb
 url: ""
-tags:
-- "sachsen"
-- "saxony"
+regions:
+- "DE-SN"

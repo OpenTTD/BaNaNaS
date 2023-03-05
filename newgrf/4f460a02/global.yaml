@@ -1,6 +1,3 @@
 name: "Improved Road Vehicles"
 description: "Improved Road Vehicles (for DB Set XL)  This grf is changing introduce year, speed and capacities of all original road vehicles except toyland landscape, so the RVs are not useless with DB Set XL, mainly goods trucks.  WARNING: This grf is changing RVs parameters in Temperate Climate where can run DB Set XL, but also in Arctic and Tropic Climate where can not run DB Set XL. So activate this grf only when you want to play Temperate Climate with DB Set XL."
 url: "http://www.tt-forums.net/viewtopic.php?f=36&t=33866"
-tags:
-- "road"
-- "vehicles"

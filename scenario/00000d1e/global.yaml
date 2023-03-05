@@ -7,7 +7,5 @@ description: |-
 
   Later when more height levels are available for the terrain, I will update version in arctic mode with higher alpine mountains. (height now is loughable)
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=71166"
-tags:
-- "europe"
-- "slovakia"
-- "temperate"
+regions:
+- "SK"

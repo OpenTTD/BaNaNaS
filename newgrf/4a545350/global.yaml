@@ -6,9 +6,5 @@ description: |-
 
   producer: Coconut
 url: "https://github.com/GBLINER/JapaneseTrainSet_Plus"
-tags:
-- "japan"
-- "japanese"
-- "jr"
-- "shinkansen"
-- "yst"
+regions:
+- "JP"

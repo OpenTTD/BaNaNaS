@@ -1,7 +1,5 @@
 name: "DPRK Stations v2 - Platforms"
 description: "Platforms inspired by North Korea."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745&p=1240935#p1240935"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

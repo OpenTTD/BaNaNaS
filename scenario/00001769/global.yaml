@@ -4,9 +4,5 @@ description: |-
 
   Built on the excellent Stardust Coast heightmap from Cpt.K, this is a scenario designed to closely mimic the challenges of building a real early railroad. The industries are accurately located, the mountains are steep, and the planning is delightfully difficult. Finely tuned after many hours of playtesting, but more feedback is always welcome: contact dibujaron@gmail.com
 url: ""
-tags:
-- "america"
-- "dibujaron"
-- "firs"
-- "nars"
-- "realistic"
+regions:
+- "US"

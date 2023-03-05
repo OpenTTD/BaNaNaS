@@ -1,8 +1,5 @@
 name: "Langeoog"
 description: ""
 url: ""
-tags:
-- "deuts"
-- "german"
-- "germany"
-- "langeoog"
+regions:
+- "DE"

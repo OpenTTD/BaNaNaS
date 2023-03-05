@@ -5,9 +5,5 @@ description: |-
   Note: huge capacity is counted including standing places, therefore reduced comfort must be taken into account - use with caution, for massive urban transit only.
   Running costs of fast trams depend on speed.
 url: "http://openttd-polska.pl/Temat-Pojazdy-Ma%C5%82y-set-polskich-tramwaj%C3%B3w"
-tags:
-- "horse"
-- "poland"
-- "streetcar"
-- "tram"
-- "urban"
+regions:
+- "PL"

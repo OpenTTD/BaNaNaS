@@ -6,9 +6,5 @@ description: |-
 
   Created by Valdez - September 2019
 url: ""
-tags:
-- "czech"
-- "czechoslovak"
-- "metro"
-- "prague"
-- "train"
+regions:
+- "CZ"

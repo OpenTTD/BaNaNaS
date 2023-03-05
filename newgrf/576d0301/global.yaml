@@ -4,13 +4,3 @@ description: |-
 
   As a side effect of these changes, you can run Maglev wagons with VacTrain engines.
 url: "http://minchin.ca/openttd-progressive-rail/"
-tags:
-- "maglev"
-- "minchinweb"
-- "monorail"
-- "rail"
-- "railtype"
-- "track"
-- "train"
-- "vactrain"
-- "vacuum"

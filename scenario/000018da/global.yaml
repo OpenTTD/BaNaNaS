@@ -7,15 +7,9 @@ description: |-
 
   Visit website for full list of cities, Enjoy.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=73962"
-tags:
-- "africa"
-- "america"
-- "asia"
-- "australia"
-- "europe"
-- "islands"
-- "pacific"
-- "w.a.c."
-- "wac"
-- "world"
-- "xl"
+regions:
+- "AU"
+- "UN-002"
+- "UN-142"
+- "UN-150"
+- "US"

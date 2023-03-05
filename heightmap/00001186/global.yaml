@@ -8,12 +8,5 @@ description: |-
 
   (I made the islands a little bigger then real life and closer together to make them a little easier to build on and run ships between the islands on a 2048x2048 tile map)
 url: ""
-tags:
-- "altis"
-- "arma"
-- "greece"
-- "limnos"
-- "master"
-- "neko"
-- "nekomaster"
-- "stratis"
+regions:
+- "GR"

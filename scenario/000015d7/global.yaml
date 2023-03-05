@@ -8,18 +8,7 @@ description: |-
 
   Check out the URL/Forum thread for details and screen shots!
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=83819"
-tags:
-- "america"
-- "canada"
-- "canukistan"
-- "kanada"
-- "master"
-- "mexico"
-- "nars"
-- "nek0"
-- "neko"
-- "neko-master"
-- "nekomaster"
-- "north america"
-- "states"
-- "usa"
+regions:
+- "CA"
+- "MX"
+- "US"

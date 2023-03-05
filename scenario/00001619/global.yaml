@@ -4,13 +4,5 @@ description: |-
 
   Uses FIRS and a variety of complimentary vehicle sets.
 url: "https://www.tt-forums.net/viewtopic.php?t=73800"
-tags:
-- "1024"
-- "balsiefen"
-- "firs"
-- "heightmap"
-- "italy"
-- "rome"
-- "sardinia"
-- "sicily"
-- "ssr"
+regions:
+- "IT"

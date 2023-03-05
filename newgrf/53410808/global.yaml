@@ -4,10 +4,5 @@ description: |-
 
   Features long trains from 1900 - today.
 url: "https://github.com/GarlicBread42/GETS"
-tags:
-- "32bpp"
-- "EZ"
-- "extrazoom"
-- "german"
-- "gets"
-- "trains"
+regions:
+- "DE"

@@ -10,12 +10,5 @@ description: |-
   http://www.OpenTTD.imotor.com
   QQ Group:6660736
 url: "http://www.tt-forums.net/viewtopic.php?f=36&t=70494"
-tags:
-- "32bpp"
-- "bus"
-- "buses"
-- "canton"
-- "china"
-- "chinese"
-- "full zoom"
-- "guangzhou"
+regions:
+- "CN"

@@ -4,7 +4,5 @@ description: |-
 
   Made by JachyHm
 url: ""
-tags:
-- "czech"
-- "names"
-- "town"
+regions:
+- "CZ"

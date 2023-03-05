@@ -4,5 +4,5 @@ description: |-
 
   These are my favourite mountains and offer lots of different terrain. The NewGRFs used are similar to the existing Switzerland scenarios.
 url: ""
-tags:
-- "switzerland"
+regions:
+- "CH"

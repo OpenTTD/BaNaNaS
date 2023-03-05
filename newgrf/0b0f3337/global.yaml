@@ -8,9 +8,5 @@ description: |-
 
   -BETA version!
 url: "http://openttdfansite.info/infusions/pro_download_panel/download.php?did=892"
-tags:
-- "alstom"
-- "ev"
-- "ganz"
-- "metro"
-- "monorail"
+regions:
+- "HU"

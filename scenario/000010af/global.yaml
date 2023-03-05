@@ -8,10 +8,6 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/September 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1176563#p1176563"
-tags:
-- "caribian sea"
-- "dominican republic"
-- "greater antillies"
-- "haiti"
-- "island of haiti"
-- "subtropical"
+regions:
+- "DO"
+- "HT"

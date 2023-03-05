@@ -15,9 +15,5 @@ description: |-
 
   Myfineshrine
 url: "http://www.tt-ms.de/forum/showthread.php?tid=5720"
-tags:
-- "deutschland"
-- "germany"
-- "nrw"
-- "realistic"
-- "temperate"
+regions:
+- "DE-NW"

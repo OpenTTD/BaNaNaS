@@ -6,11 +6,5 @@ description: |-
 
   2010-08-28 / Ammler
 url: "http://dev.openttdcoop.org/projects/swisstowns"
-tags:
-- "city"
-- "europe"
-- "names"
-- "nml"
-- "swiss"
-- "town"
-- "town names"
+regions:
+- "CH"

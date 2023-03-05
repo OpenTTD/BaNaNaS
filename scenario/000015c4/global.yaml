@@ -1,7 +1,5 @@
 name: "Carpentarian Australia"
 description: "A Hypothesis of a Carpentarian Range in Australia's North along with the usual landscape. Based on the original Australia Scenario but edited by MilkTeaB0i. Credits to CSID for ideas."
 url: ""
-tags:
-- "australia"
-- "carpentaria"
-- "hypothesis"
+regions:
+- "AU"

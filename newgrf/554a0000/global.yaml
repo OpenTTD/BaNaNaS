@@ -7,16 +7,5 @@ description: |-
 
   Enjoy! :)
 url: "http://openttd-polska.pl/showthread.php?tid=838&pid=11195#pid11195"
-tags:
-- "budynki"
-- "build"
-- "building"
-- "buildings"
-- "house"
-- "polish"
-- "polska"
-- "polskie"
-- "projekt"
-- "replacement"
-- "road"
-- "set"
+regions:
+- "PL"

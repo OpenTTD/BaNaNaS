@@ -1,3 +1,5 @@
 name: "JapanSet Landscape"
 description: "The Japanese Landscape Set is part of the Japan Set and provides landscape graphics and matching roads."
 url: "http://www.as-st.com/ttd/japan/index.html"
+regions:
+- "JP"

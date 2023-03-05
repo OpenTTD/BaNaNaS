@@ -4,6 +4,5 @@ description: |-
 
   1.1: Fixed lengths of trams + added more refit option
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=66449&e=0"
-tags:
-- "czech"
-- "tram"
+regions:
+- "CZ"

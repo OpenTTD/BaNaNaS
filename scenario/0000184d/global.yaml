@@ -4,9 +4,5 @@ description: |-
 
   NOTE: Towns building roads is set to 'off' by default to prevent growth into the limited flat space. Turn this on for a more challenging gameplay.
 url: ""
-tags:
-- "new zealand"
-- "real world"
-- "scenario"
-- "temperate"
-- "wellington"
+regions:
+- "NZ-WGN"

@@ -4,10 +4,5 @@ description: |-
 
   This set is released into the Public Domain.
 url: "http://www.tt-forums.net/viewtopic.php?p=1110725#p1110725"
-tags:
-- "kamnet"
-- "kentucky"
-- "kevin fields"
-- "ky"
-- "names"
-- "town"
+regions:
+- "US-KY"

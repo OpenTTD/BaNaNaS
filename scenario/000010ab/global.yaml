@@ -1,7 +1,5 @@
 name: "Solomon Islands Map"
 description: "2048x1024 map of Solomon Islands."
 url: ""
-tags:
-- "island"
-- "solomon"
-- "solomon islands"
+regions:
+- "SB"

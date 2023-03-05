@@ -4,5 +4,5 @@ description: |-
 
   Data source: 50n000e_20101117_gmted_mea075.tif (GMTED2010 set) from from the U.S. Geological Survey's Earth Resources Observation and Science Center.
 url: "http://www.tt-forums.net/viewtopic.php?f=47&t=62966"
-tags:
-- "norway"
+regions:
+- "NO"

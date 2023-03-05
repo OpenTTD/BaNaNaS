@@ -4,6 +4,5 @@ description: |-
 
   size 2048x2048, height 15.
 url: ""
-tags:
-- "flat"
-- "netherlands"
+regions:
+- "NL"

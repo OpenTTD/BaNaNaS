@@ -8,6 +8,5 @@ description: |-
 
   - Recommended with the CargoDist patch as well as the NARS train set, av8, EGRVTS, and FISH ships.
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=46304"
-tags:
-- "realistic"
-- "us"
+regions:
+- "US"

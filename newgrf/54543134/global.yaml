@@ -6,8 +6,5 @@ description: |-
 
   Created by 2TallTyler.
 url: "https://github.com/2TallTyler/danish_trains"
-tags:
-- "2TallTyler"
-- "DSB"
-- "Danish"
-- "Denmark"
+regions:
+- "DK"

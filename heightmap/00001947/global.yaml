@@ -15,14 +15,6 @@ description: |-
   changes:
   v2: original image (more shades)
   v1: exported through openttd
-tags:
-- "ascension"
-- "cunha"
-- "edinburgh"
-- "georgetown"
-- "helena"
-- "islands"
-- "jamestown"
-- "ocean"
-- "tristan"
-- "volcano"
+regions:
+- "GB-EDH"
+- "SH-AC"

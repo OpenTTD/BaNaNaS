@@ -3,9 +3,6 @@ description: |-
   Czechoslovakia scenario. Not real.
   Ceskoslovensky scenar. Ne moc realny :-)
 url: ""
-tags:
-- "bratisl"
-- "cs"
-- "czech"
-- "prague"
-- "slovakia"
+regions:
+- "CZ"
+- "SK"

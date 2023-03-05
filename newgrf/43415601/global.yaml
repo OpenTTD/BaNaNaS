@@ -1,8 +1,5 @@
 name: "Padania Town Names"
 description: "Padanian names; generated starting from real town names; sometimes, the results sound hilarious."
 url: ""
-tags:
-- "italian"
-- "italy"
-- "padania"
-- "town names"
+regions:
+- "IT"

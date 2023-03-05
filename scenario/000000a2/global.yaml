@@ -6,9 +6,6 @@ description: |-
   I renewed this scenario to 0.7.0-beta2, added highways, freeformedges and some other things.
   v1->v1.1 Bugfixes
 url: "http://www.tt-ms.de/forum/showthread.php?tid=3883"
-tags:
-- "england"
-- "renewal"
-- "wales"
-- "west"
-- "west-england"
+regions:
+- "GB-ENG"
+- "GB-WLS"

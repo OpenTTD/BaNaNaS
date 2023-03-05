@@ -4,17 +4,5 @@ description: |-
   This scenario will be pretty hard, with almost no population (over twenty people in McGill Arctic Research Station) and almost no industries (industry placement is random, because in real life, there are no industries).
   Extreme Industry Set is required for this map.
   Enjoy!
-tags:
-- "arctic"
-- "axel"
-- "canada"
-- "ellesmere"
-- "heiberg"
-- "island"
-- "master"
-- "masterstudiocz"
-- "mcgill"
-- "nunavut"
-- "research"
-- "station"
-- "studio"
+regions:
+- "CA-NU"

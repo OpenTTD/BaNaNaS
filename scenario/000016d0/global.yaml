@@ -6,8 +6,5 @@ description: |-
 
   Bu haritada türkiye ve komşu ülkeleri detaylıca tasarladım türkiyeye daha çok yoğunluk verdim ayrıca bu mapte para kazanmak kolay iyi eğlenceler
 url: ""
-tags:
-- "(1.0)"
-- "map"
-- "package"
-- "turkey"
+regions:
+- "TR"

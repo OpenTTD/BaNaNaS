@@ -6,11 +6,7 @@ description: |-
 
   Drawn by Ragin, Coded by Fairyfloss.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=89097&p=1246742#p1246742"
-tags:
-- "Asia"
-- "Australasia"
-- "Australia"
-- "Generic"
-- "Japan"
-- "New Zealand"
-- "Trains"
+regions:
+- "AU"
+- "JP"
+- "NZ"

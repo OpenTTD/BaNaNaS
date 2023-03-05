@@ -1,9 +1,5 @@
 name: "South African Town Names"
 description: "A set of real South African town names."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=34795&p=639626#p639626"
-tags:
-- "afrikaans"
-- "paulc"
-- "south african"
-- "town names"
-- "tropical"
+regions:
+- "UN-002"

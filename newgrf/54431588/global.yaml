@@ -4,10 +4,5 @@ description: |-
 
   (C)2009, Tom Cornall.
 url: "http://www.tt-forums.net/viewtopic.php?f=36&t=41641&start=0"
-tags:
-- "diesel"
-- "new zealand"
-- "nzr"
-- "rail"
-- "shunter"
-- "train"
+regions:
+- "NZ"

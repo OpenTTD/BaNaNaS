@@ -3,8 +3,3 @@ description: |-
   A 1:4 rectangular map of an extensive coastline with plenty of islands. Suitable for all climates.
   For 1024x4096 games, a max height of 25 produces a fairly flat map with a gentle slope throughout.
 url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
-tags:
-- "coastline"
-- "flat"
-- "hills"
-- "islands"

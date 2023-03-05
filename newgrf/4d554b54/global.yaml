@@ -7,17 +7,5 @@ description: |-
   Graphics are designed to work best with the Finescale UK Track Set, but will work with most track combinations which provide 3rd rail tracks.
   (Note:  BRTracks seems to have some issues)
 url: "https://github.com/KubaP/ModernUKTrainset"
-tags:
-- "3rd Rail"
-- "BMU"
-- "BRTrains"
-- "British Rail"
-- "DMU"
-- "EMU"
-- "Finescale"
-- "MUKTS"
-- "Modern"
-- "Modern UK Trainset"
-- "Trains"
-- "Trainset"
-- "UK"
+regions:
+- "GB"

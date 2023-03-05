@@ -8,25 +8,5 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "afghanistan"
-- "asia"
-- "bangladesh"
-- "bhutan"
-- "burma"
-- "china"
-- "heightmap"
-- "himalayas"
-- "india"
-- "kazakhstan"
-- "kyrgzstan"
-- "laos"
-- "mongolia"
-- "moriarty"
-- "mountains"
-- "myanmar"
-- "nepal"
-- "pakistan"
-- "tibet"
-- "uzbekistan"
+regions:
+- "UN-034"

@@ -4,9 +4,5 @@ description: |-
 
   Coded by 2TallTyler.
 url: "https://github.com/2TallTyler/town-names"
-tags:
-- "charlotte"
-- "north carolina"
-- "raleigh"
-- "tar heel"
-- "tarheel"
+regions:
+- "US-NC"

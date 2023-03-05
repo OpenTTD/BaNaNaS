@@ -1,11 +1,4 @@
 name: "Gwyd's NSE Stations"
 description: "A varied set of stations set in the 1980s and 1990s in the South East of England. Expect lots of red lampposts."
-tags:
-- "BR"
-- "British"
-- "Decorative"
-- "Eyecandy"
-- "Gwyd"
-- "Network SouthEast"
-- "Stations"
-- "UK"
+regions:
+- "GB"

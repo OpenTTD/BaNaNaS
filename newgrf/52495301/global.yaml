@@ -1,4 +1,5 @@
 name: "Recycled Infrastructure Set"
+archived: true
 replaced-by:
   unique-id: "52495302"
 description: |-
@@ -6,4 +7,3 @@ description: |-
 
   Originally meant to also include roads that didn't require NRT and were compatible with classic TTD graphics, however this is no longer possible. Licensing is dumb that way.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83306"
-archived: true

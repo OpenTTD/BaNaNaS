@@ -8,26 +8,5 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "1024"
-- "2048"
-- "asia"
-- "bangladesh"
-- "bhutan"
-- "burma"
-- "china"
-- "heightmap"
-- "hong kong"
-- "india"
-- "japan"
-- "kazakhstan"
-- "kyrgzstan"
-- "mongolia"
-- "moriarty"
-- "myanmar"
-- "nepal"
-- "north korea"
-- "south korea"
-- "taiwan"
-- "tajikistan"
-- "tibet"
+regions:
+- "UN-030"

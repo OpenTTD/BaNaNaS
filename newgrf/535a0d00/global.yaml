@@ -3,3 +3,5 @@ description: |-
   Version 3.2!
   This is the Japanese Train Set as seen in the Japan Set Development thread on TT-Forums.
 url: "http://www.as-st.com/ttd/japan/index.html"
+regions:
+- "JP"

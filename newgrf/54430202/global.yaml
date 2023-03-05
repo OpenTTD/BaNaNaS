@@ -1,8 +1,5 @@
 name: "CS Platforms set"
 description: "NEED CS STATIONS SET !!!"
 url: "http://ttd.tycoonez.com/?id=152"
-tags:
-- "cs"
-- "czech"
-- "platforms"
-- "set"
+regions:
+- "CZ"

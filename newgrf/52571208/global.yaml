@@ -5,7 +5,3 @@ description: |-
 
   Use like any other GRF, bear in mind these replace the default buses. You may want to load with the "load multiple grf sets" option in the latest OpenTTD nightlies so as not to replace these vehicles.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=39395&start=0"
-tags:
-- "cars"
-- "generic"
-- "zephyris"

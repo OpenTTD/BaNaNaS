@@ -13,11 +13,7 @@ description: |-
   brickie
   Wasila
 url: "http://www.tt-forums.net/viewtopic.php?f=29&t=47054&hilit=England+and+Wales+Scenario"
-tags:
-- "britain"
-- "england"
-- "london"
-- "scenario"
-- "temperate"
-- "uk"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-LND"
+- "GB-WLS"

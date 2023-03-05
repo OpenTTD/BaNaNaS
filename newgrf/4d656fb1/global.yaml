@@ -5,11 +5,9 @@ description: |-
   Copyright (C) 2020-2022 by The xUSSR Railway Set developers.
   Created using the NML. Based on xUSSR Railway Set.
 url: "https://github.com/George-VB/xussrset"
-tags:
-- "belarus"
-- "latvia"
-- "lithuania"
-- "rails"
-- "russia"
-- "ukraine"
-- "ussr"
+regions:
+- "BY"
+- "LT"
+- "LV"
+- "RU"
+- "UA"

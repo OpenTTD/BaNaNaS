@@ -6,13 +6,5 @@ description: |-
 
   Produced: GBLINER
 url: "https://github.com/GBLINER/ChineseTrainSet"
-tags:
-- "CR"
-- "CRH"
-- "China"
-- "Chinese"
-- "Vibrant Express"
-- "和谐"
-- "复兴"
-- "高铁"
-- "중국열차세트"
+regions:
+- "CN"

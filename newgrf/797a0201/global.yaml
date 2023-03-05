@@ -1,11 +1,9 @@
 name: "World Flags"
 description: "A large number of flags from around the world with the possibility to set irremovability, availability only in Scenario Editor and build/remove costs."
 url: "https://github.com/yazalo/World-Flags"
-tags:
-- "Africa"
-- "America"
-- "Asia"
-- "Australia"
-- "Europa"
-- "flags"
-- "objects"
+regions:
+- "AU"
+- "UN-002"
+- "UN-142"
+- "UN-150"
+- "US"

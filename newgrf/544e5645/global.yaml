@@ -1,8 +1,5 @@
 name: "Venezuelan Town Names"
 description: "195 real town names from Venezuela."
-tags:
-- "caribbean"
-- "south america"
-- "town names"
-- "venezuela"
-- "venezuelan"
+regions:
+- "UN-029"
+- "VE"

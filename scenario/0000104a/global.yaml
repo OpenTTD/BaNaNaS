@@ -8,7 +8,5 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/July 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1172544#p1172544"
-tags:
-- "europe"
-- "malta"
-- "subtropical"
+regions:
+- "MT"

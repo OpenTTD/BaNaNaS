@@ -8,9 +8,5 @@ description: |-
   http://www.OpenTTD.imotor.com
   QQ group:6660736
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=76968&p=1212421#p1212421"
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "lake dian"
-- "yunnan"
+regions:
+- "CN"

@@ -8,23 +8,7 @@ description: |-
 
   Enjoy playing with new industries and cargos! NekoMaster out!
 url: "https://www.tt-forums.net/viewtopic.php?t=83819"
-tags:
-- "america"
-- "canada"
-- "canukistan"
-- "industries"
-- "its the final count down!"
-- "kanada"
-- "master"
-- "mexico"
-- "na industries"
-- "nais"
-- "nars"
-- "nek0"
-- "neko"
-- "neko-master"
-- "nekomaster"
-- "north america"
-- "north american industry set"
-- "states"
-- "usa"
+regions:
+- "CA"
+- "MX"
+- "US"

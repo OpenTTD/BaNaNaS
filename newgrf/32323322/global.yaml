@@ -10,8 +10,5 @@ description: |-
   Authors: Tloo-ZaRaZa and others.
   GNU General Public License, v2
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=55134"
-tags:
-- "cyrillic"
-- "latin"
-- "russian"
-- "town names"
+regions:
+- "RU"

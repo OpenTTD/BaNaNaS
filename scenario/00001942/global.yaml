@@ -10,9 +10,6 @@ description: |-
 
   Enjoy!
 url: "https://github.com/arthur-pandolfo/openTTD/tree/main/scenario_Santa_Catarina"
-tags:
-- "Brazil"
-- "Rio Grande do Sul"
-- "Santa Catarina"
-- "Scenario"
-- "Vanilla"
+regions:
+- "BR-RS"
+- "BR-SC"

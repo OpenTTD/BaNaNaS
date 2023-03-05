@@ -1,9 +1,5 @@
 name: "Croatian Town Names"
 description: "Names towns after Croatian settlements or using a naming scheme typical for Croatian towns and villages."
 url: "http://borka223.ga/openttd"
-tags:
-- "croatia"
-- "europe"
-- "hrvatska"
-- "town"
-- "town names"
+regions:
+- "HR"

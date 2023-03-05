@@ -1,7 +1,5 @@
 name: "Slovenian Town Names (unimatrix"
 description: "An extensive list of over 5k actual Slovenian town names."
 url: "http://www.tt-forums.net/viewtopic.php?f=33&t=55966"
-tags:
-- "names"
-- "slovenian"
-- "town"
+regions:
+- "SI"

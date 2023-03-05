@@ -27,26 +27,5 @@ description: |-
   - Nekomaster
   #########################
 url: "https://www.tt-forums.net/viewtopic.php?t=89915"
-tags:
-- "4096"
-- "4096x4096"
-- "4k"
-- "aus"
-- "aussie"
-- "australia"
-- "auz"
-- "big"
-- "downunder"
-- "huge"
-- "large"
-- "master"
-- "neko"
-- "nekomaster"
-- "nsw"
-- "nt"
-- "oceania"
-- "qld"
-- "sa"
-- "tas"
-- "vic"
-- "wa"
+regions:
+- "AU-NSW"

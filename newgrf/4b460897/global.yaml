@@ -6,12 +6,7 @@ description: |-
 
   Released a part of Kamnet's Town Names project. Please visit the release topic URL for more information.
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=69956&p=1137099#p1137099"
-tags:
-- "britain"
-- "british"
-- "england"
-- "scotland"
-- "town names"
-- "uk"
-- "united kingdom"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-SCT"
+- "GB-WLS"

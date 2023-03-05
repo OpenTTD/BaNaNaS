@@ -1,3 +1,6 @@
 name: "South England and Wales"
 description: "A map of the south of England and Wales. Contains only a few industries, but all major (and some minor) towns."
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=49385"
+regions:
+- "GB-ENG"
+- "GB-WLS"

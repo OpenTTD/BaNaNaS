@@ -1,6 +1,5 @@
 name: "Dutch Tracks"
 description: "Dutch Tracks for OpenTTD"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=59201"
-tags:
-- "dutch"
-- "tracks"
+regions:
+- "NL"

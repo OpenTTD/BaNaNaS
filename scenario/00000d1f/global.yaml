@@ -1,5 +1,5 @@
 name: "Ireland Scenario Alpha"
 description: "A 2048x2048 scenario in development covering the Ireland of Ireland. At present, it includes towns within the commuter belts of all cities on the island, as well as all towns in Counties Dublin, Meath, Louth, Cavan and Monaghan in the Republic,  and the A1 and A5 corridors in Northern Ireland"
 url: ""
-tags:
-- "ireland"
+regions:
+- "IE"

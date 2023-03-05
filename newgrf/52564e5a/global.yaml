@@ -1,6 +1,3 @@
 name: "Tibetan Town Names"
 description: "Generates town names based on the names of geographic regions in Tibet. I've squeezed down the character set (which has mangled some names) to make it work on an ordinary English OpenTTD installation. Note that there are only around 1500 names."
 url: ""
-tags:
-- "tibetan"
-- "town names"

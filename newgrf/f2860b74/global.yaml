@@ -5,9 +5,5 @@ description: |-
   Made by: Kiki012
   Names source: Wikipedia
 url: "https://github.com/Kiki012184/Javanese-town-names-"
-tags:
-- "Indonesia"
-- "Javanese"
-- "Kiki012"
-- "Name"
-- "Townnames"
+regions:
+- "ID"

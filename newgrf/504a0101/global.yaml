@@ -1,8 +1,3 @@
 name: "SeaplaneAirport"
 description: "Seaplane Airport is a feature that replaces the Small Airport with an airport that consists of watertiles (except the Hangar tile, that is replaced by a concrete tile), to mimic a seaplane airport. It also provides a new-object watertile to prevent the airport of being flooded."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=57133"
-tags:
-- "airport"
-- "plane"
-- "sea"
-- "seaplane"

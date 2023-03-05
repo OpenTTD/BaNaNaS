@@ -5,10 +5,3 @@ description: |-
 
   Since OpenTTD supports direct download from BaNaNaS, this pack includes all other NewGRFs, which aren't available there.
 url: "http://www.openttdcoop.org/wiki/GRF"
-tags:
-- "#openttdcoop"
-- "memberzone"
-- "package"
-- "prozone"
-- "publicserver"
-- "server"

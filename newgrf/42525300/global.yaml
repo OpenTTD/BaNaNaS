@@ -1,8 +1,5 @@
 name: "BROS - British Rail Openttd Set"
 description: "From the Jubilee to the A4 Pacific, Pacer to Networker, the British Rail OpenTTD Set aims to be the most comprehensive UK rail set for Transport Tycoon Deluxe. Please join and help us make this aim a reality!"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=45149"
-tags:
-- "british"
-- "rail"
-- "trains"
-- "uk"
+regions:
+- "GB"

@@ -1,11 +1,5 @@
 name: "Class 37"
 description: "This is a very cool version of the Class 37"
 url: ""
-tags:
-- "britain"
-- "british"
-- "england"
-- "english electric"
-- "rukts"
-- "uk"
-- "ukrs"
+regions:
+- "GB-ENG"

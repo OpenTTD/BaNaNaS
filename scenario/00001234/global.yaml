@@ -10,12 +10,6 @@ description: |-
 
   Myfineshrine
 url: "http://www.tt-ms.de/forum/showthread.php?tid=6683&pid=90858#pid90858"
-tags:
-- "alpen"
-- "alps"
-- "berge"
-- "france"
-- "frankreich"
-- "mountains"
-- "schweiz"
-- "switzerland"
+regions:
+- "CH"
+- "FR"

@@ -4,10 +4,5 @@ description: |-
 
   Towns, lakes, rivers and industries are all hand-placed. Requires FIRS 3.
 url: "https://www.tt-forums.net/viewtopic.php?uid=33254&f=60&t=83715"
-tags:
-- "2048x2048"
-- "FIRS"
-- "Fuji"
-- "Hand-placed industries"
-- "Japan"
-- "Scenario"
+regions:
+- "JP"

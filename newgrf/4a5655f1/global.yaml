@@ -6,8 +6,5 @@ description: |-
 
   For the best experience, use the vehicles from DROP, or another bicycle NewGRF, and only use this NewGRF for eyecandy.
 url: "https://github.com/EratoNysiad/velo"
-tags:
-- "bicycle"
-- "bike"
-- "dutch"
-- "road"
+regions:
+- "NL"

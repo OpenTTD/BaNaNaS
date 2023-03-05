@@ -4,8 +4,5 @@ description: |-
 
   Thanks to Argentina Soccer Players! Messi, you finally won the world cup! Congratz Guys!
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87622"
-tags:
-- "Argentina"
-- "Qatar 2022"
-- "World Cup"
-- "temporal8"
+regions:
+- "AR"

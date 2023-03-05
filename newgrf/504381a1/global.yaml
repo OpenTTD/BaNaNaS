@@ -1,10 +1,6 @@
 name: "Austrian Town Names"
 description: "A set of 2,086 place names from Austria."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=58276"
-tags:
-- "alpine"
-- "austria"
-- "european"
-- "german"
-- "paulc"
-- "town names"
+regions:
+- "AT"
+- "DE"

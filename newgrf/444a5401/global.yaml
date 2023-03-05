@@ -5,8 +5,3 @@ description: |-
   r283: Various tweaks to graphics and costs.
   r247: Cost adjustment parameters, much better implementation than the first version of NuTracks
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=47347"
-tags:
-- "rails"
-- "railtypes"
-- "track types"
-- "tracks"

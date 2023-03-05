@@ -6,9 +6,8 @@ description: |-
 
   Created by the Hypnotics Team!
 url: ""
-tags:
-- "andorra"
-- "france"
-- "iberian"
-- "portugal"
-- "spain"
+regions:
+- "AD"
+- "ES"
+- "FR"
+- "PT"

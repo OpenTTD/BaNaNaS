@@ -3,18 +3,12 @@ description: |-
   V4 CEE Trains is a fork from 2cc Trains In NML for OpenTTD with some additions from other newgrfs. This set is focused on train from Central and East Europe (mostly Visegrad group).
   Beside of 2cc liveries, trains can be refitted to some national liveries. Custom trackset with different voltages/gauges is also supplied.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=82621"
-tags:
-- "Austria"
-- "Central"
-- "Czechia"
-- "East"
-- "Europe"
-- "Germany"
-- "Hungary"
-- "Latvia"
-- "Romania"
-- "Slovakia"
-- "Tracks"
-- "Trains"
-- "Ukraine"
-- "Yugoslavia"
+regions:
+- "AT"
+- "CZ"
+- "DE"
+- "HU"
+- "LV"
+- "RO"
+- "SK"
+- "UA"

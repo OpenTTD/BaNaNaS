@@ -3,10 +3,5 @@ replaced-by:
   unique-id: "54471117"
 description: "EPB Derived stock"
 url: ""
-tags:
-- "br"
-- "gwyd"
-- "nse"
-- "southern region"
-- "trains"
-- "uk"
+regions:
+- "GB"

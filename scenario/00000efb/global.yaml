@@ -6,13 +6,9 @@ description: |-
 
   ~ Visit website for full list of cities and more information ~
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=73962"
-tags:
-- "america"
-- "australia"
-- "china"
-- "fiji"
-- "india"
-- "w.a.c. xl"
-- "wac"
-- "world map"
-- "xl"
+regions:
+- "AU"
+- "CN"
+- "FJ"
+- "IN"
+- "US"

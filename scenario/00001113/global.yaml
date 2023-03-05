@@ -8,10 +8,6 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/December 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1180038#p1180038"
-tags:
-- "russia"
-- "subarctic"
-- "the azov sea"
-- "the black sea"
-- "the crimean peninsula"
-- "ukraine"
+regions:
+- "RU"
+- "UA"

@@ -1,14 +1,5 @@
 name: "Brazilian Town Names"
 description: "I have expanded the last version from 600 to 5296 brazilian town names. This is about 95% of all towns listed on the last brazilian census (see http://www.ibge.gov.br)."
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=56992&p=976863#p976863"
-tags:
-- "brasil"
-- "brasileiras"
-- "brazil"
-- "brazilian"
-- "cidades"
-- "cities"
-- "portuguese"
-- "português"
-- "pt-br"
-- "towns"
+regions:
+- "BR"

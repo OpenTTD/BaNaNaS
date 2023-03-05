@@ -5,6 +5,3 @@ description: |-
 
   Intended for a 2048x2048 map with artic climate, and a maximum height of 40.
 url: ""
-tags:
-- "artic"
-- "large"

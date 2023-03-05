@@ -1,7 +1,4 @@
 name: "Queensland Town Namess"
 description: "Real Queensland Town Names"
-tags:
-- "Australia"
-- "Queensland"
-- "Town"
-- "Town Names"
+regions:
+- "AU-QLD"

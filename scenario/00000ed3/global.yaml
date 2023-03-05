@@ -6,15 +6,9 @@ description: |-
 
   ~ Visit website for full list of cities and more information ~
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=70150"
-tags:
-- "africa"
-- "america"
-- "australia"
-- "china"
-- "europe"
-- "middle east"
-- "pacific"
-- "usa"
-- "wac"
-- "world"
-- "world map"
+regions:
+- "AU"
+- "CN"
+- "UN-002"
+- "UN-150"
+- "US"

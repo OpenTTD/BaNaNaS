@@ -1,8 +1,5 @@
 name: "CS extras set"
 description: "NEED CS STATIONS SET !!!"
 url: "http://ttd.tycoonez.com/?id=152"
-tags:
-- "cz"
-- "czech"
-- "set"
-- "station"
+regions:
+- "CZ"

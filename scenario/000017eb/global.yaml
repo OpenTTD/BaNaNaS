@@ -3,12 +3,6 @@ description: |-
   Fictional East Coast US state using the North American Industry Set and complimentry vehicle sets.
   1899 start date.
 url: "https://www.tt-forums.net/viewtopic.php?t=73800"
-tags:
-- "america"
-- "balsiefen"
-- "early"
-- "massachusetts"
-- "nais"
-- "states"
-- "usa"
-- "virginia"
+regions:
+- "US-MA"
+- "US-VA"

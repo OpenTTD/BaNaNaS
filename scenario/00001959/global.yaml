@@ -6,13 +6,6 @@ description: |-
   Since there's only one town (Resolute), passenger and mail services will be unprofitable early.
   I used heightmap (I couldn't find any other) with really bad resolution, so I modified seaside to look less blocky.
   Enjoy!
-tags:
-- "1880"
-- "america"
-- "canada"
-- "cornwallis"
-- "island"
-- "masterstudiocz"
-- "north"
-- "nunavut"
-- "small"
+regions:
+- "CA-NU"
+- "US"

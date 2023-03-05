@@ -9,9 +9,5 @@ description: |-
   * Industries : average (97)
   * Author : Piccolo
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=43467"
-tags:
-- "france"
-- "heightmap"
-- "pyrenees"
-- "realistic"
-- "south-west"
+regions:
+- "FR"

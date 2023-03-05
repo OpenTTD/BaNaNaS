@@ -1,9 +1,5 @@
 name: "BRStations"
 description: ""
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=77120"
-tags:
-- "br"
-- "british"
-- "platforms"
-- "stations"
-- "uk"
+regions:
+- "GB"

@@ -8,4 +8,5 @@ description: |-
 
   (c) TELK (telk.kr)
 url: "http://telk.kr/ottd/newgrf/ko_town_names?lang=en"
-tags: []
+regions:
+- "KR"

@@ -1,10 +1,5 @@
 name: "Aberhirshire"
 description: "A long river mouth, with highlands on the north side, and rougher lowlands on the south side."
 url: ""
-tags:
-- "4k"
-- "islands"
-- "mountains"
-- "river"
-- "starraid"
-- "uk"
+regions:
+- "GB"

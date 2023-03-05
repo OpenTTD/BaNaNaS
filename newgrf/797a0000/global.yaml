@@ -1,9 +1,5 @@
 name: "Polish Lighthouses"
 description: "Set of lighthouses based on real lighthouses from (not-only) Polish coast. Drawn, coded and (c) by yazalo."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=88514"
-tags:
-- "Latarnia morska"
-- "Lighthouse"
-- "Polish"
-- "Polski"
-- "eyecandy"
+regions:
+- "PL"

@@ -1,3 +1,5 @@
 name: "Recycled OpenGFX Mars Extended"
 description: "A little changes I made to a project by a long-missing TT-Forums member named \"Twyster\". Mostly graphical improvements to the little steampunk half-track and updates to the code so it's NRT-compatible."
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+regions:
+- "UN-MARS"

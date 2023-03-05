@@ -11,11 +11,7 @@ description: |-
   no industry, default settings
 
   Bounding box north: 0.8, east: 34.9, south: -3.3, west: 30.8
-tags:
-- "kenya"
-- "lake"
-- "largest"
-- "tanzania"
-- "tropic"
-- "uganda"
-- "victoria"
+regions:
+- "KE"
+- "TZ"
+- "UG"

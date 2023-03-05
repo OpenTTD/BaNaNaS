@@ -26,15 +26,5 @@ description: |-
   - Nekomaster
   #########################
 url: "https://www.tt-forums.net/viewtopic.php?t=89915"
-tags:
-- "4096"
-- "4096x4096"
-- "4k"
-- "aus"
-- "aussie"
-- "australia"
-- "auz"
-- "downunder"
-- "master"
-- "neko"
-- "nekomaster"
+regions:
+- "AU"

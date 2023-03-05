@@ -1,7 +1,5 @@
 name: "Dutch Terraced Houses"
 description: "A series of Dutch (terraced) houses that magically align with the road, from 1860 to today."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=64748&start=60"
-tags:
-- "dutch"
-- "houses"
-- "town"
+regions:
+- "NL"

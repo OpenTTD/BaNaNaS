@@ -1,3 +1,5 @@
 name: "Korean Town Hanja Names"
 description: "Random Korean-style town names in Hanja."
 url: "https://github.com/Lee0701/KoreanTownHanjaNamesGRF"
+regions:
+- "KR"

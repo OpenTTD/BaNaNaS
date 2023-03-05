@@ -6,18 +6,11 @@ description: |-
   Argentina, Chile, Falkland Islands, Islas Malvinas, Uruguay, Paraguay, Bolivia, Brazil
   By Moriarty.
 url: ""
-tags:
-- "1024"
-- "2048"
-- "argentina"
-- "bolivia"
-- "brazil"
-- "chile"
-- "continent"
-- "falkland islands"
-- "heightmap"
-- "islas malvinas"
-- "moriarty"
-- "paraguay"
-- "south america"
-- "uruguay"
+regions:
+- "AR"
+- "BO"
+- "BR"
+- "CL"
+- "PY"
+- "US"
+- "UY"

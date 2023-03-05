@@ -1,10 +1,8 @@
 name: "Alpine region"
 description: "Map of Alpine regions"
-tags:
-- "alpine"
-- "austria"
-- "france"
-- "germany"
-- "italy"
-- "mountains"
-- "switzerland"
+regions:
+- "AT"
+- "CH"
+- "DE"
+- "FR"
+- "IT"

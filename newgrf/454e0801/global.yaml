@@ -1,7 +1,5 @@
 name: "E001 - Train Suite Shiki-shima"
 description: "One-off newGRF with the E001 series train, the JR East's Luxury Train that runs through Tohoku, the Train Suite Shiki-shima."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=76868&p=1209431#p1209431"
-tags:
-- "japan"
-- "luxury"
-- "one-off"
+regions:
+- "JP"

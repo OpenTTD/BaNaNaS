@@ -13,7 +13,3 @@ description: |-
 
   Termite is NOT required for Iron Horse 2.45.0 or newer.  Iron Horse 2.45.0 or newer has the Termite tracks built in.
 url: "https://dev.openttdcoop.org/projects/termite"
-tags:
-- "iron horse"
-- "railtypes"
-- "tracks"

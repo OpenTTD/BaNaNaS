@@ -4,9 +4,5 @@ description: |-
 
   Does not require JGR's patchpack.
 url: ""
-tags:
-- "america"
-- "dibujaron"
-- "firs"
-- "nars"
-- "realistic"
+regions:
+- "US"

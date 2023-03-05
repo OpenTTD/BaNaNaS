@@ -9,10 +9,5 @@ description: |-
 
   created in 2016 by Timeflyer
 url: "http://www.tt-ms.de/forum/showthread.php?tid=6563&pid=89317#pid89317"
-tags:
-- "germany"
-- "niedersachsen"
-- "nordsee"
-- "northern germany"
-- "ostfriesland"
-- "schlwesigholstein"
+regions:
+- "DE-NI"

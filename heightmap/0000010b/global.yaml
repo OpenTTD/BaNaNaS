@@ -8,12 +8,5 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "america"
-- "atlantic"
-- "east coast"
-- "gulf of mexico"
-- "heightmap"
-- "moriarty"
-- "usa"
+regions:
+- "US"

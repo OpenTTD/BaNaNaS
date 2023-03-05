@@ -5,14 +5,5 @@ description: |-
 
   Coded by Emperor Jake. Other credits: Azusa, Toni Babelony, Sanchimaru and the JapanSet Team. GPLv2+.
 url: "https://github.com/EmperorJake/JPobjects"
-tags:
-- "castle"
-- "eyecandy"
-- "factory"
-- "industry"
-- "japan"
-- "object"
-- "shrine"
-- "smokestack"
-- "statue"
-- "temple"
+regions:
+- "JP"

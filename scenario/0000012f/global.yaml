@@ -1,3 +1,5 @@
 name: "North of England"
 description: "From Barrow in Furness in the N-W to Lincoln in the S-E. The location of the towns are approximately correct, but not their size. The industries have been placed to make an interesting game, and you must have Pika Basic Industries v1.5 grf. Replacement Town for OpenTTD grf is also recommended. Note that there aren’t many sawmills, oil refineries or steel mills so don’t lose them by not supplying them early. Size: 510 x 1020"
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=43343&p=785517#p785517"
+regions:
+- "GB-ENG"

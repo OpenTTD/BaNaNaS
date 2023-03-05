@@ -1,8 +1,5 @@
 name: "South Korean Town Names"
 description: "A set of 372 real South Korean town names, excluding major cities."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=34795&p=851627#p851627"
-tags:
-- "asian"
-- "paulc"
-- "south korean"
-- "town names"
+regions:
+- "KR"

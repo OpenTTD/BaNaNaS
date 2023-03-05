@@ -1,11 +1,5 @@
 name: "Korean Style Buildings"
 description: "This NewGRF contains Korean style buildings from 1900 to 2005."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=83190&p=1206377#p1206377"
-tags:
-- "building"
-- "buildings"
-- "korea"
-- "korean"
-- "ksbd"
-- "한국"
-- "한국식"
+regions:
+- "KR"

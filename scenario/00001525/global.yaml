@@ -6,6 +6,5 @@ description: |-
 
   More information can be found on the forums thread https://www.tt-forums.net/viewtopic.php?f=60&t=82400
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=82400"
-tags:
-- "amtrak"
-- "california"
+regions:
+- "US-CA"

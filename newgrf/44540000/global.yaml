@@ -5,8 +5,5 @@ description: |-
   Authors:
   Killer 11, TSA, Wile E. Coyote, Purno, DanMacK.
 url: "http://www.tt-forums.net/viewtopic.php?p=379970#p379970"
-tags:
-- "eastern block"
-- "lithuania"
-- "train"
-- "truck"
+regions:
+- "LT"

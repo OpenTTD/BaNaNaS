@@ -5,9 +5,5 @@ description: |-
 
   Requires Timberwolf's UK Trains to be installed. Features 2cc colours, long vehicle scale, 2x zoom and extra rotation sprites.
 url: "https://github.com/mattkimber/timberwolfs_trains"
-tags:
-- "british"
-- "rail"
-- "timberwolf"
-- "trains"
-- "uk"
+regions:
+- "GB"

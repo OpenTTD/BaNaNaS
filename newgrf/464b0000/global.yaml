@@ -1,7 +1,5 @@
 name: "Hungarian Stations"
 description: "Hungarian stations Requires: 2,3"
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=70997"
-tags:
-- "hungarian"
-- "platform"
-- "station"
+regions:
+- "HU"

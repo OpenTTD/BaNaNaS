@@ -4,3 +4,5 @@ description: |-
 
   East Anglia region, including London at the southwest.
 url: ""
+regions:
+- "GB"

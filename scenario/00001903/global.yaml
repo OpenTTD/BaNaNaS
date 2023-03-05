@@ -5,8 +5,5 @@ description: |-
   Map contains real cities placed manually (not perfect, but as close as possible in order to keep the gameplay smooth) and rivers that define the countries borders.
 
   Industries are randomly generated.
-tags:
-- "2048x2048"
-- "32bpp"
-- "Europe"
-- "Scenario"
+regions:
+- "UN-150"

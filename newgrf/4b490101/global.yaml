@@ -1,5 +1,3 @@
 name: "Simple Cargo Profit"
 description: "Disregards distance and time for all cargo except passengers/mail"
 url: "https://github.com/krisives/openttd-simple-cargo-profit"
-tags:
-- "cargo"

@@ -1,6 +1,5 @@
 name: "Swedish Houses"
 description: "Swedish Houses is a town replacement set for TTDPatch and OpenTTD for temperate, arctic and tropic climates. The goal of this set is to replace all original TTD buildings and add extra ones with buildings found in Sweden."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=44360"
-tags:
-- "houses"
-- "sweden"
+regions:
+- "SE"

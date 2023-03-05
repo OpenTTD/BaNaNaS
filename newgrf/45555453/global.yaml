@@ -6,10 +6,5 @@ description: |-
 
   Produced: GBLINER
 url: "https://github.com/GBLINER/EuropeanTrainSet"
-tags:
-- "AVE"
-- "European"
-- "Eurostar"
-- "ICE"
-- "Italo"
-- "TGV"
+regions:
+- "UN-150"

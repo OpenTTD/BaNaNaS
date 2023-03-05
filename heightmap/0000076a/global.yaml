@@ -1,7 +1,5 @@
 name: "Netherlands - Rijnmond / Goeree"
 description: "A heightmap stretching from ~Monster in the northwest, Ouddorp in the southwest, Dordrecht in the southeast and Gouda in the northeast"
 url: ""
-tags:
-- "heightmap"
-- "netherlands"
-- "rotterdam"
+regions:
+- "NL"

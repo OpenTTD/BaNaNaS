@@ -1,7 +1,5 @@
 name: "Israel"
 description: "Israel Heightmap. including Gaza strip, West Bank, and small part of Jordan (the adjutant part to Israel)"
 url: ""
-tags:
-- "heightmap"
-- "israel"
-- "middle east"
+regions:
+- "IL"

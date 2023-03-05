@@ -12,8 +12,5 @@ description: |-
 
   Myfineshrine
 url: "http://www.tt-ms.de/forum/showthread.php?tid=4254&pid=57010#pid57010"
-tags:
-- "new york"
-- "realistic"
-- "temperate"
-- "usa"
+regions:
+- "US-NY"

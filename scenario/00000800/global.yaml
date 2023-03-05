@@ -8,8 +8,5 @@ description: |-
   Includes some industry
   Requires ECS vectors.  No other NewGRFs enabled
 url: "http://diymediahome.org/openttd-cuba-scenario/"
-tags:
-- "cuba"
-- "jonscaife"
-- "scenario"
-- "srtm"
+regions:
+- "CU"

@@ -7,13 +7,5 @@ description: |-
   Have fun!
   By Seedorsi.
 url: ""
-tags:
-- "1024"
-- "512"
-- "asia"
-- "firs"
-- "india"
-- "industries"
-- "mumbai"
-- "scenario"
-- "subcontinent"
+regions:
+- "IN"

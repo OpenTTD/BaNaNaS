@@ -1,10 +1,5 @@
 name: "North Korean Road Vehicle Set"
 description: "A road vehicle set with North Korean buses and trucks."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745&p=1208197#p1208197"
-tags:
-- "bus"
-- "dprk"
-- "korea"
-- "lorry"
-- "north"
-- "truck"
+regions:
+- "KP"

@@ -1,9 +1,7 @@
 name: "ToyTrax"
+archived: true
 description: |-
   A GPL v2 trackset designed to imitate the original TTD Toyland tracks. See URL for source code!
 
   This version defines the tracks as a new railtype with 80 km/h normal and electrified versions.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83134"
-tags:
-- "toyland"
-archived: true

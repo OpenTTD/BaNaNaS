@@ -1,10 +1,5 @@
 name: "Christmas Town Names"
 description: "A small set of 85 festive town names based on actual places in the United States."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=58276"
-tags:
-- "american"
-- "christmas"
-- "holidays"
-- "paulc"
-- "town names"
-- "united states"
+regions:
+- "US"

@@ -11,6 +11,3 @@ description: |-
   This GRF also has a parameter (default off) to provide custom signal styles.
   (Requires JGR's patchpack v0.48.0 or later).
 url: "https://github.com/JGRennison/multi-aspect-signals-grf"
-tags:
-- "jgrpp"
-- "signals"

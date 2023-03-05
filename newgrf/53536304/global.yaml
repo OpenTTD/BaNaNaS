@@ -18,8 +18,3 @@ description: |-
   02 MAIL
   etc...
 url: "https://git.estate/scitor/EasyStationRatingOverride"
-tags:
-- "cargo"
-- "override"
-- "rating"
-- "station"

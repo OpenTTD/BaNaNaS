@@ -11,9 +11,5 @@ description: |-
 
   Zrobyv: Fixer.
 url: ""
-tags:
-- "east europe"
-- "europe"
-- "heightmap"
-- "ukraine"
-- "ukrainian"
+regions:
+- "UA"

@@ -6,10 +6,5 @@ description: |-
 
   By Dreedo
 url: ""
-tags:
-- "east"
-- "england"
-- "north"
-- "south"
-- "west"
-- "yorkshire"
+regions:
+- "GB-ENG"

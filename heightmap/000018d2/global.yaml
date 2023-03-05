@@ -7,5 +7,3 @@ description: |-
   For a 512x512 map, use a height of 15.
   For a 1024x1024 map, use a height of 30.
 url: ""
-tags:
-- "artic"

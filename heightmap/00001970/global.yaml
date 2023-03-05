@@ -4,9 +4,5 @@ description: |-
 
   Features Carpatian and Crimean mountains, Black and Azov seas and many inland rivers.
 url: "https://www.tt-forums.net/viewtopic.php?t=90592"
-tags:
-- "2048"
-- "east europe"
-- "europe"
-- "heightmap"
-- "ukraine"
+regions:
+- "UA"

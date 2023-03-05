@@ -1,7 +1,4 @@
 name: "Dib's Hill and Valley"
 description: "A relatively easy scenario set among some mountains and valleys. FIRS Arctic Basic."
-tags:
-- "FIRS"
-- "NARS"
-- "america"
-- "dibujaron"
+regions:
+- "US"

@@ -4,3 +4,5 @@ description: |-
 
   Of course, this map can be downscaled to 2048 x 2048 tiles (with good quality) if you prefer playing at a smaller map for faster gameplay.
 url: "http://www.tt-forums.net/memberlist.php?mode=viewprofile&u=67503"
+regions:
+- "FR"
