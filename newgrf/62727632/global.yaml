@@ -5,8 +5,11 @@ description: |-
   Based on BRTrains and the MUTS addon for BRTrains
 url: "https://github.com/audigex/BRTrains2"
 regions:
+- "GB"
 - "GB-ENG"
 - "GB-LND"
 - "GB-NIR"
 - "GB-SCT"
 - "GB-WLS"
+- "IE"
+- "IM"
