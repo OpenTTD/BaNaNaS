@@ -1,4 +1,4 @@
-name: "City Tram Track"
+name: "City Tram Track - outdated"
 description: |-
   City tram track ,... + NEW HQ(all)
   -First parameter:
@@ -9,3 +9,4 @@ description: |-
   -Some road set -II- .
   ...
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=71516"
+regions: []
