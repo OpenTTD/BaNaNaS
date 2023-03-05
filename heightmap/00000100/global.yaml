@@ -8,11 +8,5 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "australia"
-- "central australia."
-- "continent"
-- "east australia"
-- "heightmap"
-- "moriarty"
+regions:
+- "AU"

@@ -7,6 +7,5 @@ description: |-
   These stationtiles can be used to create more Dutch style stations and waypoints.
   Place the GRF directly below the original Dutch Stations Addition Set in your GRF-list.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=74530&p=1164505#p1164505"
-tags:
-- "dutch"
-- "station"
+regions:
+- "NL"

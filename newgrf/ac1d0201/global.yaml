@@ -1,7 +1,5 @@
 name: "French Small Town Names"
 description: "34,000+ town names, from all french cities/towns/villages."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=75834"
-tags:
-- "french"
-- "names"
-- "town"
+regions:
+- "FR"

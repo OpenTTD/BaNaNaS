@@ -1,9 +1,5 @@
 name: "American Interurban Set"
 description: "A set of interurban passenger and freight motors and trailers from early 20th century America. 6 motors and 6 trailers currently supported."
 url: "https://www.tt-forums.net/viewtopic.php?t=90050"
-tags:
-- "american"
-- "electric"
-- "generic"
-- "interurban"
-- "passenger"
+regions:
+- "US"

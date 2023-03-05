@@ -1,12 +1,7 @@
 name: "United States"
 description: "Map:1024X2048. United States map, include 48 continental states with own capital. Border of states is made by rocks or rivers. Map have roads (freeways) whith numbers. Economy is similar to reality: farms in Nebraska, oil fields in Texas, coal mines in Utah... If You have problem with load the map (missing GRF files), please in file openttd.cfg (main folder with game) - \"newgrf_developer_tools = false\" change to \"true\"."
 url: ""
-tags:
-- "california"
-- "chicago"
-- "denver"
-- "los angeles"
-- "miami"
-- "new york"
-- "san francisco"
-- "usa"
+regions:
+- "US-CA"
+- "US-IL"
+- "US-NY"

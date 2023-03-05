@@ -4,8 +4,3 @@ description: |-
 
   This NewGRF contains graphic replacements for tracks, fences, depots, tunnels, bridges, station and icons/cursors for the maglev rail. All are optional except for the main tracks, fence, depot and icons/cursors via the use of parameters. All climates are supported.
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=49287"
-tags:
-- "maglev"
-- "rails"
-- "station"
-- "tracks"

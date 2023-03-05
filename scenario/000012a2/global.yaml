@@ -10,10 +10,7 @@ description: |-
   http://www.OpenTTD.imotor.com
   QQ group:6660736
 url: "https://www.tt-forums.net/viewtopic.php?p=1119546#p1119546"
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "chn"
-- "japan"
-- "korea"
+regions:
+- "CN"
+- "JP"
+- "KR"

@@ -10,8 +10,5 @@ description: |-
   See the url for details.
   www.tt-forums.net/viewtopic.php?f=60&t=71106
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=71106"
-tags:
-- "china"
-- "compete"
-- "mini"
-- "quick"
+regions:
+- "CN"

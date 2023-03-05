@@ -1,11 +1,3 @@
 name: "Ale426-Ale506 TAF"
 description: "The Ale426 and Ale506 'TAF' is a suburban double decker train built in 1997. It can be coupled in multiple unit."
 url: "https://github.com/RAD750/openttdstuff/tree/master/taf"
-tags:
-- "double deck"
-- "electric"
-- "emu"
-- "passenger"
-- "regional"
-- "suburban"
-- "train"

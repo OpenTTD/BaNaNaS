@@ -1,10 +1,5 @@
 name: "East Prussian Town Names"
 description: "A set of 650 historical place names mostly based on the former German province of East Prussia."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=58276"
-tags:
-- "baltic"
-- "european"
-- "germany"
-- "paulc"
-- "prussia"
-- "town names"
+regions:
+- "DE"

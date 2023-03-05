@@ -3,7 +3,5 @@ description: |-
   A currently not developing set of North American road vehicles. Provides a usable set of buses and trams from 1910 (no futuristic vehicles though).
   Graphics by oberhümer and DanMacK, code by oberhümer.
 url: "http://dev.openttdcoop.org/projects/narvs"
-tags:
-- "north america"
-- "road vehicles"
-- "us"
+regions:
+- "US"

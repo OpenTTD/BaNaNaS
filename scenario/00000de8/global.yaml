@@ -9,13 +9,11 @@ description: |-
   Have fun!
   - qKaltental
 url: ""
-tags:
-- "cities"
-- "europe"
-- "france"
-- "germany"
-- "greece"
-- "italy"
-- "poland"
-- "spain"
-- "uk"
+regions:
+- "DE"
+- "ES"
+- "FR"
+- "GB"
+- "GR"
+- "IT"
+- "PL"

@@ -1,8 +1,3 @@
 name: "8/32bpp Trains 2CC"
 description: "This NewGRF replaces the OpenTTD base train sprites with a 8/32bpp Extra Zoom 2CC version of the graphics and adds extra functionality through the setting of the NewGRF parameters."
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=59332"
-tags:
-- "2cc"
-- "32bpp"
-- "newgrf"
-- "trains"

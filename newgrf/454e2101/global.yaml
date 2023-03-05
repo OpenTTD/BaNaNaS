@@ -4,10 +4,5 @@ description: |-
 
   ©2018 Erato Nysiad CC BY-NC 4.0
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=82414"
-tags:
-- "central"
-- "gifu"
-- "japan"
-- "jr"
-- "meitetsu"
-- "nagoya"
+regions:
+- "JP-21"

@@ -6,21 +6,7 @@ description: |-
 
   Enjoy playing with new industries and cargos! NekoMaster out
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=83819&p=1213045"
-tags:
-- "america"
-- "canada"
-- "canukistan"
-- "ecs"
-- "industries"
-- "kanada"
-- "master"
-- "mexico"
-- "nars"
-- "nek0"
-- "neko"
-- "neko-master"
-- "nekomaster"
-- "north america"
-- "states"
-- "usa"
-- "vectors"
+regions:
+- "CA"
+- "MX"
+- "US"

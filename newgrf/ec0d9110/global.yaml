@@ -9,8 +9,3 @@ description: |-
 
   The default value for every cost is 8. A value of 7 will halve the cost, 9 will duplicate the it, 10 will multiply it by four and so on.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=46192"
-tags:
-- "base costs"
-- "costs"
-- "difficulty"
-- "landscaping"

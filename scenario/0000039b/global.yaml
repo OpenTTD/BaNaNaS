@@ -5,13 +5,8 @@ description: |-
 
   by JonScaife
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=42124"
-tags:
-- "britian"
-- "british isles"
-- "england"
-- "great britian"
-- "ireland"
-- "scotland"
-- "uk"
-- "united kingdom"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-SCT"
+- "GB-WLS"
+- "IE"

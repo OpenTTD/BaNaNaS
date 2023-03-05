@@ -1,6 +1,3 @@
 name: "Vacuum Vehicle Wagon and Train"
 description: "Adds a train and wagon to transport vehicles with vacuum train"
 url: ""
-tags:
-- "vacuum"
-- "vehicle"

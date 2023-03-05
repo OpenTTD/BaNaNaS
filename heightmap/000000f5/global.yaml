@@ -6,14 +6,9 @@ description: |-
   Iran, Azerbaijan, Russia, Kazakhstan, Turkmenistan
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "azerbaijan"
-- "caspian sea"
-- "heightmap"
-- "iran"
-- "kazakhstan"
-- "moriarty"
-- "russia"
-- "sea"
-- "turkmenistan"
+regions:
+- "AZ"
+- "IR"
+- "KZ"
+- "RU"
+- "TM"

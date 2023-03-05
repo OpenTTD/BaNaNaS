@@ -6,12 +6,7 @@ description: |-
 
   2012
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=58754&sid=98aed6bf672bf93f583c86937ccd9a8f"
-tags:
-- "argentina"
-- "brazil"
-- "buenos aires"
-- "montevideo"
-- "rio grande do sul"
-- "scenario"
-- "south america"
-- "uruguay"
+regions:
+- "AR-B"
+- "BR-RS"
+- "UY-MO"

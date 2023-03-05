@@ -6,9 +6,5 @@ description: |-
 
   Created by 2TallTyler.
 url: "https://github.com/2TallTyler/industries_of_the_caribbean/blob/main/README.md"
-tags:
-- "2TallTyler"
-- "cuba"
-- "cuban"
-- "economy"
-- "industry"
+regions:
+- "CU"

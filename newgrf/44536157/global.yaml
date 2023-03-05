@@ -7,8 +7,5 @@ description: |-
 
   GPL v2, Gwyd. Original graphics from Dutch Stations.
 url: "https://www.tt-forums.net/viewtopic.php?t=83886"
-tags:
-- "dutch"
-- "dutch stations"
-- "overlapping"
-- "waypoints"
+regions:
+- "NL"

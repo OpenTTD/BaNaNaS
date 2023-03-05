@@ -3,8 +3,3 @@ replaced-by:
   unique-id: "4d4e0102"
 description: "Placed after the last bridge(set) in the newgrf list this grf will modify the base price and top speed for all bridges. --- I choose to modify the top speed to get a better spread and then let the price be directly related to the top speed. --- Furthermore some building costs are affected too (compared to the base price): * Raise bridge building cost (x64). * Raise tunnel building cost (x64). * Raise terraforming cost (x32)."
 url: "http://www.tt-forums.net/viewtopic.php?t=31668"
-tags:
-- "bridge"
-- "building"
-- "costs"
-- "properties"

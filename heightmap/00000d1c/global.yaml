@@ -7,10 +7,3 @@ description: |-
   • Accurate but non-linear topography based on ETOPO data (hills are higher and mountains lower; for better gameplay)
   • Centred 10° east of the prime meridian (to make the map split in the middle of the Bering Sea rather than the Kamchatka Peninsula)
 url: ""
-tags:
-- "4096"
-- "earth"
-- "heightmap"
-- "planet"
-- "winkeltripel"
-- "world"

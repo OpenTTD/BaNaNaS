@@ -14,7 +14,5 @@ description: |-
 
   Amusez vous bien!
 url: ""
-tags:
-- "france"
-- "french"
-- "ttff"
+regions:
+- "FR"

@@ -5,11 +5,5 @@ description: |-
 
   (c) 2021 Doubi88 (MIT License)
 url: "https://github.com/Doubi88/town-names-of-allgaeu"
-tags:
-- "allgäu"
-- "bavaria"
-- "bayern"
-- "deutschland"
-- "germany"
-- "names"
-- "town"
+regions:
+- "DE-BY"

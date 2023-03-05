@@ -1,6 +1,5 @@
 name: "Hong Kong Town Names"
 description: "Hong Kong Town Names v1.1 (277 names) by Phykk"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=72507&p=1140931#p1140931"
-tags:
-- "names"
-- "town"
+regions:
+- "HK"

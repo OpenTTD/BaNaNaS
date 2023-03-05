@@ -4,17 +4,7 @@ description: |-
 
   Made using TrueGRF.
 url: "https://github.com/StarRaid/testownames"
-tags:
-- "british"
-- "celtic"
-- "england"
-- "english"
-- "scotland"
-- "scottish"
-- "starraid"
-- "town names"
-- "towns"
-- "uk"
-- "unholyphish"
-- "wales"
-- "welsh"
+regions:
+- "GB-ENG"
+- "GB-SCT"
+- "GB-WLS"

@@ -1,3 +1,5 @@
 name: "Mars"
 description: ""
 url: ""
+regions:
+- "UN-MARS"

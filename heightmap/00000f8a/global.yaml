@@ -7,7 +7,5 @@ description: |-
 
   created in 2016 by Timeflyer
 url: ""
-tags:
-- "denmark"
-- "northsea"
-- "relief"
+regions:
+- "DK"

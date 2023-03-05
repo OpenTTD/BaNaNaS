@@ -14,21 +14,5 @@ description: |-
   (c)2015-18 SilverSurferZzZ
   CC BY-NC-ND
 url: "http://www.tt-forums.net/viewtopic.php?&t=74211"
-tags:
-- "base cost"
-- "basecost"
-- "buoys"
-- "cargo icons"
-- "challenge"
-- "city"
-- "cost"
-- "eyecandy"
-- "harder"
-- "icons"
-- "japanese"
-- "landscape"
-- "names"
-- "naruto"
-- "objects"
-- "silversurferzzz"
-- "town"
+regions:
+- "JP"

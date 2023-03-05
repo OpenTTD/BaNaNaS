@@ -4,8 +4,5 @@ description: |-
   FAQ or Suggest - wlq10000@naver.com
   description or details in http://blog.naver.com/wlq10000
 url: "http://blog.naver.com/wlq10000"
-tags:
-- "korea"
-- "korea train"
-- "korean"
-- "korean train"
+regions:
+- "KR"

@@ -5,20 +5,7 @@ description: |-
 
   Released a part of Kamnet's Town Names project. Please visit the release topic URL for more information.
 url: "http://www.tt-forums.net/viewtopic.php?p=1110725#p1110725"
-tags:
-- "america"
-- "id"
-- "idaho"
-- "kamnet"
-- "kevin fields"
-- "names"
-- "or"
-- "oregon"
-- "pacific northwest"
-- "pacnw"
-- "pnw"
-- "town"
-- "united states"
-- "usa"
-- "wa"
-- "washington"
+regions:
+- "US-ID"
+- "US-OR"
+- "US-WA"

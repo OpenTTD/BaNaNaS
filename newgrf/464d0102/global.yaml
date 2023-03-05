@@ -6,7 +6,3 @@ description: |-
 
   Requires PURR Universal Rainbow Rails NewGRF.
 url: "https://github.com/fmodesto/openttd_max_speed/"
-tags:
-- "conditional orders"
-- "logic"
-- "max speed"

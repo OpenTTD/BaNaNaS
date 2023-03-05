@@ -4,16 +4,7 @@ description: |-
 
   It also snows in the winter.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=74233"
-tags:
-- "big"
-- "england"
-- "gb"
-- "gis"
-- "hilly"
-- "labels"
-- "scotland"
-- "snow"
-- "uk"
-- "ukrs"
-- "wales"
-- "woodland"
+regions:
+- "GB-ENG"
+- "GB-SCT"
+- "GB-WLS"

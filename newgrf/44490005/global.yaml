@@ -4,8 +4,5 @@ description: |-
 
   Requires a narrow gauge track NewGRF. Narrow Gauge Track Types (ngtracktypes.grf) or Termite (termite.grf) are recommended.
 url: "http://www.tt-forums.net/viewtopic.php?p=225245#p225245"
-tags:
-- "narrow gauge"
-- "serbia"
-- "srsngw"
-- "train"
+regions:
+- "RS"

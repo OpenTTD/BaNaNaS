@@ -3,8 +3,3 @@ description: |-
   A square map of a lazy coastline with plenty of islands and a hardly noticeable slope. Suitable for all climates.
   For 2048x2048 games, a max height of 15 produces a fairly flat map with a gentle slope.
 url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
-tags:
-- "coastline"
-- "flat"
-- "hills"
-- "islands"

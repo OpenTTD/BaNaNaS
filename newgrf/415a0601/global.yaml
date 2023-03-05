@@ -4,8 +4,5 @@ description: |-
 
   It is a work in progress but is fully playable, and as of this release includes 15 unique bridges across 8 bridge slots, with more to be added later!
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75209"
-tags:
-- "american"
-- "bridges"
-- "infrastructure"
-- "nrt"
+regions:
+- "US"

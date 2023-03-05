@@ -8,8 +8,5 @@ description: |-
 
   - 2016, Timeflyer -
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=74586&p=1165759#p1165759"
-tags:
-- "aussie"
-- "australia"
-- "australiancontinent"
-- "downunder"
+regions:
+- "AU"

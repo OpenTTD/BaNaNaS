@@ -1,8 +1,5 @@
 name: "Funny Russian town names"
 description: "Randomly generated funny town names in Russian."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=77259&p=1194000"
-tags:
-- "funny"
-- "random"
-- "russian"
-- "town names"
+regions:
+- "RU"

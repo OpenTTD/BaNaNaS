@@ -8,9 +8,5 @@ description: |-
 
   Based on the Transport Fever map "Map21" by Luk0r
 url: ""
-tags:
-- "america"
-- "dibujaron"
-- "nais"
-- "nars"
-- "realistic"
+regions:
+- "US"

@@ -1,8 +1,5 @@
 name: "Irish Town Names"
 description: "Randomly generate towns with names that sound like names of towns in Ireland."
 url: "https://github.com/bunburya/openttd-irish-town-names"
-tags:
-- "ie"
-- "ireland"
-- "irish"
-- "town names"
+regions:
+- "IE"

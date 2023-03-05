@@ -8,9 +8,7 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/July 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1173085#p1173085"
-tags:
-- "bulgaria"
-- "europe"
-- "greece"
-- "subtropical"
-- "turkey"
+regions:
+- "BG"
+- "GR"
+- "TR"

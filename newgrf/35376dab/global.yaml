@@ -6,8 +6,5 @@ description: |-
 
   Copyright © 2011 by Wm Minchin [v.2, 2011-03-07, CC-BY-ND 3.0]
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=53313"
-tags:
-- "alberta"
-- "minchinweb"
-- "names"
-- "town"
+regions:
+- "CA-AB"

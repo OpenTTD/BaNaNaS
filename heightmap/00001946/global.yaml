@@ -14,14 +14,6 @@ description: |-
 
   source: bother (https://srtm.csi.cgiar.org)
   info: https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
-tags:
-- "ascension"
-- "cunha"
-- "edinburgh"
-- "georgetown"
-- "helena"
-- "islands"
-- "jamestown"
-- "ocean"
-- "tristan"
-- "volcano"
+regions:
+- "GB-EDH"
+- "SH-AC"

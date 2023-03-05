@@ -7,8 +7,6 @@ description: |-
   - 2048x1024 tiles
   - starting year 1890
 url: "http://tiny.cc/trans-siberian"
-tags:
-- "asia"
-- "construction"
-- "russia"
-- "siberia"
+regions:
+- "RU"
+- "UN-142"

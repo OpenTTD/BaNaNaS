@@ -7,11 +7,5 @@ description: |-
   Buses can carry passengers or ECS tourists.
   Versions 5 and above provide custom road types.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=72694"
-tags:
-- "bus"
-- "horse"
-- "poland"
-- "polish road set"
-- "road"
-- "truck"
-- "vehicle"
+regions:
+- "PL"

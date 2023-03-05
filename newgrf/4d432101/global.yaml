@@ -9,12 +9,5 @@ description: |-
   Some houses classes should appear as distinctive clusters, for example separate slums or residential districts.
   Additional settings for street lamps and pavement replacement.
 url: "https://www.tt-forums.net/viewtopic.php?t=89754"
-tags:
-- "Africa"
-- "cities"
-- "desert"
-- "houses"
-- "huts"
-- "rainforest"
-- "towns"
-- "tropical"
+regions:
+- "UN-002"

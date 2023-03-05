@@ -12,11 +12,7 @@ description: |-
   brickie
   Wasila
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=54022"
-tags:
-- "britain"
-- "england"
-- "london"
-- "scenario"
-- "temperate"
-- "uk"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-LND"
+- "GB-WLS"

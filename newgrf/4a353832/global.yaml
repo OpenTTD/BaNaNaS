@@ -1,10 +1,3 @@
 name: "ALe582-ALe642"
 description: "The ALe582 and ALe642 are EMUs produced in 1987 and 1991 respectively, intended for commuter service. They use a DC chopper motor control."
 url: "https://github.com/RAD750/openttdstuff/tree/master/ale582"
-tags:
-- "electric"
-- "emu"
-- "passenger"
-- "regional"
-- "suburban"
-- "train"

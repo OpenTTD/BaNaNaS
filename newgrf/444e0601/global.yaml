@@ -4,13 +4,3 @@ description: |-
 
   Adds Urban Monorail -- a monorail track with a concrete base -- using graphics based on the OpenGFX monorail tracks, and replaces depots and tunnels. Supports all climates and provides snow- or sand-covered track.
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=47359"
-tags:
-- "city"
-- "concrete"
-- "depot"
-- "infrastructure"
-- "level crossing"
-- "monorail"
-- "track"
-- "tunnel"
-- "urban"

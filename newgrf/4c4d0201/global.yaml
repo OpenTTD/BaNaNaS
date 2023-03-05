@@ -5,6 +5,5 @@ description: |-
   Made by Purno
   Thanks to Szappy, Patchman and the Dutch Trainset Team.
 url: ""
-tags:
-- "dutch"
-- "signals"
+regions:
+- "NL"

@@ -4,8 +4,5 @@ description: |-
 
   A representative range of locomotives and train cars found on British railways, from 1920 to the present, and also features a number of futuristic vehicles up to 2050.  Includes features such as steam locomotives with tenders and realistic running sounds and horn/whistle sounds for every locomotive.
 url: "http://users.tt-forums.net/pikka/wiki/index.php?title=UK_Renewal_Set"
-tags:
-- "british"
-- "pikka"
-- "uk"
-- "ukrs"
+regions:
+- "GB"

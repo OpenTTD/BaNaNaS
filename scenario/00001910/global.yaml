@@ -1,14 +1,6 @@
 name: "Southern Norway - No Industries"
 description: "Southern Norway map by KUHNOVIC, but without any industries added to make it suitable for industry replacement sets such as FIRS."
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=87649&p=1236877#p1236877"
-tags:
-- "Arctic"
-- "Bergen"
-- "Norway"
-- "Oil"
-- "Oslo"
-- "Scandinavia"
-- "Sea"
-- "Snow"
-- "Sweden"
-- "Trondheim"
+regions:
+- "NO-03"
+- "SE"

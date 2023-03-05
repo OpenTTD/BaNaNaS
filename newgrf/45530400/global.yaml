@@ -3,3 +3,5 @@ replaced-by:
   unique-id: "45530500"
 description: "Japanese Style Stations."
 url: "http://as-st.com/ttd/japan/index.html?disFr=trains.html"
+regions:
+- "JP"

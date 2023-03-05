@@ -8,13 +8,8 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "china"
-- "heightmap"
-- "japan"
-- "korean peninsula"
-- "moriarty"
-- "north korea"
-- "russia"
-- "south korea"
+regions:
+- "CN"
+- "JP"
+- "KP"
+- "RU"

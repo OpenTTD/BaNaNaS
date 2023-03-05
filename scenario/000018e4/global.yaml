@@ -4,12 +4,6 @@ description: |-
 
   This scenario was made with no industries or even NewGRFs in the interest of making it a useful 'base' for building a scenario on top of it.
 url: "https://github.com/internet-trains"
-tags:
-- "LIRR"
-- "MNR"
-- "MTA"
-- "NJT"
-- "New Jersey"
-- "New York"
-- "US"
-- "USA"
+regions:
+- "US-NJ"
+- "US-NY"

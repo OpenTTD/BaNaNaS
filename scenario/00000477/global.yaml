@@ -5,14 +5,10 @@ description: |-
 
   Enjoy!
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=44921"
-tags:
-- "baltic"
-- "denmark"
-- "estonia"
-- "finland"
-- "latvia"
-- "lituania"
-- "norway"
-- "realistic"
-- "scandinavia"
-- "sweden"
+regions:
+- "DK"
+- "EE"
+- "FI"
+- "LV"
+- "NO"
+- "SE"

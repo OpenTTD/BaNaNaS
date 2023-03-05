@@ -4,17 +4,12 @@ description: |-
   Heightmap of the Indian Subcontinent. Includes parts of surrounding countries.
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "afghanistan"
-- "bangladesh"
-- "bhutan"
-- "china"
-- "heightmap"
-- "india"
-- "indian"
-- "moriarty"
-- "nepal"
-- "pakistan"
-- "sri lanka"
-- "subcontinent"
+regions:
+- "AF"
+- "BD"
+- "BT"
+- "CN"
+- "IN"
+- "LK"
+- "NP"
+- "PK"

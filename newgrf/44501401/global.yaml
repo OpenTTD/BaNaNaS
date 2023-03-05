@@ -1,3 +1,5 @@
 name: "Japanese Maglevs"
 description: "Add-on to the Japanese Train Set. Contrary to the name, contains not only experimental Japanese maglev trains but also conventional trains operated by some private railways."
 url: ""
+regions:
+- "JP"

@@ -1,10 +1,5 @@
 name: "Cliffhanger (by Purno)"
 description: "A fictional arctic map with mountains and rivers. Size is 256x512 and townnames look French."
 url: "http://www.tt-forums.net/viewtopic.php?p=330431#p330431"
-tags:
-- "256x512"
-- "arctic"
-- "french"
-- "mountains"
-- "rivers"
-- "snow"
+regions:
+- "FR"

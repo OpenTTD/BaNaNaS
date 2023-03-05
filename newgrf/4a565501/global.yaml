@@ -1,6 +1,3 @@
 name: "Velo"
 description: "A bicycle lane (tram) plus vehicle"
 url: "https://github.com/javelinnl/velo"
-tags:
-- "Bicycle"
-- "tram"

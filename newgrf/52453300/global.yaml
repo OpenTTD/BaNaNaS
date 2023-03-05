@@ -1,3 +1,5 @@
 name: "Japanese Trees"
 description: "Japanese Trees for Temperate and Arctic."
 url: ""
+regions:
+- "JP"

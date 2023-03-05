@@ -1,12 +1,5 @@
 name: "Welsh Town Names"
 description: "A set of real Welsh-language town names."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=27357&p=491278#p491278"
-tags:
-- "british"
-- "great britain"
-- "paulc"
-- "town names"
-- "uk"
-- "united kingdom"
-- "wales"
-- "welsh"
+regions:
+- "GB-WLS"

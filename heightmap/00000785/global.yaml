@@ -1,3 +1,5 @@
 name: "Crete"
 description: "A heightmap of the Greek island of Crete. An interesting piece of land, because of the big mountains and varying coast line"
 url: ""
+regions:
+- "GR-M"

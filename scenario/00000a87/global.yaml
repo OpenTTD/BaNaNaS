@@ -4,8 +4,5 @@ description: |-
 
   Scotland with Gaelic town names. Based on the Scotland heightmap.
 url: ""
-tags:
-- "alba"
-- "gaelic"
-- "gàidhlig"
-- "scotland"
+regions:
+- "GB-SCT"

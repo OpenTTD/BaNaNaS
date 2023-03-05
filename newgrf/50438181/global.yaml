@@ -1,9 +1,5 @@
 name: "Mongolian Town Names"
 description: "A set of 275 place names from Mongolia, in either Latin or Cyrillic script."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=58276"
-tags:
-- "asian"
-- "cyrillic"
-- "mongolia"
-- "paulc"
-- "town names"
+regions:
+- "MN"

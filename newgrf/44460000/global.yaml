@@ -2,7 +2,3 @@ name: "OpenTTD plus"
 archived: true
 description: "This is a pack of more trains along the theme of the original trainset. it REQUIRES old wagons, new cargos to work and WILL NOT WORK correctly on ttdpatch. This is due to there not being enough engine ID's in ttdpatch to accommodate for the original vehicles + these new ones."
 url: ""
-tags:
-- "default"
-- "train"
-- "trains"

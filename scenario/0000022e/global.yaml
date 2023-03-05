@@ -1,8 +1,5 @@
 name: "Jungle Urbaine (Paris)"
 description: "Paris and its surroundings with random industries."
 url: "http://wiki.openttd.org/Scenario:Jungle_Urbaine_%28Paris%29"
-tags:
-- "europe"
-- "france"
-- "jungle"
-- "paris"
+regions:
+- "FR-75"

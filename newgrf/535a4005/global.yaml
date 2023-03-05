@@ -15,17 +15,5 @@ description: |-
   (c)2015-19 SilverSurferZzZ
   CC BY-NC-ND
 url: "http://www.tt-forums.net/viewtopic.php?&t=74705"
-tags:
-- "buses"
-- "cars"
-- "future"
-- "futuristic"
-- "japanese"
-- "road"
-- "rvs"
-- "silversurferzzz"
-- "snow"
-- "streetcars"
-- "trams"
-- "trucks"
-- "vehicles"
+regions:
+- "JP"

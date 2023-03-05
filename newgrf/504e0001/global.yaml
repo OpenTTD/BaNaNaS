@@ -1,6 +1,5 @@
 name: "UK Waypoints"
 description: "A set based in the UK containing 6 waypoints. These are based on real signalboxes you can find at Signalbox.org. Drawn by Born Acorn and coded by peter1138."
 url: "http://www.tt-terminal.co.uk/index.shtml#newsitemEEuEEupVppyfnDfYie"
-tags:
-- "uk"
-- "waypoints"
+regions:
+- "GB"

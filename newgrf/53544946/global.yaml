@@ -1,8 +1,5 @@
 name: "Some Trains In France"
 description: "Some Trains In France; STIF"
 url: ""
-tags:
-- "france"
-- "french"
-- "gwyd"
-- "stif"
+regions:
+- "FR"

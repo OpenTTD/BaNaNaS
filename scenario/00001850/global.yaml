@@ -4,8 +4,5 @@ description: |-
 
   This version requires no NewGRFs.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85877"
-tags:
-- "arctic"
-- "mountains"
-- "north america"
-- "rivers"
+regions:
+- "UN-021"

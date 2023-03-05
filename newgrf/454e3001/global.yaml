@@ -1,7 +1,5 @@
 name: "North Korean Track Set"
 description: "A track set designed for use with the North Korean Trainset."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745#p1189522"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

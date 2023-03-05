@@ -7,12 +7,6 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "1024"
-- "2048"
-- "america"
-- "continental usa"
-- "heightmap"
-- "mexico"
-- "moriarty"
-- "usa"
+regions:
+- "MX"
+- "US"

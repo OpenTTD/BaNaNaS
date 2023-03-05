@@ -8,9 +8,6 @@ description: |-
 
   and DB Set XL v0.82: http://ttdpatch.de/download.html
 url: "http://bildergalerie.eschy5.de/details.php?image_id=150"
-tags:
-- "deutschschland"
-- "germany"
-- "rheinland-pfalz"
-- "rhineland-palatinate"
-- "saarland"
+regions:
+- "DE-RP"
+- "DE-SL"

@@ -11,11 +11,5 @@ description: |-
   http://www.OpenTTD.imotor.com
   QQ group:6660736
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=72667"
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "full zoom"
-- "headquarters"
-- "hq"
-- "hqs"
+regions:
+- "CN"

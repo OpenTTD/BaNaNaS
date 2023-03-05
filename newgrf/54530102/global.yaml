@@ -9,9 +9,5 @@ description: |-
 
   Some sprites based on sprites from 2CC, DACH, Dutch Trainset. Released under GPLv 2, refer to readme.txt.
 url: "https://dev.openttdcoop.org/projects/cfl-trains"
-tags:
-- "ecs"
-- "firs"
-- "luxembourg"
-- "realistic"
-- "trains"
+regions:
+- "LU"

@@ -1,8 +1,5 @@
 name: "Gliese 581D"
 description: "Set Fictional-Dystopian Past in The year 1946 After World War 2 The Koreans Would Attempt To The Outer Solar System Within The Afterwar Spaceship was finished in 1949 To Explore The Extrasolar Planet Named Gliese 581d a 22 light year away star the Spaceship Powered by Nuclear Fusion After 1945 Bombing of Hiroshima and Nagasaki After Extracting The Nuclear Radiation The Nuclear Fission Has Completed Would Arriving the Gliese 581g in mid-1950s"
 url: ""
-tags:
-- "dystopi"
-- "extrasolar"
-- "gliese"
-- "korean"
+regions:
+- "KR"

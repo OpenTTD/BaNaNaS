@@ -3,8 +3,5 @@ description: |-
   This is a Brazil scenario with most important locations of this country, like Rio de Janeiro, Sao Paulo, Amazonas.
   This map have much rivers and forests.
 url: ""
-tags:
-- "brasil"
-- "brazil"
-- "rio"
-- "south america"
+regions:
+- "BR"

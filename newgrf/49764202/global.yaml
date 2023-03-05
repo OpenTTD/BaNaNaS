@@ -1,7 +1,5 @@
 name: "German Town Names"
 description: "German Town Names, choose either real names or fictional ones or a combination of both"
 url: "http://dev.openttdcoop.org/projects/german-townnames"
-tags:
-- "planetmaker"
-- "town"
-- "townname"
+regions:
+- "DE"

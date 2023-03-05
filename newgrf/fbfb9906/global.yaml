@@ -4,6 +4,5 @@ description: |-
 
   The Dutch Trainset Cargo Extension DOES NOT add additional cargo graphics, it just adds the refit options.
 url: "http://www.tt-forums.net/viewtopic.php?t=55872"
-tags:
-- "cargo"
-- "dutch"
+regions:
+- "NL"

@@ -5,10 +5,7 @@ description: |-
   For JGR users:
   When used with maximum resolution 1 tile = 163m
   For real time use 300 ticks per minute
-tags:
-- "heightmap"
-- "hokkaido"
-- "japan"
-- "kanto"
-- "okinawa"
-- "tokyo"
+regions:
+- "JP-01"
+- "JP-13"
+- "JP-47"

@@ -6,11 +6,5 @@ description: |-
   Welcome to visit chinese forum & QQ group:6660736
   http://www.OpenTTD.imotor.com
 url: "https://www.tt-forums.net/viewtopic.php?p=1247062#p1247062"
-tags:
-- "32bpp"
-- "china"
-- "chinese"
-- "maglev"
-- "shanghai"
-- "smt"
-- "trains"
+regions:
+- "CN-SH"

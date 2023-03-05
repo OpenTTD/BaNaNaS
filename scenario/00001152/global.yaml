@@ -8,9 +8,5 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/January 2017
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1181588#p1181587"
-tags:
-- "amazon river"
-- "brazil"
-- "manaus"
-- "south america"
-- "subtropical"
+regions:
+- "BR"

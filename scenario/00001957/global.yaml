@@ -1,13 +1,4 @@
 name: "Greenland 1880"
 description: "This is Greenland scenario. There are top 30 populous towns in Greenland (maybe more, idk) and I think I placed them pretty accurately.. This scenario begins in 1880."
-tags:
-- "12.1"
-- "1880"
-- "greenland"
-- "masterstudiocz"
-- "nuuk"
-- "paamiut"
-- "qaanaaq"
-- "qaqartoq"
-- "scenario"
-- "sisimut"
+regions:
+- "GL"

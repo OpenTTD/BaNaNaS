@@ -3,9 +3,5 @@ description: |-
   A map of Germany including border area of neighboring countries (Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, The Netherlands, Denmark).
   Real topography, major rivers, a few major lakes, country borders. Including the Frisian Islands and major lighthouses.
   Changes: corrections of river flows, more industries placed in more reasonable places.
-tags:
-- "deutschland"
-- "europa"
-- "europe"
-- "germany"
-- "karte"
+regions:
+- "DE"

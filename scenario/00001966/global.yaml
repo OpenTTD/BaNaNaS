@@ -13,16 +13,8 @@ description: |-
 
   Created by WendellSenior
   Credit to CaptainKlutz for heightmap
-tags:
-- "19th century"
-- "alpine"
-- "austria"
-- "confluence"
-- "empire"
-- "firs"
-- "germany"
-- "historic"
-- "hungary"
-- "imperial"
-- "poland"
-- "realistic"
+regions:
+- "AT"
+- "DE"
+- "HU"
+- "PL"

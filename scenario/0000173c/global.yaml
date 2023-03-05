@@ -3,11 +3,5 @@ description: |-
   Region of Slovakia between towns of Nitra, Sereď, Hlohovec, Topoľčany and Piešťany. Based on reality. Includes only base graphics of OpenTTD.
   Región západného Slovenska medzi mestami Nitra, Sereď, Hlohovec, Topoľčany a Piešťany. Poloha sídiel je podľa skutočnosti. Neobsahuje NewGRF.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85364"
-tags:
-- "agriculture"
-- "nitra"
-- "real"
-- "region"
-- "skutocnost"
-- "slovakia"
-- "slovensko"
+regions:
+- "SK"

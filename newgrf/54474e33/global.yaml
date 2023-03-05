@@ -1,11 +1,5 @@
 name: "Class 313,314 & 315 Night train"
 description: "Class 313, 314 and 315, but as night versions."
 url: ""
-tags:
-- "br"
-- "gwyd"
-- "night"
-- "nse"
-- "pep"
-- "trains"
-- "uk"
+regions:
+- "GB"

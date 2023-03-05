@@ -8,8 +8,5 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/May 2016
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1168176#p1168176"
-tags:
-- "alaska"
-- "anchorage"
-- "subarctic"
-- "usa"
+regions:
+- "US-AK"

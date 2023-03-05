@@ -1,3 +1,5 @@
 name: "Japanese Faces"
 description: "Japanese faces for company managers."
 url: ""
+regions:
+- "JP"

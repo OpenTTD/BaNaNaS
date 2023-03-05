@@ -4,3 +4,5 @@ description: |-
   This scenario has a lot of towns, route connections, and even the salado river!
   it has a lot of raw materials but few industries.
 url: ""
+regions:
+- "AR-B"

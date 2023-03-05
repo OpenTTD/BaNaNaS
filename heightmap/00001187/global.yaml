@@ -8,18 +8,9 @@ description: |-
 
   I apologize for inaccuracies with mountains, hills, and rivers (some may be in the wrong place or shouldn't exist on the map)
 url: ""
-tags:
-- "africa"
-- "bahrain"
-- "east"
-- "italy"
-- "master"
-- "middle"
-- "middle east"
-- "neko"
-- "nekomaster"
-- "north"
-- "saudi arabia"
-- "south"
-- "spain"
-- "uae"
+regions:
+- "BH"
+- "ES"
+- "IT"
+- "SA"
+- "UN-002"

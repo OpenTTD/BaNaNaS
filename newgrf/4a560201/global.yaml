@@ -1,8 +1,5 @@
 name: "FRISS - Rail Infrastructure"
 description: "Rail Infrastructure part of FRISS (Finnish Rail Infrastructure & Stations Set)"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=43560"
-tags:
-- "finnish"
-- "rails"
-- "railtypes"
-- "tracks"
+regions:
+- "FI"

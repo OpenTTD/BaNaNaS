@@ -6,6 +6,5 @@ description: |-
 
   There are 150 names in total. 20 are currently on the UK rail network. The others are a mixture of towns, villages and areas.
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=69944"
-tags:
-- "town names"
-- "uk"
+regions:
+- "GB"

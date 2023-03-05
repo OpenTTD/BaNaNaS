@@ -1,9 +1,3 @@
 name: "Refit Default RVs"
 description: "Allows the default road vehicles to be refit for new cargo types. Specifically designed for use with PBI, but should work with other industry sets, including NewCargo. Also compatible with HOVS UK Bus Set (should be loaded before this grf)."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=34744&p=638884#p638884"
-tags:
-- "newcargos"
-- "paulc"
-- "refit"
-- "road vehiches"
-- "rvs"

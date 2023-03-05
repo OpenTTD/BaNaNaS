@@ -8,11 +8,6 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "heightmap"
-- "iberian peninsula"
-- "moriarty"
-- "peninsula"
-- "portugal"
-- "spain"
+regions:
+- "ES"
+- "PT"

@@ -8,6 +8,5 @@ description: |-
   Size: 256x512
   Starting date: 1930-01-01
 url: "https://gitlab.com/radek-sprta/czechia-1930-modern"
-tags:
-- "czechnia"
-- "modern"
+regions:
+- "CZ"

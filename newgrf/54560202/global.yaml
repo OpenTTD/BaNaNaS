@@ -1,8 +1,3 @@
 name: "Fix TTD grf bugs"
 description: "This grf fix some bugs from the original TTD grfs. For example the wrong sprites at some of the newest lorries, and some other bugs more."
 url: "http://addi.tt-ms.de/grf.htm"
-tags:
-- "bugs"
-- "fix"
-- "grf"
-- "original"

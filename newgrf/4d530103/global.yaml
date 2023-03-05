@@ -4,8 +4,5 @@ description: |-
 
   In version 1.1 added two high speed units.
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=66582"
-tags:
-- "czech"
-- "extra"
-- "long"
-- "train"
+regions:
+- "CZ"

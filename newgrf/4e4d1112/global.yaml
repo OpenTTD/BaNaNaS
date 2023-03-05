@@ -13,17 +13,5 @@ description: |-
 
   License: GPL v2.
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=84039"
-tags:
-- "america"
-- "american"
-- "and_the_cow_goes_MOO"
-- "industry"
-- "master"
-- "nais"
-- "nek0"
-- "neko"
-- "neko-master"
-- "nekomaster"
-- "north"
-- "north american industry set"
-- "set"
+regions:
+- "US"

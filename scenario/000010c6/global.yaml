@@ -8,8 +8,5 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/October 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1177340#p1177340"
-tags:
-- "las vegas"
-- "north america"
-- "subtropical"
-- "usa"
+regions:
+- "US"

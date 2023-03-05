@@ -7,14 +7,8 @@ description: |-
   Enjoy,
   Red0011
 url: "http://www.tt-forums.net/viewtopic.php?f=60&p=1099464#p1099464"
-tags:
-- "africa"
-- "australia"
-- "canada"
-- "europe"
-- "map"
-- "middle east"
-- "use"
-- "w.a.c"
-- "wac"
-- "world"
+regions:
+- "AU"
+- "CA"
+- "UN-002"
+- "UN-150"

@@ -1,6 +1,5 @@
 name: "UK Roads with Signs"
 description: "UK Roadset with integrated White one-way arrows and some extra \"furniture\" such as directional and dead end signs."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=56243"
-tags:
-- "roads"
-- "uk"
+regions:
+- "GB"

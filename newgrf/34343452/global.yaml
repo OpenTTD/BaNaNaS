@@ -4,8 +4,3 @@ description: |-
 
   It originates from a rebuild of E444s with a new cab and improved control systems.
 url: "https://github.com/RAD750/openttdstuff/tree/master/e444"
-tags:
-- "electric"
-- "locomotive"
-- "passenger"
-- "train"

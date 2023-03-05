@@ -4,7 +4,5 @@ description: |-
 
   Because someone had to do it.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

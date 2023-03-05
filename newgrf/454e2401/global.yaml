@@ -1,8 +1,5 @@
 name: "North Korean Tram Set"
 description: "A tram set with North Korean trams. Contains trams from Pyongyang, Chongjin and Wonsan."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745&p=1189522#p1189522"
-tags:
-- "dprk"
-- "korea"
-- "north"
-- "tram"
+regions:
+- "KP"

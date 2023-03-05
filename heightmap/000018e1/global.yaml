@@ -3,10 +3,3 @@ description: |-
   A 1:2 rectangular map featuring procedurally generated mountainous islands. Suitable for medium-large sizes and all climates.
   For 2048x4096 games, a max height of 30 or above is recommended.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84666"
-tags:
-- "cliffs"
-- "coast"
-- "flat"
-- "mountains"
-- "ocean"
-- "sea"

@@ -1,13 +1,5 @@
 name: "Timberwolf's UK Road Vehicles 3"
 description: "A UK-inspired road vehicle set for OpenTTD featuring buses, lorries, trams and others from early horse-drawn wagons to the present day. Features 2cc colours and 2x zoom. Supports multiple roadtypes and FIRS/ECS/YETI cargo options."
 url: "https://github.com/mattkimber/timberwolfs_road_vehicles"
-tags:
-- "bus"
-- "buses"
-- "nrt"
-- "road"
-- "timberwolf"
-- "truck"
-- "trucks"
-- "uk"
-- "vehicles"
+regions:
+- "GB"

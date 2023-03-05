@@ -3,6 +3,5 @@ replaced-by:
   unique-id: "4b4b0102"
 description: "Hong Kong Town Names v1.0 (261 names) by Phykk"
 url: ""
-tags:
-- "names"
-- "town"
+regions:
+- "HK"

@@ -13,8 +13,5 @@ description: |-
 
   Enjoy!
 url: ""
-tags:
-- "florida"
-- "real"
-- "real world"
-- "usa"
+regions:
+- "US-FL"

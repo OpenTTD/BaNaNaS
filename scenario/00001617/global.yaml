@@ -4,10 +4,5 @@ description: |-
 
   -Balsiefen
 url: "https://www.tt-forums.net/viewtopic.php?t=73800"
-tags:
-- "512"
-- "balsiefen"
-- "england"
-- "firs"
-- "northwest"
-- "ukrs2"
+regions:
+- "GB-ENG"

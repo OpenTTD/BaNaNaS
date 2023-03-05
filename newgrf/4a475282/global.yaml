@@ -4,6 +4,3 @@ description: |-
 
   Requires an OpenTTD version which supports this feature such as JGR's patchpack v0.44.2 or later.
 url: "https://github.com/JGRennison/buffers-object-grf"
-tags:
-- "buffers"
-- "object"

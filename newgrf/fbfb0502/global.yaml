@@ -4,9 +4,6 @@ description: |-
 
   Must be used in combination with Dutch Road Furniture.
 url: "http://dev.openttdcoop.org/projects/dutchroadfurniture"
-tags:
-- "freeways"
-- "motorways"
-- "objects"
-- "signs"
-- "uk"
+regions:
+- "GB"
+- "NL"

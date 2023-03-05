@@ -1,10 +1,7 @@
 name: "Japan, Chubu"
 description: "Chubu with parts of Kansai, Kanto and a little bit of Tohoku"
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=75194"
-tags:
-- "japan"
-- "kyoto"
-- "nagoya"
-- "osaka"
-- "tokaido"
-- "tokyo"
+regions:
+- "JP-13"
+- "JP-26"
+- "JP-27"

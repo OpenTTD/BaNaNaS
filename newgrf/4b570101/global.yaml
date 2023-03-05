@@ -9,13 +9,7 @@ description: |-
   Code:kiwitree(kiwitreekor@gmail.com)
   Please Enjoy :)
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=82492"
-tags:
-- "asia"
-- "japan"
-- "keihan"
-- "keio"
-- "kyoto"
-- "metro"
-- "osaka"
-- "tokyo"
-- "train"
+regions:
+- "JP-13"
+- "JP-26"
+- "JP-27"

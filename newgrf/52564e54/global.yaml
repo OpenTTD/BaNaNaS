@@ -1,6 +1,5 @@
 name: "Vietnamese Town Names"
 description: "Generates town names based on the names of cities in Vietnam. I've squeezed down the character set (which has mangled some names) to make it work on an ordinary English OpenTTD installation."
 url: ""
-tags:
-- "town names"
-- "vietnamese"
+regions:
+- "VN"

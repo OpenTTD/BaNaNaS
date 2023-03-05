@@ -9,18 +9,6 @@ description: |-
 
   GPL v2, Gwyd. Original graphics from Dutch Stations.
 url: "https://www.tt-forums.net/viewtopic.php?t=83886"
-tags:
-- "america"
-- "american"
-- "have_a_fishy_stick"
-- "master"
-- "nats"
-- "nek0"
-- "neko"
-- "neko-master"
-- "nekomaster"
-- "north"
-- "north american track set"
-- "railtype"
-- "set"
-- "track"
+regions:
+- "NL"
+- "US"

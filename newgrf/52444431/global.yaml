@@ -1,10 +1,6 @@
 name: "Bulgarian Town Names"
 description: "Contain the real names of all towns, cities and villages in Bulgaria in Cyrillic and Latin"
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=67161#p1179640"
-tags:
-- "bulgaria"
-- "city"
-- "europe"
-- "sofia"
-- "town"
-- "village"
+regions:
+- "BG-22"
+- "BG-23"

@@ -8,15 +8,11 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "black sea"
-- "bulgaria"
-- "georgia"
-- "heightmap"
-- "moldova"
-- "moriarty"
-- "romania"
-- "russia"
-- "turkey"
-- "ukraine"
+regions:
+- "BG"
+- "GE"
+- "MD"
+- "RO"
+- "RU"
+- "TR"
+- "UA"

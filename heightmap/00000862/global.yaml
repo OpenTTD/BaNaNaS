@@ -6,9 +6,7 @@ description: |-
 
   Version 1.0 of the heightmap included a much larger portion of New South Wales, but lacked Tasmania, and the terrain was too rough. This has been fixed in 2.0.
 url: ""
-tags:
-- "australia"
-- "heightmap"
-- "new south wales"
-- "south australia"
-- "victoria"
+regions:
+- "AU-NSW"
+- "AU-SA"
+- "AU-VIC"

@@ -5,11 +5,7 @@ description: |-
   Size: 2.048 x 4.096
   Heightlevels: 85
 url: "http://www.tt-ms.de/forum/showthread.php?tid=6389"
-tags:
-- "armenia"
-- "armenien"
-- "caucasus"
-- "georgia"
-- "georgien"
-- "russia"
-- "russland"
+regions:
+- "AM"
+- "GE"
+- "RU"

@@ -1,9 +1,5 @@
 name: "OpenGFX Mars Landscape"
 description: "The OpenGFX Mars Landscape is the Landscape NewGRF from the Mars series."
 url: "http://dev.openttdcoop.org/projects/opengfx-mars"
-tags:
-- "32bpp"
-- "8bpp"
-- "landscape"
-- "mars"
-- "opengfx"
+regions:
+- "UN-MARS"

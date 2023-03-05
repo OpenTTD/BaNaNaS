@@ -11,10 +11,5 @@ description: |-
 
   ---Original Heightmap sourced from BaNaNaS, modified by Balsiefen---
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=73800&p=1157697#p1157697"
-tags:
-- "accurate"
-- "balsiefen"
-- "britain"
-- "heightmap"
-- "newgrf"
-- "scotland"
+regions:
+- "GB-SCT"

@@ -8,14 +8,7 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "1024"
-- "2048"
-- "canada"
-- "continental"
-- "gulf of mexico"
-- "heightmap"
-- "mexico"
-- "moriarty"
-- "north america"
-- "usa"
+regions:
+- "CA"
+- "MX"
+- "US"

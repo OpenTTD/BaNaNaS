@@ -1,7 +1,5 @@
 name: "Polish PKP Set 2.0"
 description: "Polish PKP Set 2.0 is the NewGRF trainset containing typically polish rolling stock since 1918 to the present."
 url: "http://openttd-polska.pl/showthread.php?tid=953"
-tags:
-- "pkp"
-- "polish"
-- "train"
+regions:
+- "PL"

@@ -1,7 +1,5 @@
 name: "North Korean Objects"
 description: "A NewGRF with objects for landmarks from North Korea (DPRK)"
 url: "https://www.tt-forums.net/viewtopic.php?p=1244291#p1244291"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

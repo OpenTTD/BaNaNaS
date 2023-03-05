@@ -15,8 +15,5 @@ description: |-
 
   Myfineshrine
 url: "http://www.tt-ms.de/forum/showthread.php?tid=4558"
-tags:
-- "central europe"
-- "deutschland"
-- "germany"
-- "mitteleuropa"
+regions:
+- "DE"

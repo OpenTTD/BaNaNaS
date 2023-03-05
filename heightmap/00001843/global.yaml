@@ -1,5 +1,5 @@
 name: "Greater Tokyo 2k"
 description: "2k by 2k map of Tokyo and surroundings. Map corresponds to 200km by 200km."
 url: ""
-tags:
-- "japan"
+regions:
+- "JP-13"

@@ -4,23 +4,5 @@ description: |-
   Size: 4096x4096
 
   This map includes complete territory of Venezuela (with Orinoco river), Trinidad & Tobago, Aruba, Curacao, Bonaire and Grenada and parts of Colombia, Brazil, Guyana, Saint Vincent/Grenadines and Barbados.
-tags:
-- "4096"
-- "4k"
-- "amazonas"
-- "aruba"
-- "barbados"
-- "bonaire"
-- "brazil"
-- "caribbean"
-- "colombia"
-- "curacao"
-- "grenada"
-- "grenadines"
-- "guyana"
-- "heightmap"
-- "saint vincent"
-- "south america"
-- "tobago"
-- "trinidad"
-- "venezuela"
+regions:
+- "UN-029"

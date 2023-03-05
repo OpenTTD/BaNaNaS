@@ -6,11 +6,5 @@ description: |-
   1.0.2
   add CZTR Infrastructure Set - BETA0.8.8.
   add FIRS Industry Replacement Set 3.0.12
-tags:
-- "CZTR"
-- "Czech Republic"
-- "FIRS"
-- "Moravia"
-- "Napajedla"
-- "Otrokovice"
-- "Real"
+regions:
+- "CZ"

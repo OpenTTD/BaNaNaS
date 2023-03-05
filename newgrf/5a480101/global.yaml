@@ -1,8 +1,5 @@
 name: "Israeli town names"
 description: "Create Israeli town names."
 url: "https://github.com/ZvikaZ/OpenTTD-Israeli-Town-Names"
-tags:
-- "israel"
-- "israeli"
-- "names"
-- "town"
+regions:
+- "IL"

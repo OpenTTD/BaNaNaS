@@ -4,13 +4,5 @@ description: |-
 
   Uses FIRS industries and complimentry vehicle sets. Towns and Industries are balanced so that they should be fun and not too frustrating to connect and get the whole map working.
 url: "https://www.tt-forums.net/viewtopic.php?t=73800"
-tags:
-- "alpine"
-- "balsiefen"
-- "bay"
-- "english"
-- "fictional"
-- "firs"
-- "gaelic"
-- "mountains"
-- "snow"
+regions:
+- "GB"

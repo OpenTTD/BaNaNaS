@@ -1,7 +1,3 @@
 name: "Pokemon Town Names"
 description: "Town and city names taken from the Pokemon Region. This includes names from Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Orre, Almia, Oblivia and Fiore. The Sevii islands have been given their actual names and have been renamed as Towns instead of Islands. Similarly, Cinnabar Island is now Cinnabar City."
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=74007"
-tags:
-- "city"
-- "names"
-- "town"

@@ -1,7 +1,3 @@
 name: "Crude Earth"
 description: "A (crude) approximation of the earth complete with 257 towns, 400+ industries, and a few rivers. Sub-arctic landscape. No NewGRFs included but of course you're welcome to play with whatever additions you'd like. Starts in 1920 but don't feel bad about changing that. Built on \"The World\" v2 heightmap."
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=84907&p=1218995"
-tags:
-- "earth"
-- "large"
-- "world"

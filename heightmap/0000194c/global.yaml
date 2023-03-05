@@ -8,17 +8,5 @@ description: |-
   This map includes most of Seoul, Gyeonggi, Incheon and includes parts of Gangwon, Chungcheong, DRPK.
 
   수도권 높이맵에는 서울,인천,경기가 포함되어 있으며 강원,충남,충북,북한의 일부분을 포함합니다. JGR을 이용하여 8192x8192 크기로 플레이하면 실제와 비슷한 크기로 구현할수있습니다.
-tags:
-- "2k"
-- "Gyeonggi"
-- "incheon"
-- "seoul"
-- "south korea"
-- "sudogwon"
-- "ソウル"
-- "경기도"
-- "대한민국"
-- "서울"
-- "수도권"
-- "인천"
-- "한국"
+regions:
+- "KR"

@@ -1,9 +1,5 @@
 name: "CS StationSet v0.1"
 description: ""
 url: "http://ttd.tycoonez.com/?id=152"
-tags:
-- "cs"
-- "cz"
-- "czech"
-- "set"
-- "station"
+regions:
+- "CZ"

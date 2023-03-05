@@ -7,9 +7,3 @@ description: |-
   v1.1.2
   Removed road sign at the end of the highway, since it's useless, and added one way roads at that location.
 url: ""
-tags:
-- "highway"
-- "map"
-- "road"
-- "rv"
-- "vehicle"

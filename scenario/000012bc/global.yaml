@@ -8,9 +8,5 @@ description: |-
   http://www.OpenTTD.imotor.com
   QQ group:6660736
 url: "https://www.tt-forums.net/viewtopic.php?p=1191572#p1191572"
-tags:
-- "32bpp"
-- "canton"
-- "china"
-- "chinese"
-- "guangdong"
+regions:
+- "CN"

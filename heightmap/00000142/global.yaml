@@ -1,5 +1,5 @@
 name: "Iceland"
 description: "Whole Iceland, there needs some manual improvement at some parts of the coast line after loading into the editor. But it does a good job just as it is. Have fun."
 url: ""
-tags:
-- "iceland"
+regions:
+- "IS"

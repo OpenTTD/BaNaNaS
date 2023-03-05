@@ -5,6 +5,5 @@ description: |-
 
   Greets, Mark. :)
 url: "http://www.tt-forums.net/viewtopic.php?t=42763"
-tags:
-- "beta"
-- "sweden"
+regions:
+- "SE"

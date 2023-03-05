@@ -4,11 +4,5 @@ description: |-
 
   한국에서 쓰이는 모습과 종류의 선로를 추가해줍니다. 한국 열차 세트나 한국 열차 세트 플러스와 같이 쓰는 것을 추천합니다. 이외 다른 열차 세트나 선로 세트와 호환을 보장하지 않습니다.
 url: "https://github.com/Gamunbi/Korean-Tracks"
-tags:
-- "Korea"
-- "Korean"
-- "Rail"
-- "Track"
-- "Tracks"
-- "선로"
-- "한국"
+regions:
+- "KR"

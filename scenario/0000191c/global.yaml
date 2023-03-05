@@ -3,20 +3,5 @@ description: |-
   A map of Europe including The Netherlands, Belgium, Luxembourg, Germany, Lichtenstein, most of Denmark, Austria, Switzerland, Czechia, Poland and a small fragments of France, Italy and Sweden.
   Real topography, major rivers and lakes, country borders. Including the Frisian Islands, major lighthouses and peaks.
 url: "http://miltschek.de/"
-tags:
-- "austria"
-- "belgium"
-- "czechia"
-- "denmark"
-- "europa"
-- "europe"
-- "france"
-- "germany"
-- "holland"
-- "italy"
-- "lichtenstein"
-- "luxembourg"
-- "netherlands"
-- "poland"
-- "sweden"
-- "switzerland"
+regions:
+- "UN-155"

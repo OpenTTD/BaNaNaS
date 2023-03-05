@@ -1,7 +1,5 @@
 name: "TaI UK Houses"
 description: "A UK-style house set.  Uses elements of the original TTD graphics - more custom graphics coming in future versions.  This is a beta, please report any problems you have to PikkaBird on the forums."
 url: ""
-tags:
-- "newhouses"
-- "pikka"
-- "tai"
+regions:
+- "GB"

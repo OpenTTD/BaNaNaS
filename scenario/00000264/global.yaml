@@ -3,10 +3,5 @@ replaced-by:
   unique-id: "00000265"
 description: "Scenario of Yorkshire in England, contains nearly all the villages/towns/cities that are big enough to be shown on your average map. Scenario shows towns from Doncaster to Middlesbrough."
 url: ""
-tags:
-- "east"
-- "england"
-- "north"
-- "south"
-- "west"
-- "yorkshire"
+regions:
+- "GB-ENG"

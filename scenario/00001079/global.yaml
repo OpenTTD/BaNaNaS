@@ -8,7 +8,6 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/July 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1174120#p1174119"
-tags:
-- "eastern europe"
-- "estonia"
-- "subarctic"
+regions:
+- "EE"
+- "UN-151"

@@ -14,9 +14,5 @@ description: |-
   http://www.OpenTTD.imotor.com
   QQ group:6660736
 url: "https://www.tt-forums.net/viewtopic.php?p=1207916#p1207916"
-tags:
-- "china"
-- "chinese"
-- "chn"
-- "map"
-- "scenario"
+regions:
+- "CN"

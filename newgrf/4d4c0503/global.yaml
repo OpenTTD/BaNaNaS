@@ -4,6 +4,5 @@ description: |-
 
   The first trains are available from 1920.
 url: "http://users.tt-forums.net/dutchset/downloads.php?platform=1b&dlnow=1"
-tags:
-- "dutch"
-- "trainset"
+regions:
+- "NL"

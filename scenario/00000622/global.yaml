@@ -10,9 +10,5 @@ description: |-
 
   Enjoy!
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=54095"
-tags:
-- "scandinavia"
-- "scenario"
-- "stockholm"
-- "sweden"
-- "uppsala"
+regions:
+- "SE"

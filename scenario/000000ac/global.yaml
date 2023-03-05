@@ -13,8 +13,5 @@ description: |-
   No use of a heightmap, only "drawn by hand" using a common atlas.
   Have a look at the german tt-forums for downloading a version using ECS-industries (Beta5 by George) also.
 url: "http://www.tt-ms.de/forum/showthread.php?tid=3907"
-tags:
-- "australia"
-- "australien"
-- "realistic"
-- "tropic"
+regions:
+- "AU"

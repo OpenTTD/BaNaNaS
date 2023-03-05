@@ -3,8 +3,3 @@ description: |-
   This NewGRF renames default vehicle names to either TTO-like names or (for newer vehicles of TTD) better suited ones.
   It is improvement of the already existing origveh.grf done by Frosch.
 url: "http://www.tt-forums.net/viewtopic.php?f=36&t=43178"
-tags:
-- "better"
-- "names"
-- "original"
-- "vehicle"

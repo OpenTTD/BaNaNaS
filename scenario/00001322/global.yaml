@@ -6,7 +6,5 @@ description: |-
 
   Dialnica medzi Zilinou a Martinom moze byt hotova uz v 2017!
 url: ""
-tags:
-- "central europe"
-- "slovakia"
-- "srtm"
+regions:
+- "SK"

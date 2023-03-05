@@ -1,7 +1,3 @@
 name: "Heliport (ttdur)"
 description: "Replacement for the default heliport, featuring semi-transparent landing platform."
 url: "http://www.andreszsogon.com/ttdur/"
-tags:
-- "andrex"
-- "heliport"
-- "ttdur"

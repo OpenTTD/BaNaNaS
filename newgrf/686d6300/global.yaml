@@ -1,12 +1,5 @@
 name: "More British Town Names v1.0"
 description: "Over 2000 real names of British cities, towns, villages and places. Use \"More British\" to generate real names only, and \"More British+\" to generate up to over 100000 realistic names."
 url: ""
-tags:
-- "british"
-- "name"
-- "names"
-- "real"
-- "realistic"
-- "town"
-- "towns"
-- "uk"
+regions:
+- "GB"

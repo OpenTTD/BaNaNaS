@@ -4,9 +4,5 @@ description: |-
 
   It uses FIRS 3 industries on Temperate Basic, with representative placements. Suggested NewGRFs are loaded, however only FIRS is required.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85900"
-tags:
-- "boston"
-- "mass"
-- "massachusetts"
-- "us"
-- "usa"
+regions:
+- "US-MA"

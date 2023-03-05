@@ -1,8 +1,5 @@
 name: "North American Building Set"
 description: "Artwork by Oz, lifeblood, reldred. Coding by reldred; the belligerent formerly known as Aegir. reldreds North American Building Set is the continuation of Aegir's original NABS."
 url: "https://github.com/reldred/re_nabs"
-tags:
-- "building set"
-- "buildings"
-- "north american"
-- "towns"
+regions:
+- "US"

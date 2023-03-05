@@ -4,10 +4,5 @@ description: |-
 
   Uses the Extreme Industry Set and compatible British Vehicle Sets.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=73800&p=1157697#p1157697"
-tags:
-- "Alpine"
-- "Balsiefen"
-- "England"
-- "Fictional"
-- "Timberwolf"
-- "XIS"
+regions:
+- "GB-ENG"

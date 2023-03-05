@@ -1,7 +1,5 @@
 name: "Oceania"
 description: "Oceania is a concept map. Two large continents are separated by a vast ocean dotted with tiny islands. Transport goods on the mainland or set up a tourism network to the remote communities."
 url: "http://ash.ms/projects/openttd-maps/"
-tags:
-- "islands"
-- "ocean"
-- "water"
+regions:
+- "UN-009"

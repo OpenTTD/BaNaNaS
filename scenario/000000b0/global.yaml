@@ -14,8 +14,5 @@ description: |-
   No use of a heightmap, only "drawn by hand" using a common atlas.
   Have a look at the german tt-forums for downloading other scenarios made by me also.
 url: "http://www.tt-ms.de/forum/showthread.php?tid=3658"
-tags:
-- "europa"
-- "europe"
-- "realistic"
-- "temperate"
+regions:
+- "UN-150"

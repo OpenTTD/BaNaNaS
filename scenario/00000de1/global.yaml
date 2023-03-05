@@ -9,9 +9,5 @@ description: |-
 
   Made by Leou.    May 2014
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=70503&p=1140763#p1140763"
-tags:
-- "china"
-- "chinese"
-- "chn"
-- "map"
-- "scenario"
+regions:
+- "CN"

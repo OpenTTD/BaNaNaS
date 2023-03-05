@@ -5,12 +5,5 @@ description: |-
 
   Cities, Lakes... It's very flat > wait for next versions :-)
 url: ""
-tags:
-- "a"
-- "c"
-- "cz"
-- "d"
-- "mapa"
-- "pl"
-- "scenar"
-- "scenario"
+regions:
+- "CZ"

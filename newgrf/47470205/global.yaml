@@ -1,3 +1,5 @@
 name: "NSW Rail Towns SydneyMetro"
 description: "List of Railway town names in the Sydney Metropolitan"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=73048&start=20#p1158458"
+regions:
+- "AU-NSW"

@@ -1,3 +1,5 @@
 name: "NSW Rail Towns SouthRegion"
 description: "List of Railway Towns in NSW Southern region"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=73048&start=20#p1158459"
+regions:
+- "AU-NSW"

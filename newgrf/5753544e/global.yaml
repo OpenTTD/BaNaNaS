@@ -1,7 +1,5 @@
 name: "Tokyo Train Stations Names"
 description: "Names of train stations in Tokyo. Included lines: Yamanote Line, Chuo Line, Sobu Line, Keihin-Tohoku Line."
 url: "http://www.takoyaki.xyz"
-tags:
-- "japanese"
-- "tokyo"
-- "town names"
+regions:
+- "JP-13"

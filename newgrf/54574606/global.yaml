@@ -1,8 +1,5 @@
 name: "Timberwolf's Tracks"
 description: "A 2x zoom track set featuring multiple rail types. Intended for use with Timberwolf's UK Trains."
 url: "https://github.com/mattkimber/timberwolfs_tracks"
-tags:
-- "british"
-- "timberwolf's"
-- "tracks"
-- "uk"
+regions:
+- "GB"

@@ -6,13 +6,5 @@ description: |-
   Real type is real city names of S.Korea and Virtual type is imaginary names combining parts of real city names.
   Now supports Korean, English, Japanese and German.
 url: "https://telk.kr/ottd/newgrf/ko_town_names?lang=en"
-tags:
-- "kor"
-- "korean"
-- "south korea"
-- "telk"
-- "도시"
-- "마을"
-- "이름"
-- "텔크"
-- "한국 도시 이름"
+regions:
+- "KR"

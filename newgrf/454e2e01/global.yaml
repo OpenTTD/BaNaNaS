@@ -1,7 +1,5 @@
 name: "North Korean Signal Set"
 description: "This NewGRF adds the signals from the North Korean Track Set as a separate thing. This requires the use of JGR's patch pack."
 url: "https://www.tt-forums.net/viewtopic.php?p=1256911#p1256911"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

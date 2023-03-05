@@ -3,10 +3,6 @@ description: |-
   A very rough mountainous scenario loosely based on Northern Italy and surrounding Alps.
   All secondary industry is concentrated in small lowlands on south, while resources are scattered accross the heights - this means that you'll have to funnel all traffic into narrow valleys and build complicated railway complexes in the lowlands to handle it, so even experienced builders will get enough challenge, because improvisation will be the key here!
 url: "http://jira.zby.cz/index.php?page=openttd&lang=en"
-tags:
-- "austria"
-- "hills"
-- "italy"
-- "mountainous"
-- "rivers"
-- "rough"
+regions:
+- "AT"
+- "IT"

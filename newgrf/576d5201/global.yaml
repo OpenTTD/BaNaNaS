@@ -10,12 +10,5 @@ description: |-
 
   Prefix and suffix probability are relatively low, so you shouldn't be overrun with particularly long names.
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=53579"
-tags:
-- "ab"
-- "ca"
-- "canadian"
-- "minchinweb"
-- "names"
-- "random"
-- "town"
-- "town names"
+regions:
+- "CA"

@@ -1,3 +1,5 @@
 name: "Hungarian 2CC-SET"
 description: ""
 url: ""
+regions:
+- "HU"

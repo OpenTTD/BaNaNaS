@@ -12,8 +12,5 @@ description: |-
 
   Made by: LSky, 2014
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=69912"
-tags:
-- "4096"
-- "europe"
-- "large"
-- "scenario"
+regions:
+- "UN-150"

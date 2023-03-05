@@ -1,10 +1,5 @@
 name: "Latvian town names"
 description: "Real city and town names in Latvia"
 url: "https://github.com/Mazurs/openttd-latvian-town-names"
-tags:
-- "Latvian"
-- "Latviešu"
-- "miesti"
-- "names"
-- "pilsētas"
-- "town"
+regions:
+- "LV"

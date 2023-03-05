@@ -1,6 +1,5 @@
 name: "South Africa"
 description: "South Africa with major cities and some smaller towns. Based on the 1024x1024 heightmap. Desert/semi desert areas marked as desert. Orange, Vaal, and Limpopo rivers. Country borders. Many random industries."
 url: ""
-tags:
-- "africa"
-- "south"
+regions:
+- "UN-002"

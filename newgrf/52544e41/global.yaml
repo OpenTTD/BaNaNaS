@@ -6,23 +6,5 @@ description: |-
 
   By Gwyd & StarRaid
 url: "https://github.com/StarRaid/Representitive-UK-Trainset/tree/master/RUKTS%20Extension"
-tags:
-- "2cc"
-- "8bpp"
-- "br"
-- "british"
-- "brtrains"
-- "gwyd"
-- "industries"
-- "industry"
-- "narrow gauge"
-- "nuclear"
-- "pacer"
-- "pacy boi"
-- "rukts"
-- "starraid"
-- "trains"
-- "uk"
-- "ukrs"
-- "united kingdom"
-- "uranium"
+regions:
+- "GB"

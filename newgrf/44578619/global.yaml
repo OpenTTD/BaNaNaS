@@ -12,10 +12,3 @@ description: |-
 
   NOTE: Dont upgrade NON-track tiles to mono or maglev! It will draw the sprite incorrect. Tiles with tracks work fine with upgrades.
 url: "Http://www.aqua-page.nl"
-tags:
-- "dante123"
-- "dwe"
-- "fence"
-- "newgrf"
-- "stations"
-- "stationtiles"

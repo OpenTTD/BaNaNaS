@@ -1,8 +1,5 @@
 name: "Antarctica"
 description: "Made this using a heightmap of Antarctica from somewhere I can't exactly remember. Towns are small, far apart, and roughly in the right place of current Antarctic stations. Since the snow level is 1, there's no farms about, nor will there ever be, and thus no way of increasing town size. Other industries tend to crop up spontaneously but I've made it very heavy on coal, oil, and gold."
 url: ""
-tags:
-- "antarctica"
-- "map"
-- "metatron"
-- "scenario"
+regions:
+- "AQ"

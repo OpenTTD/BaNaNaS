@@ -1,14 +1,5 @@
 name: "Sunshine Trains"
 description: "32bpp/2x train set, featuring British trains from 1900 to 2000."
 url: "https://www.tt-forums.net/viewtopic.php?t=86854"
-tags:
-- "2x"
-- "32bpp"
-- "british"
-- "extrazoom"
-- "ez"
-- "pikka"
-- "pineapple"
-- "sunshine"
-- "train"
-- "uk"
+regions:
+- "GB"

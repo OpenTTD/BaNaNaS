@@ -1,13 +1,5 @@
 name: "Korean Object Set"
 description: "This NewGRF adds some Korean style objects into OpenTTD."
 url: ""
-tags:
-- "korea"
-- "korean"
-- "object"
-- "south korea"
-- "wall"
-- "대한민국"
-- "방음벽"
-- "오브젝트"
-- "한국"
+regions:
+- "KR"

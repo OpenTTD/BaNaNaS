@@ -1,11 +1,6 @@
 name: "Ireland 2048x2048"
 description: "A 2048x2048 heightmap of the island of Ireland.  More information on the thread on tt-forums.net (see project site)."
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=87461"
-tags:
-- "country"
-- "heightmap"
-- "ireland"
-- "island"
-- "islands"
-- "isle of man"
-- "republic of ireland"
+regions:
+- "IE"
+- "IM"

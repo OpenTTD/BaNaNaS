@@ -6,16 +6,10 @@ description: |-
 
   Produced: GBLINER
 url: "https://github.com/GBLINER/WorldTrainSet"
-tags:
-- "Acela"
-- "Afrosiyob"
-- "Al Boraq"
-- "Haramain"
-- "Morocco"
-- "NHSRCL"
-- "THSR"
-- "Taiwan"
-- "USA"
-- "Uzbekistan"
-- "india"
-- "saudi arabia"
+regions:
+- "IN"
+- "MA"
+- "SA"
+- "TW"
+- "US"
+- "UZ"

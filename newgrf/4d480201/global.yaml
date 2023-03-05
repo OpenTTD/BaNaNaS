@@ -8,7 +8,5 @@ description: |-
 
   Taking the above into account I am posting this file here AS IS.
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=64472"
-tags:
-- "britain"
-- "stations"
-- "uk"
+regions:
+- "GB"

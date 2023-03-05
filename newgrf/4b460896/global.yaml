@@ -1,9 +1,8 @@
 name: "Random Andean Town Names"
 description: "A list of randomizable Andean town names. It is mostly based off of city names in Peru, Bolivia, Chile, and Ecuador, and is designed to create mostly four-syllable names. Released into Public Domain. GRF and source code are available for download from TT-Forums."
 url: "https://www.tt-forums.net/viewtopic.php?p=1159299&sid=8f12ef61db910939c9aa7780060ca36c#p1159299"
-tags:
-- "Andean"
-- "Bolivia"
-- "Chile"
-- "Ecuador"
-- "Peru"
+regions:
+- "BO"
+- "CL"
+- "EC"
+- "PE"

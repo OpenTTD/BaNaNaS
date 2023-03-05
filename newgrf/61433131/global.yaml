@@ -9,11 +9,5 @@ description: |-
   Presentation video:
   https://www.youtube.com/watch?v=tEhzN8cw2OM
 url: "https://github.com/azulcosta/Portuguese-Road-Buses"
-tags:
-- "32bpp"
-- "Bus"
-- "Buses"
-- "Extrazoom"
-- "Portugal"
-- "Portuguese"
-- "newgrf"
+regions:
+- "PT"

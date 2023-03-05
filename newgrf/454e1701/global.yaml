@@ -1,6 +1,5 @@
 name: "Maglev Station Set"
 description: "This NewGRF adds some stations from Chinese Maglev lines and the Braunschweig test track."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=76868&p=1238277#p1238277"
-tags:
-- "Beijing"
-- "China"
+regions:
+- "CN-BJ"

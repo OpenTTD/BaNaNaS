@@ -10,5 +10,5 @@ description: |-
   - znovu přidán depot menu fix
   - odstraněny holandské koleje
 url: ""
-tags:
-- "czech"
+regions:
+- "CZ"

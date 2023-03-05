@@ -5,12 +5,5 @@ description: |-
 
   This is however first beta.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87633"
-tags:
-- "slovak"
-- "slovenské"
-- "slovenský"
-- "stgfx"
-- "trolejbus"
-- "trolejbusy"
-- "trolleybus"
-- "trolleybuses"
+regions:
+- "SK"

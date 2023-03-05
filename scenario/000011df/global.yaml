@@ -15,18 +15,7 @@ description: |-
 
   ENJOY!
 url: ""
-tags:
-- "2048"
-- "2048x2048"
-- "america"
-- "canada"
-- "empty"
-- "greenland"
-- "master"
-- "nek0"
-- "nek0master"
-- "neko"
-- "nekomaster"
-- "north"
-- "scenario"
-- "usa"
+regions:
+- "CA"
+- "GL"
+- "US"

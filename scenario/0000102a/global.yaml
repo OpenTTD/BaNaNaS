@@ -8,8 +8,6 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/June 2016
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1169894#p1169894"
-tags:
-- "denmark"
-- "europe"
-- "subarctic"
-- "sweden"
+regions:
+- "DK"
+- "SE"

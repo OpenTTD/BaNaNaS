@@ -1,8 +1,3 @@
 name: "Free Trade Center"
 description: "A neutral free trade center for multiplayer OpenTTD games. Trade resources or connect CargoDist networks here."
 url: "https://github.com/2TallTyler/trade_center"
-tags:
-- "2TallTyler"
-- "multiplayer"
-- "sealand"
-- "trade"

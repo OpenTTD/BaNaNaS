@@ -1,7 +1,5 @@
 name: "US Town Names"
 description: "This station set is a set of American-style town names which are intended to be used with the trainset and station set. There are two sets of names available: famous and ordinary."
 url: "http://as-st.com/ttd/newusa/index.html"
-tags:
-- "names"
-- "towns"
-- "us"
+regions:
+- "US"

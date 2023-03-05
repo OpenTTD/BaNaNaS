@@ -1,8 +1,5 @@
 name: "Australia and Timor (v 1.0)"
 description: "Australia and Timor emerge from World War II. With Australia attracting immigrants to exploit the wealth mentioned in its anthem, and Timor's development hampered by its landscape, transport infrastructure is sorely needed by both nations to fulfill their potentials. The challenge falls to you."
 url: ""
-tags:
-- "australia"
-- "east timor"
-- "oceania"
-- "timor"
+regions:
+- "AU"

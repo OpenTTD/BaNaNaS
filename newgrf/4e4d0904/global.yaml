@@ -14,21 +14,5 @@ description: |-
 
   See "readme" for details and credits
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76964"
-tags:
-- "belgian"
-- "belgium"
-- "euro"
-- "europe"
-- "european"
-- "master"
-- "nek0"
-- "nek0master"
-- "neko"
-- "nekomaster"
-- "nmbs"
-- "noni"
-- "nøni"
-- "set"
-- "sncb"
-- "train"
-- "trains"
+regions:
+- "BE"

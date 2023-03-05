@@ -1,7 +1,3 @@
 name: "Industrial Stations Renewal"
 description: "Industrial Stations Renewal is a set of stations with facilities suitable for freight cargo. It includes support for the standard TTD industries plus many of the additional industry GRFs. Features include animation of the various cranes etc. Platforms and non-track tiles are included that display the amount of cargo waiting at the station."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=27112"
-tags:
-- "industrial"
-- "isr"
-- "station"

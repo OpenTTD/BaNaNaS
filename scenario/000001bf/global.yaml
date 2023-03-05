@@ -10,7 +10,6 @@ description: |-
   Map Size: 2048x2048
   Starting Year : 1975
 url: "http://www.tt-forums.net/viewtopic.php?f=29&t=44751&start=0"
-tags:
-- "england"
-- "uk"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-WLS"

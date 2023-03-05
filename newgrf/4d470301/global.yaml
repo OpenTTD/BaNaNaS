@@ -1,14 +1,5 @@
 name: "SRRS"
 description: "This set features two passengers only rack railway trains from Slovakia. They are more for eyecandy, or realism, than normal income source. Make sure you choose for download also tracks, I made for them.(NNGT) I was unable to put them as dependency. Make sure, you play with them too."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87491"
-tags:
-- "EMU"
-- "High Tatra"
-- "High Tatras"
-- "SRRS"
-- "Slovakia"
-- "Slovensko"
-- "TEZ_TER"
-- "eyecandy"
-- "mountains"
-- "rack railway"
+regions:
+- "SK"

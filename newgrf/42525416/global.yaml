@@ -3,10 +3,5 @@ description: |-
   BRTrains is a set with only real-life liveries, spanning all eras of the British Railway history.
   Coding by Leanden & Gwyd. Graphics by Various Artists.
 url: "http://dev.openttdcoop.org/projects/brtrains"
-tags:
-- "british"
-- "brtrains"
-- "gwyd"
-- "leanden"
-- "trains"
-- "uk"
+regions:
+- "GB"

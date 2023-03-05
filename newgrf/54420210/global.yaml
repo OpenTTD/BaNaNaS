@@ -1,9 +1,5 @@
 name: "US Town Names"
 description: "United States of America Town Names gives nearly one thousand different names from all across the USA."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=52855"
-tags:
-- "america"
-- "town names"
-- "townnames"
-- "united states"
-- "usa"
+regions:
+- "US"

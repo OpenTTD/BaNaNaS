@@ -4,8 +4,5 @@ description: |-
 
   This version require some NewGRFs which are listed in the forum thread, however all of them should be available on BaNaNas.
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=85877"
-tags:
-- "arctic"
-- "mountains"
-- "north america"
-- "rivers"
+regions:
+- "UN-021"

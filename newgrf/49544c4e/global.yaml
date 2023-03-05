@@ -7,10 +7,5 @@ description: |-
   have fun
   Dax
 url: ""
-tags:
-- "cities"
-- "city"
-- "italian"
-- "italy"
-- "names"
-- "town"
+regions:
+- "IT"

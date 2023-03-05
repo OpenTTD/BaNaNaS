@@ -3,12 +3,5 @@ description: |-
   Adds town names from Western Australia.
   Includes only Perth in this first version.
 url: "https://github.com/Joel-Milligan/openttd-wa-town-names"
-tags:
-- "australia"
-- "australian"
-- "joel"
-- "names"
-- "town"
-- "western"
-- "western australia"
-- "western australian"
+regions:
+- "AU-WA"

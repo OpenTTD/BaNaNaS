@@ -1,7 +1,3 @@
 name: "CityMania Not So NUTS"
 description: "Simplified subset of NUTS train newgrf. Only MEOW engines and no universal wagons. For use with CityMania special event newgrf."
 url: "https://citymania.org"
-tags:
-- "citymania"
-- "event"
-- "nuts"

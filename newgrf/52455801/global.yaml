@@ -1,7 +1,3 @@
 name: "No Maglev"
 description: "Disables maglev trains and tracks"
 url: "https://github.com/rexxars/openttd-no-maglev"
-tags:
-- "base"
-- "disable"
-- "maglev"

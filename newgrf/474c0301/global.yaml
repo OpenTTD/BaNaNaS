@@ -6,9 +6,3 @@ description: |-
 
   Graphics for banks are from OpenGFX. Graphics for banks under construction are from FIRS. Both are licensed under the GPL v2.
 url: "https://github.com/DonaldDuck313/OpenTTD-NewGRFs/tree/main/ValuablesForArcticAndTropical"
-tags:
-- "bank"
-- "banks"
-- "industries"
-- "industry"
-- "valuables"

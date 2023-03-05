@@ -1,3 +1,5 @@
 name: "Total Bridge Renewal Japan"
 description: "Thanks to thgergo, we have the TBRS also for our Japan Set."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=5358&start=3634"
+regions:
+- "JP"

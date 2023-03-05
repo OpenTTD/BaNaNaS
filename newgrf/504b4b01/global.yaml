@@ -1,8 +1,6 @@
 name: "CS Town Names"
 description: "Czech and Slovak real-life town names with an option to use both."
 url: ""
-tags:
-- "czech"
-- "czechoslovak"
-- "slovak"
-- "town names"
+regions:
+- "CZ"
+- "SK"

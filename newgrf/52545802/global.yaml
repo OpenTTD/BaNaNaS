@@ -4,11 +4,3 @@ description: |-
   Built for SPI 1.32.
   But, it might work on most FIRS related grf.
 url: ""
-tags:
-- "alter"
-- "cargo"
-- "change"
-- "income"
-- "payment"
-- "price"
-- "spi"

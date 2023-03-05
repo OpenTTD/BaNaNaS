@@ -5,8 +5,5 @@ description: |-
 
   There's around 470 town names here, so best used on generation with less than that many locations.
 url: "http://www.tt-forums.net/viewtopic.php?t=73123"
-tags:
-- "aboriginal"
-- "australia"
-- "names"
-- "town"
+regions:
+- "AU"

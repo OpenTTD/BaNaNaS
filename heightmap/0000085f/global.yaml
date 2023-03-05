@@ -4,10 +4,5 @@ description: |-
 
   - Munno
 url: ""
-tags:
-- "1024"
-- "1024x512"
-- "512"
-- "greece"
-- "heightmap"
-- "map"
+regions:
+- "GR"

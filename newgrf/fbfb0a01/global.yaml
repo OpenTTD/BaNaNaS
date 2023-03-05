@@ -1,7 +1,3 @@
 name: "Useless Tracks"
 description: "Lifted tracks only show ballast and can be used to keep your old and disused rail lines visible in the landscape. The planning tracks allow plotting new rail lines. Both railtypes do not allow vehicles."
 url: "https://www.tt-forums.net/viewtopic.php?t=61595"
-tags:
-- "disused"
-- "planning"
-- "track"

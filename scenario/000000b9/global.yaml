@@ -5,9 +5,6 @@ description: |-
   v1->v1.1 Street fixes
   v1.1->v2 Landscape fixes
 url: "http://www.tt-ms.de/forum/showthread.php?tid=3883"
-tags:
-- "england"
-- "renewal"
-- "wales"
-- "west"
-- "west-england"
+regions:
+- "GB-ENG"
+- "GB-WLS"

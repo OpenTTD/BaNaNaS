@@ -8,16 +8,9 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "2048"
-- "alabama"
-- "america"
-- "florida"
-- "gulf of mexico"
-- "heightmap"
-- "mississipi"
-- "moriarty"
-- "north carolina"
-- "south carolina"
-- "tennessee"
-- "usa"
+regions:
+- "US-AL"
+- "US-FL"
+- "US-NC"
+- "US-SC"
+- "US-TN"

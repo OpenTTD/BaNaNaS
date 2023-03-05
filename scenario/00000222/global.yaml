@@ -1,3 +1,6 @@
 name: "Pacific NW: Canada/USA"
 description: "Vancouver to Portland, from a DEM created from Google Earth.  You must have George’s ECS Wood vector B5. All towns are placed approximately correctly but not necessarily to scale with regards to population, but towns close to the 3 main cities have been ommitted. There are two imaginary cities: “To East BC” and “To E Washington”, placed at the edge of the map where the E- W railroads are. Industries have been placed in a mixture of real locations and imaginary."
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=45389"
+regions:
+- "CA"
+- "US"

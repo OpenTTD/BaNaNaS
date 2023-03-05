@@ -6,3 +6,5 @@ description: |-
 
   Extends to include Belfast Lough and the Yorkshire Coast (essential to fitting all of Scotland in to a standard orientation)
 url: ""
+regions:
+- "GB-SCT"

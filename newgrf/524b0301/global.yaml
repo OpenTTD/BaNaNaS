@@ -1,7 +1,3 @@
 name: "Lightrail/Tramtracks"
 description: "Provides broader tracks, new depots and less poles for trams."
 url: "http://www.tt-forums.net/viewtopic.php?t=30593"
-tags:
-- "infrastructure"
-- "tracks"
-- "trams"

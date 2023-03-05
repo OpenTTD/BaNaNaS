@@ -3,8 +3,5 @@ description: |-
   Czech Republic + cities
   Ceska Republika + mesta
 url: ""
-tags:
-- "city"
-- "cs"
-- "czech"
-- "scenario"
+regions:
+- "CZ"

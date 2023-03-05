@@ -3,3 +3,5 @@ description: |-
   This scenario is about of the "Heart" of Argentina, where we sign our indepence.
   It has all the industry chains, Except valuables and oil.
 url: ""
+regions:
+- "AR-T"

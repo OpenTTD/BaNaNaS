@@ -13,9 +13,3 @@ description: |-
   Special thanks to all who contribute to NewGRF wiki http://wiki.ttdpatch.net/tiki-index.php?page=GRFActionsDetailed,
   and to Josef Drexler for his astonishing work with TTD
 url: ""
-tags:
-- "cargo"
-- "ecs"
-- "ginger"
-- "set"
-- "vehicles"

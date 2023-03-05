@@ -1,4 +1,5 @@
 name: "Recycled Infrastructure Set"
+archived: true
 description: |-
   A set of infrastructure aiming to include other GPL v2 graphics in one NewGRF with no graphical oddities.
 
@@ -16,4 +17,3 @@ description: |-
   Will soon include...
   + FooBar's Tram Tracks (temporarily removed for NRT compatibility)
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=83306"
-archived: true

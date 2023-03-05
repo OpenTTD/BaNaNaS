@@ -6,20 +6,5 @@ description: |-
   I used height map with pretty good resolution, but terrain is not 100% accurate. Industries are random. Enjoy!
 
   Note: Eureka, Alexandra Fiord and Hazen Camp are meteorological or research stations in real life.
-tags:
-- "alert"
-- "alexandra"
-- "arctic"
-- "camp"
-- "canada"
-- "ellesmere"
-- "eureka"
-- "fiord"
-- "grise"
-- "hazen"
-- "island"
-- "masterstudiocz"
-- "nunavut"
-- "scenario"
-- "small"
-- "subarctic"
+regions:
+- "CA-NU"

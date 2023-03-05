@@ -1,8 +1,5 @@
 name: "Slovenian Town Names (PaulC)"
 description: "A set of 255 town names from Slovenia. Uses a number of special glyphs which need to be supplied by another grf such as unifont or OpenGFX, otherwise some names will not be displayed properly."
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=34795&p=857561#p857561"
-tags:
-- "balkans"
-- "paulc"
-- "slovenian"
-- "town names"
+regions:
+- "SI"

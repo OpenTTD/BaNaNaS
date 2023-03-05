@@ -1,12 +1,6 @@
 name: "Quebecois Town Names"
 description: "A set of 1,211 place names from the Canadian province of Quebec."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=58276"
-tags:
-- "american"
-- "canada"
-- "canadian"
-- "french"
-- "north american"
-- "paulc"
-- "quebec"
-- "town names"
+regions:
+- "CA-QC"
+- "US"

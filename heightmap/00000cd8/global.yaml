@@ -5,3 +5,5 @@ description: |-
   Height Map of South East Asia
   Edge of map includes Taiwan, Myanmar, Darwin (Australia), West Papua (Indonesia).
 url: ""
+regions:
+- "UN-142"

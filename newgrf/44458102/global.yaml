@@ -4,13 +4,5 @@ description: |-
 
   Hale is (currently) all tropic and some shared arctic town buildings, to replace the equivalent existing sprite in the base set. The sprites are drawn by myself, and each is inspired by a real building or buildings somewhere in Honolulu, mostly Downtown, Mo'ili'ili, and Kahala thus far. This version of this GRF is intended to function as a static grf, so you can use it multiplayer games that use tropic maps with no Newgrfs loaded.
 url: "https://www.tt-forums.net/viewtopic.php?t=89627"
-tags:
-- "Hawaii"
-- "Honolulu"
-- "Houses"
-- "Island"
-- "Midcentury"
-- "Mop"
-- "Static"
-- "Town"
-- "Tropic"
+regions:
+- "US-HI"

@@ -1,7 +1,3 @@
 name: "Feature Disabler GRF"
 description: "This is a GRF that can disable the default parts of any feature in the game. Through parameters, you can disable trains, road vehicles, ships, aircraft, industries, houses, objects and railtypes."
 url: ""
-tags:
-- "base"
-- "disable"
-- "gwyd"

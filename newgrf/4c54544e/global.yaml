@@ -1,13 +1,5 @@
 name: "Lithuanian Town Names"
 description: "More Lithuanian town names - more than 13000 real Lithuanian city and village names to use in OpenTTD"
 url: "https://github.com/knutux/openttd-lithuanian-town-names"
-tags:
-- "lietuva"
-- "lietuvių"
-- "lithuania"
-- "lithuanian"
-- "ltu"
-- "miestai"
-- "miestų.lt"
-- "names"
-- "town"
+regions:
+- "LT"

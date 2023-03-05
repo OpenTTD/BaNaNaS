@@ -9,8 +9,5 @@ description: |-
   By CaptainKlutz, 2021
   Report bugs to me on the forums please!
 url: "https://www.tt-forums.net/memberlist.php?mode=viewprofile&u=103698"
-tags:
-- "japan"
-- "japanese"
-- "random"
-- "town names"
+regions:
+- "JP"

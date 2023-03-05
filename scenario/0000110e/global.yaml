@@ -1,6 +1,5 @@
 name: "Tokaido 2CC 4096*2048"
 description: "Analogous to Tokaido JS, but with 2CC trains instead."
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=75194"
-tags:
-- "2cc"
-- "japan"
+regions:
+- "JP"

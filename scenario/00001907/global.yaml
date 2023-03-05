@@ -1,14 +1,6 @@
 name: "Southern Norway"
 description: "Map of southern Norway by KUHNOVIC, based on real world data. Stretches from Trondheim in the north to Halden in the south, transitioning into Sweden. Islands and majestic fjords in the west, snow-covered mountains in the middle, and flat land in the southeast. Lots of towns and industries. Temperate-with-snow climate with a snow line that goes up and down with the seasons."
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=87649&p=1236877#p1236877"
-tags:
-- "Arctic"
-- "Bergen"
-- "Norway"
-- "Oil"
-- "Oslo"
-- "Scandinavia"
-- "Sea"
-- "Snow"
-- "Sweden"
-- "Trondheim"
+regions:
+- "NO-03"
+- "SE"

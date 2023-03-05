@@ -1,7 +1,5 @@
 name: "Mayotte"
 description: "Very small island , I can experience in OpenTTD the \" Mayotte \" . Character Please do not care lol"
 url: ""
-tags:
-- "france"
-- "scenario"
-- "small"
+regions:
+- "FR"

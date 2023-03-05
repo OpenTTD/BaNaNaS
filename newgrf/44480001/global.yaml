@@ -1,10 +1,5 @@
 name: "Polish Town Names"
 description: "Polish Town Names - tested on OpenTTD 1.2.3, but should work on older versions as well."
 url: ""
-tags:
-- "city"
-- "name"
-- "names"
-- "polish"
-- "polska"
-- "town"
+regions:
+- "PL"

@@ -11,9 +11,5 @@ description: |-
 
   *A12 (South) & M25 Dual Carriageway.
 url: ""
-tags:
-- "east anglia"
-- "ipswich"
-- "london"
-- "norwich"
-- "uk"
+regions:
+- "GB-LND"

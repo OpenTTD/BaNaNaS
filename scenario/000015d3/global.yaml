@@ -4,11 +4,5 @@ description: |-
   I thought that would be an interesting challenge. However I found the map size meant it was a little cramped putting in
   passing places and big enough stations to handle the long trains. This is it's big brother
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=83810"
-tags:
-- "alpine"
-- "fjord"
-- "islands"
-- "jimbob"
-- "mountains"
-- "new zealand"
-- "scenario"
+regions:
+- "NZ"

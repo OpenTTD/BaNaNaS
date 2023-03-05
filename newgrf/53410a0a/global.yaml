@@ -1,11 +1,5 @@
 name: "GETS Waypoints"
 description: "GETS Waypoints is a collection of German Railway Signs and Signal Boxes. Meets the Style of GETS-Trains."
 url: "https://www.tt-forums.net/viewtopic.php?t=90479"
-tags:
-- "32bpp"
-- "Bundesbahn"
-- "EZ"
-- "Signal Box"
-- "extrazoom"
-- "german"
-- "gets"
+regions:
+- "DE"

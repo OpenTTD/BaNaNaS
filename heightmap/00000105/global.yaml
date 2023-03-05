@@ -8,12 +8,6 @@ description: |-
 
   By Moriarty.
 url: ""
-tags:
-- "1024"
-- "2048"
-- "heightmap"
-- "indonesia"
-- "island"
-- "moriarty"
-- "new guinea"
-- "papua new guinea"
+regions:
+- "ID"
+- "PG"

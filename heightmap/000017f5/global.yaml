@@ -3,9 +3,3 @@ description: |-
   A 2:1 rectangular map with a large mountainous island at its centre. Surrounding it is an archipelago that is diverse in both the sizes and terrains of the islands.
   For 2048x4096 games, a max height of 30-60 is recommended.
 url: "https://www.tt-forums.net/viewtopic.php?p=1223938"
-tags:
-- "archipelago"
-- "coast"
-- "islands"
-- "mountains"
-- "sea"

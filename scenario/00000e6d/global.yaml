@@ -1,12 +1,9 @@
 name: "United Kingdom"
 description: "Based on the UK heightmap downloadable from here I have added all the towns/cities as classified in the UK and in Republic of Ireland and Isle of Man. There are mainly to scale although with smaller ones became more difficult to be exact to scale but in general population is divided by about 100. Enjoy."
 url: ""
-tags:
-- "england"
-- "ireland"
-- "isle of man"
-- "map"
-- "scenario"
-- "scotland"
-- "uk"
-- "wales"
+regions:
+- "GB-ENG"
+- "GB-SCT"
+- "GB-WLS"
+- "IE"
+- "IM"

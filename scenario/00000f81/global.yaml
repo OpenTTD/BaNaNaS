@@ -1,3 +1,5 @@
 name: "Djursland (Denmark)"
 description: "Removed a handful of factories; added a couple oil rigs and refineries; removed some 2x2 stadiums from tiny towns; expanded a few towns"
 url: "http://www.tt-forums.net/viewtopic.php?f=60&t=74576"
+regions:
+- "DK"

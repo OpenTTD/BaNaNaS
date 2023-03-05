@@ -4,7 +4,6 @@ description: |-
 
   This scenario was made with no industries or even NewGRFs in the interest of making it a useful 'base' for building a scenario on top of it.
 url: "https://github.com/internet-trains"
-tags:
-- "Cambodia"
-- "Laos"
-- "Vietnam"
+regions:
+- "KH"
+- "VN"

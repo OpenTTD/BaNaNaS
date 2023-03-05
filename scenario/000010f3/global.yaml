@@ -8,9 +8,6 @@ description: |-
   OpenTTD 1.6.0 or higher
   * made by STD/November 2016
 url: "https://www.tt-forums.net/viewtopic.php?f=60&t=62386&p=1179059#p1179059"
-tags:
-- "black sea"
-- "russia"
-- "subarctic"
-- "the caucasus"
-- "ukraine"
+regions:
+- "RU"
+- "UA"

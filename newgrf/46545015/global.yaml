@@ -1,9 +1,6 @@
 name: "FicTown Names (Basic)"
+archived: true
 replaced-by:
   unique-id: "46544e02"
 description: "Discontinued due to GRF ID and uploading issues, please see FicTown+ Names for the only supported version."
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=75348"
-tags:
-- "fiction"
-- "town names"
-archived: true

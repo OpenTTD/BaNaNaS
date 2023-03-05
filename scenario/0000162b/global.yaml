@@ -4,7 +4,5 @@ description: |-
 
   Version with water around.
 url: "https://www.facebook.com/groups/166315490759206/"
-tags:
-- "czech"
-- "map"
-- "scenario"
+regions:
+- "CZ"

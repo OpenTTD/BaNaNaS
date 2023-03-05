@@ -8,13 +8,5 @@ description: |-
 
   By Andrew350
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=64433"
-tags:
-- "american"
-- "cobblestone"
-- "dirt"
-- "gravel"
-- "opengfx"
-- "road"
-- "sett"
-- "united states"
-- "usa"
+regions:
+- "US"

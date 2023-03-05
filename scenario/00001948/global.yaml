@@ -2,12 +2,5 @@ name: "Trans-Siberian Railway Updated"
 description: |-
   Trans-Siberian Railway (1890) Scenario by Kjell Barne updated by WendellSenior for 2022.
   Western empire added, including Poland, Baltic, Finland. NewGRFs updated, xUSSR train set added (optional - can stick with NARS). Updated to FIRS 4.4.0 Steeltown, with realistic industry and resource distribution designed around a Moscow Assembly Plant to a Vladivostok Vehicle Distributor.
-tags:
-- "arctic"
-- "firs"
-- "historical"
-- "industry"
-- "real World"
-- "realistic"
-- "russia"
-- "siberia"
+regions:
+- "RU"

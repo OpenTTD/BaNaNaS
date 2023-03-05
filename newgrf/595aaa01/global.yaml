@@ -6,13 +6,6 @@ description: |-
   Coded by Yozora and JP+ Team
   2023
 url: "https://github.com/Yozora3/JPplusMetro"
-tags:
-- "JP"
-- "JP+"
-- "Japan"
-- "Osaka"
-- "Tokyo"
-- "Yokohama"
-- "metro"
-- "subway"
-- "train"
+regions:
+- "JP-13"
+- "JP-27"

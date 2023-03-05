@@ -6,15 +6,5 @@ description: |-
 
   제작: Coconut
 url: "https://github.com/OpenCreative/KR_Plus_Set"
-tags:
-- "2층열차"
-- "EMU"
-- "GTX"
-- "HEMU-430X"
-- "ITX"
-- "KTX"
-- "Korea"
-- "Korean"
-- "대한민국"
-- "한국"
-- "해무"
+regions:
+- "KR"

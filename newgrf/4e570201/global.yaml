@@ -1,8 +1,5 @@
 name: "New South Wales Town Names"
 description: "The NSW Town Names Set add a number of both real life and NSW-inspired names to TTDP/OTTD."
 url: "http://www.tt-forums.net/viewtopic.php?f=67&t=70112"
-tags:
-- "australia"
-- "nsw"
-- "project nsw"
-- "town names"
+regions:
+- "AU-NSW"

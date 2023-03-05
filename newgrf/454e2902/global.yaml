@@ -1,7 +1,5 @@
 name: "North Korean Houses Set v2"
 description: "A houses set for North Korean towns and cities."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76745&p=1240159#p1240159"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

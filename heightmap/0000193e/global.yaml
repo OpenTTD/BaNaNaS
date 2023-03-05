@@ -4,12 +4,6 @@ description: |-
 
   Mapa de alturas de la península ibérica y Portugal. Incluye también el sur de Francia y el Norte de África.
 url: "https://tangrams.github.io/heightmapper/#7.25/40.805/-4.379"
-tags:
-- "España"
-- "Iberian"
-- "Ibérica"
-- "Peninsula"
-- "Portugal"
-- "Spain"
-- "heightmap"
-- "scenario"
+regions:
+- "ES"
+- "PT"

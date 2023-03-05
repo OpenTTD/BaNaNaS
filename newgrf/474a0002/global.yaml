@@ -4,7 +4,5 @@ description: |-
 
   This version modifies the introduction date of several buildings, making this set suitable to start a game as early as 1650. Also, the population of several buildings to values that make more sense, allowing for smaller towns in the beginning of the game and delaying giant metropolis in the XIX century.
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=76631"
-tags:
-- "early"
-- "houses"
-- "sweden"
+regions:
+- "SE"

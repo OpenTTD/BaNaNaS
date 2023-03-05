@@ -4,7 +4,5 @@ description: |-
 
   This set contains a large variety of station platforms and station buildings for use with the North Korean (DPRK) Stations Set.
 url: "https://www.tt-forums.net/viewtopic.php?f=67&t=83648"
-tags:
-- "dprk"
-- "korea"
-- "north"
+regions:
+- "KP"

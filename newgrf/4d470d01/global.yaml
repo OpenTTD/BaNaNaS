@@ -1,11 +1,6 @@
 name: "Belarusian Town Names"
 description: "206 Belarusian Town Names  You need a compatible UTF-8 font."
 url: "http://dev.openttdcoop.org/projects/belarusiantowns"
-tags:
-- "ammler"
-- "belarus"
-- "korneysan"
-- "names"
-- "nml"
-- "russian"
-- "town"
+regions:
+- "BY"
+- "RU"

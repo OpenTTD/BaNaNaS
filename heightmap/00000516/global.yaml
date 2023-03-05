@@ -1,6 +1,5 @@
 name: "South Africa Wide"
 description: "South Africa hightmap over a wide 2048x1024 grid."
 url: ""
-tags:
-- "africa"
-- "south"
+regions:
+- "UN-002"

@@ -5,12 +5,5 @@ description: |-
   Design by Alexboy and ElDwane
   Code by Ammler (NML)
 url: "http://dev.openttdcoop.org/projects/frenchtowns"
-tags:
-- "alexboy"
-- "ammler"
-- "eldwane"
-- "europe"
-- "french"
-- "nml"
-- "paris"
-- "townnames"
+regions:
+- "FR-75"

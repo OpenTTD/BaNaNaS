@@ -1,16 +1,5 @@
 name: "North American Pax Liveries"
 description: "This is the North American Passenger Liveries Set. Included right now are the EMD Demonstrator of the F9, B&O Passenger Cars, PRR Passenger Cars, Norfolk and Western Passenger Cars, ACL Passenger Cars and the Generic Budd Cars."
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87228"
-tags:
-- "NAPL"
-- "NARS"
-- "NARS 2.0"
-- "NARS Add-On"
-- "NYC"
-- "North America"
-- "Not Freight"
-- "PRR"
-- "Passenger"
-- "Pennsylvania Railroad"
-- "Trains"
-- "US Train Set"
+regions:
+- "US"

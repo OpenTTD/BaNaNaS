@@ -10,8 +10,5 @@ description: |-
   * Support & Report *
   - jakga123@gmail.com
 url: "http://www.culturelct.com/newgrf/?grf=2"
-tags:
-- "korea"
-- "suin"
-- "수인선"
-- "한국"
+regions:
+- "KR"
