@@ -1,9 +1,4 @@
-name: "FLO-Set"
-description: |-
-  This is a Set with trains and buses.
-  Update:
-  .........
-  --------:)--------
-  Next update:
-  -----------SOON----------(test version)
+name: "FLO-Set - outdated"
+description: "This is a Set with trains and buses."
 url: "http://openttdfansite.info/infusions/pro_download_panel/download.php?did=870"
+regions: []
