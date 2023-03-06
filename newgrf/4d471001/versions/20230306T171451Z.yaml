@@ -1,15 +1,18 @@
-version: "1.0.1"
+version: "1.0.1 rerelease"
 license: "GPL v2"
-upload-date: 2023-03-05T17:55:07Z
-md5sum-partial: "a6ba13e1"
+upload-date: 2023-03-06T17:14:51Z
+md5sum-partial: "59d5c3bc"
 classification:
   set: "industry"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 602219
-availability: "savegames-only"
+filesize: 602220
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51.0"
