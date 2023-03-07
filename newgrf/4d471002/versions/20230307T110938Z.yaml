@@ -1,0 +1,15 @@
+version: "1.0.1 grfid fix"
+license: "GPL v2"
+upload-date: 2023-03-07T11:09:38Z
+md5sum-partial: "80beeee9"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 602153
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
