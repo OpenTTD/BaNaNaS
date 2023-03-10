@@ -1,0 +1,3 @@
+name: "Default railwagons"
+description: "An OpenGFX+ Industries fix. Adds default railwagons for fruits and food (from sub-arctic and sub-tropical climates) to the temperate climate. Restores grain hoppers to sub-arctic and sub-tropical climates.{}{}Author: {WHITE}matgorka{}{BLACK}Version: {WHITE}1{}{BLACK}License: {WHITE}ISC"
+url: "https://github.com/matgorka/openttd-content/tree/master/newgrfs/default-railwagons/"
