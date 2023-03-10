@@ -3,7 +3,7 @@ license: "GPL v3"
 upload-date: 2023-03-10T02:46:27Z
 md5sum-partial: "586731c4"
 filesize: 203032
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
