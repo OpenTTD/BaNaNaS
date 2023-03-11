@@ -1,11 +1,17 @@
 name: "Hungarian MAV-SET 2.0"
 description: |-
-  changelog:
+  0.2.2 changelog:
+  - fixed FIRS 3 metal compatibility
+  - New vagon KS early flatbed vagon with Farm supplies loading/loaded graphics
+  - New Farm supplies loading/loaded graphics for K flatbed vagon
+  - New colour variant added to EC vagon from 201X
+  - New KISS graphics! ;)
+  - New TRAXX graphics! ;) (basic and kando variant finished)
+
+  0.2.1 changelog:
   - new vehicles:
     - MÁV 601 steam engine 1914
     - MÁV 815 "KISS" EMU 2020
     - MÁV 406 "tramtrain" DMU 2021
-
-  I will continue soon...
 regions:
 - "HU"
