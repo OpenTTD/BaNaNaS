@@ -1,0 +1,10 @@
+name: "RattRoads-L"
+description: |-
+  RattRoads is an NRT road and tramtrack set based on roads from the United States, Europe, and abroad.
+
+  Use only with OpenTTD 1.10 or later!
+  This version is modified by Limyx826 with a small coding change.
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76183"
+regions:
+- "UN-150"
+- "US"
