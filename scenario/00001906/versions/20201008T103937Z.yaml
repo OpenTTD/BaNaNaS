@@ -2,6 +2,11 @@ version: "v2"
 license: "Custom"
 upload-date: 2020-10-08T10:39:37Z
 md5sum-partial: "db4e7d7e"
+classification:
+  shape: "square"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-arctic"
 filesize: 8113834
 availability: "new-games"
 dependencies:

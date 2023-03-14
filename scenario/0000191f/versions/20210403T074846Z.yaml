@@ -2,5 +2,10 @@ version: "0"
 license: "CC-BY v3.0"
 upload-date: 2021-04-03T07:48:46Z
 md5sum-partial: "6bb72407"
+classification:
+  shape: "rectangle"
+  terrain-type: "very-flat"
+  size: "large"
+  climate: "temperate"
 filesize: 240389
 availability: "new-games"

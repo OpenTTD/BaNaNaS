@@ -2,5 +2,10 @@ version: "1"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-03-13T10:43:26Z
 md5sum-partial: "5335dd1e"
+classification:
+  shape: "rectangle"
+  terrain-type: "flat"
+  size: "large"
+  climate: "sub-tropical"
 filesize: 78011
 availability: "new-games"

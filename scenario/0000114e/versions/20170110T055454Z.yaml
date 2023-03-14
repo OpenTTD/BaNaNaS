@@ -2,6 +2,11 @@ version: "1.00"
 license: "Custom"
 upload-date: 2017-01-10T05:54:54Z
 md5sum-partial: "fa113bc7"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "sub-tropical"
 filesize: 491903
 availability: "new-games"
 compatibility:

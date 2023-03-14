@@ -2,5 +2,10 @@ version: "1.0"
 license: "GPL v2"
 upload-date: 2020-12-08T04:37:27Z
 md5sum-partial: "559ebff4"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-arctic"
 filesize: 8040651
 availability: "new-games"

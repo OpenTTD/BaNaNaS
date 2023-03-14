@@ -2,6 +2,11 @@ version: "1.0.0"
 license: "GPL v3"
 upload-date: 2020-09-15T23:58:58Z
 md5sum-partial: "c661c784"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-tropical"
 filesize: 774902
 availability: "new-games"
 compatibility:

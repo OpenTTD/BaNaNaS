@@ -2,6 +2,11 @@ version: "1.0"
 license: "CC-BY v3.0"
 upload-date: 2020-07-06T06:41:38Z
 md5sum-partial: "e6a23c90"
+classification:
+  shape: "square"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "temperate"
 filesize: 2276573
 availability: "new-games"
 dependencies:

@@ -2,5 +2,10 @@ version: "1"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-03-13T10:38:34Z
 md5sum-partial: "097c4334"
+classification:
+  shape: "narrow"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "temperate"
 filesize: 142073
 availability: "new-games"

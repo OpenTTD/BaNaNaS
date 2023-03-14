@@ -2,6 +2,11 @@ version: "1"
 license: "GPL v3"
 upload-date: 2011-01-10T19:32:53Z
 md5sum-partial: "8a70bac5"
+classification:
+  shape: "narrow"
+  terrain-type: "mountainous"
+  size: "large"
+  climate: "toyland"
 filesize: 390359
 availability: "new-games"
 compatibility:

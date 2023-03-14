@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY-SA v3.0"
 upload-date: 2010-10-28T12:58:21Z
 md5sum-partial: "3f9a1e0c"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "temperate"
 filesize: 268008
 availability: "new-games"
 compatibility:

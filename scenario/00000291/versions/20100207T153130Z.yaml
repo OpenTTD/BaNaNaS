@@ -2,6 +2,11 @@ version: "1.1"
 license: "GPL v3"
 upload-date: 2010-02-07T15:31:30Z
 md5sum-partial: "bf1453f8"
+classification:
+  shape: "rectangle"
+  terrain-type: "flat"
+  size: "huge"
+  climate: "temperate"
 filesize: 392765
 availability: "new-games"
 compatibility:

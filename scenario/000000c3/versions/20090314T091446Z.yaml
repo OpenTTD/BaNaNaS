@@ -2,5 +2,10 @@ version: "1"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2009-03-14T09:14:46Z
 md5sum-partial: "8947079a"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "small"
+  climate: "sub-arctic"
 filesize: 23342
 availability: "new-games"
