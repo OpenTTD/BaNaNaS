@@ -6,13 +6,4 @@ description: |-
 
   If you have any comments - or want to share a version with realistic industry placement! - let me know via the OpenTTD Discord server; I'm @Sjiveru.
 regions:
-- "CA-BC"
-- "MX-BCN"
-- "MX-BCS"
-- "US-AZ"
-- "US-CA"
-- "US-ID"
-- "US-MT"
-- "US-OR"
-- "US-UT"
-- "US-WA"
+- "UN-021"
