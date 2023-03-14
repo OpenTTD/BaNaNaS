@@ -2,5 +2,10 @@ version: "1.1"
 license: "GPL v2"
 upload-date: 2009-03-13T19:51:34Z
 md5sum-partial: "20c43396"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "large"
+  climate: "temperate"
 filesize: 397162
 availability: "savegames-only"

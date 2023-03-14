@@ -2,5 +2,10 @@ version: "2"
 license: "GPL v2"
 upload-date: 2018-05-25T15:40:09Z
 md5sum-partial: "77735c45"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "large"
+  climate: "temperate"
 filesize: 279944
 availability: "savegames-only"

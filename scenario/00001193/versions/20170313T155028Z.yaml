@@ -2,6 +2,11 @@ version: "1.01"
 license: "GPL v3"
 upload-date: 2017-03-13T15:50:28Z
 md5sum-partial: "81a2f5b1"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "temperate"
 filesize: 1040909
 availability: "new-games"
 compatibility:

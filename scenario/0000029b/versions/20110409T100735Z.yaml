@@ -2,5 +2,10 @@ version: "2.1.6"
 license: "GPL v2"
 upload-date: 2011-04-09T10:07:35Z
 md5sum-partial: "cd7fc460"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "temperate"
 filesize: 4601730
 availability: "savegames-only"

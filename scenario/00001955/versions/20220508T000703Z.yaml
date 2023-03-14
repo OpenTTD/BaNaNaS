@@ -2,6 +2,11 @@ version: "v1.0.0"
 license: "GPL v2"
 upload-date: 2022-05-08T00:07:03Z
 md5sum-partial: "d7c6c7a4"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "sub-tropical"
 filesize: 8266937
 availability: "new-games"
 compatibility:

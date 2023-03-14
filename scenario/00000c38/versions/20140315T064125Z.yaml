@@ -2,6 +2,11 @@ version: "V.2.2"
 license: "GPL v3"
 upload-date: 2014-03-15T06:41:25Z
 md5sum-partial: "00a7aef8"
+classification:
+  shape: "rectangle"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "temperate"
 filesize: 1170167
 availability: "savegames-only"
 

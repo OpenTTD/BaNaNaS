@@ -2,5 +2,10 @@ version: "1.1.1"
 license: "CC-BY-SA v3.0"
 upload-date: 2013-01-11T22:04:06Z
 md5sum-partial: "08f917b7"
+classification:
+  shape: "narrow"
+  terrain-type: "flat"
+  size: "normal"
+  climate: "temperate"
 filesize: 115094
 availability: "savegames-only"

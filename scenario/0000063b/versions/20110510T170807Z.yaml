@@ -2,6 +2,11 @@ version: "1"
 license: "GPL v3"
 upload-date: 2011-05-10T17:08:07Z
 md5sum-partial: "320a3f02"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "normal"
+  climate: "temperate"
 filesize: 94973
 availability: "new-games"
 compatibility:

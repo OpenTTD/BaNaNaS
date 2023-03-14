@@ -2,6 +2,11 @@ version: "2.1"
 license: "GPL v3"
 upload-date: 2022-02-28T07:55:11Z
 md5sum-partial: "99ab73b1"
+classification:
+  shape: "rectangle"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "sub-arctic"
 filesize: 3522766
 availability: "new-games"
 compatibility:

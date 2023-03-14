@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY v3.0"
 upload-date: 2016-07-06T15:58:22Z
 md5sum-partial: "bfc70fea"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "large"
+  climate: "sub-tropical"
 filesize: 526434
 availability: "savegames-only"
 

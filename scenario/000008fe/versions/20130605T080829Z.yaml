@@ -2,6 +2,11 @@ version: "1.01"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2013-06-05T08:08:29Z
 md5sum-partial: "c2ead29f"
+classification:
+  shape: "square"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-arctic"
 filesize: 1391983
 availability: "savegames-only"
 

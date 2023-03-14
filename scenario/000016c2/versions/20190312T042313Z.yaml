@@ -2,5 +2,10 @@ version: "1.01"
 license: "CC-BY-SA v3.0"
 upload-date: 2019-03-12T04:23:13Z
 md5sum-partial: "925bc7bc"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "large"
+  climate: "sub-arctic"
 filesize: 839252
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "0 (None)"
 license: "GPL v2"
 upload-date: 2018-05-20T06:15:27Z
 md5sum-partial: "6dc093e4"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-arctic"
 filesize: 4084177
 availability: "new-games"
 compatibility:

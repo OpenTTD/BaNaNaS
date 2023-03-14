@@ -2,5 +2,10 @@ version: "1.7.0"
 license: "Custom"
 upload-date: 2019-03-17T12:39:01Z
 md5sum-partial: "b4aeb86a"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "temperate"
 filesize: 228573
 availability: "savegames-only"

@@ -2,6 +2,11 @@ version: "1"
 license: "CC-BY v3.0"
 upload-date: 2009-10-07T23:33:02Z
 md5sum-partial: "1bea3684"
+classification:
+  shape: "rectangle"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "sub-arctic"
 filesize: 162605
 availability: "new-games"
 compatibility:

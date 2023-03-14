@@ -2,6 +2,11 @@ version: "v1.0"
 license: "CC-BY-NC-SA v3.0"
 upload-date: 2020-01-10T10:00:19Z
 md5sum-partial: "52685a1d"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "temperate"
 filesize: 316425
 availability: "new-games"
 compatibility:

@@ -2,5 +2,10 @@ version: "7.0"
 license: "CC-BY-NC-ND v3.0"
 upload-date: 2010-09-11T05:24:46Z
 md5sum-partial: "46bddda7"
+classification:
+  shape: "square"
+  terrain-type: "very-flat"
+  size: "normal"
+  climate: "temperate"
 filesize: 69642
 availability: "savegames-only"
