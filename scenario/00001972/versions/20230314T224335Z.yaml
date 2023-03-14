@@ -1,0 +1,15 @@
+version: "0.8"
+license: "GPL v3"
+upload-date: 2023-03-14T22:43:35Z
+md5sum-partial: "7ac4fc64"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-arctic"
+filesize: 8593951
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51.1"

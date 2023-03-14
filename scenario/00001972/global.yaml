@@ -1,0 +1,18 @@
+name: "Japanese North America"
+description: |-
+  An alternate history map, where Japan colonised the west coast of North America. 4096*8192, starting in 1865. (Base map from SRTM data obtained via Bother.)
+
+  This is a passenger-only scenario, though you're free to add industries to it. It remains slightly incomplete; there are a few places that I haven't gotten around to adding cities to.
+
+  If you have any comments - or want to share a version with realistic industry placement! - let me know via the OpenTTD Discord server; I'm @Sjiveru.
+regions:
+- "CA-BC"
+- "MX-BCN"
+- "MX-BCS"
+- "US-AZ"
+- "US-CA"
+- "US-ID"
+- "US-MT"
+- "US-OR"
+- "US-UT"
+- "US-WA"
