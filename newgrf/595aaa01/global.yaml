@@ -1,4 +1,4 @@
-name: "JP+ Metro Set"
+name: "JP+ Metro"
 description: |-
   JP+ Metro Set introducing metro trains from all over Japan.
 
@@ -8,4 +8,5 @@ description: |-
 url: "https://github.com/Yozora3/JPplusMetro"
 regions:
 - "JP-13"
+- "JP-26"
 - "JP-27"
