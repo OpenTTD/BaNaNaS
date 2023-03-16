@@ -4,3 +4,7 @@ upload-date: 2023-03-16T14:45:02Z
 md5sum-partial: "5e972dff"
 filesize: 43240
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.0.0"
