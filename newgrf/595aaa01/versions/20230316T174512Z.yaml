@@ -1,14 +1,14 @@
-version: "10.1"
+version: "1.11.0"
 license: "GPL v2"
-upload-date: 2023-03-09T19:19:23Z
-md5sum-partial: "d99b0ffd"
+upload-date: 2023-03-16T17:45:12Z
+md5sum-partial: "d70a83de"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 394829
-availability: "savegames-only"
+filesize: 448422
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
@@ -16,5 +16,3 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.50"
-
-name: "JP+ Metro - Fukuoka Update"
