@@ -1,0 +1,10 @@
+version: "36"
+license: "GPL v3"
+upload-date: 2023-03-17T12:52:29Z
+md5sum-partial: "ac84347a"
+filesize: 204195
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
