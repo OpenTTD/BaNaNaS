@@ -1,0 +1,22 @@
+version: "8"
+license: "GPL v2"
+upload-date: 2023-03-20T21:24:50Z
+md5sum-partial: "96aff590"
+filesize: 129897
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "51554248"
+  md5sum-partial: "8ce55e13"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "NoNoCAB"
+description: |-
+  NoNoCAB is a competitive AI which uses trains, trucks, buses, aircraft and ships.
+
+  This is a forked version of NoCAB which fixes the most annoying bugs and crashes
+  of NoCAB especially the crashing while saving but there have been other improvements made too.
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=75030"
