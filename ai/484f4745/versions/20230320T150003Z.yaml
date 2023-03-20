@@ -1,0 +1,10 @@
+version: "41"
+license: "GPL v3"
+upload-date: 2023-03-20T15:00:03Z
+md5sum-partial: "ce216629"
+filesize: 203398
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
