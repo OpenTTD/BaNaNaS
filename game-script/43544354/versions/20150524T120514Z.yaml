@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2015-05-24T12:05:14Z
 md5sum-partial: "bcb28e1e"
 filesize: 22652
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
