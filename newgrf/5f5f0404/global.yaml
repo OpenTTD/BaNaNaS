@@ -1,0 +1,8 @@
+name: "TIAS All-Climate Fix"
+description: "This GRF allows you to use TIAS (Toei Inter-connecting Add-on Set) released on BaNaNaS in all climates. DO CHECK THE PARAMETER - IT OVERRIDES THE SAME PARAMETER ABOVE. LOAD IT AFTER TIAS!!! John Franklin 2023. Thanks to Toni Productions."
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+regions:
+- "JP"
+- "JP-11"
+- "JP-12"
+- "JP-13"
