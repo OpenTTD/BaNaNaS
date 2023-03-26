@@ -1,0 +1,10 @@
+version: "415"
+license: "CC-BY-SA v3.0"
+upload-date: 2023-03-26T19:16:55Z
+md5sum-partial: "01d58fcf"
+filesize: 47081
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.0.0"
