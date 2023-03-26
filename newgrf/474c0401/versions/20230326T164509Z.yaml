@@ -1,0 +1,18 @@
+version: "0.1.0"
+license: "GPL v2"
+upload-date: 2023-03-26T16:45:09Z
+md5sum-partial: "37c7e54a"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 32106
+availability: "new-games"
+
+description: |-
+  This NewGRF adds articulated buses and trucks with the same style as the original vehicles. The latest version of each road vehicle in the Original Vehicles Cargo Set has an articulated counterpart in this set.
+
+  There is also an option to reduce the running cost of the original road vehicles, making them more useful.
+
+  Graphics are based on the graphics for the original road vehicles by the OpenGFX team, licensed under the GPL v2.
