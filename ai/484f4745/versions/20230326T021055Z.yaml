@@ -1,0 +1,10 @@
+version: "43"
+license: "GPL v3"
+upload-date: 2023-03-26T02:10:55Z
+md5sum-partial: "bb9536da"
+filesize: 204752
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
