@@ -1,0 +1,12 @@
+name: "The Greenest Valley"
+description: |-
+  A comprehensive scenario set in the valleys of South Wales. Export coal to the docks at Cardiff, Newport and Barry. Turn small villages of Merthyr Tydfil, Rhymney and Ebbw Vale into thriving centres of industry.
+
+  Uses AIRS, which advances the economy in distinct stages.
+
+  NOTE: You will need to add vehicle sets before playing. Iron Horse 2 recommended.
+regions:
+- "GB"
+- "GB-WLS"
+- "UN-150"
+- "UN-155"
