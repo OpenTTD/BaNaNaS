@@ -1,0 +1,16 @@
+version: "2"
+license: "GPL v3"
+upload-date: 2023-03-28T19:56:23Z
+md5sum-partial: "63e78a72"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 211475
+availability: "new-games"
+
+description: |-
+  City Objects Extras contains decorative parks, tiles, buildings, ships and landmarks.
+
+  Dependencies: City Objects
