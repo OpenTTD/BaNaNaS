@@ -1,0 +1,19 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2023-03-30T16:04:51Z
+md5sum-partial: "8c1f1064"
+classification:
+  set: "road-stop"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1058301
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.52.0"
+
+name: "Road Stops & Waypoints"
+description: "OPENTTD JGRPP version (0.50.0 and newer) comes with possibility to have more types of road stops. In this set you can find approximately 300 road stops &waypoints. It includes graphics from Auz Sets, Japan Stations, Dutch Stations, FIRS/CHIPS Objects and others. New update comes from new graphics from Fridaemon, Greyfur and Quast65."
+url: "https://www.tt-forums.net/viewtopic.php?t=90618"
