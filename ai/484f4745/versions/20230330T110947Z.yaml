@@ -1,0 +1,10 @@
+version: "44"
+license: "GPL v3"
+upload-date: 2023-03-30T11:09:47Z
+md5sum-partial: "82636b34"
+filesize: 204858
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
