@@ -1,0 +1,22 @@
+version: "1.5"
+license: "GPL v3"
+upload-date: 2023-04-01T14:26:34Z
+md5sum-partial: "6e98006c"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 7700886
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "53554b54"
+  md5sum-partial: "0aafb3f9"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.43.0"
