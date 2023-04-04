@@ -1,0 +1,18 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2023-04-04T14:34:51Z
+md5sum-partial: "1c60cb8f"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 215923
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.52.0"
