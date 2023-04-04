@@ -1,0 +1,23 @@
+version: "0.3.0"
+license: "GPL v3"
+upload-date: 2023-04-04T10:39:01Z
+md5sum-partial: "9ce70f48"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 28653
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51"
+
+description: |-
+  0.3.0 of Lemurian NARS brings the same liveries from 0.2.0 to new locomotives, like the AC6000CW and SD75i!
+
+  Spice up your American railroad with all-new custom livery options that this NARS addon set provides!
