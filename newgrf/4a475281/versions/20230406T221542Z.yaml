@@ -1,14 +1,14 @@
-version: "4"
+version: "5"
 license: "GPL v2"
-upload-date: 2022-07-03T18:41:44Z
-md5sum-partial: "b3a31256"
+upload-date: 2023-04-06T22:15:42Z
+md5sum-partial: "411df552"
 classification:
   set: "signal"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 18969
-availability: "savegames-only"
+filesize: 22238
+availability: "new-games"
 compatibility:
 - name: "jgrpp"
   conditions:
