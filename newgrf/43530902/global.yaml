@@ -1,5 +1,6 @@
 name: "Water Way Road"
 description: |-
   Waterway Road is a GRF providing a waterway/canal coded as a road type, together with a small set of boats/ships to use with it. The vehicles won't run on real water/waterways, though.
-  See readme.txt for fording feature.
+  See readme.txt for all features.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76017"
+regions: []
