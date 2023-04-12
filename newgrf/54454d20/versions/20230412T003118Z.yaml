@@ -1,0 +1,11 @@
+version: "1.0"
+license: "Custom"
+upload-date: 2023-04-12T00:31:18Z
+md5sum-partial: "7fe58218"
+classification:
+  set: "ship"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 22019045
+availability: "new-games"
