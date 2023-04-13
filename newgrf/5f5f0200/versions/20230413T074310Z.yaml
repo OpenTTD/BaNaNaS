@@ -1,22 +1,21 @@
-version: "1.0.1"
+version: "1.1"
 license: "GPL v2"
-upload-date: 2023-02-03T15:34:39Z
-md5sum-partial: "ea29ad21"
+upload-date: 2023-04-13T07:43:10Z
+md5sum-partial: "ce01e2ad"
 classification:
   set: "road-infra"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 618597
-availability: "savegames-only"
+filesize: 617775
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
 
-name: "JF Ratt Roads"
 description: |-
-  v1.0.1: Officially Released! Bug fixes and website changes. NOT COMPATIBLE WITH ANY VERSION BEFORE 1.0.0!
+  v1.1: Graphical bug fixes and custom speed limit (in km/h) additions.
 
   Roads with speed limits (MPH, KM/H, M/S) and American, European, Australian graphics. A fork of AuzRattRoads. Use with 1.10.0 or JGRPP 0.32-RC1 or higher!
 url: "https://www.tt-forums.net/viewtopic.php?t=90566"
