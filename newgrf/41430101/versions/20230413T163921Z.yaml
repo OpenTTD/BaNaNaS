@@ -1,11 +1,11 @@
-version: "1.0"
+version: "1.1"
 license: "CC-BY v3.0"
-upload-date: 2023-04-13T12:28:02Z
-md5sum-partial: "8b9a2942"
+upload-date: 2023-04-13T16:39:21Z
+md5sum-partial: "2d7f59f2"
 classification:
   set: "townname"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 7567
-availability: "savegames-only"
+filesize: 7747
+availability: "new-games"
