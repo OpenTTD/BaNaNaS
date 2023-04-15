@@ -1,0 +1,15 @@
+version: "1.1"
+license: "Custom"
+upload-date: 2023-04-15T17:42:35Z
+md5sum-partial: "f56a8c28"
+classification:
+  set: "ship"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 21864436
+availability: "new-games"
+
+name: "Temporal8´s Real Ships 32bpp"
+description: "Update: x2 interface fixed."
+url: "https://www.tt-forums.net/viewtopic.php?t=90733"
