@@ -1,0 +1,13 @@
+version: "1.0.0"
+license: "Custom"
+upload-date: 2023-04-15T13:08:22Z
+md5sum-partial: "0bc2782a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 101261
+availability: "new-games"
+
+name: "PNR-Trains"
