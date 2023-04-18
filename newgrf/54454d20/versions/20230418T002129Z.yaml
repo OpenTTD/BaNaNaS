@@ -1,0 +1,23 @@
+version: "1.2"
+license: "Custom"
+upload-date: 2023-04-18T00:21:29Z
+md5sum-partial: "c35f7725"
+classification:
+  set: "ship"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 21864614
+availability: "new-games"
+
+name: "Temporal8´s Real Ships 32bpp"
+description: |-
+  Version 1.2:
+
+  - Loading and unloading speed Fixed.
+  - Cau Cau ship position Fixed.
+  - Prices and maintenance cost Added.
+  - Ships Speed Fixed.
+  - Cargo aging Added.
+  - Ship and Ferry Horn Sounds Added.
+url: "https://www.tt-forums.net/viewtopic.php?t=90733"
