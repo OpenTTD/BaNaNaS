@@ -1,0 +1,7 @@
+name: "No Cargo Monorails"
+description: |-
+  Use this, when you want to allow only passanger transports on monorail with the base set.
+  You can still refit the 'Millennium Z1' Train.
+
+  source: https://github.com/Salmakis/OpenTTD-RemoveCargoMonorailWagons
+url: "https://github.com/Salmakis/OpenTTD-RemoveCargoMonorailWagons"
