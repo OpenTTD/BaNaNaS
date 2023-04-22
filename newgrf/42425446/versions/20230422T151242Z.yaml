@@ -1,0 +1,13 @@
+version: "5"
+license: "GPL v2"
+upload-date: 2023-04-22T15:12:42Z
+md5sum-partial: "a8401ada"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 10401
+availability: "new-games"
+
+url: "https://github.com/Brickblock1/Swedish-trains-fix"
