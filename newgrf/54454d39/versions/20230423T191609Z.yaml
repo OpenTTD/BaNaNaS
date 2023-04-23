@@ -1,0 +1,22 @@
+version: "Beta 3"
+license: "Custom"
+upload-date: 2023-04-23T19:16:09Z
+md5sum-partial: "8668e91d"
+classification:
+  set: "industry"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 143590904
+availability: "new-games"
+
+name: "Temporal8 Real Industries 32bpp"
+description: |-
+  Beta 3 version: I recommend using it with my 32bpp townset named "Real Houses Townset", "Real Stations" and "Real Trucks set" for a better 32bpp experience.
+
+  Changelog:
+
+  - Mail service fixed.
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?t=90183"
