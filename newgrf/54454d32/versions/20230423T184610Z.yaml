@@ -1,0 +1,11 @@
+version: "1"
+license: "Custom"
+upload-date: 2023-04-23T18:46:10Z
+md5sum-partial: "a3fd770d"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 269805441
+availability: "new-games"
