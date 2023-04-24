@@ -1,15 +1,15 @@
-version: "1.0.2"
+version: "1.1.0"
 license: "GPL v2"
-upload-date: 2020-05-22T06:12:50Z
-md5sum-partial: "a190c7ed"
+upload-date: 2023-04-24T22:10:54Z
+md5sum-partial: "a7831573"
 classification:
   set: "road-infra"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 263497
-availability: "savegames-only"
+filesize: 266852
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.10.0"
+  - ">= 13.0"
