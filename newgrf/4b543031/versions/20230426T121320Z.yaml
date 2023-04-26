@@ -1,0 +1,15 @@
+version: "1.4.0"
+license: "GPL v3"
+upload-date: 2023-04-26T12:13:20Z
+md5sum-partial: "0cab2d99"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 391971
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
