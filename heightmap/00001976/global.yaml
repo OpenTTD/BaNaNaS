@@ -1,0 +1,15 @@
+name: "Denmark 8k"
+description: |-
+  This is the heightmap of Denmark (without Faroe Islands and Greenland, with southern Sweden). 8192*8192. Made by bother script.
+  When using 8192*8192 map size, 1 tile is approximately equal to 62.5 meters.
+url: "https://www.tt-forums.net/viewtopic.php?t=90773"
+regions:
+- "DE"
+- "DK"
+- "DK-81"
+- "DK-82"
+- "DK-83"
+- "DK-84"
+- "DK-85"
+- "PL"
+- "SE"
