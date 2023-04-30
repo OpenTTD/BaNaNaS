@@ -1,0 +1,20 @@
+version: "0.1.1"
+license: "GPL v2"
+upload-date: 2023-04-30T09:52:58Z
+md5sum-partial: "e662401e"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 7934
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+
+description: |-
+  You can use it to fix the low reliability of engines and increase the cargo aging period of wagons in JP+ Engines and Wagons. LOAD IT AFTER JP+ ENGINES AND WAGONS!!! John Franklin, 30 Apr 2023. Thanks to EmperorJake.
+
+  Oops, it seems that it doesn't work...
