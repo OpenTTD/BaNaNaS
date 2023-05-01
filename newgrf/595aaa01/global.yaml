@@ -1,11 +1,11 @@
-name: "JP+ Metro"
+name: "JP+ Major Private Companies"
 description: |-
-  JP+ Metro Set introducing metro trains from all over Japan.
+  JP+ Major Private introduces private company trains from all over Japan.
 
   Drawn by Yozora, *SaYa*, Toni Babelony, Takamaro
-  Coded by Yozora and JP+ Team
+  Coded by Yozora
   2023
-url: "https://github.com/Yozora3/JPplusMetro"
+url: "https://github.com/Yozora3/JPplusPrivate"
 regions:
 - "JP-13"
 - "JP-26"
