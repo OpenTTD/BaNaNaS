@@ -1,14 +1,14 @@
-version: "1.11.0"
+version: "2.0.0"
 license: "GPL v2"
-upload-date: 2023-03-16T17:45:12Z
-md5sum-partial: "d70a83de"
+upload-date: 2023-05-01T07:25:53Z
+md5sum-partial: "0011cf00"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 448422
-availability: "savegames-only"
+filesize: 627332
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
@@ -16,3 +16,6 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.50"
+
+name: "JP+ Major Private Companies"
+url: "https://github.com/Yozora3/JPplusPrivate"
