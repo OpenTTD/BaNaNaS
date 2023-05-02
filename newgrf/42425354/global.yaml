@@ -1,0 +1,8 @@
+name: "SMITS"
+description: |-
+  A Fork of SUKTS that adds a customisable roster of Multi-voltage track types that follow the standardised track scheme!
+
+  SUKTS Graphics drawn by and coded by UnholyPhish and Gwyd. Industrial grounds from Erato's Industrial trackset with additional code and graphics by Brickblock1. Licenced under GPL v2. Check licence for details.
+url: "https://www.tt-forums.net/viewtopic.php?t=90786"
+regions:
+- "001"
