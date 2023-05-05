@@ -1,0 +1,15 @@
+version: "3"
+license: "CC-0 v1.0"
+upload-date: 2023-05-05T11:49:09Z
+md5sum-partial: "49c4aeef"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "temperate"
+filesize: 3348877
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
