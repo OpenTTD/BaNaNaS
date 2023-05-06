@@ -1,0 +1,16 @@
+name: "Great Britain, East Anglia"
+description: |-
+  The East Anglia region encompasses the counties of Norfolk, Suffolk, Essex, Hertfordshire, Bedfordshire and Cambridgeshire.
+
+  In this scenario the cities and towns have been created along existent, historic, and heritage rail routes. Major roads, rivers, airports, beaches, piers, ports and industry are also included.
+
+  Please note that the locations are approximate and not exact.
+regions:
+- "GB"
+- "GB-CAM"
+- "GB-CBF"
+- "GB-ESS"
+- "GB-HRT"
+- "GB-LND"
+- "GB-NFK"
+- "GB-SFK"
