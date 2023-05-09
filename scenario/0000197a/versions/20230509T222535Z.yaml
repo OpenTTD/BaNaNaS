@@ -1,0 +1,15 @@
+version: "1.1.0"
+license: "GPL v2"
+upload-date: 2023-05-09T22:25:35Z
+md5sum-partial: "1d21a7d7"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "temperate"
+filesize: 5806608
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.6.0"
