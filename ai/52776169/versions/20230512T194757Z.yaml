@@ -1,9 +1,9 @@
-version: "29"
+version: "30"
 license: "GPL v3"
-upload-date: 2023-01-22T09:24:38Z
-md5sum-partial: "cb784b8c"
-filesize: 117308
-availability: "savegames-only"
+upload-date: 2023-05-12T19:47:57Z
+md5sum-partial: "8f6a346f"
+filesize: 118769
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
