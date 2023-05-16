@@ -1,0 +1,15 @@
+version: "beta1.0.0"
+license: "GPL v3"
+upload-date: 2023-05-16T10:03:32Z
+md5sum-partial: "f5f491d2"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 93315
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
