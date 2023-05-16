@@ -1,0 +1,15 @@
+version: "001"
+license: "GPL v2"
+upload-date: 2023-05-16T01:22:20Z
+md5sum-partial: "a29e7c7f"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 261451
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
