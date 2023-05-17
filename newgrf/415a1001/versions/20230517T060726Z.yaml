@@ -1,0 +1,20 @@
+version: "1.2.0"
+license: "GPL v2"
+upload-date: 2023-05-17T06:07:26Z
+md5sum-partial: "f2c1b9ab"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 394175
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+
+description: |-
+  RattRoads is an NRT road and tramtype set providing a complete roster of 10 roadtypes (6 normal and [optionally] 4 electrified) plus 4 tramtypes. It has support for American and European road styles, climate-aware graphics, plus many parameters for customizing to your preferred playstyle.
+
+  This is the successor/replacement to the American Road Replacement Set
