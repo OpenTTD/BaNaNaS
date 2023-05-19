@@ -1,0 +1,17 @@
+name: "Curve Land 1 (8k version)"
+description: |-
+  Generated with Apophysis.
+  http://www.apophysis.org/
+
+  The landscape is very "curvey". However it does contain some larger islands, to prevent you from starving.
+
+  Note that it's very unlikely to have many big cities on it, and most cities are very hard to connect.
+
+  ---------------------------------
+
+  2023 update: re-generated at 8k resolution.
+
+  It should still be playable at 2k.
+
+  At even smaller resolution, you risk turning it into many disconnected tiny islands.
+url: "https://www.tt-forums.net/viewtopic.php?p=1261411"
