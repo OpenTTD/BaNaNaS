@@ -1,8 +1,14 @@
 name: "SMITS Rails"
 description: |-
-  A Fork of SUKTS that adds a customisable roster of Multi-voltage track types that follow the standardised track scheme!
+  A track set that adds a customisable roster of Multi-voltage track types that follow the standardised track scheme!
 
-  SUKTS Graphics drawn by and coded by UnholyPhish and Gwyd. Industrial grounds from Erato's Industrial trackset with additional code and graphics by Brickblock1. Licenced under GPL v2. Check licence for details.
+  © 2023 Brickblock1
+  Licenced under GPL v2. Check licence for details.
+
+  Credit:
+  SUKTS: UnholyPhish and Gwyd
+  Industrial trackset: Erato et al.
+  Tunnel foundations: SAC, taken from ISR/DWE-style objects.
 url: "https://www.tt-forums.net/viewtopic.php?t=90786"
 regions:
 - "001"
