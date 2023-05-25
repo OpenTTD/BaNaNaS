@@ -1,0 +1,8 @@
+name: "Madagascar"
+description: "The entire Madagascar country with surrounding islands."
+regions:
+- "FR-974"
+- "FR-976"
+- "KM"
+- "MG"
+- "MU"
