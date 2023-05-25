@@ -1,0 +1,11 @@
+version: "1.2.7"
+license: "GPL v2"
+upload-date: 2023-05-25T18:00:14Z
+md5sum-partial: "92ce547a"
+classification:
+  set: "mixed"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 21301
+availability: "new-games"
