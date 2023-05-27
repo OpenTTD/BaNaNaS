@@ -9,4 +9,4 @@ availability: "new-games"
 compatibility:
 - name: "jgrpp"
   conditions:
-  - ">= 42.3"
+  - ">= 0.42.3"
