@@ -1,0 +1,5 @@
+name: "CESN"
+description: "Extra station names in Czech language for JGRpp."
+url: "https://github.com/matematysek/czech-extra-station-names"
+regions:
+- "CZ"
