@@ -1,0 +1,12 @@
+version: "v2"
+license: "GPL v2"
+upload-date: 2023-05-28T10:22:51Z
+md5sum-partial: "81511182"
+classification:
+  set: "unknown"
+filesize: 8842
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.42.3"
