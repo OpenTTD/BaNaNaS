@@ -1,0 +1,11 @@
+version: "1.4"
+license: "CC-BY v3.0"
+upload-date: 2023-05-28T16:24:28Z
+md5sum-partial: "0067e2eb"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 165282
+availability: "new-games"

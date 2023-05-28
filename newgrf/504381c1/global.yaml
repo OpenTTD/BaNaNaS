@@ -1,0 +1,5 @@
+name: "Polish Real Town Names"
+description: "This GRF contains 30681 real polish names of cities, towns and villages from national geoportal database (Remove duplicate names). Sorted by place status and population.  Cities and metropolises have a better chance than villages."
+url: "https://github.com/Tomirad/Polish_Real_Town_Names"
+regions:
+- "PL"
