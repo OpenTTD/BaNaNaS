@@ -1,0 +1,16 @@
+version: "002"
+license: "GPL v2"
+upload-date: 2023-05-30T17:44:11Z
+md5sum-partial: "0d7bb911"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 327435
+availability: "new-games"
+
+description: |-
+  This set offers tramtracks.
+  Some vehicles that use labels from the Standardized Road/Tram Type Scheme can be used on them.
+  The tracks are NOT compatible with the Standardized Road/Tram Type Scheme.
