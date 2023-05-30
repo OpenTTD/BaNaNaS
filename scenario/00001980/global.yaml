@@ -1,0 +1,5 @@
+name: "Hamburg"
+description: "2048x2048 \"real world\" scenario of the region around the northern German port city of Hamburg with all boroughs and cities places at the correct coordinates. All major streets also included. Industries are non-open/non-close/non-fund by default. Suggested player level: experienced"
+regions:
+- "DE"
+- "DE-HH"
