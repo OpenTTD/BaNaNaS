@@ -1,11 +1,11 @@
-version: "001"
+version: "002"
 license: "GPL v2"
-upload-date: 2023-05-16T01:09:36Z
-md5sum-partial: "e85a8839"
+upload-date: 2023-05-30T18:01:58Z
+md5sum-partial: "b0a4e13f"
 classification:
   set: "road-vehicle"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 42851
-availability: "savegames-only"
+filesize: 42171
+availability: "new-games"
