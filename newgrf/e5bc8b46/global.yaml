@@ -1,5 +1,8 @@
 name: "Ahyangyi's Finnish Town Names C"
-description: "A collection of 16,177 Finnish town and village names, plus a generator to generate more. Mechanically transliterated to Simplified Chinese."
+description: |-
+  A collection of 16,015 Finnish town and village names, plus a generator to generate more. Mechanically transliterated to Simplified Chinese.
+
+  Thanks for suggestions by Hei on tt-forums.
 url: "https://www.tt-forums.net/viewtopic.php?p=1261761"
 regions:
 - "FI"
