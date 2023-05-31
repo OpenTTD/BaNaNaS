@@ -1,0 +1,10 @@
+version: "422"
+license: "CC-BY-SA v3.0"
+upload-date: 2023-05-31T20:12:44Z
+md5sum-partial: "98132cd0"
+filesize: 50920
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
