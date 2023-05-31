@@ -1,0 +1,16 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2023-05-31T17:07:05Z
+md5sum-partial: "1af7ced4"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 71670
+availability: "new-games"
+
+description: |-
+  A collection of 16,015 Finnish town and village names, plus a generator to generate more.
+
+  Thanks for suggestions by Hei on tt-forums.
