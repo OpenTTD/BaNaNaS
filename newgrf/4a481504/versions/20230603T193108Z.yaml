@@ -1,0 +1,21 @@
+version: "0.8"
+license: "Custom"
+upload-date: 2023-06-03T19:31:08Z
+md5sum-partial: "984cdc6d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 202623
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.53.0"
+
+name: "Southern Pacific Set"
+description: "This set aims to totally overhaul railroads by introducing representative classes of every type of locomotive, passenger car, freight car, and caboose operated by the Southern Pacific Lines. All stats and dimensions are taken from company blueprints, and this set aims to be as realistic as possible within the OpenTTD engine. Now with diesels!"
