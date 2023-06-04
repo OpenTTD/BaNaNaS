@@ -1,0 +1,18 @@
+version: "r124"
+license: "GPL v2"
+upload-date: 2023-06-04T12:16:47Z
+md5sum-partial: "19551a6f"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 2432599
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51.1"
