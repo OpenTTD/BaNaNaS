@@ -1,0 +1,7 @@
+name: "British Extra Station Names"
+description: |-
+  This NewGRF will add extra station name suffixes when the default ones run out.
+
+  Requires JGR patch pack to function.
+regions:
+- "GB"
