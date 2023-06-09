@@ -1,0 +1,26 @@
+version: "r130"
+license: "GPL v3"
+upload-date: 2023-06-09T17:27:19Z
+md5sum-partial: "618514f2"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 2439706
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.51.1"
+
+name: "HVW Modular Truck Set"
+description: |-
+  Hungarian Voxel World - Modular Truck Set
+  4x zoom, 8 bpp set, made from voxels.
+  A modular, one vehicle composed from multiple sprites truck set, with european style trucks.
+  The aim is to create an universal truck set like GRVTS, but with more realistic looking vehicles.
+  All vehicles choose a random brand and model by default, but you could always get a specific one from the dropdown menu in the purchase list.
