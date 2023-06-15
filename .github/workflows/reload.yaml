@@ -13,7 +13,7 @@ jobs:
     uses: OpenTTD/actions/.github/workflows/rw-nomad-reload.yml@v4
     secrets:
       RELOAD_SECRET: ${{ secrets.API_RELOAD_SECRET }}
-      NOMAD_SERVICE_KEY: ${{ secrets.SERVER_NOMAD_SERVICE_PROD_KEY }}
+      NOMAD_SERVICE_KEY: ${{ secrets.API_NOMAD_SERVICE_PROD_KEY }}
     with:
       service: bananas-api-prod
 
