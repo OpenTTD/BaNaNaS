@@ -1,0 +1,27 @@
+name: Reload databases
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  reload_api:
+    name: Reload API database
+    # No need to reload on a commit made by the API.
+    if: ${{ github.actor != 'bananas-backend[bot]' }}
+    uses: OpenTTD/actions/.github/workflows/rw-nomad-reload.yml@v4
+    secrets:
+      RELOAD_SECRET: ${{ secrets.API_RELOAD_SECRET }}
+      NOMAD_SERVICE_KEY: ${{ secrets.SERVER_NOMAD_SERVICE_PROD_KEY }}
+    with:
+      service: bananas-api
+
+  reload_server:
+    name: Reload server database
+    uses: OpenTTD/actions/.github/workflows/rw-nomad-reload.yml@v4
+    secrets:
+      RELOAD_SECRET: ${{ secrets.SERVER_RELOAD_SECRET }}
+      NOMAD_SERVICE_KEY: ${{ secrets.SERVER_NOMAD_SERVICE_PROD_KEY }}
+    with:
+      service: bananas-server
