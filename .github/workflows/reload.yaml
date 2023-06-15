@@ -15,7 +15,7 @@ jobs:
       RELOAD_SECRET: ${{ secrets.API_RELOAD_SECRET }}
       NOMAD_SERVICE_KEY: ${{ secrets.SERVER_NOMAD_SERVICE_PROD_KEY }}
     with:
-      service: bananas-api
+      service: bananas-api-prod
 
   reload_server:
     name: Reload server database
@@ -24,4 +24,4 @@ jobs:
       RELOAD_SECRET: ${{ secrets.SERVER_RELOAD_SECRET }}
       NOMAD_SERVICE_KEY: ${{ secrets.SERVER_NOMAD_SERVICE_PROD_KEY }}
     with:
-      service: bananas-server
+      service: bananas-server-prod
