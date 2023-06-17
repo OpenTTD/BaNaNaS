@@ -1,5 +1,5 @@
-name: "DutchTrainsforMailTransporters"
-description: "A fork version of Dutch Trainset 3: every passenger-only MU and coach is now mail- and valuable- available."
+name: "Dutch Trainset Series JF Fork"
+description: "A Dutch Trainset fork combining Dutch Trainset 2, Add-On and NS Intercity-Max Trainset, with changes in loading speed, reliability decay and cargo age period. Using GRF ID of DutchTrainsForMailTransporters. NOT COMPATIBLE WITH DUTCH TRAINS FOR MAIL TRANSPORTERS!!! DO NOT UPGRADE FROM THAT!!!"
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
 regions:
 - "NL"
