@@ -1,0 +1,19 @@
+version: "0.2.1"
+license: "GPL v2"
+upload-date: 2023-06-17T13:08:24Z
+md5sum-partial: "d6e9fd9a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 780172
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "DutchTrainsforMailTransporters"
+description: "Just no fixes, but DO NOT DOWNLOAD V0.2 SINCE IT WILL BREAK YOUR SAVE GAMES. Download v0.2.1 instead."
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
