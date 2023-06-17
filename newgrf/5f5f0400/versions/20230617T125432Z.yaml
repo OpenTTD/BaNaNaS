@@ -1,0 +1,19 @@
+version: "0.2"
+license: "GPL v3"
+upload-date: 2023-06-17T12:54:32Z
+md5sum-partial: "25c89e79"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 777989
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "Dutch Trainset Series JF Fork"
+description: "A Dutch Trainset fork combining Dutch Trainset 2, Add-On and NS Intercity-Max Trainset, with changes in loading speed, reliability decay and cargo age period. Using GRF ID of DutchTrainsForMailTransporters. NOT COMPATIBLE WITH DUTCH TRAINS FOR MAIL TRANSPORTERS!!! DO NOT UPGRADE FROM THAT!!!"
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
