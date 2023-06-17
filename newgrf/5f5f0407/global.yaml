@@ -1,0 +1,5 @@
+name: "Dutch Trainset Series JF Fork"
+description: "17 June 2023: A Dutch Trainset fork combining Dutch Trainset 2, Add-On and NS Intercity-Max Trainset, with changes in loading speed, reliability decay and cargo age period."
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+regions:
+- "NL"
