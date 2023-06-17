@@ -9,3 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 565088
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 53.0"
