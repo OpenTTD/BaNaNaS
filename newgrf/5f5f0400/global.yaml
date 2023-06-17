@@ -1,5 +1,5 @@
-name: "Dutch Trainset Series JF Fork"
-description: "A Dutch Trainset fork combining Dutch Trainset 2, Add-On and NS Intercity-Max Trainset, with changes in loading speed, reliability decay and cargo age period. Using GRF ID of DutchTrainsForMailTransporters. NOT COMPATIBLE WITH DUTCH TRAINS FOR MAIL TRANSPORTERS!!! DO NOT UPGRADE FROM THAT!!!"
+name: "DutchTrainsforMailTransporters"
+description: "Refitting MUs and passenger cars in Dutch Trainset 3 to mail. DO NOT DOWNLOAD V0.2!!! IT WILL BREAK YOUR SAVE GAMES!!! DOWNLOAD V0.2.1 INSTEAD!!!"
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
 regions:
 - "NL"
