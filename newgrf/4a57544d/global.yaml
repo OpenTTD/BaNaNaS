@@ -1,4 +1,4 @@
-name: "Just Walk I t- Monorail"
+name: "Just Walk It - Monorail"
 description: |-
   Add a Pedestrian as a Monorail as a mode of transportation.
 
@@ -17,3 +17,4 @@ description: |-
   Available Climates: All of Them
   Weight Value: 1
 url: "https://github.com/DemonBigj781/JustWalkIt"
+regions: []
