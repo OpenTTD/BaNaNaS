@@ -1,14 +1,14 @@
-version: "0.4"
+version: "0.5"
 license: "Custom"
-upload-date: 2023-06-19T18:26:05Z
-md5sum-partial: "a8715a57"
+upload-date: 2023-06-19T23:11:04Z
+md5sum-partial: "572269f3"
 classification:
   set: "townname"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 8518
-availability: "savegames-only"
+filesize: 8523
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
