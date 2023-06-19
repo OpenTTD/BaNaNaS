@@ -1,0 +1,19 @@
+name: "Just Walk It - Train"
+description: |-
+  Add a Pedestrian as a Train as a mode of transportation.
+
+  They have the following specs.
+
+  Top Speed: 5 km\h
+  Horse Power: 200
+  Lifespan = 80 years
+  Cargo capacity: One Unit
+  Cost Factor: 1
+  Maintenance Cost: 360 BBP a year.
+  Release Date: January 1, 1700
+  Breaking Force Value: 255
+  Default Cargo Type: Passengers
+  Refit-table to: Everything including Special Cargo
+  Available Climates: All of Them
+  Weight Value: 1
+url: "https://github.com/DemonBigj781/JustWalkIt"
