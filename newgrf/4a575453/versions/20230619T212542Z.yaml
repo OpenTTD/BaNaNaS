@@ -1,0 +1,11 @@
+version: "0.0.1"
+license: "Custom"
+upload-date: 2023-06-19T21:25:42Z
+md5sum-partial: "0a023d0d"
+classification:
+  set: "vehicle"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1118
+availability: "new-games"
