@@ -1,0 +1,18 @@
+version: "0.4"
+license: "Custom"
+upload-date: 2023-06-19T18:26:05Z
+md5sum-partial: "a8715a57"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 8518
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.3"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.54.2"
