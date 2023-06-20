@@ -4,6 +4,10 @@ upload-date: 2023-05-31T20:12:44Z
 md5sum-partial: "98132cd0"
 filesize: 50920
 availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
 compatibility:
 - name: "vanilla"
   conditions:
