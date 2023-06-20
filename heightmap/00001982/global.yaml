@@ -1,0 +1,5 @@
+name: "Balearic Islands"
+description: "Balearic Islands, located in eastern Spain. Includes: Majorca, Minorca, Ibiza, Formentera, and surrounding islets."
+regions:
+- "ES-IB"
+- "ES-PM"
