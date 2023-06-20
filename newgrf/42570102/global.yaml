@@ -1,0 +1,6 @@
+name: "AsiaStar Redux"
+description: |-
+  A NewGRF for OpenTTD which introduces a second and a third generation of the AsiaStar train.
+
+  Just like the AsiaStar is inspired by the original EuroStar train, the two trains in this version is inspired by the 2004 refurbishment of the EuroStar, called 373, and the 2015 model 374.
+url: "https://notabug.org/tinyrabbit/asiastar-redux"

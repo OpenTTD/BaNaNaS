@@ -1,0 +1,11 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2023-06-20T22:52:47Z
+md5sum-partial: "f0c1aa76"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 9785
+availability: "new-games"
