@@ -1,0 +1,11 @@
+version: "beta0.1.0"
+license: "GPL v3"
+upload-date: 2023-06-21T12:03:33Z
+md5sum-partial: "438985d9"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 233595
+availability: "new-games"
