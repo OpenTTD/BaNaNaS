@@ -1,14 +1,14 @@
-version: "1.0.2"
+version: "1.1"
 license: "GPL v2"
-upload-date: 2023-03-11T17:17:15Z
-md5sum-partial: "668e18a7"
+upload-date: 2023-06-22T15:06:59Z
+md5sum-partial: "bf3aa655"
 classification:
   set: "road-vehicle"
   palette: "8bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 217422
-availability: "savegames-only"
+filesize: 269481
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
