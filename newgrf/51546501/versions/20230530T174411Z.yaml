@@ -11,6 +11,7 @@ filesize: 327435
 availability: "new-games"
 
 description: |-
+  Requires minimal OpenTTD version 1.10
   This set offers tramtracks.
   Some vehicles that use labels from the Standardized Road/Tram Type Scheme can be used on them.
   The tracks are NOT compatible with the Standardized Road/Tram Type Scheme.
