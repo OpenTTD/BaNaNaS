@@ -1,0 +1,8 @@
+name: "Quast65's RoadSet"
+description: |-
+  Requires minimal OpenTTD version 1.10
+  This set offers roads.
+  The intention is to make them suitable for vehicles that use labels from the Standardized Road/Tram Type Scheme.
+  Further than that, the roads are NOT compatible with the Standardized Road/Tram Type Scheme.
+  Can be used in combination with (eyecandy) tramtracks to get a different appearance, without loosing too many of the precious 64 road/tramtype-slots.
+url: "https://www.tt-forums.net/viewtopic.php?p=1261920#p1261920"

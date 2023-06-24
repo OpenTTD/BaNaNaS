@@ -1,0 +1,11 @@
+version: "007"
+license: "GPL v2"
+upload-date: 2023-06-24T12:43:30Z
+md5sum-partial: "12627039"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 506325
+availability: "new-games"
