@@ -1,0 +1,18 @@
+version: "1.01"
+license: "Custom"
+upload-date: 2023-06-27T21:40:38Z
+md5sum-partial: "66387519"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 4606950
+availability: "new-games"
+
+name: "Temporal8 Real Trucks 32bpp"
+description: |-
+  Real Trucks 1.01: Tractive Effort fixed!
+
+  The previous version had a problem with "Road Vehicle Acceleration model" being set to Realistic which caused loaded trucks to be slow. fixed now.
+url: "https://www.tt-forums.net/viewtopic.php?t=87622"
