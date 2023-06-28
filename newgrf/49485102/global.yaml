@@ -1,4 +1,4 @@
-name: "IGNORE_PLZ"
+name: "ZZ-IGNORE_PLZ"
 replaced-by:
   unique-id: "47385204"
 description: |-
@@ -8,3 +8,4 @@ description: |-
   Pikkabird
   Gwyd
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+regions: []
