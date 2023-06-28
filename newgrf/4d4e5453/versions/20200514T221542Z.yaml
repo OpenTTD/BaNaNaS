@@ -13,3 +13,5 @@ dependencies:
 - content-type: "newgrf"
   unique-id: "47524304"
   md5sum-partial: "aa46cad8"
+
+name: "ZZ-IGNORE_PLZ"
