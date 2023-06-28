@@ -1,7 +1,8 @@
-name: "PLZ_IGNORE"
+name: "ZZ-PLZ_IGNORE"
 description: |-
   == OBSOLETE! ==
   This GRF limits the maximum available industrial tracktypes to electrified and unelectrified dual gauge rails to save tracktype slots.
 
   Unlike the GRF this was based on, Erato's Industrial Track Set, this GRF uses fictional multi-gauge track, capable of supporting broad, standard and narrow gauge trains. Use this if you're interested in not just beautification but also realism; these tracks are expensive and have high maintenance costs due to the materials used.
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+regions: []
