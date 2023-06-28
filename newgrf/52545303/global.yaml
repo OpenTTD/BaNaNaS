@@ -1,4 +1,4 @@
-name: "IGNORE_PLZ"
+name: "ZZ-IGNORE_PLZ"
 description: |-
   THIS NEWGRF IS OBSOLETE! CHECK URL FOR NEW VERSIONS!
 
@@ -10,3 +10,4 @@ description: |-
   Chris (Erato)
   Gwyd
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+regions: []
