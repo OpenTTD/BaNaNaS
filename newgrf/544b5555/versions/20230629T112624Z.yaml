@@ -1,0 +1,18 @@
+version: "2.5.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2023-06-29T11:26:24Z
+md5sum-partial: "808ead99"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 541907
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.53.0"
