@@ -1,0 +1,5 @@
+name: "Danish Trains Voltage Override"
+description: "Does what it says, place under Danish Trains."
+url: "https://github.com/Brickblock1/Danish-Trains-multivoltage-override"
+regions:
+- "DK"
