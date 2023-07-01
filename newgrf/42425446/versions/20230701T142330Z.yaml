@@ -1,0 +1,13 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2023-07-01T14:23:30Z
+md5sum-partial: "b8d953cc"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 10680
+availability: "new-games"
+
+name: "Swedish trains fixed"

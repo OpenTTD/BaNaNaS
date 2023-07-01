@@ -8,6 +8,6 @@ classification:
   has-high-res: false
   has-sound-effects: false
 filesize: 10401
-availability: "new-games"
+availability: "savegames-only"
 
 url: "https://github.com/Brickblock1/Swedish-trains-fix"
