@@ -1,0 +1,7 @@
+name: "DACH Multivoltage Override"
+description: "Does what the name says. Put it underneath DACH Train Set."
+url: "https://github.com/Brickblock1/DACH-multivoltage-override"
+regions:
+- "AT"
+- "CH"
+- "DE"
