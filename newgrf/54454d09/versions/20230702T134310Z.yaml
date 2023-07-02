@@ -1,0 +1,21 @@
+version: "1.1"
+license: "Custom"
+upload-date: 2023-07-02T13:43:10Z
+md5sum-partial: "89b097f8"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 10232266
+availability: "new-games"
+
+name: "Temporal8 Real Trucks 32bpp"
+description: |-
+  Changelog:
+
+  - Increased Cargo Capacity.
+  - Increased Tractive Effort.
+  - Different Introduction dates.
+  - New past and Future models: Old Trucks since 1955, Diesel Trucks since 1995 and Electric Trucks since 2025.
+url: "https://www.tt-forums.net/viewtopic.php?t=90151"
