@@ -1,0 +1,18 @@
+version: "1.1"
+license: "CC-BY-SA v3.0"
+upload-date: 2023-07-08T19:50:43Z
+md5sum-partial: "e3aed08f"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 8789
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.1.0"
