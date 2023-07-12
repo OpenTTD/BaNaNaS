@@ -1,0 +1,7 @@
+name: "Korea Metropolitan Scenario"
+description: |-
+  Korea Metropolitan Scenario
+
+  City names are in Korean.
+  This scenario is implemented up to the 'Dong' and 'Li' levels.
+  Requires 5 NewGRF.
