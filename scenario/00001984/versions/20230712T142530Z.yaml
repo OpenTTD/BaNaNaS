@@ -1,0 +1,11 @@
+version: "0.0.0.1"
+license: "GPL v3"
+upload-date: 2023-07-12T14:25:30Z
+md5sum-partial: "591d6c60"
+classification:
+  shape: "square"
+  terrain-type: "very-flat"
+  size: "huge"
+  climate: "temperate"
+filesize: 17657372
+availability: "new-games"
