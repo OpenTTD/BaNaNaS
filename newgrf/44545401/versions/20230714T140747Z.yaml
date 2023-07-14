@@ -1,0 +1,11 @@
+version: "0.7.0 (Alpha)"
+license: "GPL v2"
+upload-date: 2023-07-14T14:07:47Z
+md5sum-partial: "fe3aba0f"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 278638
+availability: "new-games"
