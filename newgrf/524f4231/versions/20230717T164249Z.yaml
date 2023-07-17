@@ -1,0 +1,11 @@
+version: "Alpha 20230717"
+license: "GPL v2"
+upload-date: 2023-07-17T16:42:49Z
+md5sum-partial: "c76b6db1"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 563253
+availability: "new-games"
