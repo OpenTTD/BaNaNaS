@@ -1,14 +1,14 @@
-version: "beta0.2.0"
+version: "beta0.3.0"
 license: "GPL v3"
-upload-date: 2023-06-28T14:01:01Z
-md5sum-partial: "86a172ec"
+upload-date: 2023-07-24T13:17:17Z
+md5sum-partial: "8835ea0e"
 classification:
   set: "town"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 318023
-availability: "savegames-only"
+filesize: 478479
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
