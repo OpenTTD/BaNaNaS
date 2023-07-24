@@ -1,5 +1,10 @@
 name: "Korean Town set"
-description: "Korean Town Set includes Korean style buildings except North Korea."
+description: |-
+  Korean Town Set includes Korean style buildings except North Korea.
+
+  Highly recommanded to use this after year 2000. Older buildings will be added soon!
+
+  License: GNU GPL v3
 url: "https://github.com/SerpensNebula/Korean-Town-Set"
 regions:
 - "KR"
