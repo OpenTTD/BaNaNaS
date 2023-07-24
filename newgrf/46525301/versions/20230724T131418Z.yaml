@@ -1,0 +1,18 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2023-07-24T13:14:18Z
+md5sum-partial: "b9564a38"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 218339
+availability: "new-games"
+
+name: "Fridaemon's Railway Stations"
+description: |-
+  Some stuffs from AuzObjects, Fridaemon's Objects and Swedish Houses as Non-Track Tiles.
+  My glassed bus stations coded as railway ones.
+  Coded by Quast65
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87596"
