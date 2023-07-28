@@ -1,0 +1,15 @@
+version: "1"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2023-07-28T12:51:20Z
+md5sum-partial: "a547b8c8"
+classification:
+  shape: "narrow"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-tropical"
+filesize: 866198
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.49"
