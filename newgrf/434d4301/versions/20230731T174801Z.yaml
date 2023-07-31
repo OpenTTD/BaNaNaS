@@ -1,0 +1,11 @@
+version: "0.73"
+license: "GPL v2"
+upload-date: 2023-07-31T17:48:01Z
+md5sum-partial: "9f51ba9b"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 1500621
+availability: "new-games"

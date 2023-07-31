@@ -1,0 +1,8 @@
+name: "Sailing Ships (community)"
+description: |-
+  A sailing ship set for OpenTTD featuring 8 wind and steam powered ships introduced between 1700 and 1920.
+
+  Copyright J Mitchell 2012.
+
+  Updated with refit-at-station support; Russian and Bokmal translations; rebalancing to match SQUID ships and more by sevenfm and others.
+url: "https://github.com/cmcaine/OpenTTD-Sailing-Ships/"
