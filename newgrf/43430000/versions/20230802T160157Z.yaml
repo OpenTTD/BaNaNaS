@@ -1,0 +1,15 @@
+version: "1.0"
+license: "CC-BY v3.0"
+upload-date: 2023-08-02T16:01:57Z
+md5sum-partial: "8efdebc2"
+classification:
+  set: "gui"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 7846
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
