@@ -1,0 +1,21 @@
+version: "9"
+license: "GPL v2"
+upload-date: 2023-08-04T08:17:42Z
+md5sum-partial: "d3fe243f"
+filesize: 24708
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12"
+
+description: |-
+  City Controller
+  A town growing controller script, with :
+  - Simple display on town screen.
+  - Growth based on delivered cargos, dynamic growing rate.
+  - Automatic cargo town acceptance from any installed newGRF (FIRS, ECS...)
+  - Town stabilizer
+  - Competitive mode
+
+  source at https://github.com/primer97/ctct
