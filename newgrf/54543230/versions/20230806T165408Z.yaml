@@ -1,14 +1,14 @@
-version: "2.4"
+version: "2.5"
 license: "GPL v3"
-upload-date: 2023-08-06T16:10:31Z
-md5sum-partial: "e0d61168"
+upload-date: 2023-08-06T16:54:08Z
+md5sum-partial: "045acec0"
 classification:
   set: "industry"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 35050
-availability: "savegames-only"
+filesize: 37029
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
