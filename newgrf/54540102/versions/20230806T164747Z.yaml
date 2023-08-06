@@ -1,0 +1,17 @@
+version: "1.3"
+license: "GPL v3"
+upload-date: 2023-08-06T16:47:47Z
+md5sum-partial: "4a162751"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 13325
+availability: "new-games"
+
+description: |-
+  Tired of your eyecandy castles, villages, or airports not having any passengers? This one-tile industry (disguised as a base game fountain or statue, set by parameter) produces and accepts passengers to give your builds the visitors they deserve.
+
+  Created by 2TallTyler.
+url: "https://github.com/2TallTyler/plaza_ind"
