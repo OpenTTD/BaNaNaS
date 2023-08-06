@@ -1,0 +1,15 @@
+version: "2.4"
+license: "GPL v3"
+upload-date: 2023-08-06T16:10:31Z
+md5sum-partial: "e0d61168"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 35050
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
