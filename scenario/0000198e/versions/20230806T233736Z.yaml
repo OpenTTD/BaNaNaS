@@ -1,0 +1,15 @@
+version: "1.1"
+license: "CC-BY v3.0"
+upload-date: 2023-08-06T23:37:36Z
+md5sum-partial: "e5a2746b"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "temperate"
+filesize: 2698302
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.3"
