@@ -13,3 +13,12 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 13.3"
+
+description: |-
+  JAPAN 1875
+
+  NewGRF Requirements: Japan Set3 pack available here on BaNaNas. Made in OpenTTD 13.3.
+
+  This is the default industries map for the Japan 1875 scenario. No industries have been placed and industry density is set to "Very Low"
+
+  -amadeus
