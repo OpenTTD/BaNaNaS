@@ -1,0 +1,10 @@
+version: "1.1"
+license: "GPL v3"
+upload-date: 2023-08-10T01:51:36Z
+md5sum-partial: "fd487bbc"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "hilly"
+filesize: 147778
+availability: "new-games"
