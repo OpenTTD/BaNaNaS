@@ -1,0 +1,15 @@
+version: "0.0.4.43"
+license: "GPL v2"
+upload-date: 2023-08-18T04:23:54Z
+md5sum-partial: "d7c6bb4c"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 2564127
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
