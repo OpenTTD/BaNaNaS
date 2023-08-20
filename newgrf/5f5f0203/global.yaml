@@ -1,0 +1,5 @@
+name: "Finnish Trams Fix"
+description: "Fix the costs in Finnish Trams, and made it on public."
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+regions:
+- "FI"
