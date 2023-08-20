@@ -1,0 +1,11 @@
+name: "Polish Buildings as Objects"
+description: |-
+  Polish buildings made into placeable objects, most of them snow-aware.
+
+  Original graphics: TadeuszD and openttd-polska.pl
+  Minor additions and coding: chujo
+
+  August 20, 2023
+url: "https://www.tt-forums.net/viewtopic.php?t=91127"
+regions:
+- "PL"
