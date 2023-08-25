@@ -1,0 +1,14 @@
+version: "0.9"
+license: "GPL v3"
+upload-date: 2023-08-25T15:45:04Z
+md5sum-partial: "d08b6e8c"
+filesize: 24473
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "999de61c"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.9.0"
