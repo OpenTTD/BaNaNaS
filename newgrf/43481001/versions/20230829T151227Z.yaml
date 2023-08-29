@@ -1,0 +1,26 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2023-08-29T15:12:27Z
+md5sum-partial: "d307217b"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 294637
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "Polish Buildings as Objects 1.1"
+description: |-
+  Polish buildings made into placeable objects, most of them snow-aware.
+  v1.1: Added parameters for the scenario editor.
+
+  Original graphics: Sojita, TadeuszD, openttd-polska.pl
+  Minor additions and coding: chujo
+
+  August 29, 2023
+url: "https://www.tt-forums.net/viewtopic.php?t=91127"
