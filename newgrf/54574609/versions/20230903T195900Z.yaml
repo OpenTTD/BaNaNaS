@@ -1,14 +1,14 @@
-version: "1.0.8"
+version: "1.0.9"
 license: "CC-BY-SA v3.0"
-upload-date: 2021-08-22T17:29:12Z
-md5sum-partial: "afdade74"
+upload-date: 2023-09-03T19:59:00Z
+md5sum-partial: "8ec8a451"
 classification:
   set: "road-infra"
   palette: "8bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 1492197
-availability: "savegames-only"
+filesize: 1565223
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
