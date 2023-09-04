@@ -1,0 +1,17 @@
+version: "1.1"
+license: "GPL v2"
+upload-date: 2023-09-04T10:59:50Z
+md5sum-partial: "9189601c"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 592273
+availability: "new-games"
+
+name: "Swedish Houses as Objects"
+description: |-
+  THIS IS AN EYECANDY OBJECT VERSION OF SWEDISH HOUSES BUILDING SET.
+  This set was coded by fridaemon with permission from Alexander "Irwe" Irwe.
+url: "https://github.com/fridaemon/Swedish-Houses-as-Objects/"
