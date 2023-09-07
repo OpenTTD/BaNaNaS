@@ -1,0 +1,25 @@
+version: "0.0.6 alpha"
+license: "GPL v3"
+upload-date: 2023-09-07T18:46:56Z
+md5sum-partial: "76038f95"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 103326
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.4"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.55.1"
+
+name: "SNCF - French Trainset"
+description: |-
+  The National society of French railroads is France's national state-owned railway company.
+  The railway network consists of about 35,000 km (22,000 mi) of route, of which 2,600 km (1,600 mi) are high-speed lines and 14,500 km (9,000 mi) electrified.
+  About 14,000 trains are operated daily.
+url: "https://github.com/SylvainDevidal/SNCF"
