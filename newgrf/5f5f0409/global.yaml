@@ -1,0 +1,5 @@
+name: "JF Japan-Themed DualGauge Rails"
+description: "Improves interplayability between Japan Set and others by allowing more compatibility and adding new railtypes, including dual gauge. Incomplete, experimental, in development, etc. Contains graphics from Japan Set 3 Tracks, mostly coded by Emperor Jake, minor changes (adding 160km/h dual gauge) by John Franklin. (c) 2019-2023 GPLv3"
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+regions:
+- "JP"
