@@ -9,3 +9,7 @@ classification:
   climate: "temperate"
 filesize: 5160193
 availability: "new-games"
+
+description: |-
+  Earth World Map with many random and manually placed industries, made on jonno's The World v2 heightmap.
+  There are some inaccuracies in the placements.
