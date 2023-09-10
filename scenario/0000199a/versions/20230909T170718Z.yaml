@@ -1,4 +1,4 @@
-version: "1"
+version: "0"
 license: "CC-BY v3.0"
 upload-date: 2023-09-09T17:07:18Z
 md5sum-partial: "7f460140"
@@ -9,3 +9,12 @@ classification:
   climate: "temperate"
 filesize: 5083059
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.0"
+  - "< 0.0.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0.0"
+  - "< 0.0.0"
