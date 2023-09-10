@@ -9,3 +9,7 @@ classification:
   climate: "temperate"
 filesize: 5091434
 availability: "new-games"
+
+description: |-
+  Earth World Map without industry, made on jonno's The World v2 heightmap.
+  Industries can be placed using Scenario Editor.
