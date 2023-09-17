@@ -1,0 +1,10 @@
+version: "0.2"
+license: "Custom"
+upload-date: 2023-09-17T22:20:36Z
+md5sum-partial: "9648d5c3"
+filesize: 6219970
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.3.0"
