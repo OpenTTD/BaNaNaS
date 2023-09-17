@@ -1,0 +1,14 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2023-09-17T22:19:21Z
+md5sum-partial: "765719c3"
+classification:
+  set: "unknown"
+filesize: 7978
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.3.0"
+
+name: "OpenGFX2 Settings"
