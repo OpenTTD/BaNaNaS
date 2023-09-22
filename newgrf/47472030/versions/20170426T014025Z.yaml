@@ -9,5 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 2266960
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: "The Intermediate Station and Intermediate Forestry Sidings have random Cargos. NOTE: Random cargos. 1. 'Industry chains' viewer in game doesn't support it. 2. It confuses AIs and GameScripts. 3. When funding the industry may not get the cargo wanted. 4. It's easy to slip up when building your routes and try to transport a cargo that isn't there."
