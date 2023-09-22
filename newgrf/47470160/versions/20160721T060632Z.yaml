@@ -9,5 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 1668799
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: "You will need OpenTTD 1.6.0 or later or a compatible Nightlies version to play as it has many more Industries."

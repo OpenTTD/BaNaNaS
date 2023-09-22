@@ -9,5 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 1938764
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: "Added to more Industries and changed graphics to some Industries"
