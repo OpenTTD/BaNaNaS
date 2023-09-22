@@ -9,6 +9,11 @@ classification:
   has-sound-effects: false
 filesize: 2588197
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: |-
   Based on Industries found in Australia. Has 92 Industries and 32 cargos.
