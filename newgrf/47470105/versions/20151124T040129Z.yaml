@@ -9,5 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 485689
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: "Has many smaller new Industries such what you would find at railway stations and siding."
