@@ -2,7 +2,7 @@ name: "AuzObjects Boating"
 description: |-
   Australian-style objects with boats and other marine tiles, including wharves and navigation markers.
 
-  Author: GarryG, with assistance from Quast65 and others with code and graphics.
+  Author: GarryG, with credit to Quast65 and others for coding and graphics assistance.
 url: "https://www.tt-forums.net/viewtopic.php?t=75657"
 regions:
 - "AU"

@@ -13,3 +13,11 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.0"
+
+description: |-
+  Australian-style objects with boats and other marine tiles, including wharves and navigation markers.
+
+  Author: GarryG, with assistance from Quast65 and others with coding and graphics assistance.
+
+  Version 5 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
