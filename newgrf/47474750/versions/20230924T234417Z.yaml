@@ -1,0 +1,22 @@
+version: "11"
+license: "GPL v2"
+upload-date: 2023-09-24T23:44:17Z
+md5sum-partial: "9f54844d"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 2996164
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "Auz Objects Car Parks"
+description: |-
+  Australian-style objects for car parks, such as parking zones, bus zones, loading areas, roadways, and overlays for subway/metro station tiles.
+
+  Author: GarryG, with credit to Pyoro, Fridaemon, John Fister and others for coding and graphics assistance.
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
