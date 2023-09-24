@@ -14,7 +14,7 @@ compatibility:
   conditions:
   - ">= 12.0"
 
-name: "Auz Objects Car Parks"
+name: "AuzObjects Car Parks"
 description: |-
   Australian-style objects for car parks, such as parking zones, bus zones, loading areas, roadways, and overlays for subway/metro station tiles.
 
