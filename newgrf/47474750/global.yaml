@@ -1,3 +1,8 @@
-name: "AuzCarParksAndSubwayOverlays"
-description: "Has animated Car Parking Zones, roadways, bus zones, Subway Overlaps and more"
+name: "AuzObjects Car Parks"
+description: |-
+  Australian-style objects for car parks, such as parking zones, bus zones, loading areas, roadways, and overlays for subway/metro station tiles.
+
+  Author: GarryG, with credit to Pyoro, Fridaemon, John Fister and others for coding and graphics assistance.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+regions:
+- "AU"
