@@ -1,0 +1,8 @@
+name: "AuzObjects Landscape"
+description: |-
+  Landscape, terrain and vegetation tile and overlap objects borrowed from and inspired by the OpenGFX base graphics set.
+
+  Author: Garry G, with credit to Romazoon, McZapkie, Fridaemon, Temporal8 and others for coding and graphics.
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
+regions:
+- "AU"
