@@ -1,0 +1,25 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2023-09-25T03:55:51Z
+md5sum-partial: "62bdb523"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 431744
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzObjects Fake Rails & Trains"
+description: |-
+  Australian-style railroad objects fake railroad tiles, trains, cars and other equipment to decorate your stations and yards.
+
+  Author: GarryG, with credit to many others for coding and graphics assistance.
+
+  Version 6 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
