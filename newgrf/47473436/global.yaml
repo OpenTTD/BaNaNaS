@@ -3,7 +3,6 @@ description: |-
   Additional Australian-style objects for towns, including community buildings, public services and works, malls, construction and more.
 
   Author: GarryG, with credit to Quast65 for coding and graphics assistance.
-
-  Version 26 released on September 20, 2023.
-  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
 url: "https://www.tt-forums.net/viewtopic.php?t=75657"
+regions:
+- "AU"
