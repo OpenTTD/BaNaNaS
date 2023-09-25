@@ -1,3 +1,8 @@
-name: "AuzFake Rails And Trains Object"
-description: "This set is now OBSOLETE. New version available soon"
-url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+name: "AuzObjects Fake Rails & Trains"
+description: |-
+  Australian-style railroad objects fake railroad tiles, trains, cars and other equipment to decorate your stations and yards.
+
+  Author: GarryG, with credit to many others for coding and graphics assistance.
+url: "https://www.tt-forums.net/viewtopic.php?&t=75657"
+regions:
+- "AU"
