@@ -1,0 +1,11 @@
+name: "AuzObjects Industry"
+description: |-
+  Australian-style objects for industrial infrastructure and stations, with graphics used from FIRS, CHIPS, and Industrial Stations Renewal (ISR).
+
+  Author: GarryG, with credit to Andythenorth, the ISR Team and many others for coding and graphics assistance.
+
+  Version 18 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
+regions:
+- "AU"
