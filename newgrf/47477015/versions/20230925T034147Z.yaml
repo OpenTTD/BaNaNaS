@@ -1,0 +1,25 @@
+version: "10"
+license: "GPL v2"
+upload-date: 2023-09-25T03:41:47Z
+md5sum-partial: "e8a443fe"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 807850
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzObjects Power and Telephone"
+description: |-
+  Australian-style objects for electrical power and telephone communication infrastructure such as substations, transmission towers, wires, and solar and wind turbines.
+
+  Author: GarryG, with credit to many others for coding and graphics assistance.
+
+  Version 10 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
