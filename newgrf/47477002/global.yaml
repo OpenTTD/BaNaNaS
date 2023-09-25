@@ -1,3 +1,8 @@
-name: "AuzFencesObjects"
-description: "Variety of Fences for towns, country and Industries."
+name: "AuzObjects Fences"
+description: |-
+  Australian-style objects featuring fences, gates, hedges and more for towns, farms and industries.
+
+  Author: GarryG, with credit to others for coding and graphics assistance.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+regions:
+- "AU"
