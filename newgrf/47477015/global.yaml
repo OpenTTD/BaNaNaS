@@ -1,3 +1,8 @@
-name: "AuzPowerAndTelephoneObjects"
-description: "Objects to build Power and Sub-Stations plus a variety of power and telephone poles with and without wires."
-url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+name: "AuzObjects Power and Telephone"
+description: |-
+  Australian-style objects for electrical power and telephone communication infrastructure such as substations, transmission towers, wires, and solar and wind turbines.
+
+  Author: GarryG, with credit to many others for coding and graphics assistance.
+url: "https://www.tt-forums.net/viewtopic.php?&t=75657"
+regions:
+- "AU"
