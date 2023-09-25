@@ -13,3 +13,11 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.0"
+
+description: |-
+  Australian-style objects for sporting events including auto racing, horse racing, golf, track and field, athletic fields, stadiums, spectators, and more.
+
+  Author: GarryG, with credit to Kamnet and Quast65 for ideas, coding and graphics.
+
+  Version 18 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
