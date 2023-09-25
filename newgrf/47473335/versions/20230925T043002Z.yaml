@@ -1,0 +1,25 @@
+version: "24"
+license: "GPL v2"
+upload-date: 2023-09-25T04:30:02Z
+md5sum-partial: "0941e112"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 3984276
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzObjects Towns"
+description: |-
+  Australian-style objects for towns, including houses, commercial buildings, churches, parks, plazas, walksways, gardens and more.
+
+  Author: GarryG, with credit to Romazoon, RL Conroy and Fridaemon for coding and graphics assistance.
+
+  Version 24 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
