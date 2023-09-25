@@ -1,3 +1,8 @@
-name: "AuzFarmObjects"
-description: "Farm Buildings, Livestock, Vehicles, Machinery, Crops."
+name: "AuzObjects Farms"
+description: |-
+  Australian-style objects for farms including farm animals, equipment, buildings, landscape tiles, fencing, and overlap object tiles for the One-Tile Industry Set (OTIS).
+
+  Author: GarryG, with credit to others for coding and graphics assistance.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+regions:
+- "AU"

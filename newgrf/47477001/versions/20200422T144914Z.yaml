@@ -13,3 +13,4 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.6.0"
+  - "< 12.0"
