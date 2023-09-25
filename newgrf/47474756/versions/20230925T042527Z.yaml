@@ -1,0 +1,15 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2023-09-25T04:25:27Z
+md5sum-partial: "0c56268b"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1713940
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
