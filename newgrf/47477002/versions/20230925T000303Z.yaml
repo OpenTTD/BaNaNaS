@@ -1,0 +1,24 @@
+version: "16"
+license: "GPL v2"
+upload-date: 2023-09-25T00:03:03Z
+md5sum-partial: "4aac72e4"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 871893
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzObjects Fences"
+description: |-
+  Australian-style objects featuring fences, gates, hedges and more for towns, farms and industries.
+
+  Author: GarryG, with credit to others for coding and graphics assistance.
+
+  Version 16 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
