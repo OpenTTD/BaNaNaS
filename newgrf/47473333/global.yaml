@@ -1,8 +1,4 @@
-name: "AuzObjects Towns"
-description: |-
-  *** THIS GRF FILE IS NOW OBSOLETE ***
-
-  "Use Auz Road and Town Objects instead"
-
-  Houses, Churches, schools and other buildings
+name: "z. AuzObjects Towns"
+description: "*** THIS GRF FILE IS NOW OBSOLETE ***"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+regions: []
