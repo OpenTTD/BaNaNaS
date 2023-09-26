@@ -1,4 +1,4 @@
-version: "1"
+version: "xxx 1"
 license: "GPL v2"
 upload-date: 2017-01-09T11:05:59Z
 md5sum-partial: "8b9c6cd9"
@@ -9,5 +9,8 @@ classification:
   has-sound-effects: true
 filesize: 279683
 availability: "savegames-only"
-
-description: "Fences including Slope Aware type"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
