@@ -1,0 +1,25 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2023-09-26T19:33:59Z
+md5sum-partial: "1df25271"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 173094
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzStations Waypoints"
+description: |-
+  Waypoints to use with AuzStations or other sets. Featuring signal boxes, staff huts, pedestrian crossings, used railway lines, new sleepers, farm crossings, and water columns.
+
+  Author: GarryG, with credit to Quast65 for coding and graphics assistance.
+
+  Version 4 released December 25, 2021.
+  WARNING: Updating or replacing NewGRF files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
