@@ -1,4 +1,4 @@
-version: "1"
+version: "xxx"
 license: "GPL v2"
 upload-date: 2016-01-08T08:56:10Z
 md5sum-partial: "c1b8dd0b"
@@ -9,3 +9,8 @@ classification:
   has-sound-effects: true
 filesize: 915928
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
