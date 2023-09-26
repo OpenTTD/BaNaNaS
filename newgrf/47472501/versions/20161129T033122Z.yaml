@@ -1,4 +1,4 @@
-version: "4"
+version: "xxx 4"
 license: "GPL v2"
 upload-date: 2016-11-29T03:31:22Z
 md5sum-partial: "e5ba453c"
@@ -9,5 +9,8 @@ classification:
   has-sound-effects: false
 filesize: 44106
 availability: "savegames-only"
-
-description: "Add-ons for the AuzFakeRailwayLines includes extra railway tracks and Infrastructure."
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
