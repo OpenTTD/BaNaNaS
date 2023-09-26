@@ -13,3 +13,11 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.0"
+
+description: |-
+  Australian-style objects for towns in a pre-1900 style, including houses, commercial buildings, community buildings and services, wharves and docks, stables, paths and more. For use with AuzObjects Towns.
+
+  Author: GarryG, with credit to many others for coding and graphics assistance.
+
+  Version 13 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
