@@ -1,4 +1,4 @@
-version: "3"
+version: "xxx 3"
 license: "GPL v2"
 upload-date: 2017-02-12T03:04:57Z
 md5sum-partial: "bb2f1f83"
@@ -9,5 +9,8 @@ classification:
   has-sound-effects: true
 filesize: 829309
 availability: "savegames-only"
-
-description: "Signal Boxes, Coal Stages, Turntables, Stations, buildings"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
