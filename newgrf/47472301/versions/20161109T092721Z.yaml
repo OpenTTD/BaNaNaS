@@ -1,4 +1,4 @@
-version: "5"
+version: "xxx 5"
 license: "GPL v2"
 upload-date: 2016-11-09T09:27:21Z
 md5sum-partial: "2f42913f"
@@ -9,8 +9,8 @@ classification:
   has-sound-effects: false
 filesize: 439149
 availability: "savegames-only"
-
-description: |-
-  Fake Railway lines can be used in Scenario editing to map out where railway lines are to go.
-
-  Slope rails and some Infrastructure added. Some Main Line Tracks removed.
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"

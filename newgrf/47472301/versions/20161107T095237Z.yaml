@@ -1,4 +1,4 @@
-version: "3"
+version: "xxx 3"
 license: "GPL v2"
 upload-date: 2016-11-07T09:52:37Z
 md5sum-partial: "1193dec6"
@@ -9,5 +9,8 @@ classification:
   has-sound-effects: false
 filesize: 389181
 availability: "savegames-only"
-
-description: "Fake Railway lines can be used in Scenario editing to map out where railway lines are to go."
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
