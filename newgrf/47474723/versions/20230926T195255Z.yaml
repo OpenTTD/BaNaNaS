@@ -13,3 +13,11 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.0"
+
+description: |-
+  Australian-style stations inspired by stations found in New South Wales.
+
+  Author: GarryG, with credit to Quast65 for coding and graphics assistance.
+
+  Version 1 released on November 13, 2023.
+  WARNING: Updating or replacing NewGRF files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
