@@ -1,6 +1,4 @@
-name: "AuzObjects FakeRailwayLines"
-description: |-
-  *** THIS GRF IS OBSOLETE ***
-
-  Replaced by Auz Fake Rails and Trains Objects.
+name: "z. AuzObjects FakeRailwayLines"
+description: "*** THIS GRF IS OBSOLETE ***"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+regions: []

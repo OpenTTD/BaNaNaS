@@ -1,4 +1,4 @@
-version: "1"
+version: "xxx 1"
 license: "GPL v2"
 upload-date: 2017-01-09T11:01:56Z
 md5sum-partial: "994f6004"
@@ -9,5 +9,8 @@ classification:
   has-sound-effects: false
 filesize: 193183
 availability: "savegames-only"
-
-description: "Fake Railway Lines to use in scenario marking and game play"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
