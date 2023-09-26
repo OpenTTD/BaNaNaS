@@ -1,9 +1,4 @@
-name: "AuzObjects Fake Bridges Culvert"
-description: |-
-  *** THIS GRF IS NOW OBSOLETE ***
-
-  "Replaced by Auz Water and landscape Objects"
-
-
-  Fake Bridges, Culverts and Embankments
+name: "z. AuzObj Fake Bridges Culvert"
+description: "*** THIS GRF IS NOW OBSOLETE ***"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=75657"
+regions: []
