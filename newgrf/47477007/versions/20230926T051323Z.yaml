@@ -1,0 +1,22 @@
+version: "16"
+license: "GPL v2"
+upload-date: 2023-09-26T05:13:23Z
+md5sum-partial: "5149fa65"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 625377
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzObjects Water"
+description: |-
+  Australian-style objects for building on water, including wharves and jettys, lakes, boats, harbours  and sewalls, and more.
+
+  Author: GarryG, with credit to Romazoom, Wahazer many others for coding and graphics assistance.
+url: "https://www.tt-forums.net/viewtopic.php?t=75657"
