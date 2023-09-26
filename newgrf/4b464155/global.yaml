@@ -1,0 +1,7 @@
+name: "AuzObjects 1-Click Downloader"
+description: |-
+  This file allows you to download all of the AuzObject sets with one click. This is helpful for new installations so that you do not need to individually select files. Once selected and downloaded, you can delete this file as the In-Game Content Download Service will automatically keep these files updated for you.
+
+  Updated 2026/09/26. Project maintained by Kevin Fields (kamnet).
+regions:
+- "AU"
