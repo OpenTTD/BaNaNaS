@@ -1,4 +1,4 @@
-version: "1"
+version: "xxx 1"
 license: "GPL v2"
 upload-date: 2017-01-09T11:04:14Z
 md5sum-partial: "c0f42e37"
@@ -9,5 +9,8 @@ classification:
   has-sound-effects: false
 filesize: 203457
 availability: "savegames-only"
-
-description: "Fake Trains with sidings. Freight Wagons, Passenger Carriages, DMUs and Shunting Locos"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
