@@ -13,3 +13,11 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.0"
+
+description: |-
+  Australian-style objects featuring commercial buildings, bus terminals and truck terminals.
+
+  Author: GarryG, with credit to Andrew350, Fridaemon, and many others for coding and graphics assistance.
+
+  Version 8 released on September 24, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
