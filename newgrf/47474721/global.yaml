@@ -1,0 +1,8 @@
+name: "AuzStations Country Platforms"
+description: |-
+  Australian-style stations featuring gravel platforms
+
+  Author: GarryG, with credit to Quast65 for coding assistance and graphics.
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
+regions:
+- "AU"
