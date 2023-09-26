@@ -1,3 +1,8 @@
-name: "Auz Waypoints"
-description: "Waypoints .. signal boxes, fake signals and more"
-url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76390&start=280"
+name: "AuzStation Waypoints"
+description: |-
+  Waypoints to use with AuzStations or other sets. Featuring signal boxes, staff huts, pedestrian crossings, used railway lines, new sleepers, farm crossings, and water columns.
+
+  Author: GarryG, with credit to Quast65 for coding and graphics assistance.
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
+regions:
+- "AU"
