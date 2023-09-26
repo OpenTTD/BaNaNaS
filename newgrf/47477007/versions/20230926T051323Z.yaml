@@ -16,7 +16,10 @@ compatibility:
 
 name: "AuzObjects Water"
 description: |-
-  Australian-style objects for building on water, including wharves and jettys, lakes, boats, harbours  and sewalls, and more.
+  Australian-style objects for building on water, including wharves and jettys, lakes, boats, harbours  and seawalls, and more.
 
   Author: GarryG, with credit to Romazoom, Wahazer many others for coding and graphics assistance.
+
+  Version 16 released on September 20, 2023.
+  WARNING: Updating or replacing object files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
 url: "https://www.tt-forums.net/viewtopic.php?t=75657"
