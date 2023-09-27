@@ -1,0 +1,26 @@
+version: "9"
+license: "GPL v2"
+upload-date: 2023-09-27T05:18:21Z
+md5sum-partial: "3b652b65"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1117425
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzStations Freight Stations"
+description: |-
+  Australian-style freight station buildings, platforms and non-track tiles for container freight,
+  agriculture and mineral cargoes, including cargo-aware tiles.
+
+  Author: GarryG, with credit to Quast65 for coding assistance and graphics.
+
+  Version 9 released on September 21, 2020.
+  WARNING: Updating or replacing NewGRF files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
