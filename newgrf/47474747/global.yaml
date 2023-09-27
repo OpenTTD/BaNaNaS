@@ -1,0 +1,11 @@
+name: "AuzStations Subway Stations"
+description: |-
+  Overlapping rail station tyles of underground subway/metro stations featuring parks, fields, car parks and parking garages.
+
+  Author: GarryG, with credit to Quast65 for coding and graphics assistance.
+
+  Version 1 released on September 21, 2020.
+  WARNING: Updating or replacing NewGRF files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
+regions:
+- "AU"
