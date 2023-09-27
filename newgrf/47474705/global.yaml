@@ -1,3 +1,9 @@
-name: "AuzFreightStations"
-description: "AuzFreightStations with Coal Loaders to use with AuzInd2 Industry Set"
+name: "AuzStations Freight Stations"
+description: |-
+  Australian-style freight station buildings, platforms and non-track tiles for container freight,
+  agriculture and mineral cargoes, including cargo-aware tiles.
+
+  Author: GarryG, with credit to Quast65 for coding assistance and graphics.
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76390"
+regions:
+- "AU"
