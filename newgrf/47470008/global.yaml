@@ -1,5 +1,6 @@
-name: "AuzFreightStations"
+name: "z. AuzFreightStations"
 replaced-by:
   unique-id: "47470009"
-description: "AuzFreightStations with Coal Loaders to use with AuzInd2 Industry Set"
+description: "*** This GRF is OBSOLETE ***"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76390"
+regions: []
