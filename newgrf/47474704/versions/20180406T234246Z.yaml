@@ -1,4 +1,4 @@
-version: "3"
+version: "xxx"
 license: "GPL v2"
 upload-date: 2018-04-06T23:42:46Z
 md5sum-partial: "16741f76"
@@ -12,4 +12,5 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.6.0"
+  - ">= 0.0.1"
+  - "< 0.0.2"
