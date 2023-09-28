@@ -1,5 +1,5 @@
 name: "Finnish Trainset Fix"
 description: "Fix DMU weights, add varied cargo_age_period and Chinese (Simplified) translation of Finnish Trainset. This is an independent fork; no need to download the original Finnish Trainset."
-url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+url: "https://github.com/JohnFranklin523/Finnish-Trainset-Fix"
 regions:
 - "FI"
