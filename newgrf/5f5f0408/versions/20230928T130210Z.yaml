@@ -1,0 +1,17 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2023-09-28T13:02:10Z
+md5sum-partial: "6050d70a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 68254011
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+url: "https://github.com/JohnFranklin523/Finnish-Trainset-Fix"
