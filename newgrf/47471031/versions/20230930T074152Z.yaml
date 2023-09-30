@@ -1,0 +1,15 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2023-09-30T07:41:52Z
+md5sum-partial: "672f5ae9"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 660284
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"

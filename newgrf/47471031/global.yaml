@@ -1,0 +1,8 @@
+name: "AuzRails Set"
+description: |-
+  A set of Standard Gauge railroad tracks found in New South Wales and other states in Australia.
+
+  Author:GarryG, with credit to the teams who created NuTracks, Dutch Track Set and Wired for coding and graphics assistance.
+url: "https://www.tt-forums.net/viewtopic.php?t=82691"
+regions:
+- "AU"
