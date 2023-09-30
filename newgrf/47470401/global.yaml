@@ -1,8 +1,4 @@
-name: "NSWTrains Sample Edition"
-description: |-
-  *** THIS GRF IS OBSOLETE ***
-
-  Replaced by AuzTrainsNSW
+name: "z. NSWTrains Sample Edition"
+description: "*** THIS GRF IS OBSOLETE ***"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=74193"
-regions:
-- "AU-NSW"
+regions: []
