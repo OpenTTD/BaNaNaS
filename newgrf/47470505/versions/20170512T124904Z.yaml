@@ -9,5 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 819099
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: "Trains that operated in the State of New South Wales"
