@@ -1,0 +1,24 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2023-09-30T06:37:37Z
+md5sum-partial: "d2162b7d"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 485470
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzStations Catenary"
+description: |-
+  Australian-style stations featuring platforms with catenary wires, designed to match the rest of the AuzStation sets.
+
+  Author: GarryG, with credit to Quast65 for assistance with coding and artwork.
+
+  Version 2 released on September 30, 2023.
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
