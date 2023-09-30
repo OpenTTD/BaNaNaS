@@ -1,8 +1,4 @@
-name: "NSWTrains_V4"
-description: |-
-  *** THIS GRF IS OBSOLETE ***
-
-  Replaced by AuzTrainsNSW
+name: "z. AuzTrains NSWTrains_V4"
+description: "*** THIS GRF IS OBSOLETE ***"
 url: "http://www.tt-forums.net/viewtopic.php?f=26&t=74193&start=20"
-regions:
-- "AU-NSW"
+regions: []

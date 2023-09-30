@@ -9,5 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 751499
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
 
 description: "NSWTrains is trains that operated within the State of New cSouth Wales Australia from 1855"
