@@ -1,0 +1,24 @@
+version: "34"
+license: "GPL v2"
+upload-date: 2023-09-30T06:42:03Z
+md5sum-partial: "a6c033fb"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1378165
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+
+name: "AuzTrains NSW"
+description: |-
+  Australian Trains representing engines and wagons used on the state railways in New South Wales.
+
+  Author: GarryG
+
+  Version 34 released September 30, 2023
+  WARNING: Updating or replacing NewGRF files in existing games and scenarios may lead to graphical glitches or game corruption. There is no guarantee of save-game compatibility.
