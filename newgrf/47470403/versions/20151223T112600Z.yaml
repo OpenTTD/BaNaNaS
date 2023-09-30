@@ -9,3 +9,8 @@ classification:
   has-sound-effects: false
 filesize: 599963
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.1"
+  - "< 0.0.2"
