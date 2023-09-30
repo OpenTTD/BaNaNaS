@@ -1,0 +1,15 @@
+version: "31"
+license: "GPL v2"
+upload-date: 2023-09-30T07:21:51Z
+md5sum-partial: "b24a4f5a"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 183896
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"

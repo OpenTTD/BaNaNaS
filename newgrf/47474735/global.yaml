@@ -1,0 +1,10 @@
+name: "AuzBridges"
+description: |-
+  Common types of bridges found in Australia, for use with AuzStations, AuzObject and AuzRails.
+
+  Author: GarryG and Wallyweb, with credit to Andrew350, Quast65, OzTrans, and FooBar for coding and graphics assistance.
+
+  Version 31 released on May 21, 2020.
+url: "https://www.tt-forums.net/viewtopic.php?t=75248"
+regions:
+- "AU"
