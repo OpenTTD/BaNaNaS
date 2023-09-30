@@ -1,4 +1,8 @@
-name: "z. Auz Stations Add-ons"
-description: "*** This GRF is OBSOLETE ***"
-url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76390"
-regions: []
+name: "AuzStations Catenary Stations"
+description: |-
+  Australian-style stations featuring platforms with catenary wires, designed to match the rest of the AuzStation sets.
+
+  Author: GarryG, with credit to Quast65 for assistance with coding and artwork.
+url: "https://www.tt-forums.net/viewtopic.php?t=76390"
+regions:
+- "AU"
