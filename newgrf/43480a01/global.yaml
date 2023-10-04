@@ -1,0 +1,9 @@
+name: "Norfolk & Western Tele Pole Set"
+description: |-
+  This newgrf shows (most) telegraph poles used on the Norfolk & Western railroad as placeable objects for your railroad.
+  Credits
+  Antarticdoof-Sprites
+  chujo-Coding
+url: "https://github.com/Antarticdof/antsfard/releases/tag/v1.8"
+regions:
+- "US"
