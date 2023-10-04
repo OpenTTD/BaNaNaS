@@ -1,5 +1,5 @@
 name: "GETS Cargo Age Period Fix"
-description: "By adding it AFTER GETS, the cargo age periods of some trains and wagons will change. Default is 185; ICE and night trains are set to 370; Flying Hamburger, VT11.5 Eurocity and Rheingold are set to 324; Normal express trains, traincars and wagons are set to 278 (early express 254); train and passenger cars that are slightly faster or more comfortable (e.g. Bi-Level) are set to 231 or 208; Some slow or crowded trains are set to 162; Refrigerated vans are set to 740; Ladle cars are set to 370."
+description: "By adding it AFTER GETS, the cargo age periods of some trains and wagons will change. Now compatible with GETS 0.4. John Franklin, 4 Oct 2023. Under GPLv2."
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
 regions:
 - "DE"
