@@ -1,0 +1,11 @@
+version: "1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2023-10-05T10:25:24Z
+md5sum-partial: "a8d5b5c7"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 100821
+availability: "new-games"
