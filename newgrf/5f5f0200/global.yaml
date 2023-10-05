@@ -1,8 +1,8 @@
 name: "JF Ratt Roads"
 description: |-
-  v1.1: Graphical bug fixes and custom speed limit (in km/h) additions.
+  v1.2: Add standardised roadtype labels. NOT COMPATIBLE WITH ANY VERSION BEFORE V1.2!!!
 
-  Roads with speed limits (MPH, KM/H, M/S) and American, European, Australian graphics. A fork of AuzRattRoads. Use with 1.10.0 or JGRPP 0.32-RC1 or higher!
+  Roads with speed limits and American, European, Australian graphics. A fork of AuzRattRoads. Use with 1.10.0 or JGRPP 0.32-RC1 or higher!
 url: "https://www.tt-forums.net/viewtopic.php?t=90566"
 regions:
 - "AU"
