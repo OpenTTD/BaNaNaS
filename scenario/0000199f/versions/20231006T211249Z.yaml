@@ -1,0 +1,11 @@
+version: "1.0"
+license: "CC-BY v3.0"
+upload-date: 2023-10-06T21:12:49Z
+md5sum-partial: "91a86a2b"
+classification:
+  shape: "rectangle"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "temperate"
+filesize: 444008
+availability: "new-games"

@@ -1,0 +1,6 @@
+name: "Earth (FIRS, no industry)"
+description: |-
+  Earth World map using FIRS 1.4.4 with many cities and no industry.
+  Industry can be generated in scenario editor.
+
+  Map size 2048x2048 , maximum height 6 , generated with a Mercator projection.
