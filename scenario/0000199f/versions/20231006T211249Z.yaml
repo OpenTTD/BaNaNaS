@@ -9,3 +9,10 @@ classification:
   climate: "temperate"
 filesize: 444008
 availability: "new-games"
+
+description: |-
+  Earth world map with many cities and no industry, FIRS 1.4.4 is active.
+  Industry can be generated randomly/manually in scenario editor.
+  2020 start date can be modified in editor.
+
+  2048x2048 generated with Mercator projection, maximum height 6
