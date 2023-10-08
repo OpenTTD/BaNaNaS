@@ -1,0 +1,12 @@
+name: "JP+ Bridges"
+description: |-
+  JP+ Bridges, a variety of bridges inspired by real Japanese bridges.
+
+  Many bridges are full tile width for building side by side modular bridges.
+
+  It is highly recommended to combine with JapanSet Tracks, as the bridge textures are designed to match the urban rail. However, you can use any track set you prefer. A track set is required as JP+ Bridges does not support the vanilla rails.
+
+  Coded by Emperor Jake. GFX by Emperor Jake, Andrew350 and GarryG. Based on code by Wallyweb, Quast65 and Andrew350
+url: "https://github.com/EmperorJake/JPbridges"
+regions:
+- "JP"

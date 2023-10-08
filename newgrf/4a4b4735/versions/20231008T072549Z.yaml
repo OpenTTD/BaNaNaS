@@ -1,0 +1,19 @@
+version: "0.7"
+license: "GPL v2"
+upload-date: 2023-10-08T07:25:49Z
+md5sum-partial: "d5866490"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 329203
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44503000"
+  md5sum-partial: "0bf5a485"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
