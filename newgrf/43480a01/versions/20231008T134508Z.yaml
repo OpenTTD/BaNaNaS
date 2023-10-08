@@ -1,0 +1,23 @@
+version: "v1.9"
+license: "GPL v3"
+upload-date: 2023-10-08T13:45:08Z
+md5sum-partial: "e353590a"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 39269
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "Norfolk & Western Tele Pole Set"
+description: |-
+  This newgrf shows (most) telegraph poles used on the Norfolk & Western railroad as placeable objects for your railroad.
+  Credits
+  Antarticdoof-Sprites
+  chujo-Coding
+url: "https://github.com/Antarticdof/NW-Telegraph-Poles"
