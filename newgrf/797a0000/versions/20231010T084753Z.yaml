@@ -1,0 +1,13 @@
+version: "1.0.2"
+license: "GPL v3"
+upload-date: 2023-10-10T08:47:53Z
+md5sum-partial: "8340c3ef"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 71242
+availability: "new-games"
+
+url: "https://github.com/yazalo/Polish-Lighthouses"
