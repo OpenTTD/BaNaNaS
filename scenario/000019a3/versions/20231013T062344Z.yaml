@@ -1,0 +1,11 @@
+version: "1"
+license: "CC-BY v3.0"
+upload-date: 2023-10-13T06:23:44Z
+md5sum-partial: "aed846bc"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "large"
+  climate: "temperate"
+filesize: 388933
+availability: "new-games"
