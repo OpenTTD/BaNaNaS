@@ -1,10 +1,4 @@
-name: "Articul8eer Test Set"
-description: |-
-  Confused by the extra code needed to make articulated road vehicles? The source code of this set aims to provide templates for creating articulated vehicles!
-
-  It also doubles as a road vehicle compatible with the Smartroads in the Utility Roadtype Set.
-
-  All graphic credits to acs121, graphics licensed in GPL v2.
-
-  Code can be re-licensed as needed, but please respect graphic artists' licenses when using graphics.
+name: "Future Road Vehicles Set"
+description: "Originally concieved as a template for articulated road vehicles, this set evolved into a reuse of one of acs121's old NABI bus sprites to create a vehicle capable of interacting with futuristic roads. It has now been combined with Hazzard's Hover Vehicles to provide more utility, as nether set added much on its own."
 url: "https://drive.google.com/file/d/1XsvYdMgdU5a9SWQjDPyTTQjXVJK8YROB/view?usp=sharing"
+regions: []
