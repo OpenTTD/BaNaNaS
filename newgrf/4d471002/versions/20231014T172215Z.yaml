@@ -1,14 +1,14 @@
-version: "1.2.0"
+version: "1.2.1"
 license: "GPL v2"
-upload-date: 2023-10-13T18:57:16Z
-md5sum-partial: "af12bae4"
+upload-date: 2023-10-14T17:22:15Z
+md5sum-partial: "dba85782"
 classification:
   set: "industry"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 601617
-availability: "savegames-only"
+filesize: 601668
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
