@@ -1,0 +1,8 @@
+name: "Road runway"
+description: |-
+  A small grf which adds airports without runways which can be used to make road runways.
+  © 2023 Brickblock1
+  Licensed under GPLv2
+  GUI sprites made from OpenGFX sprites
+  May break with any update!
+url: "https://github.com/Brickblock1/Road-runway-airport"
