@@ -1,14 +1,14 @@
-version: "v1.9"
+version: "v2.0"
 license: "GPL v3"
-upload-date: 2023-10-08T13:45:08Z
-md5sum-partial: "e353590a"
+upload-date: 2023-10-20T20:31:31Z
+md5sum-partial: "f04456b8"
 classification:
   set: "object"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 39269
-availability: "savegames-only"
+filesize: 49554
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
@@ -20,4 +20,6 @@ description: |-
   Credits
   Antarticdoof-Sprites
   chujo-Coding
-url: "https://github.com/Antarticdof/NW-Telegraph-Poles"
+
+  Github: https://github.com/Antarticdof/NW-Telegraph-Poles
+url: "https://www.tt-forums.net/viewtopic.php?t=91239"
