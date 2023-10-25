@@ -1,3 +1,6 @@
 name: "Guam (USA) Height Map"
 description: "Height map for Guam, USA."
 url: "https://www.tt-forums.net/viewtopic.php?t=91263"
+regions:
+- "GU"
+- "US-GU"
