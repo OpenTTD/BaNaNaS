@@ -8,3 +8,7 @@ classification:
   terrain-type: "hilly"
 filesize: 44945
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 13.4"
