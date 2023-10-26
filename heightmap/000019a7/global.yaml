@@ -1,0 +1,6 @@
+name: "Earth Heightmap v1"
+description: |-
+  It's a crude heightmap of the Earth, made using the Tangram Heightmapper website.
+  (Mercator Projection)
+
+  Use max height 16 with 4096x2048 map size.
