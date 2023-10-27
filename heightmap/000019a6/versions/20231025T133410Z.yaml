@@ -12,5 +12,8 @@ compatibility:
 - name: "vanilla"
   conditions:
   - "< 13.4"
+- name: "jgrpp"
+  conditions:
+  - "< 0.55.3"
 
 name: "Guam (USA) Height Map"
