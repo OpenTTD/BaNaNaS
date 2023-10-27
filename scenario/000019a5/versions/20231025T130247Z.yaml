@@ -9,7 +9,12 @@ classification:
   climate: "temperate"
 filesize: 220589
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 13.4"
+- name: "jgrpp"
+  conditions:
+  - "< 0.55.3"
 
-description: |-
-  Hafa Adai! This is a Guam scenario for OpenTTD I started, and is currently a work in progress so your feedback helps the project out a lot and is also greatly appreciated.
-  Enjoy:)
+description: "Guam is the largest and southernmost of the Mariana Islands in Micronesia."
