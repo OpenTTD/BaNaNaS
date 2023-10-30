@@ -13,3 +13,8 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.2.0"
+
+description: |-
+  OpenGFX+ Landscape Minus is a stripped down version of OpenGFX+ Landscape to use with other landscape basesets or GRFs. It keeps the configurable snowline, foundation options, and provides a few selected NewObjects to populate a landscape.
+
+  Based off v7140 source
