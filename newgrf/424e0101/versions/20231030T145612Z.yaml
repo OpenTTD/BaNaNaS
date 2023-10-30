@@ -1,0 +1,15 @@
+version: "v7140-minus"
+license: "GPL v2"
+upload-date: 2023-10-30T14:56:12Z
+md5sum-partial: "611058d4"
+classification:
+  set: "landscape"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 140080
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
