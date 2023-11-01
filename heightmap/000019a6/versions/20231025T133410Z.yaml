@@ -16,4 +16,4 @@ compatibility:
   conditions:
   - "< 0.55.3"
 
-name: "Guam (USA) Height Map"
+name: "Guam (USA)"
