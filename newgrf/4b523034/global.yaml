@@ -1,0 +1,7 @@
+name: "JP+ Buildings"
+description: "JP+ Buildings includes Japanese inspired buildings. This set can be used alongside other Japanese sets, please check the parameters."
+url: "https://github.com/KeepinItRail/JPplusBuildings"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
