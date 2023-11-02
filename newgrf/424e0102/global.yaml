@@ -1,0 +1,8 @@
+name: "av8 Minimal Supp WAS Rangeless"
+description: |-
+  av8 aircraft v2.21 set by David Dallaston, that has been stripped back of aircraft that are also included in the World Airliners Set v7041. This allows the two sets to be used side by side, without any doubles. All of the ranges for the aircraft have been removed.
+
+  Set WAS basecost parameter to "5" and running cost parameter to "8" for equalized costing between sets, and turn off ranges. Set plane speed game option to 1/1.
+
+  WAS compatibility by Farsight87.
+  All credits to Pikkabird for AV8.

@@ -1,0 +1,11 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2023-11-02T03:17:03Z
+md5sum-partial: "222d622f"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 812251
+availability: "new-games"
