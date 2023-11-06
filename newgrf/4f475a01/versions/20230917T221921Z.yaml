@@ -5,7 +5,7 @@ md5sum-partial: "765719c3"
 classification:
   set: "unknown"
 filesize: 7978
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
