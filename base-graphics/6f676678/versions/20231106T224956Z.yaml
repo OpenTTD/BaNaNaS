@@ -1,9 +1,9 @@
-version: "0.21"
+version: "0.3"
 license: "Custom"
-upload-date: 2023-09-23T21:46:31Z
-md5sum-partial: "9ad05549"
-filesize: 6220025
-availability: "savegames-only"
+upload-date: 2023-11-06T22:49:56Z
+md5sum-partial: "8fad14d1"
+filesize: 6332789
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
