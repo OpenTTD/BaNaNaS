@@ -1,0 +1,15 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2023-11-07T09:36:17Z
+md5sum-partial: "ddc9beaf"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 801943
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
