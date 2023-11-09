@@ -1,12 +1,12 @@
-name: "ZZ-IGNORE_PLZ"
+name: "(Old) Late Mars Houses"
 description: |-
-  A fork of OpenGFX Mars Houses. All credits to...
+  ! OBSOLETE !
+  Please use Erato's version, it's done better.
+
+  A "late start" fork of OpenGFX Mars Houses. All credits to...
 
   Author:   Elyon
   Graphics: Zephyris
-
-  ! OBSOLETE !
-  Please use Erato's version, it's done better.
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
 regions:
 - "UN-MARS"
