@@ -1,6 +1,7 @@
 name: "GPL Roadtype Collection, Pt. 4"
 description: |-
-  GPL Roadtype Collection with realistic maximum speeds and recycled GPL v2 graphics, modified to not conflict when used in conjunction with the rest of the GRC, the Utility Roadtype Set, or with Ufuby's RaTT. All credits to the original graphics artists and coders:
+  !! OBSOLETE !!
+  Roadtypes with realistic maximum speeds and recycled GPL v2 graphics, modified to not conflict when used in conjunction with the rest of the GRC, the Utility Roadtype Set, or with Ufuby's RaTT. All credits to the original graphics artists and coders:
 
   Pt. 1, Unspooled: supermop
   Pt. 2, Docklands: supermop
@@ -9,3 +10,4 @@ description: |-
   Pt. 5, Andrew350's RaTTRoads
   Pt. 6, Andrew350's CONVEYORS (with GarryG's Auz Conveyor Cargos)
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
+regions: []
