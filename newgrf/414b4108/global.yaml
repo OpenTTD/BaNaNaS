@@ -4,8 +4,13 @@ description: |-
   Copyright (C) 2004-2022 by The xUSSR Railway Set developers.
 url: "https://github.com/George-VB/xussrset"
 regions:
+- "AZ"
 - "BY"
+- "EE"
+- "KZ"
 - "LT"
 - "LV"
 - "RU"
+- "TJ"
 - "UA"
+- "UZ"
