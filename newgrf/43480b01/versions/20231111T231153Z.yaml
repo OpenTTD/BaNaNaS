@@ -1,0 +1,29 @@
+version: "1.1"
+license: "GPL v2"
+upload-date: 2023-11-11T23:11:53Z
+md5sum-partial: "7b9da0dc"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 844126
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "TTRS as Objects"
+description: |-
+  Total Town Replacement Set transformed into placeable objects.
+  All buildings are snow-aware; many of them feature multiple colour variants.
+  Check out parameters for additional options.
+
+  Original TTRS graphics: Zimmlock, George, Oz, Red*Star, Purno and Pikkabird
+  Airport ground tile: Fake Airports by Quast65
+  Cars+parking lot at a nightclub: GarryG
+  Coding: chujo
+
+  November 11, 2023
+url: "https://www.tt-forums.net/viewtopic.php?t=91303"
