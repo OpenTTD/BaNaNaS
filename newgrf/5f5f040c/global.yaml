@@ -1,0 +1,17 @@
+name: "xUSSR Rails Europa Redux"
+description: |-
+  xUSSR Rails Europa Redux adds different gauges and voltages - Standard 25/15kV AC / 3/1.5kV DC / 3/4th Rail, Broad 25kV AC / 3kV DC / 3rd Rail, Narrow AC / DC / 3rd Rail.
+  DO NOT USE WITH OTHER RAIL SETS ESPECIALLY WHEN ALL RAILTYPES ARE TURNED ON SINCE THEY OCCUPY ALL RAILTYPE SLOTS.
+  Forked by John Franklin, November 2023.
+  License: CC-BY-NC-SA 3.0 for GRF Code and Graphics, GPL v2 for Makefile system and translations.
+  Copyright (C) 2020-2023 by The xUSSR Railway Set developers team.
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+regions:
+- "BY"
+- "EE"
+- "LT"
+- "LV"
+- "MD"
+- "RU"
+- "UA"
+- "UN-150"
