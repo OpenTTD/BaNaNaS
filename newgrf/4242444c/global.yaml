@@ -1,3 +1,8 @@
-name: "U&Ratt compatible Docklands"
-description: "A modified version of Docklands which works with U&RaTT."
-url: "https://github.com/Brickblock1/Docklands-U-RaTT"
+name: "Docklands - Updated"
+description: |-
+  NRT enabled roads and tramways for your industrial harbors, based off CHIPS and ISR.
+
+  Forked by bungus
+  All credits to supermop for originally creating docklands
+url: "https://github.com/therealbungus/docklands"
+regions: []
