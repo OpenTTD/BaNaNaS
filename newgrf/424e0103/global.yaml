@@ -1,0 +1,8 @@
+name: "VACE - VTOL Aircraft - Updated"
+description: |-
+  VTOL AirCraft for Everyone: a VTOL vehicle NewGRF for OpenTTD. Originally created by Kris Knowlton (Oftcrash)
+
+  There are currently 13 aircraft, starting with the (real) Canadair CL-84 Tiltwing in 1964 and ending with the fictional Orbitas S-1 VTOL Scramjet in 2050.
+
+  Graphics and code by Oftcrash. Real World aircraft research by Kamnet. Sprites created using Zephyris' PixelTool. Forked and updated by bungus.
+url: "https://github.com/therealbungus/VACE"
