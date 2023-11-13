@@ -1,0 +1,24 @@
+version: "1.0.2"
+license: "GPL v2"
+upload-date: 2023-11-13T00:31:40Z
+md5sum-partial: "f7f5cd5b"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 195589
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.1.0"
+
+name: "Docklands - Updated"
+description: |-
+  NRT enabled roads and tramways for your industrial harbors, based off CHIPS and ISR.
+
+  Forked by bungus, 1.0.2 changes the default speed limits, adds parameters for disabling/enabling all roadtypes or allowing roads to have houses
+
+  All credits to supermop for originally creating docklands
+url: "https://github.com/therealbungus/docklands"
