@@ -9,3 +9,11 @@ classification:
   has-sound-effects: false
 filesize: 66250
 availability: "new-games"
+
+description: |-
+  VTOL AirCraft for Everyone: a VTOL vehicle NewGRF for OpenTTD. Originally created by Kris Knowlton (Oftcrash)
+
+  There are currently 13 aircraft, starting with the real Canadair CL-84 Tiltwing in 1964 and ending with the fictional Orbitas S-1 VTOL Scramjet in 2050.
+
+  Graphics and code by Oftcrash. Real World aircraft research by Kamnet. Sprites created using Zephyris' PixelTool. Updated by bungus
+  0.4.1 balances the running + purchase costs, adds the dragonfly ornithopter, and adds a rangeless toggle parameter
