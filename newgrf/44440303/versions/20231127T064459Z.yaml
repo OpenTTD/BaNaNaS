@@ -1,0 +1,11 @@
+version: "2.52"
+license: "Custom"
+upload-date: 2023-11-27T06:44:59Z
+md5sum-partial: "c27f43d2"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 345607
+availability: "new-games"
