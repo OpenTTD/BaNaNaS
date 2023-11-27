@@ -1,0 +1,14 @@
+name: "Combined American Signal Set 2"
+description: |-
+  An unofficial successor to the "Combined Americal Signals" by Pikka et al, updated to use NML and support JGRPP's multi-aspect signals.
+
+  This GRF requires an OpenTTD version which supports this feature such as JGR's patchpack v0.43.0 or later.
+
+  Contributors:
+  - Pikka et al: original GRF and graphics (under GPL)
+  - osswix: Signal aspect planning, bulk of the code
+  - bigyihsuan: code, graphics
+url: "https://github.com/bigyihsuan/combined-american-signal-set-2"
+regions:
+- "UN-019"
+- "UN-021"
