@@ -1,10 +1,7 @@
-name: "Japan 8k"
+name: "Japan 16k"
 description: |-
   Japan Hokkaido to Okinanawa heightmap
   Recommended height is from 40 to 100
-  For JGR users:
-  When used with maximum resolution 1 tile = 163m
-  For real time use 300 ticks per minute
 regions:
 - "JP-01"
 - "JP-13"
