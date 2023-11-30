@@ -1,0 +1,10 @@
+name: "Bob's British Buses Fix in NML"
+description: |-
+  A redux version of Bob's British Bus(s)es, with functional changes such as variable running costs, comfort and reliability decay. Tourist, YETI workers transport are supported. Fully in NML.
+
+  NFO by Bob_Mackenzie
+  Converted into NML with functional changes by John Franklin
+  Under GPL v3
+url: "https://www.tt-forums.net/viewtopic.php?t=90219"
+regions:
+- "GB"
