@@ -1,0 +1,10 @@
+name: "New Jersey Names"
+description: |-
+  Adds 500+ municipality names and 1000+ named populated areas from the state of New Jersey.
+  Can also generate names.
+url: "https://github.com/bigyihsuan/new-jersey-names"
+regions:
+- "UN-019"
+- "UN-021"
+- "US"
+- "US-NJ"
