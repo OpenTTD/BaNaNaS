@@ -1,9 +1,9 @@
-version: "9.2"
+version: "9.3"
 license: "GPL v2"
-upload-date: 2023-04-02T19:47:42Z
-md5sum-partial: "2f451b5f"
-filesize: 63282
-availability: "savegames-only"
+upload-date: 2023-12-03T16:42:22Z
+md5sum-partial: "3b496d93"
+filesize: 65768
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
