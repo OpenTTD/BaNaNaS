@@ -1,0 +1,15 @@
+version: "1.1"
+license: "GPL v3"
+upload-date: 2023-12-05T17:39:38Z
+md5sum-partial: "e115922e"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 803407
+availability: "new-games"
+
+name: "Ale426-Ale506 TAF"
+description: "The Ale426 and Ale506 'TAF' is a suburban double decker train built in 1997. It can be coupled in multiple unit."
+url: "https://github.com/RAD750/openttdstuff"
