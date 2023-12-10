@@ -8,7 +8,7 @@ classification:
   has-high-res: false
   has-sound-effects: false
 filesize: 32106
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   This NewGRF adds articulated buses and trucks with the same style as the original vehicles. The latest version of each road vehicle in the Original Vehicles Cargo Set has an articulated counterpart in this set.
