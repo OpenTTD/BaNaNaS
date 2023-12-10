@@ -1,0 +1,10 @@
+name: "Electric Kettle"
+description: |-
+  During World War II, Switzerland fitted two steam locomotives with electric heaters to boil water instead of coal. This is a rough approximation, borrowing sprites from Iron Horse.
+
+  Created by 2TallTyler with sprites by andythenorth.
+url: "https://github.com/2TallTyler/electric-kettle"
+regions:
+- "CH"
+- "UN-150"
+- "UN-155"
