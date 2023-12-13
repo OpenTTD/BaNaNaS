@@ -1,0 +1,18 @@
+version: "0.0.7 alpha"
+license: "GPL v3"
+upload-date: 2023-12-13T10:58:55Z
+md5sum-partial: "48c41d16"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 103366
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.4"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.55.1"
