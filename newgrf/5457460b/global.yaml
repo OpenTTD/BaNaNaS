@@ -1,0 +1,5 @@
+name: "Timberwolf's Station Ratings"
+description: |-
+  A small addon to change station rating calculations
+  in a way which better suits Timberwolf's Trains and Road Vehicles, especially in games with an early start year. Can also be configured to discourage networks overly reliant on boats and aircraft.
+url: "https://github.com/mattkimber/timberwolfs_station_ratings"
