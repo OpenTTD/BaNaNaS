@@ -1,0 +1,12 @@
+name: "Florida 4k Map"
+description: |-
+  Map of the Florida Peninsula with the Florida Keys.
+  4096 x 4096
+  4.4 MB
+  v1.0
+
+  Barrier islands, rivers, and natural harbors tested to ensure correct water passage generation.
+
+  Some rivers are not fully navigable on purpose and require player investment to fully utilize.
+
+  Designed for 4096 x 4096 maps. 2048 x 2048 works as well but a few rivers shut early, and barrier islands connect to the mainland and each other.
