@@ -1,0 +1,11 @@
+name: "UK Town Set as Objects"
+description: |-
+  Buildings from 'UK Town Set 2.2' transformed into placeable objects. All objects are snow-aware, houses are equipped with climate-sensitive ground tiles.
+
+  Original UKTS graphics: Zephyris
+  Coding: chujo
+
+  December 19, 2023
+url: "https://www.tt-forums.net/viewtopic.php?t=91369"
+regions:
+- "GB"

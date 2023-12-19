@@ -1,0 +1,15 @@
+version: "1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2023-12-19T16:47:36Z
+md5sum-partial: "f7548002"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 968597
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
