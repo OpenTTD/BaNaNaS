@@ -1,0 +1,14 @@
+version: "0.9.1"
+license: "GPL v2"
+upload-date: 2023-12-23T18:19:32Z
+md5sum-partial: "84cf02c9"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
+filesize: 18449547
+availability: "new-games"
+
+name: "CZTR Engines - Diesel"
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
