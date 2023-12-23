@@ -8,7 +8,7 @@ classification:
   has-high-res: true
   has-sound-effects: true
 filesize: 119559259
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
