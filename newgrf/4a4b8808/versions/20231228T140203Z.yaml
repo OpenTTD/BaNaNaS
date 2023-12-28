@@ -10,4 +10,13 @@ classification:
 filesize: 1357268
 availability: "new-games"
 
+description: |-
+  AXIS: Another eXtreme Industry Set.
+
+  A fork of FIRS with bigger and more complex industry chains.
+
+  Now featuring two complete economies: Steel City and Tropical Paradise.
+
+  Coding & Concept by Emperor Jake
+  Based on code and graphics by andythenorth et al.
 url: "https://github.com/EmperorJake/AXIS"
