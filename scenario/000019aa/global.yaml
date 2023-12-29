@@ -1,0 +1,14 @@
+name: "Sado Island & Surroundings"
+description: |-
+  Sado Island lies off the coast of Niigata Prefecture, and is one of Japan's largest islands.
+
+  Map Size: 1024x2048
+  Start Date: 2005
+  Requires JGR Patch Pack v0.56.0.
+  NewGRF Requirements: FIRS3.0.12(I just place some Fishing Grounds)、Japan Set and more
+  Towns are placed by hand,I hope in the right places.
+  Made by Zyliety
+url: "https://www.tt-forums.net/viewtopic.php?t=91383"
+regions:
+- "JP"
+- "UN-142"
