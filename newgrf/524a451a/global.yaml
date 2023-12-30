@@ -1,0 +1,6 @@
+name: "North Korean Track Set reMOD"
+description: "reldreds custom fork of the North Korean Track Set. Includes a bunch of extra features for compatibility with other sets. Mostly a drop in replacement for North Korean Track Set but the parameters will do weird stuff on load in an existing game and need tweaking."
+url: "https://github.com/reldred/DPRK-Tracks-reMOD"
+regions:
+- "JP"
+- "KP"
