@@ -1,0 +1,20 @@
+version: "0.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2023-12-31T12:11:29Z
+md5sum-partial: "5954ec07"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 111851
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.13.0"
+
+description: |-
+  xUSSR Rails Set
+  The xUSSR Rails Set includes rails for The xUSSR Railway Set and The xUSSR Railway Set add-on add-on.
+  Copyright (C) 2020-2023 by The xUSSR Railway Set developers.
