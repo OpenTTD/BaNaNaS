@@ -1,0 +1,6 @@
+name: "Full English - UK Townset"
+description: "UK-style houses, terraces, shops, warehouses, offices and skyscrapers in full (4x) zoom. Pixel art 8-bit graphics in the OpenGFX2 style."
+url: "https://github.com/zephyris/openttd-newgrfs"
+regions:
+- "GB"
+- "GB-ENG"
