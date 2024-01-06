@@ -9,3 +9,10 @@ description: |-
   Some rivers are not fully navigable on purpose and require player investment to fully utilize.
 
   created using Tangram Heightmapper and paint.net.
+regions:
+- "001"
+- "UN-005"
+- "UN-009"
+- "UN-021"
+- "UN-142"
+- "UN-150"
