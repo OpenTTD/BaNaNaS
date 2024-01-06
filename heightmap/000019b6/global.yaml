@@ -1,4 +1,4 @@
-name: "Nathan's The New World (4k)"
+name: "Nathan's The New World (4k) v2"
 description: |-
   Northwestern Europe with Eastern North America
   4096 x 4096
@@ -8,4 +8,15 @@ description: |-
 
   Barrier islands, and natural harbors tested to ensure correct water passage generation.
 
+  v2 is rotated 45 degrees.
+
   created using Tangram Heightmapper and paint.net.
+regions:
+- "ES"
+- "FR"
+- "GB"
+- "NL"
+- "UN-011"
+- "UN-021"
+- "UN-155"
+- "US"
