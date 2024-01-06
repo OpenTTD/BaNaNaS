@@ -4,6 +4,17 @@ description: |-
   4096 x 4096
   v1.0
 
+  Map covers eastern India to Japan, and down to Papua New Guinea.
+
   Islands, and natural harbors tested to ensure correct water passage generation.
 
   created using Tangram Heightmapper and paint.net.
+regions:
+- "CN"
+- "ID"
+- "JP"
+- "KP"
+- "KR"
+- "UN-030"
+- "UN-035"
+- "UN-142"
