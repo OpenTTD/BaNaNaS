@@ -7,3 +7,9 @@ description: |-
   Barrier islands, and natural harbors tested to ensure correct water passage generation.
 
   created using Tangram Heightmapper and paint.net.
+regions:
+- "GB"
+- "NL"
+- "SE"
+- "UN-150"
+- "UN-154"
