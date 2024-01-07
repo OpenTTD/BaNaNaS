@@ -1,14 +1,14 @@
-version: "0.7"
+version: "0.8"
 license: "GPL v2"
-upload-date: 2023-10-08T07:25:49Z
-md5sum-partial: "d5866490"
+upload-date: 2024-01-07T05:19:58Z
+md5sum-partial: "328f7365"
 classification:
   set: "bridge"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 329203
-availability: "savegames-only"
+filesize: 329195
+availability: "new-games"
 dependencies:
 - content-type: "newgrf"
   unique-id: "44503000"
