@@ -1,0 +1,14 @@
+name: "JP+ Bridges Extension"
+description: |-
+  JGR Patchpack required!
+
+  The extension set to JP+ Bridges, with JGRPP-specific features including custom icons and extra bridge IDs.
+
+  Must be loaded after JP+ Bridges.
+
+  Coded by Emperor Jake. GFX by Emperor Jake, Andrew350 and GarryG. Based on code by Wallyweb, Quast65 and Andrew350
+url: "https://github.com/EmperorJake/JPbridges"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"

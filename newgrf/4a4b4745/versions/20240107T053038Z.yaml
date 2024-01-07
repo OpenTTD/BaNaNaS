@@ -1,0 +1,31 @@
+version: "0.8"
+license: "GPL v2"
+upload-date: 2024-01-07T05:30:38Z
+md5sum-partial: "f7d87638"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 66189
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "44503000"
+  md5sum-partial: "0bf5a485"
+- content-type: "newgrf"
+  unique-id: "454e1302"
+  md5sum-partial: "a2473971"
+- content-type: "newgrf"
+  unique-id: "454e2703"
+  md5sum-partial: "d19af19c"
+- content-type: "newgrf"
+  unique-id: "4a4b4735"
+  md5sum-partial: "d5866490"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 15.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.30.0"
