@@ -1,0 +1,13 @@
+version: "1.0.0"
+license: "Custom"
+upload-date: 2024-01-09T15:00:15Z
+md5sum-partial: "7ca26e71"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 27542
+availability: "new-games"
+
+name: "Manila Rapid Transit"
