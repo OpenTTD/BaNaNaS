@@ -1,0 +1,11 @@
+version: "remod1.2"
+license: "GPL v2"
+upload-date: 2024-01-09T05:20:43Z
+md5sum-partial: "698f86aa"
+classification:
+  set: "rail-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 56444
+availability: "new-games"
