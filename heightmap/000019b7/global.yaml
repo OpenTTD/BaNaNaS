@@ -1,0 +1,11 @@
+name: "Nathan's Europe (2k)"
+description: |-
+  Europe from Southern Scandinavia to North Africa with the entire Mediterranean Sea.
+  2048 x 2048
+  v1.0
+
+  Barrier islands, and natural harbors tested to ensure correct water passage generation.
+
+  tilted 45 degrees so that "up" is true north.
+
+  created using Tangram Heightmapper and paint.net.
