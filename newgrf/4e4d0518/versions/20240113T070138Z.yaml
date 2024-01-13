@@ -1,28 +1,17 @@
-version: "2208262034"
+version: "2401131718"
 license: "Custom"
-upload-date: 2022-08-27T00:54:17Z
-md5sum-partial: "b41ed859"
+upload-date: 2024-01-13T07:01:38Z
+md5sum-partial: "d4c3a76c"
 classification:
   set: "train"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 369559
-availability: "savegames-only"
-compatibility:
-- name: "vanilla"
-  conditions:
-  - ">= 0.5.3"
-- name: "jgrpp"
-  conditions:
-  - ">= 0.1.0"
+filesize: 369574
+availability: "new-games"
+compatibility: []
 
-name: "NARS Add-on Set 2cc"
 description: |-
-  -
-  -
-  Date: 2022-08-26
-
   An Add-on Set for the
   "North American Railway Set 2.5"
   That adds lots of engines and cars!
@@ -35,4 +24,5 @@ description: |-
 
   Special thanks : Sylf - Taught me NML coding
   Transportman - 2cc Trains NML Code
-url: "https://www.tt-forums.net/viewtopic.php?t=76411"
+
+  2024 Update provided by Reldred (thanks buds!)
