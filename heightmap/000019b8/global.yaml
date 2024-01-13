@@ -1,0 +1,6 @@
+name: "Sakhalin"
+description: "2048x4096 cropped terrain of Sakhalin Island and Khabarovsk krai of Russian Far East."
+regions:
+- "RU"
+- "RU-KHA"
+- "RU-SAK"
