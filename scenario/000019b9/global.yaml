@@ -1,0 +1,5 @@
+name: "Indiana"
+description: "Map of Indiana and surrounding area with cities and towns."
+regions:
+- "US"
+- "US-IN"
