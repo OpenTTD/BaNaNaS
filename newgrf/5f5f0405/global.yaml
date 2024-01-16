@@ -1,5 +1,8 @@
-name: "JP+ Engines Reliability Fix"
-description: "You can use it to fix the low reliability of engines and increase the cargo aging period of wagons in JP+ Engines and Wagons. LOAD IT AFTER JP+ ENGINES AND WAGONS!!! John Franklin, 30 Apr 2023. Thanks to EmperorJake."
+name: "[OBSOLETE] IGNORE_PLZ"
+description: |-
+  THIS IS TOTALLY OBSOLETE WITH JP+ ENGINES 0.12.4 UPDATE. DON'T USE IT SINCE IT COULD CAUSE PROBLEMS.
+
+  You can use it to fix the low reliability of engines and increase the cargo aging period of wagons in JP+ Engines and Wagons. LOAD IT AFTER JP+ ENGINES AND WAGONS!!! John Franklin, 30 Apr 2023. Thanks to EmperorJake.
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
 regions:
 - "JP"
