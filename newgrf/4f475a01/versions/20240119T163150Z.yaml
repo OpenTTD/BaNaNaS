@@ -1,11 +1,11 @@
-version: "0.4"
+version: "0.5"
 license: "GPL v2"
-upload-date: 2023-11-28T07:51:29Z
-md5sum-partial: "d814c3b1"
+upload-date: 2024-01-19T16:31:50Z
+md5sum-partial: "cbd5285a"
 classification:
   set: "unknown"
-filesize: 8049
-availability: "savegames-only"
+filesize: 8076
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
