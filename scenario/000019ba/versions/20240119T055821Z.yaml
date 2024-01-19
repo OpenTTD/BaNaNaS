@@ -1,0 +1,19 @@
+version: "0.1"
+license: "CC-BY v3.0"
+upload-date: 2024-01-19T05:58:21Z
+md5sum-partial: "8b1bf565"
+classification:
+  shape: "narrow"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "temperate"
+filesize: 140116
+availability: "new-games"
+dependencies:
+- content-type: "game-script"
+  unique-id: "52455649"
+  md5sum-partial: "3b496d93"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.4"
