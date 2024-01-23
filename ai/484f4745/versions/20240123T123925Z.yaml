@@ -1,0 +1,10 @@
+version: "57"
+license: "GPL v3"
+upload-date: 2024-01-23T12:39:25Z
+md5sum-partial: "8a21bacc"
+filesize: 206001
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
