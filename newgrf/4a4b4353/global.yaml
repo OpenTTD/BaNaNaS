@@ -1,0 +1,12 @@
+name: "JP+ Cargo Stations"
+description: |-
+  JP+ Cargo Stations: Part of the JP+ family of NewGRFs
+
+  A reskin of CHIPS by andythenorth. Includes graphics from Sanchimaru's container freight stations, Toni Babeloni's factory, and container graphics to match JP+ Engines & Wagons.
+
+  Use alongside, or instead of, CHIPS.
+url: "https://github.com/EmperorJake/JPcargostations/"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
