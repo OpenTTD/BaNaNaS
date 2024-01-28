@@ -1,0 +1,15 @@
+version: "0.1"
+license: "Custom"
+upload-date: 2024-01-28T04:56:00Z
+md5sum-partial: "0da5af89"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 4606
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14"
