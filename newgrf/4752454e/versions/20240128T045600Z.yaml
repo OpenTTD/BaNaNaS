@@ -13,3 +13,13 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 14"
+
+description: |-
+  Greenscreen GRF made by WenSim.
+
+  This GRF is designed for content creaters. Using Greenscreen, you could easily remove elements on the screen, and import the clean image to your image editor or video editor.
+
+
+  WenSim 创作的绿幕 GRF。
+
+  这个GRF是为内容创作者设计的。使用的时候你可以轻松地将游戏中的无关元素剔除，并将干净的画面输出至图像或视频编辑器。
