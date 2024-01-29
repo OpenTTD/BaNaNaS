@@ -1,0 +1,15 @@
+version: "1"
+license: "Custom"
+upload-date: 2024-01-29T08:36:56Z
+md5sum-partial: "2658de54"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 52208
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.3.0"
