@@ -1,11 +1,11 @@
-version: "7"
+version: "8"
 license: "GPL v3"
-upload-date: 2023-11-23T20:54:22Z
-md5sum-partial: "8d4333ed"
+upload-date: 2024-01-31T12:48:22Z
+md5sum-partial: "23e5fbe1"
 classification:
   set: "rail-station"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 105468
-availability: "savegames-only"
+filesize: 109266
+availability: "new-games"
