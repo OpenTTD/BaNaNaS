@@ -1,11 +1,11 @@
-version: "1.2"
+version: "1.3"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2023-05-06T18:25:01Z
-md5sum-partial: "94695654"
+upload-date: 2024-01-31T13:20:49Z
+md5sum-partial: "018b32f3"
 classification:
   set: "object"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 91396
-availability: "savegames-only"
+filesize: 95012
+availability: "new-games"
