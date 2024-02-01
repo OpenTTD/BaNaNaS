@@ -1,4 +1,4 @@
-version: "2"
+version: "0"
 license: "CC-BY v3.0"
 upload-date: 2023-09-10T12:55:39Z
 md5sum-partial: "34cb4160"
@@ -9,6 +9,15 @@ classification:
   climate: "temperate"
 filesize: 5091434
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.0"
+  - "< 0.0.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0.0"
+  - "< 0.0.0"
 
 description: |-
   Earth World Map without industry, made on jonno's The World v2 heightmap.
