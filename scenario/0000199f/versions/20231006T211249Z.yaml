@@ -1,4 +1,4 @@
-version: "1.0"
+version: "0"
 license: "CC-BY v3.0"
 upload-date: 2023-10-06T21:12:49Z
 md5sum-partial: "91a86a2b"
@@ -9,6 +9,15 @@ classification:
   climate: "temperate"
 filesize: 444008
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0.0"
+  - "< 0.0.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0.0"
+  - "< 0.0.0"
 
 description: |-
   Earth world map with many cities and no industry, FIRS 1.4.4 is active.
