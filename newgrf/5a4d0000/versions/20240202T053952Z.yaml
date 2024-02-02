@@ -1,0 +1,15 @@
+version: "1.1"
+license: "CC-BY v3.0"
+upload-date: 2024-02-02T05:39:52Z
+md5sum-partial: "a691586f"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 11821
+availability: "new-games"
+
+name: "Bay Area Rapid Transit Set"
+description: "A set containing trains of the Bay Area Rapid Transit system. Requires the use of a trackset containing a 3rd rail. Coded in NML, by Ragin1_; Coded by Ragin1_ based on code by 2TallTyler and Fairyfloss"
+url: "https://www.tt-forums.net/viewtopic.php?p=1264282#p1264282"
