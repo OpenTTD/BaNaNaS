@@ -1,7 +1,8 @@
 name: "U&RaTT: Hard Mode"
 description: |-
-  Add "Hard Mode" for U&RaTT, where the speed limits of asphalt roads are reduced, towns only build Class C asphalt roads, and Class A asphalt roads do not allow houses.
+  Add "Hard Mode" for U&RaTT, where the speed limits of asphalt roads are reduced, towns only build urban asphalt roads (as of 0.8.2), and Class A asphalt roads do not allow houses.
   Add Simplified Chinese translation.
 
   Many thanks to Ufiby for the original roadset. Under GPL v3.
 url: "https://github.com/JohnFranklin523/U-RaTT"
+regions: []
