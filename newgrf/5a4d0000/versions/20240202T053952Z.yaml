@@ -8,7 +8,7 @@ classification:
   has-high-res: false
   has-sound-effects: false
 filesize: 11821
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Bay Area Rapid Transit Set"
 description: "A set containing trains of the Bay Area Rapid Transit system. Requires the use of a trackset containing a 3rd rail. Coded in NML, by Ragin1_; Coded by Ragin1_ based on code by 2TallTyler and Fairyfloss"
