@@ -1,0 +1,15 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2024-02-04T19:36:48Z
+md5sum-partial: "60c42aee"
+classification:
+  set: "road-stop"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1923208
+availability: "new-games"
+
+name: "Road Stops & Waypoints (JGRPP)"
+description: "In this set you can find approximately 250 road stops. It includes graphics from Auz Sets, Japan Stations, Dutch Stations, FIRS/CHIPS Objects, Fridaemon's Objects, Ufiby's Road Set, BK Tunnels  and more."
+url: "https://www.tt-forums.net/viewtopic.php?t=90618"
