@@ -1,12 +1,1 @@
-name: "Digimon Fusion: Dust Zone"
-description: |-
-  Based off of the Digimon Fusion anime
-
-  The Dust Zone in the digital world has been forever neglected compared to it's other neighboring zones that are flustering with Digimon.
-
-  It's up to you to setup a transport route to connect the Dust Zone with each of its neighboring zones.
-
-  The fate of the Dust zone rests in your hands!
-
-  (V1.0: Revamped the map so that cities should no longer grow instantaneously, Lowered the running costs for most of the trains)
-url: ""
+blacklisted: true
