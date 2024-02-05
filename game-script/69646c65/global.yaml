@@ -1,0 +1,7 @@
+name: "IdleTTD"
+description: |-
+  IdleTTD converts OpenTTD into an idle-like game without affecting core
+  gameplay. Players can now earn money even when the game is not running.
+
+  NOTE: Script is for single player games, won't work in multiplayer mode.
+url: "https://github.com/jazziebgd/idlettd"
