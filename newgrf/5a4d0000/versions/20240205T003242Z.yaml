@@ -1,0 +1,15 @@
+version: "3"
+license: "CC-BY v3.0"
+upload-date: 2024-02-05T00:32:42Z
+md5sum-partial: "02a2774e"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 12853
+availability: "new-games"
+
+name: "Bay Area Rapid Transit Set"
+description: "A set containing every genereation of train from the Bay Area Rapid Transit network. Drawn and Coded by Ragin1_, based on code by 2Talltyler & Fairyfloss"
+url: "https://www.tt-forums.net/viewtopic.php?t=91463"
