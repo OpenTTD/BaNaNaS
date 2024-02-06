@@ -1,15 +1,15 @@
-version: "v1.3.1"
+version: "v1.3.2"
 license: "GPL v3"
-upload-date: 2024-02-04T03:29:12Z
-md5sum-partial: "3e4774a2"
+upload-date: 2024-02-06T04:43:59Z
+md5sum-partial: "f3a698df"
 classification:
   set: "signal"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 33304
-availability: "savegames-only"
+filesize: 31933
+availability: "new-games"
 compatibility:
 - name: "jgrpp"
   conditions:
-  - ">= 0.43"
+  - ">= 0.43.0"
