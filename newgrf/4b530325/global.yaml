@@ -1,0 +1,5 @@
+name: "ATOV_TugsAndBarges"
+description: "ATOV - Add to original vehicles. Adds tugboats and barges for bulk good, (coal, ore, grain...) and tugboats for lumber. Designed to be used with original vehicle set."
+url: "https://github.com/kshugars/ATOV"
+regions:
+- "US"
