@@ -1,14 +1,14 @@
-version: "v4"
+version: "v6"
 license: "GPL v3"
-upload-date: 2023-03-02T20:23:13Z
-md5sum-partial: "e98b4463"
+upload-date: 2024-02-08T19:14:46Z
+md5sum-partial: "c209e740"
 classification:
   set: "road-infra"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 635651
-availability: "savegames-only"
+filesize: 832847
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
