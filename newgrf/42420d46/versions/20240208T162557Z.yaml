@@ -1,0 +1,15 @@
+version: "1.1"
+license: "GPL v2"
+upload-date: 2024-02-08T16:25:57Z
+md5sum-partial: "0691cb35"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 7519
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "54543134"
+  md5sum-partial: "74733d68"
