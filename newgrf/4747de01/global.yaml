@@ -1,0 +1,9 @@
+name: "AuzObjects Agry Bridges"
+description: |-
+  Australian-style fake bridges for fake roads, and objects to make real roads look like bridges. For use with Auz Roads, Auz Road Objects, Auz Creek and Drain Objects, Auz Water Objects and Auz Water Objects AddoNs. These may also work well with other NewGRF roads sets
+
+  Author: GarryG and DemianWSE and many others for coding and graphics assistance.
+url: "https://tt-forums.net/viewtopic.php?t=75657"
+regions:
+- "AU"
+- "UN-009"
