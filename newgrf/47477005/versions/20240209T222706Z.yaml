@@ -1,0 +1,15 @@
+version: "19"
+license: "GPL v2"
+upload-date: 2024-02-09T22:27:06Z
+md5sum-partial: "2d2606e1"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 5224458
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
