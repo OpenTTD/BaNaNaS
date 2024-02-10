@@ -1,0 +1,15 @@
+version: "28"
+license: "GPL v2"
+upload-date: 2024-02-10T02:32:47Z
+md5sum-partial: "9a7712af"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 7811560
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
