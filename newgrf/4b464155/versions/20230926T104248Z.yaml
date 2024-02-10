@@ -1,4 +1,4 @@
-version: "2024-02-09"
+version: "2024-02-10"
 license: "GPL v2"
 upload-date: 2023-09-26T10:42:48Z
 md5sum-partial: "7303c2c6"
@@ -39,7 +39,7 @@ dependencies:
   md5sum-partial: "c675e419"
 - content-type: "newgrf"
   unique-id: "47475959"
-  md5sum-partial: "81b037fb"
+  md5sum-partial: "665e9edf"
 - content-type: "newgrf"
   unique-id: "47477001"
   md5sum-partial: "afaf172c"
