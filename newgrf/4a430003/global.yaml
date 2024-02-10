@@ -1,0 +1,8 @@
+name: "ISR 1.0.2 Bridgeable Mod"
+description: |-
+  Industrial Stations Renewal (ISR) is a set of stations with facilities suitable for freight cargo.
+
+  A new feature has been added that allows bridges over stations in JGR Patch Pack v 0.26.0 and higher, or other packs that support this feature. The set will still function, without this feature, on OpenTTD 1.2.0 or greater.
+
+  Modified by Wallyweb, based on the original work of the ISR development team on TT-Forums.
+url: "https://www.tt-forums.net/viewtopic.php?t=83704"
