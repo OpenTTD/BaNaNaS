@@ -1,0 +1,15 @@
+version: "v1"
+license: "GPL v2"
+upload-date: 2024-02-11T12:01:21Z
+md5sum-partial: "57ce29e5"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1337054
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.52"

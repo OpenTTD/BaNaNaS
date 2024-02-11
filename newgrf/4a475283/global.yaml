@@ -1,0 +1,15 @@
+name: "Multi-SHARK"
+description: |-
+  Multi-cargo SHARK ate SQUID ate FISH
+
+  An experimental fork of SHARK ate SQUID ate FISH, which adds multi-cargo ship support.
+
+  Requires JGRPP v0.52.0 or later.
+
+  Features:
+  70 ships, with more to come in the future!
+  1850-2008 year range
+  All the features of Squid including animated wakes, smoke puffs, loading stages and variable speeds
+
+  Credits: Squid Ate FISH by andythenorth. Designed by Emperor Jake, Graphics by andythenorth, andrew350, Coxx, DanMack, Emperor Jake and others.
+url: "https://github.com/JGRennison/Multi-SHARK"
