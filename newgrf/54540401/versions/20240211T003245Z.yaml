@@ -1,0 +1,11 @@
+version: "2.9"
+license: "GPL v3"
+upload-date: 2024-02-11T00:32:45Z
+md5sum-partial: "5c0f379b"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 35285
+availability: "new-games"
