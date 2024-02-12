@@ -4,3 +4,12 @@ upload-date: 2024-02-12T21:53:52Z
 md5sum-partial: "ba932d7e"
 filesize: 29430
 availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "4b28bb33"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.57.1"
+  - "< 0.57.2"
