@@ -1,0 +1,15 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2024-02-12T19:05:55Z
+md5sum-partial: "9e78f2e0"
+filesize: 29420
+availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "4b28bb33"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.57.1"
+  - "< 0.57.2"
