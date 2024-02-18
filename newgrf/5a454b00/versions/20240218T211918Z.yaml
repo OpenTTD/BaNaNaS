@@ -1,0 +1,19 @@
+version: "2"
+license: "Custom"
+upload-date: 2024-02-18T21:19:18Z
+md5sum-partial: "49b7ff5e"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 52259
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+
+name: "Ekranoplan"
+description: "High speed watercraft based on real-life ekranoplan: ground effect aircraft primarily designed and developed in the USSR. Classic (1x zoom, 8-bit pixel art) two company colour graphics."
+url: "https://github.com/zephyris/openttd-newgrfs"
