@@ -1,0 +1,10 @@
+name: "Bingo's 4K Europe"
+description: |-
+  This is a 4096x4096 map of Europe, complete with over 3,000 towns, AXIS industries by Emperor Jake, and a range of other NewGRFs.
+
+  This scenario was designed for my multiplayer OpenTTD group.
+
+  Requires JGR's patchpack.
+url: "https://www.tt-forums.net/viewtopic.php?p=1267605&sid=aa18ab734a52ae54425905461ad93b18#p1267605"
+regions:
+- "UN-150"

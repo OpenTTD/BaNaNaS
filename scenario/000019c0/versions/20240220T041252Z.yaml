@@ -1,0 +1,15 @@
+version: "1.1"
+license: "CC-BY v3.0"
+upload-date: 2024-02-20T04:12:52Z
+md5sum-partial: "ce40d4e2"
+classification:
+  shape: "square"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-arctic"
+filesize: 10811112
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.56.1"
