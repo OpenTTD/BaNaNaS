@@ -1,0 +1,10 @@
+version: "68"
+license: "GPL v3"
+upload-date: 2024-02-24T14:43:54Z
+md5sum-partial: "a32d628d"
+filesize: 214481
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
