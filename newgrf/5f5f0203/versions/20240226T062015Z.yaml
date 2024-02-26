@@ -1,0 +1,15 @@
+version: "0.2"
+license: "GPL v2"
+upload-date: 2024-02-26T06:20:15Z
+md5sum-partial: "04ba2c92"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 38990
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.0"
