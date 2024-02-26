@@ -1,5 +1,12 @@
 name: "Finnish Trams Fix"
-description: "Fix the costs in Finnish Trams, and made it on public."
+description: |-
+  Fix the costs in Finnish Trams, and made it on public.
+
+  0.2 Changelog:
+  Adjust loading speeds
+  Make trams still reliable enough 25-30 years after disappearing from purchase list
+  Fix sprite misalignment of MLRV I
+  All trams except Horse need electrified tram track
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
 regions:
 - "FI"
