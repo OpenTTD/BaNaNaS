@@ -1,0 +1,10 @@
+version: "72"
+license: "GPL v3"
+upload-date: 2024-02-28T16:12:10Z
+md5sum-partial: "875f2b66"
+filesize: 215794
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
