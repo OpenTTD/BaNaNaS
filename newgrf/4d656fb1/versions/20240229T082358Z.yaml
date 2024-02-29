@@ -1,14 +1,14 @@
-version: "0.2.1"
+version: "0.2.1.1"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2024-02-28T09:38:46Z
-md5sum-partial: "7a0d67fe"
+upload-date: 2024-02-29T08:23:58Z
+md5sum-partial: "0112fb60"
 classification:
   set: "rail-infra"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 118872
-availability: "savegames-only"
+filesize: 177852
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
