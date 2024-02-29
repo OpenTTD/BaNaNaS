@@ -1,0 +1,15 @@
+version: "0.8.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2024-02-29T08:32:58Z
+md5sum-partial: "20708e13"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 84366
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.14.0"
