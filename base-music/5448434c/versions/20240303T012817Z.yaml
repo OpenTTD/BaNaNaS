@@ -1,0 +1,13 @@
+version: "24.2"
+license: "GPL v2"
+upload-date: 2024-03-03T01:28:17Z
+md5sum-partial: "3aeff5a2"
+filesize: 56420
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 12.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.48.5"
