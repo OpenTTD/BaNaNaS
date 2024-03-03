@@ -1,0 +1,12 @@
+name: "China Set: Plats and Stations"
+description: |-
+  ChinaSet: Platforms and Stations is a NewGRF for OpenTTD. It is a part of the ChinaSet family. This NewGRF contains platforms and stations inspired by real life Chinese transport stations.
+
+  https://www.github.com/wensimehrp/china-set-platforms-and-stations
+
+  Created by WenSim and the ChinaSet team.
+
+  中国包：站台与车站
+url: "https://www.github.com/wensimehrp/china-set-platforms-and-stations"
+regions:
+- "CN"

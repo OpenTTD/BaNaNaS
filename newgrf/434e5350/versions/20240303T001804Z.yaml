@@ -1,0 +1,15 @@
+version: "0.1a"
+license: "GPL v2"
+upload-date: 2024-03-03T00:18:04Z
+md5sum-partial: "f6ccb315"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 5683464
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14"
