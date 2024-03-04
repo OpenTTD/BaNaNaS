@@ -1,15 +1,18 @@
-version: "0.1a"
+version: "0.1.1a"
 license: "GPL v2"
-upload-date: 2024-03-03T00:18:04Z
-md5sum-partial: "f6ccb315"
+upload-date: 2024-03-04T07:33:08Z
+md5sum-partial: "32e45906"
 classification:
   set: "rail-station"
   palette: "32bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 5683464
-availability: "savegames-only"
+filesize: 5757689
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 14"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.57.1"
