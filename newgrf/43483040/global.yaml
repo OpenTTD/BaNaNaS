@@ -1,0 +1,3 @@
+name: "Logic Semaphores"
+description: "Replaces combo semaphores with large green and black pixels, replacing standard red and green signal states."
+url: "https://github.com/Sam-Chug/newgrf-logic-semaphores"

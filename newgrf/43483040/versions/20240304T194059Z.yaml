@@ -1,0 +1,18 @@
+version: "1"
+license: "GPL v3"
+upload-date: 2024-03-04T19:40:59Z
+md5sum-partial: "248c1430"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 13257
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 13.0"
