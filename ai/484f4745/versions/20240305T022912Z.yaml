@@ -1,0 +1,10 @@
+version: "76"
+license: "GPL v3"
+upload-date: 2024-03-05T02:29:12Z
+md5sum-partial: "aee7175a"
+filesize: 218046
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
