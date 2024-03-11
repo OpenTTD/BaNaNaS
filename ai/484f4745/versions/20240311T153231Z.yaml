@@ -1,0 +1,10 @@
+version: "78"
+license: "GPL v3"
+upload-date: 2024-03-11T15:32:31Z
+md5sum-partial: "3c4e5d64"
+filesize: 225033
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
