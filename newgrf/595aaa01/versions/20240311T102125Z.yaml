@@ -16,3 +16,10 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.50"
+
+description: |-
+  JP+ Major Private Companies introduces private operator trains from all over Japan.
+
+  Drawn by Yozora, *SaYa*, Toni Babelony, Takamaro, Azusa
+  Coded by Yozora
+  2024
