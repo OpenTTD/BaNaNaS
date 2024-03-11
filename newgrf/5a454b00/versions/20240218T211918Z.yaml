@@ -13,6 +13,9 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.58.1"
 
 name: "Ekranoplan"
 description: "High speed watercraft based on real-life ekranoplan: ground effect aircraft primarily designed and developed in the USSR. Classic (1x zoom, 8-bit pixel art) two company colour graphics."
