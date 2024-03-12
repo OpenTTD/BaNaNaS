@@ -1,0 +1,8 @@
+name: "Korean HQ"
+description: |-
+  Korean HQ adds Korean style headquarters. Buildings rating 1~4 will be added soon.
+
+  Rating 5: KORAIL head office
+url: "https://github.com/SerpensNebula/Korean-HQ"
+regions:
+- "KR"
