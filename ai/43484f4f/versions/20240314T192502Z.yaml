@@ -1,9 +1,9 @@
-version: "427"
+version: "428"
 license: "CC-BY-SA v3.0"
-upload-date: 2024-03-07T11:28:14Z
-md5sum-partial: "c90410d1"
-filesize: 52004
-availability: "savegames-only"
+upload-date: 2024-03-14T19:25:02Z
+md5sum-partial: "edd8265b"
+filesize: 52546
+availability: "new-games"
 dependencies:
 - content-type: "ai-library"
   unique-id: "5046524f"
