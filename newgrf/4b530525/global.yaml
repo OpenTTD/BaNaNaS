@@ -1,0 +1,5 @@
+name: "ATOV_UniqueFIRSWagons"
+description: "ATOV - Add to original vehicles. Adds new grafics for each FIRS cargo, both loaded and unloaded, that is not already in openTTD. Created to have all cargos from FIRS 4, may be missing some cargos from other FIRS versions but is still useable. Designed to be used with original vehicle set."
+url: "https://github.com/kshugars/ATOV"
+regions:
+- "US"
