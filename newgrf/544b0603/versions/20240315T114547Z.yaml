@@ -1,0 +1,15 @@
+version: "1.2.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2024-03-15T11:45:47Z
+md5sum-partial: "f7f4754c"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 35702
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.53.0"
