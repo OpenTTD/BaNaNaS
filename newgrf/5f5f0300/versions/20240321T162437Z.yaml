@@ -1,14 +1,14 @@
-version: "0.2.0.151 Fix"
+version: "0.2.1.155"
 license: "GPL v2"
-upload-date: 2024-03-02T14:09:51Z
-md5sum-partial: "4ca0f656"
+upload-date: 2024-03-21T16:24:37Z
+md5sum-partial: "55686f53"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 21599474
-availability: "savegames-only"
+filesize: 24396560
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
