@@ -12,4 +12,4 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.1.1"
+  - "< 1.9.3"
