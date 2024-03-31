@@ -1,0 +1,10 @@
+name: "Unhinged Massachusetts Towns"
+description: |-
+  Unhinged town names based on real ones found in Massachusetts.
+
+  Brought to you by FlamingSpork and Tris Wilson.
+
+  This GRF will likely work on older versions of OpenTTD, but we did not test.
+
+  Licensed under the MIT License.
+url: "https://github.com/FlamingSpork/UnhingedMass"

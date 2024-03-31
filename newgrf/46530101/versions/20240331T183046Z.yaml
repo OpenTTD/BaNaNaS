@@ -1,0 +1,11 @@
+version: "1.0"
+license: "Custom"
+upload-date: 2024-03-31T18:30:46Z
+md5sum-partial: "de2810bb"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 1438
+availability: "new-games"
