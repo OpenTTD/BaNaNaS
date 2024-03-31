@@ -5,3 +5,8 @@ description: |-
   This currently only includes DMUs, with Passenger coaches and MUs coming in future. Done with company colours and livery support.
 
   Drawn and coded by Ragin.
+regions:
+- "AU"
+- "NZ"
+- "UN-009"
+- "UN-053"
