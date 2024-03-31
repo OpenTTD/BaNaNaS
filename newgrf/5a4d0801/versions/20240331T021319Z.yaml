@@ -1,0 +1,19 @@
+version: "2"
+license: "CC-BY v3.0"
+upload-date: 2024-03-31T02:13:19Z
+md5sum-partial: "69bc1b9d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 167634
+availability: "new-games"
+
+name: "Generic Oceanian Passenger Set"
+description: |-
+  Do you like Australian/Kiwi trains? Do you want far, far too many of them? Well I have the set for you!
+
+  This currently only includes DMUs, with Passenger coaches and MUs coming in future. Done with company colours and livery support.
+
+  Drawn and coded by Ragin.
