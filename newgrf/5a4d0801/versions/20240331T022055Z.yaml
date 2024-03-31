@@ -1,14 +1,14 @@
-version: "2"
+version: "3"
 license: "CC-BY v3.0"
-upload-date: 2024-03-31T02:13:19Z
-md5sum-partial: "69bc1b9d"
+upload-date: 2024-03-31T02:20:55Z
+md5sum-partial: "0098b18b"
 classification:
   set: "train"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 167634
-availability: "savegames-only"
+filesize: 167660
+availability: "new-games"
 
 name: "Generic Oceanian Passenger Set"
 description: |-
