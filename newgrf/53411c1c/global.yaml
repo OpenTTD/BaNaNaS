@@ -1,0 +1,11 @@
+name: "GETS: Alpine Addon"
+description: |-
+  Crocodiles, Railjets and Pendolinos!
+
+  GETS Alpine Addon is a vast collection of Austrian and Swiss trains, carefully drawn to fit the scale of GETS. Add some alpine touch to your GETS-game! (but be careful: as this is an addon, you'll most likely need GETS to run a proper game)
+url: "https://github.com/GarlicBread42/GETS_AlpineAddon"
+regions:
+- "AT"
+- "CH"
+- "UN-150"
+- "UN-155"
