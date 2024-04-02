@@ -1,0 +1,22 @@
+version: "2.7.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2024-04-02T12:33:44Z
+md5sum-partial: "7b37a1bb"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 548672
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.53.0"
+
+description: |-
+  << Korean Train Set / 한국 열차 세트 >>
+  This NewGRF contains many trains in South Korea, such as KTX, KTX-Sancheon, KTX-EUM, KTX-Cheongryong, ITX-Cheongchun, ITX-Saemaeul, Saemaeul, Mugunghwa, Nuriro, CDC, NDC, metros of major cities, Diesel & Electric locomotives of Korail and other tourist trains and so on.
