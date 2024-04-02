@@ -1,0 +1,11 @@
+version: "2.8"
+license: "GPL v2"
+upload-date: 2024-04-02T07:25:04Z
+md5sum-partial: "e580fa5b"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 3412663
+availability: "new-games"
