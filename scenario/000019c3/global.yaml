@@ -1,0 +1,6 @@
+name: "Gronigen Province (island)"
+description: |-
+  Remake of the Dutch province of Groningen.
+  Made on an Island
+regions:
+- "NL-GR"
