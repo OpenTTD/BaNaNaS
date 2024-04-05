@@ -1,0 +1,15 @@
+name: "Sumatra (Indonesia) Heightmap"
+description: |-
+  Heightmap of the island of Sumatra (Indonesia) and its neighboring islands. Also includes Peninsular Malaysia, Singapore, and Western Java
+
+  Tags: Sumatra, Indonesia, Asia, Java, Malaysia, Singapore
+regions:
+- "ID"
+- "ID-BB"
+- "ID-JW"
+- "ID-KR"
+- "ID-SM"
+- "MY"
+- "SG"
+- "UN-035"
+- "UN-142"
