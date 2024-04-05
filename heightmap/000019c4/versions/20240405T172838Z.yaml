@@ -8,3 +8,10 @@ classification:
   terrain-type: "mountainous"
 filesize: 221035
 availability: "new-games"
+
+name: "Sumatra (Indonesia 2048x2048)"
+description: |-
+  Heightmap of the island of Sumatra, Indonesia and its surrounding islands. Also includes Peninsular Malaysia, Singapore, and Western Java.
+
+  Size: 2048x2048
+  By: MrKholishUmar
