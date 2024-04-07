@@ -1,0 +1,18 @@
+version: "TERMINUS"
+license: "GPL v2"
+upload-date: 2024-04-07T02:00:50Z
+md5sum-partial: "38b3f095"
+classification:
+  set: "unknown"
+filesize: 7247
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 13.4"
+- name: "jgrpp"
+  conditions:
+  - "< 0.58.2"
+
+name: "[Discontinued]"
+description: "This project has been discontinued. I'd like to apologise to everyone who had the misfortune of knowing about this."
