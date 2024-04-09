@@ -1,0 +1,11 @@
+version: "1"
+license: "CC-0 v1.0"
+upload-date: 2024-04-09T23:31:40Z
+md5sum-partial: "9f98d29b"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 17945
+availability: "new-games"
