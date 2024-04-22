@@ -1,0 +1,19 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2024-04-22T06:26:50Z
+md5sum-partial: "a8f79dc8"
+classification:
+  shape: "rectangle"
+  resolution: "normal"
+  terrain-type: "hilly"
+filesize: 28883
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+  - "< 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 1.2.0"
+  - "< 14.0"
