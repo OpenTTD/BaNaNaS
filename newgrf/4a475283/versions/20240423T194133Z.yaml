@@ -1,14 +1,14 @@
-version: "v1"
+version: "v1.1"
 license: "GPL v2"
-upload-date: 2024-02-11T12:01:21Z
-md5sum-partial: "57ce29e5"
+upload-date: 2024-04-23T19:41:33Z
+md5sum-partial: "058a1a34"
 classification:
   set: "ship"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 1337054
-availability: "savegames-only"
+filesize: 1341782
+availability: "new-games"
 compatibility:
 - name: "jgrpp"
   conditions:
