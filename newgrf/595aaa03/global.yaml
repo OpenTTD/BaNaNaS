@@ -1,0 +1,9 @@
+name: "xUSSR+ Ivolga Addon"
+description: |-
+  xUSSR+ Ivolga Addon introduces modern Russian train EG2TV "Ivolga".
+  Addon to xUSSR
+url: "https://github.com/Yozora3/xUSSRplus"
+regions:
+- "RU"
+- "RU-MOS"
+- "RU-MOW"
