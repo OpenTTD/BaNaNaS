@@ -1,18 +1,18 @@
-version: "0.4.2"
+version: "0.5.0"
 license: "GPL v2"
-upload-date: 2023-11-07T11:47:13Z
-md5sum-partial: "be3f6331"
+upload-date: 2024-04-27T06:34:58Z
+md5sum-partial: "ba8b6bf1"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 526176
-availability: "savegames-only"
+filesize: 863637
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 13.4"
+  - ">= 14.0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.55.0"
+  - ">= 0.56.0"
