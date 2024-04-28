@@ -1,0 +1,5 @@
+name: "Greek Town Names"
+description: "A random generator that makes pseudo-Greek town names with syllables based on ancient Greek cities and names."
+url: "https://github.com/Feoramund/openttd-greek-town-names"
+regions:
+- "GR"
