@@ -1,0 +1,11 @@
+name: "Alaska USA (2024 Update)"
+description: |-
+  Size:1024x1024
+  Climate:subarctic
+  Industry - ECS 1.2 (Town vector 1.2, Agrocultural vector 1.2, Basic vector II 1.2, Chemicals vector 1.2, Houses 1.2, Machinery vector 1.2, Wood vector 1.2 ), Cities - North American Building Set v1.0
+  Start game: 1950
+  OpenTTD 1.11.0 or higher
+  Original made by STD/May 2016, updated by Kevin Fields (kamnet) on April 27, 2024.
+url: "https://www.tt-forums.net/viewtopic.php?p=1269262#p1269262"
+regions:
+- "US-AK"
