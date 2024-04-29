@@ -9,3 +9,10 @@ classification:
   has-sound-effects: false
 filesize: 34242751
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.58.0"
