@@ -12,7 +12,7 @@ availability: "savegames-only"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.14.0"
+  - ">= 14.0"
 - name: "jgrpp"
   conditions:
   - ">= 0.58.0"
