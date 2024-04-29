@@ -1,3 +1,5 @@
 name: "CNSPS Addon: Wuhu"
 description: "An add-on to ChinaSet: Platforms and Stations (CNSPS), this NewGRF provides modular tiles and templated stations modeled after the Wuhu Railway Station in China."
 url: "https://www.tt-forums.net/viewtopic.php?t=91092"
+regions:
+- "CN"
