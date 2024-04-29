@@ -1,0 +1,22 @@
+version: "0.1.1"
+license: "GPL v2"
+upload-date: 2024-04-29T10:57:12Z
+md5sum-partial: "d51c8661"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 34246845
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.58.0"
+
+name: "CNSPS Addon: Wuhu"
+description: "An add-on to ChinaSet: Platforms and Stations (CNSPS), this NewGRF provides modular tiles and templated stations modeled after the Wuhu Railway Station in China."
+url: "https://www.tt-forums.net/viewtopic.php?t=91092"
