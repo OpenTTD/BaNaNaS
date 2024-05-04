@@ -1,0 +1,9 @@
+name: "China Set: Stations"
+description: |-
+  ChinaSet: Platforms and Stations is a NewGRF for OpenTTD. It is a part of the ChinaSet family. This NewGRF contains platforms and stations inspired by real life Chinese transport stations.
+
+  Created by WenSim and the ChinaSet team.
+url: "https://github.com/WenSimEHRP/china-set-stations"
+regions:
+- "CN"
+- "UN-030"
