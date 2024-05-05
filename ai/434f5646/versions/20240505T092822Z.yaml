@@ -1,0 +1,17 @@
+version: "1"
+license: "Custom"
+upload-date: 2024-05-05T09:28:22Z
+md5sum-partial: "be38e055"
+filesize: 9746
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.3"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.39.0"

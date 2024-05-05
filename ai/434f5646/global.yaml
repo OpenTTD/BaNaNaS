@@ -1,0 +1,3 @@
+name: "CoronaAI Fix"
+description: "A light modification of Corona AI that fixes some issues. This AI will attempt to build bus services in all cities on the map. You may need to increase the number of road vehicles allowed (e.g. 2500 on a 1024x1024 map). Originally by Libor Vilimek."
+url: "https://github.com/Typhlomence/openttd-coronaai-fix/"
