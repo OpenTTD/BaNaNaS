@@ -1,0 +1,21 @@
+version: "2"
+license: "Custom"
+upload-date: 2024-05-11T15:27:03Z
+md5sum-partial: "e7bc1302"
+filesize: 10569
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5046524f"
+  md5sum-partial: "3a165326"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.10.3"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.39.0"
+
+name: "CoronaAI Fix"
+description: "A light modification of Corona AI that fixes some issues. This AI will attempt to build bus services in all cities on the map. You may need to increase the number of road vehicles allowed (e.g. 2500 on a 1024x1024 map). Originally by Libor Vilimek."
+url: "https://github.com/Typhlomence/openttd-coronaai-fix/"
