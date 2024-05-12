@@ -1,9 +1,9 @@
-version: "9.3"
+version: "10.0"
 license: "GPL v2"
-upload-date: 2023-12-03T16:42:22Z
-md5sum-partial: "3b496d93"
-filesize: 65768
-availability: "savegames-only"
+upload-date: 2024-05-12T09:50:20Z
+md5sum-partial: "b8c28dfb"
+filesize: 68580
+availability: "new-games"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "4753544c"
@@ -17,7 +17,7 @@ dependencies:
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.10.0"
+  - ">= 12.0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.34.0"
+  - ">= 0.45.0"
