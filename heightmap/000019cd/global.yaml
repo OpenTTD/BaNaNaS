@@ -1,0 +1,9 @@
+name: "Kyushu area(4096x4096)"
+description: |-
+  Kyushu area～
+  For now I have no plan to add towns,maybe later.
+  Recommend highest peak:28
+url: "https://www.tt-forums.net/viewtopic.php?t=91708"
+regions:
+- "JP"
+- "UN-142"
