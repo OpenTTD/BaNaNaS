@@ -1,0 +1,9 @@
+name: "Isle of Man(no house)"
+description: |-
+  Map Size: 2048x2048
+  Start Date: 1980
+  Requires JGR Patch Pack v0.57.1.
+  Made by Zyliety
+url: "https://www.tt-forums.net/viewtopic.php?t=91707"
+regions:
+- "IM"
