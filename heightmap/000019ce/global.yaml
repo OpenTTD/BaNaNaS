@@ -1,0 +1,16 @@
+name: "San'in / Chugoku Region, Japan"
+description: |-
+  Heightmap of San'in / Chugoku region of Japan, containing Shimane, Tottori, and part of Kyoto, Hyogo, Okayama, Hiroshima Prefectures.
+
+  By John Franklin using Bunburya's bother script.
+
+  License: CC-BY v3.0
+url: "https://www.tt-forums.net/viewtopic.php?t=90773"
+regions:
+- "JP"
+- "JP-26"
+- "JP-28"
+- "JP-31"
+- "JP-32"
+- "JP-33"
+- "JP-34"
