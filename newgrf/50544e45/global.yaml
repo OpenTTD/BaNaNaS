@@ -1,0 +1,5 @@
+name: "Polish Town Names Extended"
+description: "This NewGRF provides around 35000 existing names of Polish villages, town and city names to OpenTTD."
+url: "https://github.com/krzywonos/openttd-polish-town-names-extended"
+regions:
+- "PL"
