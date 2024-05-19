@@ -1,0 +1,15 @@
+version: "0.2"
+license: "GPL v3"
+upload-date: 2024-05-19T13:42:30Z
+md5sum-partial: "551d4480"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 14843
+availability: "new-games"
+
+name: "Frenchies Town Names"
+description: "The game only provides a limited amount of French city names. Other NewGRFs provide city names from a list of existing cities. That's boring. This NewGRF provides generated fake French-sounding yet amusing city names for all your OpenTTD games!"
+url: "https://github.com/roptat/frenchies-town-names"
