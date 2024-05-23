@@ -1,0 +1,8 @@
+name: "The North Shires"
+description: "A fictional UK-inspired scenario."
+regions:
+- "GB"
+- "GB-ENG"
+- "GB-SCB"
+- "GB-SCT"
+- "GB-WLS"
