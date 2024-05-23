@@ -1,0 +1,8 @@
+name: "Amber's Sub-Saharan Africa"
+description: "OpenTTD scenario for Sub-Saharan Africa starting in 1920."
+url: "https://github.com/Rheaprobate/Sub-Sahara-Axis"
+regions:
+- "UN-002"
+- "UN-014"
+- "UN-017"
+- "UN-018"

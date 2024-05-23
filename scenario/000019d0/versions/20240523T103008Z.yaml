@@ -1,0 +1,15 @@
+version: "1.0"
+license: "CC-BY-NC-ND v3.0"
+upload-date: 2024-05-23T10:30:08Z
+md5sum-partial: "39a8fb75"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "sub-tropical"
+filesize: 1831542
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.58.3"
