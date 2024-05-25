@@ -1,0 +1,18 @@
+version: "1.5"
+license: "Custom"
+upload-date: 2024-05-25T20:05:17Z
+md5sum-partial: "bf7bde06"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 12284382
+availability: "new-games"
+
+name: "Temporal8´s Real Cars 32bpp"
+description: |-
+  Updated to 1.5, New cars added, many new models since 1949!
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?t=89431"
