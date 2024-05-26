@@ -1,6 +1,9 @@
-name: "ERTMS / ETCS Eyecandy Set"
+name: "The Dutch Signal Set"
 description: |-
-  Signs for ETCS blocks as signals and Eurobalise as waypoints.
+  A newgrf for signals as they're used in the Netherlands, including ATB-NG beacons,  eurobalises, and speed signs and more as programmable signals.
 
-  New "signals" require JGR's patch pack.
-url: "https://www.tt-forums.net/viewtopic.php?p=1265216#p1265216"
+  New signals require JGR's patch pack.
+url: "https://www.tt-forums.net/viewtopic.php?p=1269667"
+regions:
+- "NL"
+- "UN-150"
