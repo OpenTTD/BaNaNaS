@@ -1,0 +1,15 @@
+version: "2.10"
+license: "GPL v3"
+upload-date: 2024-05-27T19:14:32Z
+md5sum-partial: "08451679"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 38011
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
