@@ -1,15 +1,15 @@
-version: "3.2.1"
+version: "3.3.0"
 license: "CC-BY-SA v3.0"
-upload-date: 2023-09-03T19:59:42Z
-md5sum-partial: "802f0bcd"
+upload-date: 2024-05-29T20:47:55Z
+md5sum-partial: "a56eb174"
 classification:
   set: "road-vehicle"
   palette: "8bpp"
   has-high-res: true
   has-sound-effects: true
-filesize: 3122064
-availability: "savegames-only"
+filesize: 3076120
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.10.0"
+  - ">= 1.11.0"
