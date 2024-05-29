@@ -1,0 +1,25 @@
+version: "0.2.0"
+license: "GPL v2"
+upload-date: 2024-05-29T03:46:33Z
+md5sum-partial: "98fb9c95"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 517535
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.57.1"
+
+description: |-
+  China Set: Platforms and Stations is a NewGRF for OpenTTD. It is a part of the China Set family. This NewGRF contains platforms and stations inspired by real life Chinese transport stations.
+
+  Created by WenSim and the China Set team.
+
+  Have Fun (^_^)
