@@ -1,0 +1,6 @@
+name: "ISR/DWE-style Objects II |clean"
+description: |-
+  Quast65's 'ISR/DWE-style Objects' refurbished.
+  Contains tiles from ISR/DWE stations, dock- and road-overlapping tiles etc., all updated to be compatible with Brickblock1's 'CHIPS style dock objects'.
+  Objects automatically adapt to land/water; no maddening multiselect; use parameters to switch between two types of clean concrete (CHIPS or OpenGFX).
+url: "https://github.com/chujo-chujo/ISR-DWE-Objects-II"
