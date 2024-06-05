@@ -12,7 +12,7 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 13.0"
+  - "< 0.0.1"
 
 description: |-
   You can use it to fix the low reliability of engines and increase the cargo aging period of wagons in JP+ Engines and Wagons. LOAD IT AFTER JP+ ENGINES AND WAGONS!!! John Franklin, 30 Apr 2023. Thanks to EmperorJake.
