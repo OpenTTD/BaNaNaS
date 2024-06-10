@@ -1,0 +1,14 @@
+version: "0.3"
+license: "GPL v3"
+upload-date: 2024-06-10T09:08:21Z
+md5sum-partial: "4e5f4324"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 14590
+availability: "new-games"
+
+name: "Flemish sounding Town Names"
+description: "Flemish sounding town names. (Vlaams klinkende namen voor dorpen.)"

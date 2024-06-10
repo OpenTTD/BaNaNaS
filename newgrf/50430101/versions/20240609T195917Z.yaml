@@ -8,7 +8,7 @@ classification:
   has-high-res: false
   has-sound-effects: false
 filesize: 13228
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Flemish sounding Town Names"
 description: "Flemish sounding Town Names, (Vlaams klinkende namen voor dorpen.)"
