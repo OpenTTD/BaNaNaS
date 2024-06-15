@@ -1,0 +1,9 @@
+name: "WSF Ferry Set"
+description: |-
+  The Washington State Ferry Set is a small collection of historical ships which have sailed on Puget Sound from the 1800's to the present.
+
+  It is currently a work in progress, so far featuring 8 contemporary ships and 2 available extras.
+url: "http://www.tt-forums.net/viewtopic.php?f=26&t=59499"
+regions:
+- "US"
+- "US-WA"

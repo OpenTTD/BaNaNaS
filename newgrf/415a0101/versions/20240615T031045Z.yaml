@@ -1,0 +1,15 @@
+version: "0.6.0"
+license: "GPL v2"
+upload-date: 2024-06-15T03:10:45Z
+md5sum-partial: "803e98c9"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 96209
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
