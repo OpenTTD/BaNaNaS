@@ -1,0 +1,13 @@
+version: "1.50"
+license: "GPL v3"
+upload-date: 2024-06-16T12:35:57Z
+md5sum-partial: "532146e9"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 8969419
+availability: "new-games"
+
+url: "https://www.gnu.org/licenses/gpl-3.0.txt"
