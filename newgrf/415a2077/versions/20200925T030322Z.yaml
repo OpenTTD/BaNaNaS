@@ -13,5 +13,6 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.10.0"
+  - "< 14.0"
 
 name: "Wasteland"
