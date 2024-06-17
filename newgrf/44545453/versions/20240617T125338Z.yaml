@@ -1,0 +1,15 @@
+version: "1.50.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2024-06-17T12:53:38Z
+md5sum-partial: "1a7952d6"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 8964911
+availability: "new-games"
+
+description: |-
+  It is a derivative train set.
+  License : CC-BY-NC-SA v3.0

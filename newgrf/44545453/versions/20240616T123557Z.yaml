@@ -8,6 +8,6 @@ classification:
   has-high-res: false
   has-sound-effects: true
 filesize: 8969419
-availability: "new-games"
+availability: "savegames-only"
 
 url: "https://github.com/DTS-NewGRF/DTS/releases"
