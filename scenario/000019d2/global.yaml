@@ -1,0 +1,21 @@
+name: "UK 4K National Rail"
+description: |-
+  A modified "Yet another UK" 4K scenario
+
+  With almost all towns/villages that contain a National Rail train station included, major cities split into major suburbs for better metro, plus some other towns and locations (mostly to fill in emptier areas)
+
+  The aim of this map is to be able to recreate the modern UK passenger rail network
+
+  Beta version, testing and modifications are ongoing
+url: "https://discord.gg/kqp3GMhEFY"
+regions:
+- "GB"
+- "GB-ENG"
+- "GB-IOS"
+- "GB-IOW"
+- "GB-LND"
+- "GB-ORK"
+- "GB-SCT"
+- "GB-WLS"
+- "GB-ZET"
+- "IM"
