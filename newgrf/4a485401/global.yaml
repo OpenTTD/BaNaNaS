@@ -1,0 +1,6 @@
+name: "HokkaidoTrainset"
+description: "Hokkaido Trainset includes Limited Express, Suburban and Local trains operated by JR Hokkaido."
+url: "https://github.com/ns2091/Hokkaido_Trains"
+regions:
+- "JP"
+- "JP-01"
