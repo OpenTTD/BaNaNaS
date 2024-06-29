@@ -1,0 +1,22 @@
+version: "1.2"
+license: "Custom"
+upload-date: 2024-06-29T16:53:01Z
+md5sum-partial: "a79546cb"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 10232228
+availability: "new-games"
+
+name: "Temporal8 Real Trucks 32bpp"
+description: |-
+  Real Trucks provides cargo trucks and buses in 32bpp from the year 1950 onwards!
+
+  Changelog:
+
+  - Fixed bugs. (increase from 120 hp to 240 hp in articulated past trucks)
+
+  - Old Trucks now Avaivable since 1950 year.
+url: "https://www.tt-forums.net/viewtopic.php?t=90151"
