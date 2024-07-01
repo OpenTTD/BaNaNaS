@@ -1,0 +1,26 @@
+version: "2.5.0"
+license: "GPL v2"
+upload-date: 2024-07-01T10:16:48Z
+md5sum-partial: "be45e9d5"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 1914404
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.50"
+
+name: "JP+ Private Companies"
+description: |-
+  JP+ Private Companies introduces private operator's trains from all over Japan.
+
+  Drawn by Yozora, *SaYa*, Toni Babelony, Takamaro, Azusa
+  Coded by Yozora
+  2024
