@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2024-07-02T01:13:12Z
+md5sum-partial: "84acc839"
+classification:
+  set: "vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 7514
+availability: "new-games"

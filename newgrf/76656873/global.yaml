@@ -1,0 +1,6 @@
+name: "Default Vehicle Remover"
+description: |-
+  Provides parameters allowing you to remove the OpenTTD default vehicles
+
+  All vehicles remain enabled by default. Open the NewGRF settings menu and use the 4 parameters to remove trains (including monorail and maglev), aircraft, ships, or road vehicles
+url: "https://github.com/BRTrains/OpenTTD-default-vehicle-remover"
