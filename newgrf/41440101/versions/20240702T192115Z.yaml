@@ -1,0 +1,15 @@
+version: "0.7.0"
+license: "GPL v2"
+upload-date: 2024-07-02T19:21:15Z
+md5sum-partial: "d0c68ebe"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 223435
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.0"
