@@ -1,14 +1,14 @@
-version: "1.3.0"
+version: "1.3.1"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2024-06-08T09:21:20Z
-md5sum-partial: "4c1b7a2b"
+upload-date: 2024-07-08T12:21:17Z
+md5sum-partial: "0794e601"
 classification:
   set: "signal"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 37815
-availability: "savegames-only"
+filesize: 37826
+availability: "new-games"
 compatibility:
 - name: "jgrpp"
   conditions:
