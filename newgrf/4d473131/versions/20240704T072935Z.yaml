@@ -5,7 +5,7 @@ md5sum-partial: "0895b190"
 classification:
   set: "unknown"
 filesize: 8459
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - name: "jgrpp"
   conditions:
