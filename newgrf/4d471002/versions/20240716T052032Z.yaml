@@ -1,0 +1,11 @@
+version: "1.7.0"
+license: "GPL v2"
+upload-date: 2024-07-16T05:20:32Z
+md5sum-partial: "c7317de3"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 601518
+availability: "new-games"
