@@ -1,3 +1,4 @@
 name: "Basic Highway"
-description: "Adds highway to the road building menu - default roads with disallowed house construction."
+description: "Adds highway to the road building menu - default roads with disallowed house construction. Useful for controlling town growth while keeping the original look of the game."
 url: "https://github.com/Cnnctr/Basic-Highway-for-OpenTTD"
+regions: []
