@@ -1,0 +1,10 @@
+name: "paxCommuters"
+description: |-
+  This just renames the cargo "Passengers" to "Commuters", for use with separate "Tourists" cargo.
+
+  It's also meant to be used with the "OpenGFX Mars" and other NewGRFs renaming passengers like "Wasteland" or any very old graphics that rename Passengers as "Tourists" instead of making a new Tourists cargo.
+
+  Stolen from "Passengers as Workers" by scitor, who stole it from "Lumberjack Industries" by 2TallTyler
+
+  You can find "Passengers as Workers" source code here: https://git.estate/scitor/paxWorkers
+url: "https://github.com/Gadg8eer/paxCommuters"
