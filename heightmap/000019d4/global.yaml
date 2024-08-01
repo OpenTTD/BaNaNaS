@@ -1,0 +1,6 @@
+name: "Greater Manila Area"
+description: "Map containing the Greater Manila Area, with Clark and Subic."
+regions:
+- "PH-00"
+- "PH-03"
+- "PH-40"
