@@ -8,6 +8,6 @@ classification:
   has-high-res: false
   has-sound-effects: false
 filesize: 13478
-availability: "new-games"
+availability: "savegames-only"
 
 description: "Adds highway to the road building menu - default roads with disallowed house construction. Useful for controlling town growth while keeping the original look of the game."

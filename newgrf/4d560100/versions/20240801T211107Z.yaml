@@ -1,0 +1,11 @@
+version: "1.2.1"
+license: "GPL v3"
+upload-date: 2024-08-01T21:11:07Z
+md5sum-partial: "e51f6b8b"
+classification:
+  set: "road-infra"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 13511
+availability: "new-games"
