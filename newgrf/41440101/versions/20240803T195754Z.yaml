@@ -1,14 +1,14 @@
-version: "0.8.0"
+version: "0.9.0"
 license: "GPL v2"
-upload-date: 2024-07-06T11:44:19Z
-md5sum-partial: "a854724e"
+upload-date: 2024-08-03T19:57:54Z
+md5sum-partial: "dce8763b"
 classification:
   set: "aircraft"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 292498
-availability: "savegames-only"
+filesize: 333883
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
