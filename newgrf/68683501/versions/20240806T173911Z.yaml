@@ -1,0 +1,15 @@
+version: "1.1"
+license: "CC-0 v1.0"
+upload-date: 2024-08-06T17:39:11Z
+md5sum-partial: "1d5b5010"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 16902
+availability: "new-games"
+
+name: "Short British Town Names"
+description: "A list of 3,821 British place names that are at most six letters long. This list was created using data taken from the Gazetteer of British Place Names (https://gazetteer.org.uk/), which lists place names in Great Britain (i.e. England, Wales and Scotland). I have removed a small number of place names that I deem to be overly generic, confusing or otherwise inappropriate in the context of OpenTTD."
+url: "https://www.tt-forums.net/viewtopic.php?t=91849"
