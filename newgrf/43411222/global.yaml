@@ -4,7 +4,7 @@ description: |-
 
   Comprehensive train set with a gameplay focus.
 
-  Inspired (mostly) by British trains.
+  Inspired (mostly) by British and Irish trains.
 
   It's mostly done and it's kind of fun.
 
@@ -21,3 +21,4 @@ regions:
 - "GB-NIR"
 - "GB-SCT"
 - "GB-WLS"
+- "IE"
