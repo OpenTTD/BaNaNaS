@@ -1,0 +1,24 @@
+version: "1.3"
+license: "Custom"
+upload-date: 2024-08-07T00:04:50Z
+md5sum-partial: "d6d7cc3c"
+classification:
+  set: "ship"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 75853061
+availability: "new-games"
+
+name: "Temporal8´s Real Ships 32bpp"
+description: |-
+  Real Ships version 1.3 fixes some bugs and adds Cargo Ships!
+
+  Changelog:
+  - Passenger Ships can now be refitted to carry other cargos. (Tourists, prisoners, students...)
+
+  - 14 Cargo Ship Boats added.
+
+
+  Now there are 26 ships in total! (14 Cargo + 12 Passenger Ships!)
+url: "https://www.tt-forums.net/viewtopic.php?t=90733"
