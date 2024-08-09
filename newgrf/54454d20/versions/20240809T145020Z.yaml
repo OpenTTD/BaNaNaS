@@ -1,0 +1,20 @@
+version: "1.3.1"
+license: "Custom"
+upload-date: 2024-08-09T14:50:20Z
+md5sum-partial: "14b89e03"
+classification:
+  set: "ship"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 75853223
+availability: "new-games"
+
+name: "Temporal8´s Real Ships 32bpp"
+description: |-
+  Real Ships contain 26 ships in 32bpp extrazoom: 14 Cargo + 12 Passenger Ships from diferent years.
+
+  Changelog 1.3.1:
+
+  - Some cargo fixes.
+url: "https://www.tt-forums.net/viewtopic.php?t=90733"
