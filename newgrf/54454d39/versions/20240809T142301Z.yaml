@@ -1,14 +1,14 @@
-version: "Beta 4"
+version: "Beta 4.0.1"
 license: "Custom"
-upload-date: 2024-06-30T21:03:13Z
-md5sum-partial: "bbb71a84"
+upload-date: 2024-08-09T14:23:01Z
+md5sum-partial: "37a49370"
 classification:
   set: "industry"
   palette: "32bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 143590855
-availability: "savegames-only"
+filesize: 143591200
+availability: "new-games"
 
 name: "Temporal8 Real Industries 32bpp"
 description: |-
@@ -16,9 +16,10 @@ description: |-
 
   It is only a Beta version and some things need to be polished / fixed.
 
-  Changelog:
-  - Oil Rig it`s now working.
-  - Some production Fixes.
+  Changelog 4.0.1:
+
+  - Cargo name fixed: Fuel Oil instead Petrol.
+  - Tyres, Plastics and Rubber are now GOODS instead LIQUID.
 
   Enjoy!
-url: "https://www.tt-forums.net/viewtopic.php?p=1254608"
+url: "https://www.tt-forums.net/viewtopic.php?t=90183"
