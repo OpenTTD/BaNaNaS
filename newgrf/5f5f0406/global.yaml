@@ -1,5 +1,5 @@
 name: "GETS Cargo Age Period Fix"
-description: "By adding it AFTER GETS, the cargo age periods of some trains and wagons will change. Now compatible with GETS 0.5. John Franklin, 1 Feb 2023. Under GPLv2."
+description: "By adding it AFTER GETS, the cargo age periods of some trains and wagons will change. Now compatible with GETS 0.6. John Franklin, 13 August 2024. Under GPLv2."
 url: "https://www.tt-forums.net/viewtopic.php?t=90219"
 regions:
 - "DE"
