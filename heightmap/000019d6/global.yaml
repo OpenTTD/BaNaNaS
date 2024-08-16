@@ -1,0 +1,6 @@
+name: "Indonesia and Malaysia (8k))"
+description: "Indonesia, Malaysia, Brunei, Timor Leste, a small portion of Australia, and Mindanao in a 8k*4k map. Requires JGRPP"
+regions:
+- "BN"
+- "ID"
+- "MY"
