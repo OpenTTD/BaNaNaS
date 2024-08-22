@@ -1,0 +1,9 @@
+name: "South Southeast Asia (8k)"
+description: "Indonesia, Malaysia, Timor Leste, Mindanao, Thailand up to Phuket, Brunei Darussalam, Singapore, and a tiny bit of Northern Territory. Requires JGRPP to function"
+regions:
+- "BN"
+- "BN-BM"
+- "ID"
+- "MY"
+- "SG"
+- "TL"
