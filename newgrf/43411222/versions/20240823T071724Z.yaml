@@ -1,14 +1,14 @@
-version: "3.25.0"
+version: "3.26.0"
 license: "GPL v2"
-upload-date: 2024-08-20T20:01:44Z
-md5sum-partial: "f3331801"
+upload-date: 2024-08-23T07:17:24Z
+md5sum-partial: "1783c505"
 classification:
   set: "train"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 4855317
-availability: "savegames-only"
+filesize: 4946910
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
