@@ -1,0 +1,9 @@
+name: "China Set: MTR Add-on"
+description: |-
+  This NewGRF add the vehicles of MTR to China Set.
+  This NewGRF is in Early Access.Update in the future may broke the compatable.
+url: "https://github.com/Babel-TTT/China-Set-MTR-Addon"
+regions:
+- "CN"
+- "UN-030"
+- "UN-142"
