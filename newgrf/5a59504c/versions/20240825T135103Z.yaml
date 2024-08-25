@@ -1,0 +1,11 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2024-08-25T13:51:03Z
+md5sum-partial: "83f23b1e"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 205620
+availability: "new-games"
