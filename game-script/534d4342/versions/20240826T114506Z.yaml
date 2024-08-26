@@ -1,0 +1,12 @@
+version: "2024.04.13"
+license: "GPL v2"
+upload-date: 2024-08-26T11:45:06Z
+md5sum-partial: "50ffe257"
+filesize: 34284
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.11"
+
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=69014"
