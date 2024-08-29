@@ -1,0 +1,15 @@
+version: "B1.00.08"
+license: "Custom"
+upload-date: 2024-08-29T17:43:43Z
+md5sum-partial: "b4afc2ff"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 277445
+availability: "new-games"
+
+name: "Travelisio"
+description: "his NewGRF will add buses used in the Slovak Republic, with liveries around the place."
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87633"
