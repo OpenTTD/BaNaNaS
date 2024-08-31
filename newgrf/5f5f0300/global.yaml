@@ -1,5 +1,8 @@
 name: "China Set: Trains"
-description: "The Train Sector of the China Set of OpenTTD. More contents in the future. By John Franklin, wuwu (kaitokiwa), babel, NACHN and other developers. License: GPLv2."
+description: |-
+  -- This is the new, comprehensive, and representative set for trains in China --
+  -- 这是新国铁包 --
+  The Train Sector of the China Set of OpenTTD. More contents in the future. By John Franklin, wuwu (kaitokiwa), babel, NACHN and other developers. License: GPLv2.
 url: "https://www.tt-forums.net/viewtopic.php?t=91092"
 regions:
 - "CN"
