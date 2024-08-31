@@ -1,0 +1,11 @@
+version: "0"
+license: "Custom"
+upload-date: 2024-08-31T13:34:45Z
+md5sum-partial: "1917e0dd"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 24596
+availability: "new-games"
