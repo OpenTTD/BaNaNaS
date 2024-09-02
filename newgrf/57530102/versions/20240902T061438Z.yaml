@@ -1,0 +1,15 @@
+version: "0.1"
+license: "GPL v2"
+upload-date: 2024-09-02T06:14:38Z
+md5sum-partial: "7a1194ee"
+classification:
+  set: "signal"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 19876
+availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.40.0"
