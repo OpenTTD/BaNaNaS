@@ -1,0 +1,15 @@
+version: "1.1"
+license: "Custom"
+upload-date: 2024-09-02T12:25:35Z
+md5sum-partial: "2e1d04e0"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 86285
+availability: "new-games"
+
+name: "Hangzhou Metro Lines"
+description: "Hangzhou Metro Set, welcome to my homepage https://github.com/tomatoma00/grf_hangzhoumetro , thanks for you suggestions! Also welcome to my bilibili (uid: 168818235)"
+url: "https://github.com/tomatoma00/grf_hangzhoumetro"
