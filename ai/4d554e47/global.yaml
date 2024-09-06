@@ -8,6 +8,7 @@ description: |-
   - Overhauled the codebase to an Object Oriented version
   - Uses mail planes too now
   - Needs some work on where the AI builds airports but this version is so much better than version 4
-url: "https://github.com/grinchios/OpenTTD-AI"
+url: "https://www.tt-forums.net/viewtopic.php?p=1245068"
 tags:
 - "plane"
+regions: []
