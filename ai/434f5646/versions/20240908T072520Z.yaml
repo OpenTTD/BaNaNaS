@@ -1,9 +1,9 @@
-version: "3"
+version: "4"
 license: "Custom"
-upload-date: 2024-06-17T13:06:18Z
-md5sum-partial: "1d53c0c2"
-filesize: 13380
-availability: "savegames-only"
+upload-date: 2024-09-08T07:25:20Z
+md5sum-partial: "a3a44018"
+filesize: 14116
+availability: "new-games"
 dependencies:
 - content-type: "ai-library"
   unique-id: "5046524f"
