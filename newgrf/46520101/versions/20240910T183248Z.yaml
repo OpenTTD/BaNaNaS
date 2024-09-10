@@ -1,0 +1,15 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2024-09-10T18:32:48Z
+md5sum-partial: "1a2d119e"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 11274040
+availability: "new-games"
+
+name: "Fridaemon's Objects"
+description: "This set brings supermarkets, modular hypermarkets, warehouses, beach objects, skyscrappers, underground entrances, different types of buildings, vehicles as objects, bus terminals, bus depots and more to the game."
+url: "https://www.tt-forums.net/viewtopic.php?f=26&t=87596"
