@@ -1,0 +1,5 @@
+name: "Ari's Continental Border"
+description: |-
+  My first custom heightmap.
+
+  The tips of two continents nearly touch, separating two nations from one another. Try to challenge yourself by restricting your network to only one crossing between the two continents. 512x256, height peak 40 recommended.
