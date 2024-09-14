@@ -1,0 +1,19 @@
+version: "1.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2024-09-14T16:55:05Z
+md5sum-partial: "0a8fec1d"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "hilly"
+filesize: 16754079
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+  - "< 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 1.2.0"
+  - "< 14.0"
