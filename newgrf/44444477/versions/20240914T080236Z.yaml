@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2024-09-14T08:02:36Z
+md5sum-partial: "fd6f4760"
+classification:
+  set: "landscape"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 2371075
+availability: "new-games"
