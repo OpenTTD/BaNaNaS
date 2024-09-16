@@ -1,0 +1,19 @@
+name: "Shandong Province 8k"
+description: |-
+  Heightmap of Shandong Province, China. Including the whole of Shandong, and part of Beijing, Tianjin, Hebei, Henan, Shanxi, Liaoning, Anhui, and Jiangsu.
+
+  When set to the highest resolution, 8192x8192 (you need JGRPP for that), one tile is approximately 125 metres, and one minute is approximately 280 ticks.
+
+  John Franklin, September 2024. Under CC-BY v3.
+url: "https://www.tt-forums.net/viewtopic.php?t=90773"
+regions:
+- "CN"
+- "CN-AH"
+- "CN-BJ"
+- "CN-HA"
+- "CN-HE"
+- "CN-JS"
+- "CN-LN"
+- "CN-SD"
+- "CN-SX"
+- "CN-TJ"
