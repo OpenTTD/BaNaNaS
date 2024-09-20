@@ -1,0 +1,14 @@
+version: "0.9"
+license: "CC-BY v3.0"
+upload-date: 2024-09-20T00:44:57Z
+md5sum-partial: "c4999f35"
+classification:
+  shape: "rectangle"
+  resolution: "high"
+  terrain-type: "mountainous"
+filesize: 1607449
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
