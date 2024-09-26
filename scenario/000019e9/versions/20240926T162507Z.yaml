@@ -1,0 +1,11 @@
+version: "14.1"
+license: "GPL v2"
+upload-date: 2024-09-26T16:25:07Z
+md5sum-partial: "4b6672cb"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "large"
+  climate: "temperate"
+filesize: 886519
+availability: "new-games"
