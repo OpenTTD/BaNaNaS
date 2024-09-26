@@ -1,4 +1,4 @@
-name: "4 CORNERS (without industries)"
+name: "old version"
 description: |-
   Welcome to 4 Corners!
 
@@ -7,3 +7,4 @@ description: |-
   First team to reach a city population of at least 10k and a company value of 100m wins!!!
 
   Enjoy!
+regions: []
