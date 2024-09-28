@@ -1,4 +1,4 @@
-name: "4 CORNERS (city builder)"
+name: "old version"
 description: |-
   Welcome to 4 Corners!
 
@@ -7,3 +7,4 @@ description: |-
   This version uses a city builder script, supply your town with cargo to grow your city.
 
   Enjoy!
+regions: []
