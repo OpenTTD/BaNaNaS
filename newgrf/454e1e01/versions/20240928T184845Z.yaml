@@ -1,11 +1,11 @@
-version: "1.1"
+version: "1.2"
 license: "CC-BY v3.0"
-upload-date: 2024-09-12T20:57:03Z
-md5sum-partial: "698c1b03"
+upload-date: 2024-09-28T18:48:45Z
+md5sum-partial: "ae912ee0"
 classification:
   set: "rail-station"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 31510
-availability: "savegames-only"
+filesize: 31525
+availability: "new-games"
