@@ -1,6 +1,9 @@
-name: "Temporal8´s Real Ships 32bpp"
+name: "Temporal8 Real Ships 32bpp 4X"
 description: |-
   This is the first version of my Real ships newgrf, at the moment it only incorporates some passenger ships from different eras.
 
   At future I might add some cargo ships, I don't know yet, enjoy!
+
+  32 bpp 4x Zoom / ExtraZoom
 url: "https://www.tt-forums.net/viewtopic.php?t=90733"
+regions: []
