@@ -1,4 +1,4 @@
-name: "Temporal8 Real Bus 32 bpp"
+name: "Temporal8 Real Bus 32 bpp 4X"
 description: |-
   New Version! 1.1!
 
@@ -13,3 +13,4 @@ description: |-
 
   The single-decker buses are slower but have a higher passenger capacity, while the double-decker bus is faster but has a lower capacity.
 url: "https://www.tt-forums.net/viewtopic.php?p=1249245"
+regions: []
