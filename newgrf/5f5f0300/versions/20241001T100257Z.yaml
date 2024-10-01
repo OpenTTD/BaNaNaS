@@ -1,15 +1,15 @@
-version: "0.3.1.169"
+version: "0.3.2.171"
 license: "GPL v2"
-upload-date: 2024-08-19T03:12:12Z
-md5sum-partial: "67ff71dc"
+upload-date: 2024-10-01T10:02:57Z
+md5sum-partial: "b0065012"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 38596094
-availability: "savegames-only"
+filesize: 48245912
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 13.0"
+  - ">= 13.1"
