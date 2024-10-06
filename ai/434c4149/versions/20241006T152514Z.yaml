@@ -1,0 +1,23 @@
+version: "3.0"
+license: "GPL v3"
+upload-date: 2024-10-06T15:25:14Z
+md5sum-partial: "bb17865e"
+filesize: 24001
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+- content-type: "ai-library"
+  unique-id: "5350524c"
+  md5sum-partial: "dcdcf35c"
+- content-type: "ai-library"
+  unique-id: "544c4149"
+  md5sum-partial: "4a9ed26a"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.45.0"
