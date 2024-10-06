@@ -1,0 +1,17 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2024-10-06T13:33:11Z
+md5sum-partial: "4a9ed26a"
+filesize: 8463
+availability: "new-games"
+dependencies:
+- content-type: "ai-library"
+  unique-id: "5343504c"
+  md5sum-partial: "e1940278"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.45.0"
