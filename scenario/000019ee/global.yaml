@@ -1,0 +1,6 @@
+name: "Sierra Leone"
+description: "A small map based on african country Sierra Leone. Cities should be fine, but Industry not realistic"
+regions:
+- "SL"
+- "UN-002"
+- "UN-011"
