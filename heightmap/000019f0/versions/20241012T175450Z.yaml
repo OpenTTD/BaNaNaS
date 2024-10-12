@@ -8,12 +8,4 @@ classification:
   terrain-type: "hilly"
 filesize: 16721700
 availability: "new-games"
-compatibility:
-- name: "vanilla"
-  conditions:
-  - ">= 1.2.0"
-  - "< 14.0"
-- name: "jgrpp"
-  conditions:
-  - ">= 1.2.0"
-  - "< 14.0"
+compatibility: []
