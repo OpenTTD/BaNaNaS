@@ -1,0 +1,9 @@
+name: "Sierra Leone"
+description: |-
+  Height map of Sierra Leone and parts of the neighbours.
+
+  It misses the north and south terrain.
+regions:
+- "SL"
+- "UN-002"
+- "UN-011"
