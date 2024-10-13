@@ -1,0 +1,6 @@
+name: "Sierra Leone Large"
+description: "A Large Heightmap of Sierra Leone country in africa."
+regions:
+- "SL"
+- "UN-002"
+- "UN-011"
