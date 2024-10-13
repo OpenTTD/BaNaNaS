@@ -1,0 +1,22 @@
+version: "0.1.1"
+license: "LGPL v2.1"
+upload-date: 2024-10-13T04:00:29Z
+md5sum-partial: "52ca94ac"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 16697
+availability: "new-games"
+
+name: "Estrogen"
+description: |-
+  Industry replacement set for producing estrogen or testosterone as end products, mimicking real-world transportation chains.
+
+  Currently WIP.
+
+  Made by autistic transfems for autistic trans trains enthusiasts everywhere.
+
+  [requires some vehicle replacement set to work; see FIRS mod for reference]
+url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
