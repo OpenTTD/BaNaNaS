@@ -14,20 +14,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout bananas-api
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         repository: OpenTTD/bananas-api
         ref: main
     - name: Checkout BaNaNaS
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         path: BaNaNaS
     - name: Set up Python 3.8
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v5
       with:
         python-version: 3.8
     - name: Set up packages
       run: |
+        sudo apt install --no-install-recommends -y libpng-dev
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         python setup.py install
