@@ -1,0 +1,9 @@
+name: "Sierra Leone A/T"
+description: |-
+  Scenario based on Sierra Leone with NewGRF that makes a better fiting towns. The towns are as accurate as possible, and the industry I tried my best ;D
+
+  Very hilly map and up for a great challenge.
+regions:
+- "SL"
+- "UN-002"
+- "UN-011"
