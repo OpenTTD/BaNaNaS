@@ -1,0 +1,20 @@
+version: "0.1.11"
+license: "LGPL v2.1"
+upload-date: 2024-10-14T09:59:14Z
+md5sum-partial: "c958b2b1"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 17182
+availability: "new-games"
+
+name: "estrogen"
+description: |-
+  Mod to replace industry set with one which produces estrogen or testosterone as the end product. Currently WIP. Made by autistic transfems for autistic transfems.
+
+  Requires vehicle add-ons for new cargo types.
+
+  Production boost mechanic inspired by FIRS.
+url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
