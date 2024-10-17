@@ -1,0 +1,18 @@
+version: "0.2.3"
+license: "LGPL v2.1"
+upload-date: 2024-10-17T05:19:16Z
+md5sum-partial: "76c5f429"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 17959
+availability: "new-games"
+
+name: "OpenHRT Estrogen"
+description: |-
+  Industry replacement set that emulates the real-world logistics of producing HRT. Made by autistic transfems, for autistic transfems.
+
+  Sprites are WIP, but mod is playable.
+url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
