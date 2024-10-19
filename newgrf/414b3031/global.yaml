@@ -1,3 +1,7 @@
 name: "estrogen"
-description: "Mod to replace industry set with one which produces estrogen or testosterone as the end product. Currently WIP. Made by autistic transfems for autistic transfems."
+description: |-
+  Industry replacement set that emulates the real-world logistics of producing HRT. Made by autistic transfems, for autistic transfems.
+
+  Current WIP. Mod is playable, but no sprites are made yet.
 url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
+regions: []
