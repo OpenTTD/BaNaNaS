@@ -1,20 +1,22 @@
-version: "0.3.1"
+version: "0.3.3"
 license: "LGPL v2.1"
-upload-date: 2024-10-19T09:24:17Z
-md5sum-partial: "e80c57ce"
+upload-date: 2024-10-19T19:19:01Z
+md5sum-partial: "e08bacf0"
 classification:
   set: "industry"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 19529
-availability: "savegames-only"
+filesize: 19754
+availability: "new-games"
 
 name: "OpenHRT Estrogen"
 description: |-
   Industry replacement set that emulates the real-world logistics of producing HRT. Made by autistic transfems, for autistic transfems.
 
-  Gameplay is finished, but currently using placeholder programmer art for sprites.
+  Gameplay complete.
+
+  Currently using placeholder sprites.
 
   WIP.
 url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
