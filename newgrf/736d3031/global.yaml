@@ -1,0 +1,20 @@
+name: "Fast Ships"
+description: |-
+  This mod is a fork "Very large ships", which is a mod of user "Bilbo". Thanks for that!
+
+  Modified parameters of the ships. They are now faster and have higher capacities.
+
+  All ships now have a speed of 80 km/h. (Except hovercraft with 112 km/h).
+
+  The ships now have the following capacities:
+
+  Small ferry: 300 passengers
+  Large ferry: 600
+  Hovercraft: 120
+
+  Small cargo ship: 600 tons of cargo
+  Large cargo ship: 1 000 tons
+
+  Small tanker: 800 000 liters of oil
+  Large tanker: 1 200 000 liters
+url: "https://www.tt-forums.net/viewtopic.php?t=33030"
