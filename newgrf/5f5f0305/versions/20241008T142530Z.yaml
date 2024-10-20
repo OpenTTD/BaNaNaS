@@ -8,7 +8,7 @@ classification:
   has-high-res: true
   has-sound-effects: false
 filesize: 3927494
-availability: "new-games"
+availability: "savegames-only"
 
 name: "China_Set: Metros"
 description: "中国地铁合集"
