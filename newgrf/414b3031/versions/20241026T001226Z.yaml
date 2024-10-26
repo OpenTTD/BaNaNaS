@@ -1,14 +1,14 @@
-version: "0.3.11"
-license: "LGPL v2.1"
-upload-date: 2024-10-22T05:01:26Z
-md5sum-partial: "5ab43ef9"
+version: "0.3.15"
+license: "GPL v2"
+upload-date: 2024-10-26T00:12:26Z
+md5sum-partial: "4b6845f0"
 classification:
   set: "industry"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 23337
-availability: "savegames-only"
+filesize: 20995
+availability: "new-games"
 
 name: "OpenHRT Estrogen"
 description: |-
