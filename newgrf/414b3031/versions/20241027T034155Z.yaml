@@ -1,0 +1,17 @@
+version: "0.3.17-uni"
+license: "GPL v2"
+upload-date: 2024-10-27T03:41:55Z
+md5sum-partial: "159d58c3"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 21035
+availability: "new-games"
+
+name: "OpenHRT (dev)"
+description: |-
+  Development use only; do not use.
+  Use OpenHRT Estrogen instead.
+url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
