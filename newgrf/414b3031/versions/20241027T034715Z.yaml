@@ -1,0 +1,15 @@
+version: "0.3.18"
+license: "GPL v2"
+upload-date: 2024-10-27T03:47:15Z
+md5sum-partial: "625a90bf"
+classification:
+  set: "industry"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 21053
+availability: "new-games"
+
+name: "OpenHRT Estrogen"
+description: "Reupload of 0.3.17."
+url: "https://github.com/Auxiliatrix/openttd-newgrf-estrogen"
