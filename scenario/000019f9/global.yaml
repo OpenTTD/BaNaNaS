@@ -1,0 +1,6 @@
+name: "New Netherlands"
+description: "4096x4096 \"real world\" scenario of the Netherland and adjacent parts of northern Belgium and northwestern Germany with more than 700 cities, towns and villages places at the correct coordinates based on the 8k heightmap by Erato. Industries are non-open/non-close/non-fund by default. Suggested player level: experienced"
+regions:
+- "BE"
+- "DE"
+- "NL"
