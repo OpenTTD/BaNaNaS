@@ -1,0 +1,10 @@
+name: "Europe 4k"
+description: "Scenario that includes ALL of the European continent. ALL European countries are included 100%, without cuts. 1509 cities included, manually placed. Industries, rivers and forests have been manually placed too. Feel free to modify the scenario by adding industries and cities as you prefer!"
+regions:
+- "TR"
+- "UN-015"
+- "UN-039"
+- "UN-150"
+- "UN-151"
+- "UN-154"
+- "UN-155"

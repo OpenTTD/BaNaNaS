@@ -1,0 +1,18 @@
+version: "1"
+license: "CC-BY v3.0"
+upload-date: 2024-11-10T11:12:00Z
+md5sum-partial: "2371caf4"
+classification:
+  shape: "square"
+  terrain-type: "hilly"
+  size: "huge"
+  climate: "temperate"
+filesize: 9489675
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.58.2"
