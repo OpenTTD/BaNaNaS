@@ -1,0 +1,19 @@
+version: "7"
+license: "CC-0 v1.0"
+upload-date: 2024-11-17T15:46:30Z
+md5sum-partial: "32fc667f"
+filesize: 13509
+availability: "new-games"
+
+name: "Schmitt City Growth NEW"
+description: |-
+  Your company gets one point for each citizen you generate in any city by making the city grow.
+
+  Cities grow when you supply at least x% of city's population size in tons.
+  Thus bigger cities require higher cargo amounts.
+
+  If you successfully supply minimum 100% of at least one cargo combi (both cargos of that combi),
+  then your city grows at all.
+
+  You can further speed a the city growth by supplying more than 150% of all currently supplied cargo combis.
+url: "https://www.tt-forums.net/viewtopic.php?p=1272148"
