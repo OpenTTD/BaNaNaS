@@ -1,22 +1,22 @@
-version: "1.0.1"
+version: "1.0.2"
 license: "Custom"
-upload-date: 2024-11-02T23:35:12Z
-md5sum-partial: "ea9570af"
+upload-date: 2024-11-20T23:49:32Z
+md5sum-partial: "418ab7e6"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: true
   has-sound-effects: true
-filesize: 16105109
-availability: "savegames-only"
+filesize: 16104993
+availability: "new-games"
 
-name: "T8 Real Trains HS 32bpp 4X"
+name: "Temporal8 Real Trains 32bpp 4X"
 description: |-
   Temporal8 Real Trains: High Speed 32bpp 4X Extrazoom.
 
-  First version, it includes some TGV models.
-
-  Enjoy!
-
   Changelog 1.0.1: Top Speed Fixed.
+
+  Changelog 1.0.2:
+  - Purchase menu offsets Fixed.
+  - TGV trains now runs only on electrified rails as in reality.
 url: "https://www.tt-forums.net/viewtopic.php?t=91981"
