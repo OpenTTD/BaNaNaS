@@ -1,5 +1,9 @@
 name: "FISH 1 (Ships)"
 description: |-
+  FISH was once great, but is no longer the ship mod you are looking for.  Try SHARK or Unsinkable Sam
+
+  --
+
   FISH is Ships!
 
   River boats, lake ships, coasters, ferries, hovercraft and more in a wide range of capacities
@@ -8,3 +12,4 @@ description: |-
 
   FISH starts in 1870 and is compatible with most industry sets and cargos, including default industries, FIRS and PBI.
 url: "http://tt-foundry.com/sets/FISH"
+regions: []
