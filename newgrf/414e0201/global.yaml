@@ -1,8 +1,11 @@
 name: "Squid Ate FISH (FISH 2 - Ships)"
 description: |-
+  Squid Ate FISH was once great, but is no longer the ship mod you are looking for. Try SHARK or Unsinkable Sam
+
   Squid Ate FISH!
 
   Includes one roster of ships: This Sceptred Isle (British-ish ships).
   Parameter for ship speed.
   Parameter for reduced canal construction costs.
 url: "http://bundles.openttdcoop.org/fish/releases/LATEST/docs/"
+regions: []
