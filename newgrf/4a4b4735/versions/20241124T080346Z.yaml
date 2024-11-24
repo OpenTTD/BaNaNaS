@@ -1,0 +1,13 @@
+version: "0.10"
+license: "GPL v2"
+upload-date: 2024-11-24T08:03:46Z
+md5sum-partial: "4e71c44a"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 329003
+availability: "new-games"
+
+url: "https://github.com/OpenTTD-JPplus/JPplusBridges/"
