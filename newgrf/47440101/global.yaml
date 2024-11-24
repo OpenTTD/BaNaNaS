@@ -1,0 +1,6 @@
+name: "Xmas Competition"
+description: |-
+  Creates modified industry chains to create good and presents to drop off in cities.
+
+  Can be used with Cargo Tracker-Xmas script to track how much of each gets delivered.
+url: "https://github.com/GerrardGB/OpenTTD-Xmas-Competition"
