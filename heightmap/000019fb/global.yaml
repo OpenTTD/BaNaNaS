@@ -1,0 +1,9 @@
+name: "Curve Land 4 (2k version)"
+description: |-
+  Relatively flat islands connected by a web of chain-like connections.
+
+  Resolution: 2048*2048
+  Recommended Minimal Map Size: 512*512
+
+  At smaller sizes, the land connections break into tiny islands.
+url: "https://www.tt-forums.net/viewtopic.php?p=1261411"
