@@ -1,0 +1,10 @@
+version: "1.1"
+license: "GPL v2"
+upload-date: 2024-11-25T14:08:28Z
+md5sum-partial: "5d331bcf"
+filesize: 10585
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
