@@ -1,11 +1,14 @@
 name: "Polish Buildings as Objects"
 description: |-
-  Polish buildings made into placeable objects, most of them snow-aware.
+  Polish buildings made into placeable objects.
+  All objects are snow-aware; some of them feature cc-recolour variants.
 
-  Original graphics: TadeuszD and openttd-polska.pl
-  Minor additions and coding: chujo
+  See Changelog for a complete list of changes in v2.0. See Readme for details on licensing.
 
-  August 20, 2023
-url: "https://www.tt-forums.net/viewtopic.php?t=91127"
+  Original graphics: Sojita, TadeuszD, openttd-polska.pl
+  Modifications, additions and coding: chujo
+
+  November 26, 2024
+url: "https://www.tt-forums.net/viewtopic.php?p=1264049&sid=f0c835910d57faed3b29277b37f8f078#p1264049"
 regions:
 - "PL"
