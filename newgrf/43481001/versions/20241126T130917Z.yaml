@@ -1,0 +1,28 @@
+version: "2.0"
+license: "GPL v2"
+upload-date: 2024-11-26T13:09:17Z
+md5sum-partial: "7ea4867b"
+classification:
+  set: "object"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 503678
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+
+name: "Polish Buildings as Objects"
+description: |-
+  Polish buildings made into placeable objects.
+  All objects are snow-aware; some of them feature cc-recolour variants.
+
+  See Changelog for a complete list of changes in v2.0. See Readme for details on licensing.
+
+  Original graphics: Sojita, TadeuszD, openttd-polska.pl
+  Modifications, additions and coding: chujo
+
+  November 26, 2024
+url: "https://www.tt-forums.net/viewtopic.php?p=1264049&sid=f0c835910d57faed3b29277b37f8f078#p1264049"
