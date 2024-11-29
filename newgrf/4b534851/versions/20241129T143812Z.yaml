@@ -1,0 +1,15 @@
+version: "241129"
+license: "GPL v3"
+upload-date: 2024-11-29T14:38:12Z
+md5sum-partial: "179126fe"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 40022
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
