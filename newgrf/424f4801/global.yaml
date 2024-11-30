@@ -1,0 +1,6 @@
+name: "US Census Town Names"
+description: |-
+  A set of over 14,000 real town and city names from the US Census. Town name likelihoods are weighted by population logarithmically, so cities with higher populations have slightly higher chances of appearing.
+  Cleaned data comes from cityquiz.io.
+  NewGRF creation uses some code from Better World Cities.
+url: "https://github.com/Bohaska/us-town-names-newgrf"
