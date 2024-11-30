@@ -1,0 +1,9 @@
+name: "Philippine Town Names"
+description: |-
+  Towns and cities of the Philippines (1341 names).
+  Coding: chujo
+
+  November 30, 2024
+url: "https://github.com/chujo-chujo/Philippine-Town-Names"
+regions:
+- "PH"
