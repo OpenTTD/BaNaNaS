@@ -1,18 +1,20 @@
-version: "0.5.0"
+version: "0.6.0"
 license: "GPL v2"
-upload-date: 2024-04-27T06:34:58Z
-md5sum-partial: "ba8b6bf1"
+upload-date: 2024-12-04T05:38:37Z
+md5sum-partial: "71de81f9"
 classification:
   set: "train"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 863637
-availability: "savegames-only"
+filesize: 532389
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 14.0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.56.0"
+  - ">= 0.63.0"
+
+url: "https://github.com/OpenTTD-JPplus/JPplusShinkansen"
