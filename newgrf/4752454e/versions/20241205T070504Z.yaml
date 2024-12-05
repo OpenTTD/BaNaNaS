@@ -1,0 +1,18 @@
+version: "0.2.0"
+license: "Custom"
+upload-date: 2024-12-05T07:05:04Z
+md5sum-partial: "a780fea2"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 13366
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.57.1"
