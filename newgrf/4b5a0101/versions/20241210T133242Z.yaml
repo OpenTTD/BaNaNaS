@@ -16,11 +16,3 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.63.1"
-
-name: "Curated Swedish Town Names"
-description: |-
-  Curated real swedish town names.
-
-  Includes both towns from the whole nation and specific regions ("län").
-
-  Read the readme.txt for additional information.
