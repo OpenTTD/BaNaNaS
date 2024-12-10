@@ -1,0 +1,12 @@
+name: "Swedish Town Names"
+description: |-
+  Real swedish town names.
+
+  Includes both towns from the whole nation and specific regions ("län").
+
+  Read the readme.txt for additional information.
+url: "http://discord.gg/XtUmZtJ"
+regions:
+- "SE"
+- "UN-150"
+- "UN-154"
