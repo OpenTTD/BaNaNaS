@@ -9,6 +9,13 @@ classification:
   has-sound-effects: false
 filesize: 16260
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.1"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.63.1"
 
 name: "Curated Swedish Town Names"
 description: |-
