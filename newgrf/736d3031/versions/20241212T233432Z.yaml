@@ -1,3 +1,15 @@
+version: "1.1"
+license: "CC-0 v1.0"
+upload-date: 2024-12-12T23:34:32Z
+md5sum-partial: "3237834d"
+classification:
+  set: "ship"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 3188
+availability: "new-games"
+
 name: "Fast Ships"
 description: |-
   This mod is a fork "Very large ships", which is a mod of user "Bilbo". Thanks for that!
@@ -11,5 +23,3 @@ description: |-
   Big ships have a capacity of 1000 tons/passengers/thousand liters.
   Small ships have a capacity of 100 tons/passengers/thousand liters.
   (Except hover craft with 50 passengers capacity.)
-url: "https://www.tt-forums.net/viewtopic.php?t=33030"
-regions: []
