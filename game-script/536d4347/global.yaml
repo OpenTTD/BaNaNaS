@@ -1,3 +1,9 @@
-name: "Schmitt City Growth"
-description: "Fork of \"City Growth Limiter\". Now also requiring goods to make the city grow. (only valid for cities above 2000 population by default, by default requiring 1% of population as goods cargo to be received). Like the original mod \"City Growth Limiter\" there is also the need to transport passenger and mail in a sufficient way to make the city grow."
+name: "Schmitt City Growth NEW"
+description: |-
+  Your company gets one point for each citizen you generate in a city by making the city grow.
+
+  Cities grow when you supply at least x% of city's population size in tons. Thus bigger cities require higher cargo amounts.
+
+  The more industries a city that, the more cargo types you have to supply to that city.
 url: "https://www.tt-forums.net/viewtopic.php?t=58238"
+regions: []
