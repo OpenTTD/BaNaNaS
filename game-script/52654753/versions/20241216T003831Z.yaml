@@ -4,6 +4,15 @@ upload-date: 2024-12-16T00:38:31Z
 md5sum-partial: "5668af23"
 filesize: 122997
 availability: "new-games"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "4b28bb33"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.60.1"
+  - "< 0.60.2"
 
 name: "RemoteGS"
 description: "This GS gives admin port clients access to the GS API."
