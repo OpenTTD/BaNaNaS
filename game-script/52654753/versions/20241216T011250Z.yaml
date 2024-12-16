@@ -1,0 +1,10 @@
+version: "jgrpp-0.61.0-2"
+license: "GPL v2"
+upload-date: 2024-12-16T01:12:50Z
+md5sum-partial: "d48a855f"
+filesize: 41670
+availability: "new-games"
+
+name: "RemoteGS"
+description: "This GS gives admin port clients access to the GS API."
+url: "https://github.com/BasicBeluga/RemoteGS"
