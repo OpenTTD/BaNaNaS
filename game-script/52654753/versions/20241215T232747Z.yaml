@@ -12,7 +12,7 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.58.3"
-  - "< 0.59.0"
+  - "< 0.59.1"
 
 name: "RemoteGS"
 description: "This GS gives admin port clients access to the GS API."
