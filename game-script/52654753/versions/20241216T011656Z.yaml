@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2024-12-16T01:16:56Z
 md5sum-partial: "21a6f396"
 filesize: 41839
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - content-type: "game-script-library"
   unique-id: "5350524c"
