@@ -1,0 +1,9 @@
+name: "NINJAGO dragon"
+description: "Heightmap Lego NINJAGO dragon  OPENTTD"
+regions:
+- "AT"
+- "AU"
+- "GB"
+- "JP"
+- "JP-27"
+- "US"
