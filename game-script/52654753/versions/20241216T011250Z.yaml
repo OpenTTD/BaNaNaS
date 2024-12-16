@@ -3,7 +3,16 @@ license: "GPL v2"
 upload-date: 2024-12-16T01:12:50Z
 md5sum-partial: "d48a855f"
 filesize: 41670
-availability: "new-games"
+availability: "savegames-only"
+dependencies:
+- content-type: "game-script-library"
+  unique-id: "5350524c"
+  md5sum-partial: "4b28bb33"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.61.0"
+  - "< 0.61.1"
 
 name: "RemoteGS"
 description: "This GS gives admin port clients access to the GS API."
