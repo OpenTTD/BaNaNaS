@@ -1,7 +1,10 @@
-name: "Italian Town Names"
+name: "Italian Town Names Extended"
 description: |-
   This NewGRF features the ~1300 most populated cities and towns of Italy.
 
   Selection probability is based upon the real population of the city.
 url: "https://github.com/Etneus95/Italian_Town_Names"
-regions: []
+regions:
+- "IT"
+- "UN-039"
+- "UN-150"
