@@ -1,4 +1,4 @@
-version: "1.00"
+version: "1.05"
 license: "GPL v2"
 upload-date: 2024-12-18T03:36:07Z
 md5sum-partial: "4658ab5b"
@@ -13,3 +13,6 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 14.1"
+
+name: "Canadian Train Set"
+url: "http://www.openttdhungary.gportal.hu/gindex.php?pg=29025182"
