@@ -1,21 +1,21 @@
-version: "1.0.0.1"
+version: "1.0.1"
 license: "GPL v3"
-upload-date: 2024-12-17T01:19:44Z
-md5sum-partial: "aad29b67"
+upload-date: 2024-12-18T01:31:35Z
+md5sum-partial: "ed3cff48"
 classification:
   set: "object"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 1253832
-availability: "savegames-only"
+filesize: 1253885
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 14.1"
+  - ">= 5.0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.62.0"
+  - ">= 0.50.0"
 
 name: "Airwave Infrastructure"
 description: "A collection of useless transmitter objects from microwave relays, to radio beacons."
