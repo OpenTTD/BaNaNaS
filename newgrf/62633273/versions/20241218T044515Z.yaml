@@ -1,4 +1,4 @@
-version: "2.00"
+version: "2.01"
 license: "GPL v2"
 upload-date: 2024-12-18T04:45:15Z
 md5sum-partial: "9418c3f0"
@@ -13,3 +13,10 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 14.1"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.63.0"
+
+name: "Ship 2cc"
+description: "Ship 2cc openttd"
+url: "http://www.openttdhungary.gportal.hu/gindex.php?pg=29014438"
