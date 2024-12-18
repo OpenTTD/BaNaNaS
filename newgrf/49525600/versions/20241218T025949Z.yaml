@@ -1,0 +1,11 @@
+version: "2.03"
+license: "GPL v2"
+upload-date: 2024-12-18T02:59:49Z
+md5sum-partial: "3c10f718"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 8994
+availability: "new-games"
