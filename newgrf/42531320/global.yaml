@@ -1,5 +1,5 @@
 name: "JP+ Multiple Units (JGR/JNR/JR)"
 description: "JP+ Multiple Units includes JGR/JNR/JR operated DMUs, EMUs and railcars. This set can be used alongside other Japanese sets, please check the parameters. Narrow gauge tracks are required."
-url: "https://www.tt-forums.net/viewtopic.php?p=1238366#p1238366"
+url: "https://github.com/OpenTTD-JPplus/JPplusMU"
 regions:
 - "JP"
