@@ -1,0 +1,7 @@
+name: "JP+ Town Names"
+description: |-
+  Created using TrueGRF, randomly generates fictional Japanese style town names.
+
+  This is not supported at this time.
+regions:
+- "JP"
