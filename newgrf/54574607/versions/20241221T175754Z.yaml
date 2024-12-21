@@ -1,14 +1,14 @@
-version: "1.6.0"
+version: "1.7.0"
 license: "CC-BY-SA v3.0"
-upload-date: 2024-05-29T20:50:05Z
-md5sum-partial: "bff461d2"
+upload-date: 2024-12-21T17:57:54Z
+md5sum-partial: "c0c94469"
 classification:
   set: "train"
   palette: "8bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 22694978
-availability: "savegames-only"
+filesize: 26564135
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
