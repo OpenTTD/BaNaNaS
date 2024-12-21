@@ -1,0 +1,19 @@
+version: "1.2.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2024-12-21T17:59:17Z
+md5sum-partial: "db36fc82"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 4159635
+availability: "new-games"
+dependencies:
+- content-type: "newgrf"
+  unique-id: "54574607"
+  md5sum-partial: "c0c94469"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.11.0"
