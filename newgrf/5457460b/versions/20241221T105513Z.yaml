@@ -1,14 +1,14 @@
-version: "1.0.2"
+version: "1.0.3"
 license: "CC-BY-SA v3.0"
-upload-date: 2024-04-30T20:16:11Z
-md5sum-partial: "d865f928"
+upload-date: 2024-12-21T10:55:13Z
+md5sum-partial: "48d4e43b"
 classification:
   set: "economy"
   palette: "8bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 36204
-availability: "savegames-only"
+filesize: 41106
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
