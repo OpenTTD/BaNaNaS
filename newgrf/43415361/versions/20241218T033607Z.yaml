@@ -15,7 +15,7 @@ compatibility:
   - ">= 14.1"
 - name: "jgrpp"
   conditions:
-  - ">= 0.63.0"
+  - ">= 0.62.0"
 
 name: "Canadian Train Set"
 description: "Canadian Train OpenTTD"
