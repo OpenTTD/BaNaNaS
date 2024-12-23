@@ -1,15 +1,18 @@
-version: "17"
+version: "18"
 license: "GPL v2"
-upload-date: 2024-02-09T11:35:49Z
-md5sum-partial: "d348a92c"
+upload-date: 2024-12-23T04:13:58Z
+md5sum-partial: "640af8df"
 classification:
   set: "object"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 621070
-availability: "savegames-only"
+filesize: 934202
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.26.0"
