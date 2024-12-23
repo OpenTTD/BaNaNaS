@@ -8,7 +8,7 @@ classification:
   has-high-res: false
   has-sound-effects: false
 filesize: 711590
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - content-type: "newgrf"
   unique-id: "44503000"

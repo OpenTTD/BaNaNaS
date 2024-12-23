@@ -1,0 +1,25 @@
+version: "1.0.0"
+license: "GPL v2"
+upload-date: 2024-12-23T11:46:07Z
+md5sum-partial: "198e7a4d"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 855906
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.1"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.53.0"
+
+description: |-
+  JP+ Engines & Wagons: Part of the JP+ series, focusing on Japanese locomotives, passenger and freight rolling stock.
+
+  JP+ Tracks recommended for AC/DC electrification compatibility.
+
+  JapanSet 3: Trains is no longer required!
