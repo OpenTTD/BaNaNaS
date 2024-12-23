@@ -1,4 +1,4 @@
-version: "0.1"
+version: "1"
 license: "GPL v2"
 upload-date: 2024-12-23T09:21:40Z
 md5sum-partial: "b1317e75"
@@ -9,10 +9,7 @@ classification:
   has-sound-effects: false
 filesize: 199072
 availability: "new-games"
-dependencies:
-- content-type: "newgrf"
-  unique-id: "4d420202"
-  md5sum-partial: "b1317e75"
+dependencies: []
 compatibility:
 - name: "vanilla"
   conditions:
