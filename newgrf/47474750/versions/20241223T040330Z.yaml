@@ -1,0 +1,18 @@
+version: "13"
+license: "GPL v2"
+upload-date: 2024-12-23T04:03:30Z
+md5sum-partial: "78073cc6"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 3122881
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.26.0"
