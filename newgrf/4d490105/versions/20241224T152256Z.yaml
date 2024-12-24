@@ -1,0 +1,11 @@
+version: "0.9.0"
+license: "CC-BY v3.0"
+upload-date: 2024-12-24T15:22:56Z
+md5sum-partial: "222cd88c"
+classification:
+  set: "train"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
+filesize: 119533819
+availability: "new-games"
