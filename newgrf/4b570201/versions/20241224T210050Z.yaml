@@ -1,18 +1,18 @@
-version: "0.2"
+version: "1.0"
 license: "GPL v3"
-upload-date: 2023-05-01T06:56:46Z
-md5sum-partial: "4779471f"
+upload-date: 2024-12-24T21:00:50Z
+md5sum-partial: "43bc1743"
 classification:
   set: "road-stop"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 30529
-availability: "savegames-only"
+filesize: 30612
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 14.0"
+  - ">= 15.0"
 - name: "jgrpp"
   conditions:
-  - ">= 0.47.0"
+  - ">= 0.63.0"
