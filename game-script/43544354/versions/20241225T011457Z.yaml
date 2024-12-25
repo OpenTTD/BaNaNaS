@@ -1,14 +1,15 @@
-version: "9"
+version: "10"
 license: "GPL v2"
-upload-date: 2023-08-04T08:17:42Z
-md5sum-partial: "d3fe243f"
-filesize: 24708
-availability: "savegames-only"
+upload-date: 2024-12-25T01:14:57Z
+md5sum-partial: "ab794c19"
+filesize: 24668
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
   - ">= 12"
 
+name: "City Controller"
 description: |-
   City Controller
   A town growing controller script, with :
@@ -17,5 +18,4 @@ description: |-
   - Automatic cargo town acceptance from any installed newGRF (FIRS, ECS...)
   - Town stabilizer
   - Competitive mode
-
-  source at https://github.com/primer97/ctct
+url: "http://www.tt-forums.net/viewtopic.php?f=65&t=70224"
