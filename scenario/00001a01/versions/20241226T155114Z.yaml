@@ -1,0 +1,15 @@
+version: "0.1"
+license: "CC-BY-SA v3.0"
+upload-date: 2024-12-26T15:51:14Z
+md5sum-partial: "aba95967"
+classification:
+  shape: "square"
+  terrain-type: "mountainous"
+  size: "large"
+  climate: "temperate"
+filesize: 136861
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.4"

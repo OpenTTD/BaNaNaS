@@ -1,0 +1,9 @@
+name: "San Francisco Bay Area"
+description: |-
+  512 x 512 scale model of the San Francisco Bay Area, with terrain made from a roughly 100 x 100 km heightmap and hand-placed towns and industries.
+
+  Towns are scaled to roughly 1/100th their real-life 2023 population, and placed appropriately on the map, with recognizable features when practical. Large cities are split into neighborhoods to get more realistic sprawl and for ease of building.
+
+  This map uses FIRS 4 (>= 4.15.1) to get a more representative variety of industries for the Bay Area.
+regions:
+- "US-CA"
