@@ -1,14 +1,14 @@
-version: "13"
+version: "15"
 license: "GPL v2"
-upload-date: 2024-12-23T04:03:30Z
-md5sum-partial: "78073cc6"
+upload-date: 2024-12-26T16:59:52Z
+md5sum-partial: "ba400ced"
 classification:
   set: "object"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 3122881
-availability: "savegames-only"
+filesize: 3663371
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
