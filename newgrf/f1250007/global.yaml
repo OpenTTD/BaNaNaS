@@ -1,4 +1,4 @@
-name: "FIRS Industry Replacement Set 3"
+name: "FIRS Industries 3"
 description: |-
   FIRS 3. Not compatible with previous FIRS versions.
   --
@@ -13,3 +13,4 @@ description: |-
 
   (Outdated - replaced by FIRS 4 or newer).
 url: "http://bundles.openttdcoop.org/firs/releases/LATEST/docs/"
+regions: []
