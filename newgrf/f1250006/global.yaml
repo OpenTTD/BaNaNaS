@@ -1,4 +1,4 @@
-name: "FIRS Industry Replacement Set 2"
+name: "FIRS Industries 2"
 description: |-
   Bored of default industries?  Make your game more interesting with FIRS Industries.
 
@@ -12,3 +12,4 @@ description: |-
 
   (Outdated - replaced by FIRS 3 or newer).
 url: "http://bundles.openttdcoop.org/firs/releases/LATEST/docs/"
+regions: []
