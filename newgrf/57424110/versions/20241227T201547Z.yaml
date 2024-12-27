@@ -1,0 +1,18 @@
+version: "9"
+license: "GPL v2"
+upload-date: 2024-12-27T20:15:47Z
+md5sum-partial: "dc3d5660"
+classification:
+  set: "road-vehicle"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 36723
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.26.0"
