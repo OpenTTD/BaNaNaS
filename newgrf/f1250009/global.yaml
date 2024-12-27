@@ -1,4 +1,4 @@
-name: "FIRS Industry Replacement Set 5"
+name: "FIRS Industries 5"
 description: |-
   FIRS 5. Not compatible with previous FIRS versions.
   --
@@ -11,3 +11,4 @@ description: |-
   - nice graphics
   - such features
 url: "https://grf.farm/firs/index.html"
+regions: []
