@@ -1,2 +1,4 @@
 name: "Openttd tiongkok 5"
 description: "Openttd 4k/2k"
+regions:
+- "CN"
