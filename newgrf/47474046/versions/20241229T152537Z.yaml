@@ -1,0 +1,18 @@
+version: "14"
+license: "GPL v2"
+upload-date: 2024-12-29T15:25:37Z
+md5sum-partial: "cac796b7"
+classification:
+  set: "object"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 4390031
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.2.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.26.0"
