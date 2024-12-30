@@ -1,2 +1,13 @@
 name: "Rusia Truck Set v1"
 description: "Openttd mudrunner Truck"
+regions:
+- "AZ"
+- "BY"
+- "CN"
+- "CZ"
+- "ID"
+- "KP"
+- "KZ"
+- "UA"
+- "UN-002"
+- "UZ"
