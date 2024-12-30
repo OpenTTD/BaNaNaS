@@ -1,2 +1,12 @@
 name: "Rusia BUS Set v1"
 description: "Openttd mudrunner BUS"
+regions:
+- "AZ"
+- "BY"
+- "CN"
+- "CZ"
+- "KP"
+- "KZ"
+- "UA"
+- "UN-002"
+- "UZ"
