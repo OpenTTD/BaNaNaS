@@ -1,0 +1,11 @@
+version: "3.34.0"
+license: "GPL v2"
+upload-date: 2024-12-31T19:03:01Z
+md5sum-partial: "c803d405"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 5147555
+availability: "new-games"
