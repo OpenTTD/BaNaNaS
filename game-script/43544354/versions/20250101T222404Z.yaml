@@ -1,0 +1,24 @@
+version: "11"
+license: "GPL v2"
+upload-date: 2025-01-01T22:24:04Z
+md5sum-partial: "299d821b"
+filesize: 25833
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 10"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.56"
+
+description: |-
+  City Controller
+  A town growing controller script,
+  features :
+  - Two game modes, Co-Op and Competitive.
+  - Growth based on delivered cargos (avg of 3 past months)
+  - Easy display on town screen.
+  - Unlock more cargos to grow more (see global goals in game)
+  - If no cargo are delivered, the town won't grow.
+  - Automatic cargo town acceptance from any installed newGRF (FIRS, ECS, AXIS...)
