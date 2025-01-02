@@ -10,6 +10,8 @@ classification:
 filesize: 3118031
 availability: "new-games"
 compatibility:
-- name: "vanilla"
+- name: "jgrpp"
   conditions:
-  - ">= 12.2"
+  - ">= 0.63.3"
+
+description: "Requires JGRPP."
