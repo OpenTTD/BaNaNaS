@@ -1,10 +1,9 @@
-name: "(OLD) Late Mars Houses"
+name: "ZZZ - Ignore (Mars Houses)"
 description: |-
-  A "late start" fork of OpenGFX Mars Houses.
+  A "late start" fork of OpenGFX Mars Houses, no longer maintained. Please download the new version "(Fixed) OpenGFX Mars Houses" instead.
 
   Original Author:   Elyon
   Graphics: Zephyris
-  Code Update: Gadg8eer
 url: "https://www.reddit.com/r/openttd/comments/fb5ykb/gadg8eers_newgrfs/"
 regions:
 - "UN-MARS"
