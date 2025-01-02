@@ -1,8 +1,9 @@
 name: "(Fixed) OpenGFX Mars Houses"
 description: |-
-  A recoding of OpenGFX Mars Habitats. Grey, standardized "future" houses will begin to appear starting in 2030, gradually introducing new types over the rest of the 21st Century.
+  A realignment of OpenGFX Mars Habitats sprites, for use with non-Mars landscapes. Grey, standardized "future" houses will begin to appear starting in 2030, gradually introducing new types over the rest of the 21st Century.
 
   Original Author: Elyon
   Graphics: Zephyris
   Code Update: Gadg8eer
 url: "https://github.com/Gadg8eer/OpenGFX-Mars-reMOD-Late-Start"
+regions: []
