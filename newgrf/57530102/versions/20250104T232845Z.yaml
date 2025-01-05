@@ -13,3 +13,15 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.40.0"
+
+description: |-
+  WenSim's Eyecandy Signals
+  =========================
+
+  This GRF adds a few signals that can be used as eyecandy objects.
+
+  WES requires OpenTTD JGRPP 0.40.0 or later to work properly. WES WILL NOT WORK WITH VANILLA OPENTTD.
+
+  IT IS KNOWN THAT WES CONTAINS A BOUNDING BOX BUG:
+  The bounding box of a signal is very small, and oftentimes the object will collide with catenary wires.
+  THIS IS A KNOWN ISSUE AND CANNOT BE FIXED.
