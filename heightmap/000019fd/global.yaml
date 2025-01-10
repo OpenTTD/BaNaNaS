@@ -1,4 +1,8 @@
 name: "Monster Hunter"
 description: "Heightmap MONSTER HUNTER OPENTTD"
+url: "https://www.monsterhunter.com/"
 regions:
 - "JP"
+- "JP-07"
+- "JP-13"
+- "JP-27"
