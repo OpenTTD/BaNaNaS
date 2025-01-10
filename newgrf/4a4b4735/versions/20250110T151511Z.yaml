@@ -1,0 +1,23 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2025-01-10T15:15:11Z
+md5sum-partial: "c7b68115"
+classification:
+  set: "bridge"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 329786
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+
+description: |-
+  JP+ Bridges, a variety of bridges inspired by real Japanese bridges. This version is designed to match JapanSet3: Tracks, however any other track set will work. Vanilla rails are not compatible as there are no graphics.
+
+  Many bridges are full tile width for building side by side modular bridges.
+
+
+  Coded by Emperor Jake. GFX by Emperor Jake, Andrew350 and GarryG. Based on code by Wallyweb, Quast65 and Andrew350
