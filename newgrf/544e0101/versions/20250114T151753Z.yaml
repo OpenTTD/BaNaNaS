@@ -1,0 +1,24 @@
+version: "v0.1.1"
+license: "GPL v3"
+upload-date: 2025-01-14T15:17:53Z
+md5sum-partial: "d9336b7a"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 259584
+availability: "new-games"
+
+name: "2cc Narrow Gauge in NML"
+description: |-
+  2cc Narrow Gauge Trains in NML
+
+  A fork of 2ccNML to support narrow gauge trains, with new engines and additional bugfixes. Requires a narrow-gauge track set (U&ReMM2, Termite, ...). Works in conjunction with the original 2cc Trains in NML, but can be used as a standalone provider of narrow-gauge engines.
+
+  (c)2024 althonos
+  (c)2017 Transportman
+
+  License: GPLv3 or higher.
+  See readme for details.
+url: "https://www.tt-forums.net/viewtopic.php?t=92033&sid=777efd40caa6d2e626b1bba1e580987c"
