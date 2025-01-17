@@ -1,5 +1,8 @@
 name: "Quasi's Modular Stations"
-description: "Quasi's Modular Station Buildings offers generic modular station buildings for your towns. The station buildings can be found in the objects menu."
+description: |-
+  Quasi's Modular Station Buildings offers generic modular station buildings for your small to medium-sized towns. Or for your large towns — I won't judge.
+
+  All buildings in this set are objects, which means you'll find them in your objects menu, not your stations menu. This groups all four orientations conveniently together.
 url: "https://github.com/TimLambr/Modular-Station-Buildings"
 regions:
 - "BE"
