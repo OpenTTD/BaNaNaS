@@ -1,0 +1,16 @@
+name: "(Fixed) OpenGFX Mars Landscape"
+description: |-
+  The OpenGFX Mars Landscape GRF, re-aligned to be compatible with the vast majority of GRFs.
+
+  This landscape is available in all in-game climates, having Martian counterparts to all of them:
+
+  Temperate = Equatorial Mars
+
+  Arctic = Northern/Southern Mars
+
+  Tropic = Equatorial with Desert
+
+  Toyland = Arctic (All-Snow, Perpetually Frozen)
+url: "https://github.com/Gadg8eer/OpenGFX-Mars-reHabs-Late-Start/tree/main/MarsLand"
+regions:
+- "UN-MARS"
