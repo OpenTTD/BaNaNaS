@@ -1,0 +1,4 @@
+name: "Faroe Islands (No Industry)"
+description: "2048x2048 map of the Faroe Islands, 1:1 based on real-world population, complete with every currently populated town of the Faroe Islands. Starting in 1990. Arctic climate with NO industry."
+regions:
+- "FO"
