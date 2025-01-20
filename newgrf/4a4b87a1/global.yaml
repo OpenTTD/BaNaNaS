@@ -1,0 +1,6 @@
+name: "Town Market"
+description: |-
+  Town Market is a simple "black hole" industry which accepts passengers, mail, food and goods. This can be useful when a town needs a certain cargo to grow, but doesn't have enough of the correct houses.
+
+  It should be compatible with most industry sets.
+url: "https://github.com/EmperorJake/field_spawner/tree/market"
