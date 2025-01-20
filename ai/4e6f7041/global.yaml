@@ -1,0 +1,5 @@
+name: "NoOpAI"
+description: |-
+  This AI doesn't do anything.
+  It's a placeholder.
+url: "https://github.com/smurfix/openttd-no-op"
