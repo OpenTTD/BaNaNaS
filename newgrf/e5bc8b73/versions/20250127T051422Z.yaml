@@ -1,14 +1,14 @@
-version: "0.3.2"
+version: "0.3.3"
 license: "GPL v2"
-upload-date: 2024-12-18T02:54:03Z
-md5sum-partial: "3a5d4a2a"
+upload-date: 2025-01-27T05:14:22Z
+md5sum-partial: "faa3b873"
 classification:
   set: "rail-station"
   palette: "32bpp"
   has-high-res: true
   has-sound-effects: false
-filesize: 53571536
-availability: "savegames-only"
+filesize: 52339324
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
