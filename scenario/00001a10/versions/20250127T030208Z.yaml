@@ -1,0 +1,11 @@
+version: "2.0"
+license: "LGPL v2.1"
+upload-date: 2025-01-27T03:02:08Z
+md5sum-partial: "8ca03c57"
+classification:
+  shape: "square"
+  terrain-type: "very-flat"
+  size: "huge"
+  climate: "sub-tropical"
+filesize: 17277760
+availability: "new-games"
