@@ -1,0 +1,13 @@
+version: "7"
+license: "CC-BY v3.0"
+upload-date: 2025-01-30T09:54:11Z
+md5sum-partial: "383dbed2"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 675544
+availability: "new-games"
+
+name: "ORP - Passenger Set"
