@@ -1,0 +1,7 @@
+name: "New Zealand All Islands"
+description: |-
+  This is a max size map of New Zealand
+
+  Recommend limiting town count to 300 - 450
+regions:
+- "NZ"
