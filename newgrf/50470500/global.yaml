@@ -1,3 +1,5 @@
 name: "JP+ Stations"
 description: "JP+ Stations"
 url: "https://github.com/wensimehrp/jppluswins"
+regions:
+- "JP"
