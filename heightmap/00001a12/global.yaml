@@ -1,0 +1,7 @@
+name: "New Zealand + some territories"
+description: |-
+  New Zealand Height map
+  I like a height of ~80, arctic and town count ~500
+regions:
+- "NZ"
+- "UN-053"
