@@ -9,3 +9,12 @@ classification:
   climate: "temperate"
 filesize: 3042467
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - "< 0.1"
+- name: "jgrpp"
+  conditions:
+  - "< 0.1"
+
+name: "(Old Version: UK 4K NR)"
