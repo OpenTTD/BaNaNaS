@@ -1,8 +1,10 @@
 name: "British Rail UK Set (BRTrains)"
 description: |-
-  A UK Train set, with real world units and liveries. If it ran/runs on the UK railway network, it's probably in this set
+  A UK Train and Tram set, with real world units and liveries
 
-  Based on BRTrains and the MUTS addon for BRTrains
+  This set aims for realism and completeness, with a goal to include every real world unit and livery from the British National Rail network. If it ran/runs on the UK railway network, it's probably in this set (or will be in future)
+
+  Multiple units are in real-world consist lengths, units are painted in real world liveries. Use the refit menu in the depot to choose additional liveries
 url: "https://github.com/audigex/BRTrains2"
 regions:
 - "GB"
