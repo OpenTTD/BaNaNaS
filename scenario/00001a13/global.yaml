@@ -1,0 +1,4 @@
+name: "Lebanon Full Map"
+description: "A 1:1 map of Lebanon with every city I could fit!"
+regions:
+- "LB"
