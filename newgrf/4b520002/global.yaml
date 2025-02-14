@@ -1,5 +1,14 @@
 name: "Korean Bridges"
-description: "Korea bridges openttd"
+description: |-
+  Korean bridges openttd
+  Korea
+  -고가다리에 방음벽설치
+  -도로, 모노레일, 자기부상열차 그래픽 수정중(미완)
+  -도로퀼리티가 부왘
+  -이번주 중간고사?!
+   ㄴ이므로 다시 한동안 잠수..
+
+  -작업하던 그래픽과nfo도 통째로올렸습니다. 혹시 필요하신분은 마음대로 쓰셔도 돼요
 url: "https://telk.kr/ottd/newgrf/archive/829?page=20"
 regions:
 - "KR"
