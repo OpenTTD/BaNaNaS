@@ -1,3 +1,5 @@
-name: "Korea bridges"
+name: "Korean Bridges"
 description: "Korea bridges openttd"
 url: "https://telk.kr/ottd/newgrf/archive/829?page=20"
+regions:
+- "KR"
