@@ -1,5 +1,1 @@
-name: "Indonesia  car"
-description: "Indonesia  Toyota"
-regions:
-- "ID"
-- "JP"
+blacklisted: true
