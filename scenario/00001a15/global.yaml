@@ -1,0 +1,19 @@
+name: "Crossing the Alps"
+description: |-
+  This scenario picks up the central part of the Alps, while it aims to recreate the spirit of the challenge of crossing the mountains some years before.
+
+  DEM data with adjustments forms the terrain.
+  Towns, rivers and streets are set manually. Industry is fictional; and mostly separated in north and south to make crossing the mountains interesting.
+
+  Lets bring Italian cuisine to Germany in exchange of  quality goods from the north.
+
+  1 tile = 50km
+  1 height level = 100m
+url: "https://www.tt-forums.net/viewtopic.php?t=92122"
+regions:
+- "AT"
+- "DE"
+- "FR"
+- "IT"
+- "UN-039"
+- "UN-150"
