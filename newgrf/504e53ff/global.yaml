@@ -2,7 +2,10 @@ name: "Default Badge Set"
 description: |-
   A set of default badges for common country flags, power types and operator logos.
 
+  This is a preview set and will not be required when OpenTTD includes a built-in set of badges.
+
   Country flags may be sourced from https://github.com/lipis/flag-icons/ and are licensed under the MIT license.
 
   Contribute via GitHub.
 url: "https://github.com/petern/grfbadges"
+regions: []
