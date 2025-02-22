@@ -1,0 +1,18 @@
+version: "1.5.1"
+license: "Custom"
+upload-date: 2025-02-22T00:15:02Z
+md5sum-partial: "3b243b72"
+classification:
+  set: "road-vehicle"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: true
+filesize: 12956843
+availability: "new-games"
+
+name: "Temporal8 Real Cars 32bpp 4X"
+description: |-
+  122 Real cars models for Openttd in 32 bpp 4X ExtraZoom.
+
+  This version add 2 new cars: The iconic Renault Space F1 and the BMW M3 E46!
+url: "https://www.tt-forums.net/viewtopic.php?p=1249244#p1249244"
