@@ -1,0 +1,10 @@
+name: "EuroSignal"
+description: "Adds NewGRF signals for the UK as well as some signals for France and the Netherlands. Currently WIP."
+url: "https://github.com/TheGwyd/EuroSignal"
+regions:
+- "FR"
+- "GB"
+- "NL"
+- "UN-150"
+- "UN-154"
+- "UN-155"
