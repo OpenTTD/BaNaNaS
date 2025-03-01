@@ -1,18 +1,18 @@
-version: "23"
+version: "24"
 license: "GPL v2"
-upload-date: 2024-12-23T04:39:18Z
-md5sum-partial: "911c8453"
+upload-date: 2025-03-01T10:22:48Z
+md5sum-partial: "891fd404"
 classification:
   set: "object"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 4424079
-availability: "savegames-only"
+filesize: 4477875
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 1.2.0"
+  - ">= 12.0"
 - name: "jgrpp"
   conditions:
   - ">= 0.26.0"
