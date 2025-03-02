@@ -1,0 +1,6 @@
+name: "Gold Event"
+description: |-
+  Version # 2025.03.01
+  Alters gold mines to accept passengers to produce gold and gold profit calculation is changed. Behaviour depends on current year (parameter).
+  Also adds some altered trains.
+url: "https://github.com/TheDude-gh/NewGRFs/tree/master/goldevent"
