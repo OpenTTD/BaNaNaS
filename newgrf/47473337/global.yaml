@@ -1,0 +1,5 @@
+name: "AuzTown Commercial Industries"
+description: "The idea of this set is it randomly places these buildings in towns and cities as an industry, which then allows that place to accept a variety of cargos. They add to the population of each town and city and produces Passengers and Mail.  If there is any building you do not want in your game just go to \"Set Parameters\" in the NewGRF Settings and disable them."
+url: "https://www.tt-forums.net/viewtopic.php?t=74471"
+regions:
+- "AU"
