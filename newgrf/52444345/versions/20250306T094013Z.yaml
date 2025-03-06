@@ -1,0 +1,22 @@
+version: "1.1"
+license: "Custom"
+upload-date: 2025-03-06T09:40:13Z
+md5sum-partial: "f5de8e83"
+classification:
+  set: "town"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 135526209
+availability: "new-games"
+
+name: "Temporal8 Real Houses Townset"
+description: |-
+  New version of my Townset 4X Extra-Zoom 32 bpp.
+
+  Changelog: Some new houses, some cosmetic changes and some animated lights in buildings.
+
+  For correct use, the option "disable original buildings" must be "ON" in newgrf "set parameters"
+
+  Avaivable Years: 1970 to 9999.
+url: "https://www.tt-forums.net/viewtopic.php?t=87622"
