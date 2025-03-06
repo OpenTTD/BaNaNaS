@@ -8,3 +8,4 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.2.0"
+  - "< 15.0"
