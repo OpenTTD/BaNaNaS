@@ -1,0 +1,3 @@
+name: "Toki Pona Town Names"
+description: "A town name generator in toki pona! Made using statistical data from lipu pi toki pona pi jan Jakopo, sona.pona.la and the toki pona wikipedia page. Can generate fully toki-pona compliant names ranging from 3 to 12 characters long, giving preference to more common syllables in the toki pona dictionary for more readable names. Names may optionally contain the word \"ma\" (\"ma Mewika\" x \"Mewika\"). By @thanook on tumblr."
+url: "https://github.com/ShouldBeTanuki/TokiPonaOpenTTD"
