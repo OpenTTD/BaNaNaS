@@ -1,0 +1,25 @@
+version: "Beta 4.0.3"
+license: "Custom"
+upload-date: 2025-03-07T23:35:19Z
+md5sum-partial: "d34e6b9d"
+classification:
+  set: "industry"
+  palette: "32bpp"
+  has-high-res: true
+  has-sound-effects: false
+filesize: 142946395
+availability: "new-games"
+
+name: "Temporal8 Real Industries 32bpp"
+description: |-
+  Beta version of my industries set, Use with "Real Houses Townset" for a better 32bpp experience.
+
+  Changelog 4.0.3:Performance improvements when zooming out. It's still not perfect but it's a step forward.
+
+  Changelog 4.0.2:
+
+  - Adjusted Payment rates and Production values.
+  - Adjusted industries distance to towns.
+  - Players cargo its working now.
+  - Some Industries now produce by default, Qualified Workers increase the production, and Heavy Vehicles even more.
+url: "https://www.tt-forums.net/viewtopic.php?t=90183"
