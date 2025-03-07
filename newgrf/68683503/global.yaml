@@ -1,0 +1,6 @@
+name: "Short German Town Names"
+description: |-
+  A list of over 2,000 names of places in Germany that are at most six letters long.
+  This list was created using data taken from GeoNames (https://www.geonames.org/about/)
+  GeoNames is licensed under a Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+url: "https://www.geonames.org/about.html"
