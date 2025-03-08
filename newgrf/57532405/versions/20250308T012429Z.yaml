@@ -1,0 +1,19 @@
+version: "0.2.2"
+license: "GPL v2"
+upload-date: 2025-03-08T01:24:29Z
+md5sum-partial: "59b4d870"
+classification:
+  set: "rail-station"
+  palette: "32bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 18198
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 15"
+
+name: "WINS Stations"
+description: "Station set with JP+ Tracks integration"
+url: "https://github.com/wensimehrp/jppluswins/"
