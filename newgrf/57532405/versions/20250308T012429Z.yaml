@@ -12,7 +12,7 @@ availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
-  - ">= 15"
+  - ">= 14"
 
 name: "WINS Stations"
 description: "Station set with JP+ Tracks integration"
