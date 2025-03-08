@@ -1,7 +1,7 @@
-name: "WINS Station Set"
-description: |-
-  WINS is a standalone remake of Japan Set 3: Stations.
-  INDEVELOPMENT
-url: "https://github.com/WenSimEHRP/WS-Japanese-Stations-Addons"
+name: "WINS Stations"
+description: "Station set with JP+ Tracks integration"
+url: "https://github.com/wensimehrp/jppluswins/"
 regions:
+- "CA"
+- "CA-BC"
 - "JP"
