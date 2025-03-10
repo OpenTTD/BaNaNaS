@@ -1,9 +1,9 @@
-version: "0.6"
+version: "0.7"
 license: "Custom"
-upload-date: 2025-01-08T20:35:58Z
-md5sum-partial: "527e5a0a"
-filesize: 10218477
-availability: "savegames-only"
+upload-date: 2025-03-10T07:34:53Z
+md5sum-partial: "034b6d48"
+filesize: 10841169
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
