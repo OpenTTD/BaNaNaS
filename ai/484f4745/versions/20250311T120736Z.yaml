@@ -1,0 +1,10 @@
+version: "94"
+license: "GPL v3"
+upload-date: 2025-03-11T12:07:36Z
+md5sum-partial: "0674608e"
+filesize: 249436
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
