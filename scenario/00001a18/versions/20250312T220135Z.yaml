@@ -1,0 +1,11 @@
+version: "1.0"
+license: "CC-BY v3.0"
+upload-date: 2025-03-12T22:01:35Z
+md5sum-partial: "b7bc78e3"
+classification:
+  shape: "square"
+  terrain-type: "very-flat"
+  size: "large"
+  climate: "temperate"
+filesize: 267636
+availability: "new-games"
