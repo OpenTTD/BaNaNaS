@@ -1,14 +1,14 @@
-version: "1.0.2"
+version: "1.0.4"
 license: "GPL v3"
-upload-date: 2024-12-18T18:15:33Z
-md5sum-partial: "49435db9"
+upload-date: 2025-03-17T02:36:21Z
+md5sum-partial: "e44fff39"
 classification:
   set: "object"
   palette: "32bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 1253958
-availability: "savegames-only"
+filesize: 1267383
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
@@ -16,5 +16,3 @@ compatibility:
 - name: "jgrpp"
   conditions:
   - ">= 0.50.0"
-
-name: "Airwave Infrastructure"
