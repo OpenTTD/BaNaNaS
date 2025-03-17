@@ -2,6 +2,5 @@ name: "WINS Stations"
 description: "Station set with JP+ Tracks integration"
 url: "https://github.com/wensimehrp/jppluswins/"
 regions:
-- "CA"
 - "CA-BC"
 - "JP"
