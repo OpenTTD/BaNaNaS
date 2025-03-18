@@ -9,3 +9,7 @@ classification:
   has-sound-effects: false
 filesize: 94127
 availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 15"
