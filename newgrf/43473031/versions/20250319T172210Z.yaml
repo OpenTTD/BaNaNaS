@@ -1,0 +1,18 @@
+version: "1.0.0"
+license: "GPL v2"
+upload-date: 2025-03-19T17:22:10Z
+md5sum-partial: "10169c0a"
+classification:
+  set: "aircraft"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 11601
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.63"
