@@ -1,0 +1,18 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2025-03-21T00:16:41Z
+md5sum-partial: "75613e88"
+classification:
+  set: "town"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 12027
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.9.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.30.0"
