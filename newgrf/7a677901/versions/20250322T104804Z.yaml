@@ -1,14 +1,14 @@
-version: "1"
+version: "2"
 license: "GPL v2"
-upload-date: 2025-03-21T00:16:41Z
-md5sum-partial: "75613e88"
+upload-date: 2025-03-22T10:48:04Z
+md5sum-partial: "98e81ed0"
 classification:
   set: "town"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: false
-filesize: 12027
-availability: "savegames-only"
+filesize: 13743
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
