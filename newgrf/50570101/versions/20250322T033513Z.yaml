@@ -1,0 +1,15 @@
+version: "0.0.1"
+license: "CC-0 v1.0"
+upload-date: 2025-03-22T03:35:13Z
+md5sum-partial: "31ebe435"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 5832
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0.0"
