@@ -1,14 +1,14 @@
-version: "r238"
+version: "r239"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2023-10-21T21:45:52Z
-md5sum-partial: "774207ea"
+upload-date: 2025-03-23T17:22:40Z
+md5sum-partial: "c3688ef5"
 classification:
   set: "road-vehicle"
   palette: "8bpp"
   has-high-res: false
   has-sound-effects: true
-filesize: 1111745
-availability: "savegames-only"
+filesize: 1119630
+availability: "new-games"
 compatibility:
 - name: "vanilla"
   conditions:
