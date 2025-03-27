@@ -1,0 +1,20 @@
+version: "v21"
+license: "GPL v2"
+upload-date: 2025-03-27T23:13:25Z
+md5sum-partial: "bc33fccd"
+filesize: 153135
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
+
+description: |-
+  LuDiAI AfterFix is an AI that builds road, air, ship and rail routes
+  transporting either mail or passengers.
+
+  It's an AI that is built upon the original work of lukin_'s LuDiAI.
+  Initial work was on fixing issues found on the original, but it became
+  something more of its own later on.
+
+  https://github.com/SamuXarick/LuDiAI-AfterFix
