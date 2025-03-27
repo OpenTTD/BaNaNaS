@@ -1,8 +1,13 @@
 name: "LuDiAI AfterFix"
 description: |-
-  LuDiAI AfterFix is an AI that builds road routes and air routes, transporting either mail or passengers.
+  LuDiAI AfterFix is an AI that builds road, air, ship and rail routes
+  transporting either mail or passengers.
 
-  It's an AI that is built upon the original work of lukin_'s LuDiAI. Initial work was on fixing issues found on the original, but it became something more of its own later on.
+  It's an AI that is built upon the original work of lukin_'s LuDiAI.
+  Initial work was on fixing issues found on the original, but it became
+  something more of its own later on.
+
+  https://github.com/SamuXarick/LuDiAI-AfterFix
 url: "https://www.tt-forums.net/viewtopic.php?f=65&t=83806"
 tags:
 - "air"
@@ -13,3 +18,4 @@ tags:
 - "passengers"
 - "road"
 - "truck"
+regions: []
