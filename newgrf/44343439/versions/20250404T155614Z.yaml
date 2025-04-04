@@ -1,0 +1,20 @@
+version: "1.2"
+license: "GPL v3"
+upload-date: 2025-04-04T15:56:14Z
+md5sum-partial: "41a034e9"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: true
+filesize: 2515604
+availability: "new-games"
+
+name: "Italian Diesel Locos Pack"
+description: |-
+  This package contains some Italian diesel locomotives:
+  - D.443
+  - D.445
+  - D.449
+  - D.744 (Effishunter 1000)
+url: "https://github.com/RAD750/openttdstuff"
