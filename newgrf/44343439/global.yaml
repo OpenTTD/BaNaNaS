@@ -1,6 +1,15 @@
-name: "D449"
+name: "Italian Diesel Locos Pack"
 description: |-
-  The D.449 is a diesel locomotive for freight duties. It was built by rebuilding an existing D343. It never entered active service and was sadly scrapped after only 1000 km of trial runs.
+  This pack contains some Italian diesel locomotives.
+
+  It contains:
+  - D.443
+  - D.445
+  - D.449
+  - D.744 'Effishunter 1000'
+
+  The D.449 is a diesel locomotive for freight duties. It was built by rebuilding an existing D.343. It never entered active service and was sadly scrapped after only 1000 km of trial runs.
 
   Source is on Github. Textures by kiiw.
 url: "https://github.com/RAD750/openttdstuff/tree/master/d449"
+regions: []
