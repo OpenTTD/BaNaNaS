@@ -1,3 +1,4 @@
-name: "Ale426-Ale506 TAF"
-description: "The Ale426 and Ale506 'TAF' is a suburban double decker train built in 1997. It can be coupled in multiple unit."
+name: "ALe426 'TAF' & ALe710 'TSR'"
+description: "The ALe426/506 'TAF' and ALe710/EB.710 'TSR' are double-deck EMU intended for commuter service. The first examples of 'TAF' were introduced in 1998, and the 'TSR' series are more refined units with distributed power."
 url: "https://github.com/RAD750/openttdstuff/tree/master/taf"
+regions: []
