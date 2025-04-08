@@ -1,0 +1,11 @@
+name: "Deserts as Objects"
+description: |-
+  Adds desert tiles from OpenGFX and OpenGFX2 as objects (and more).
+  Also includes an option to replace the current baseset's desert terrain tiles and to generate random objects at mapgen.
+  Use parameters to choose from four available variants.
+
+  Graphics: OpenGFX, OpenGFX2, OpenGFX+ Landscape, OpenGFX2 Objects (all licensed under GPLv2)
+  Minor additions and coding: chujo
+
+  April 8, 2025
+url: "https://github.com/chujo-chujo/Deserts-as-Objects"
