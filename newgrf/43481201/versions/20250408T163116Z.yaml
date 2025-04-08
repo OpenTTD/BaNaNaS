@@ -1,0 +1,19 @@
+version: "1.0.1"
+license: "GPL v2"
+upload-date: 2025-04-08T16:31:16Z
+md5sum-partial: "e931ddd3"
+classification:
+  set: "townname"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 14594
+availability: "new-games"
+
+name: "Philippine Town Names"
+description: |-
+  Towns and cities of the Philippines (1341 names).
+  Coding: chujo
+
+  November 30, 2024
+url: "https://github.com/chujo-chujo/Philippine-Town-Names"
