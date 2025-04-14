@@ -1,0 +1,9 @@
+name: "Podkarpacie / Subcarpathia"
+description: "Map of the Polish Podkarpacie / Subcarpathia region. 612 separate towns, including almost every village with >1k citizens. Almost no industries (yet to come). Using a growth limiter script highly recommended."
+regions:
+- "PL"
+- "PL-06"
+- "PL-12"
+- "PL-18"
+- "PL-26"
+- "SK-PV"

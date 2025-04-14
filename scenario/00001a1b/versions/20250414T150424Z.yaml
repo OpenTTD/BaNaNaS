@@ -1,0 +1,18 @@
+version: "1.12.1"
+license: "CC-0 v1.0"
+upload-date: 2025-04-14T15:04:24Z
+md5sum-partial: "94223143"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "large"
+  climate: "temperate"
+filesize: 1580007
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 13.3"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.54"
