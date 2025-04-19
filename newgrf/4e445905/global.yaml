@@ -1,0 +1,13 @@
+name: "Chuffing Stations"
+description: |-
+  Inspired by the diverse history of rail transport across the United Kingdom, Chuffing Stations is intended to provide players with a wide range of modular station tiles. It features platform and building designs from the pioneering days of the Industrial Revolution through to the cutting-edge technology of modern high-speed trains.
+
+  Chuffing Stations is designed to be highly flexible while also matching the charm and character of the classic OpenTTD graphics.
+url: "https://github.com/andybiotic/chuffing_stations"
+regions:
+- "GB"
+- "GB-ENG"
+- "GB-SCT"
+- "GB-WLS"
+- "UN-154"
+- "UN-155"
