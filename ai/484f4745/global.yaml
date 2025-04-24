@@ -1,5 +1,5 @@
 name: "AAAHogEx"
-description: "This AI understands the supply chain on the map and builds optimal transportation routes. To do this, it has a full-fledged feeder system and estimating capabilities. This makes it highly profitable, and it can handle complex industry sets such as FIRS ECS and YETI which have been difficult to handle in the past."
+description: "AAAHogEx is a highly profitable AI that offers a fun and challenging experience even for experienced players. It supports various types of transportation, including trains, trams, cars, trucks, ships, and airplanes. It is also compatible with most major mods. For a beginner-friendly setup guide, please visit the website below."
 url: "https://www.tt-forums.net/viewtopic.php?t=89709"
 tags:
 - "ai"
@@ -13,3 +13,4 @@ tags:
 - "tram"
 - "trucks"
 - "yeti"
+regions: []
