@@ -1,0 +1,11 @@
+version: "1.2"
+license: "GPL v2"
+upload-date: 2025-04-27T20:44:03Z
+md5sum-partial: "7b087036"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 335322
+availability: "new-games"
