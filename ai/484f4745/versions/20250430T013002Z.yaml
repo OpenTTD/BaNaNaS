@@ -1,0 +1,10 @@
+version: "108"
+license: "GPL v3"
+upload-date: 2025-04-30T01:30:02Z
+md5sum-partial: "1675deb6"
+filesize: 257837
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 1.12.0"
