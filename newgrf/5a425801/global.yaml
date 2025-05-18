@@ -1,11 +1,10 @@
 name: "Chinese True Town Names"
 description: |-
-  包含真实中国地名。
-  城镇名称参照中华人民共和国至2019年时宣布的行政区划办法录入。
-  本NewGRF作者尊重您的观点，无意引起政治争端。如此行政区划办法使您感到不适，请选用其它NewGRF。
+  包含真实中国地名（参照中华人民共和国至 2019 年时宣布的行政区划办法）。
+  此 NewGRF 制作者尊重阁下观点，无意引起政治争端。
+  若此 NewGRF 使阁下感到不适，请选用其它的 NewGRF。
 
-  制作: Zbx1425
-  网站: www.zbx1425.cn
+  制作: Zbx1425 (www.zbx1425.cn)
 url: "https://www.zbx1425.cn"
 regions:
 - "CN"
