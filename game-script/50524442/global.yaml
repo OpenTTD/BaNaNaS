@@ -1,3 +1,4 @@
 name: "Production Booster"
-description: "Production Booster is a custom GameScript for OpenTTD that dynamically adjusts primary industry production based on transportation efficiency."
+description: "Adjusts primary industry output based on transport performance, increasing production when 80% of cargo is delivered and decreasing it when delivery falls below 60%."
 url: "https://github.com/nelbin4/openttdprodboost"
+regions: []
