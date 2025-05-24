@@ -1,0 +1,15 @@
+version: "v1.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2025-05-24T10:42:10Z
+md5sum-partial: "29cda184"
+classification:
+  shape: "square"
+  terrain-type: "flat"
+  size: "small"
+  climate: "sub-tropical"
+filesize: 59110
+availability: "new-games"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 14.0"
