@@ -1,0 +1,11 @@
+name: "Norfolk Island, 1942"
+description: |-
+  This scenario is a 1:50 recreation of the Territory of Norfolk Islands, with each tile corresponding to 50 metres. It is 256×512 tiles large; however, most of the map consists of water.
+
+  There are six settlements: Kingston, Burnt Pine, Cascade, Longridge, Middlegate, and Steeles Point. Among included industries are hotels, two general stores, two hardware stores, a petrol station, and  entire wood and alcohol industry chains.
+
+  -- MasterStudioCZ
+url: "https://github.com/MasterStudioCZ/OTTD_Norfolk-Island-1942"
+regions:
+- "NF"
+- "UN-009"
