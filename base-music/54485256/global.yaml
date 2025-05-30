@@ -1,3 +1,4 @@
 name: "Touhou Revamped"
-description: "Classical ZUN compositions from Touhou 6 to 8 for OpenTTD."
+description: "Classical ZUN compositions from Touhou 6 to 8 for OpenTTD. Note: You may need to change your OpenTTD config file and manually provide it with a musicdriver for the music to play correctly."
 url: "https://github.com/Zattarra/OpenTTD-Touhou-Revamped"
+regions: []
