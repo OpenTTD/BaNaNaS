@@ -1,0 +1,11 @@
+version: "OPENTTD V.4.1"
+license: "GPL v2"
+upload-date: 2025-06-03T10:45:03Z
+md5sum-partial: "8a3a28e5"
+classification:
+  shape: "rectangle"
+  terrain-type: "mountainous"
+  size: "huge"
+  climate: "sub-tropical"
+filesize: 3741553
+availability: "new-games"
