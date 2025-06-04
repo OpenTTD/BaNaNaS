@@ -1,0 +1,10 @@
+version: "OPENTTD V.3.11"
+license: "GPL v2"
+upload-date: 2025-06-04T09:21:02Z
+md5sum-partial: "d84c6764"
+classification:
+  shape: "square"
+  resolution: "high"
+  terrain-type: "mountainous"
+filesize: 1777387
+availability: "new-games"
