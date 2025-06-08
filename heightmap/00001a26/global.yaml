@@ -1,0 +1,6 @@
+name: "Turkey 16k-8k Heightmap"
+description: "Amateurish heightmap for Turkey and surrounding countries. image size is 18000x9000. i think its suppports up to 255 height. Data is provided by STRM arc 3 90m. Open to suggestions. Only tested on JGRPP 0.65.3. Have fun"
+regions:
+- "CY"
+- "GR"
+- "TR"
