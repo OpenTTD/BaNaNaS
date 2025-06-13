@@ -1,8 +1,9 @@
-name: "GNARTS"
+name: "NARP - Rapid Transit"
 description: |-
-  Do you like Subways? Well this is the set for you. Featuring everything from the El cars of Chicago, to the Subways of NYC, to the light rail of Los Angeles, all in Beautiful 2cc. Drawn and Coded by Ragin1_
+  Rapid Transit cars from across North America. All drawn in 2cc.
 
-  Currently WIP, and only features the Elevated and Subway car rosters.
+  Drawn and Coded by Zachary Moore (Ragin1_)
 regions:
 - "CA"
+- "MX"
 - "US"
