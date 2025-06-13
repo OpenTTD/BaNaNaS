@@ -1,0 +1,17 @@
+version: "4"
+license: "CC-BY v3.0"
+upload-date: 2025-06-13T09:31:52Z
+md5sum-partial: "13665c7c"
+classification:
+  set: "train"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 118752
+availability: "new-games"
+
+name: "NARP - Rapid Transit"
+description: |-
+  Rapid Transit cars from across North America. All drawn in 2cc.
+
+  Drawn and Coded by Zachary Moore (Ragin1_)
