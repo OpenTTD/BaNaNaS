@@ -1,2 +1,21 @@
 name: "China (East Asia) 16kx8k"
+description: |-
+  The big China and East Asia scenario, including part of Southeast Asia, Central Asia, Middle East, Russian Far East, and Indian Subcontinent. 16384 x 8192, thus JGRPP only.
+  No unnecessary NewGRFs except houses.
+
+  16384 x 8192 中国及东亚地图，包括东南亚、中东、中亚、西伯利亚、印度半岛部分地区。请下载 JGRPP 以游玩。
+  除房屋外，无非必需 NewGRF。
+
+  Made by wuwu (kaitokiwa)
 url: "https://www.tt-forums.net/viewtopic.php?t=91335"
+regions:
+- "CN"
+- "CN-HK"
+- "CN-MO"
+- "CN-TW"
+- "IN"
+- "IR"
+- "JP"
+- "KR"
+- "MN"
+- "TH"
