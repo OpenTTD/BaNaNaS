@@ -9,7 +9,4 @@ classification:
   climate: "sub-arctic"
 filesize: 18020380
 availability: "new-games"
-compatibility:
-- name: "vanilla"
-  conditions:
-  - "< 0.0.1"
+compatibility: []
