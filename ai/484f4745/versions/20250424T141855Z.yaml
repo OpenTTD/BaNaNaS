@@ -5,8 +5,8 @@ md5sum-partial: "c485bfa9"
 filesize: 257100
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.12.0"
+  "name": "vanilla"
 
 description: "AAAHogEx is a highly profitable AI that offers a fun and challenging experience even for experienced players. It supports various types of transportation, including trains, trams, cars, trucks, ships, and airplanes. It is also compatible with most major mods. For a beginner-friendly setup guide, please visit the website below."
