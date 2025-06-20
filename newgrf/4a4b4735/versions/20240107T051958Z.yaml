@@ -3,17 +3,17 @@ license: "GPL v2"
 upload-date: 2024-01-07T05:19:58Z
 md5sum-partial: "328f7365"
 classification:
-  set: "bridge"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "bridge"
 filesize: 329195
 availability: "savegames-only"
 dependencies:
-- content-type: "newgrf"
-  unique-id: "44503000"
-  md5sum-partial: "0bf5a485"
+- "content-type": "newgrf"
+  "md5sum-partial": "0bf5a485"
+  "unique-id": "44503000"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 13.0"
+  "name": "vanilla"

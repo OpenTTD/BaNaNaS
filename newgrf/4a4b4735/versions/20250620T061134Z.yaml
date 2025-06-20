@@ -1,11 +1,11 @@
-version: "0.9"
+version: "1.1"
 license: "GPL v2"
-upload-date: 2024-08-27T11:46:28Z
-md5sum-partial: "c88a4fc4"
+upload-date: 2025-06-20T06:11:34Z
+md5sum-partial: "eb9fc40b"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "bridge"
-filesize: 329186
-availability: "savegames-only"
+filesize: 329782
+availability: "new-games"
