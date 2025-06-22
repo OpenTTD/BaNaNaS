@@ -1,0 +1,6 @@
+name: "OPENTTD V UNICEF 2"
+description: "Amerika, Australia, dan Afrika adalah tiga benua di dunia yang memiliki karakteristik dan sejarah yang unik. Amerika terbagi menjadi Amerika Utara, Amerika Tengah, dan Amerika Selatan. Australia adalah benua terluas keenam di dunia, sebagian besar wilayahnya adalah gurun. Afrika adalah benua terbesar kedua di dunia, dengan sejarah panjang dan beragam budaya"
+regions:
+- "AU"
+- "UN-002"
+- "US"
