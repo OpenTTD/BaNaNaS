@@ -1,0 +1,10 @@
+version: "1.0.1"
+license: "CC-BY v3.0"
+upload-date: 2025-06-23T22:21:50Z
+md5sum-partial: "b7af4cbe"
+filesize: 11515790
+availability: "new-games"
+
+name: "British Train Sounds GWR"
+description: "This is the BritishTrainSoundsGWR Sound Set that replaces the OpenSFX standard train whistles and horns with British ones. This also replaces the railway crossing sound. 1.0.1 brings a decrease to the volume on the level crossing sound as it was a bit too loud before."
+url: "https://github.com/Merchell0/BritishTrainSounds"
