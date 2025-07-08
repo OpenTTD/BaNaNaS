@@ -1,0 +1,9 @@
+name: "Morioka-Akita Surroundings"
+description: |-
+  Morioka-Akita Surroundings, using tangrams heightmapper.
+
+  Recommend highest peak:25
+regions:
+- "JP"
+- "JP-05"
+- "UN-142"
