@@ -1,0 +1,10 @@
+name: "Hakodate-Aomori Surroundings"
+description: |-
+  Hakodate-Aomori Surroundings, using tangrams heightmapper.
+
+  Recommend highest peak:25
+url: "https://www.tt-forums.net/viewtopic.php?t=92368"
+regions:
+- "JP"
+- "JP-02"
+- "UN-142"
