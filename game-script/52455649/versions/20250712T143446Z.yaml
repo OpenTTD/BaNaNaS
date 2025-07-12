@@ -1,22 +1,22 @@
-version: "10.1"
+version: "12.1"
 license: "GPL v2"
-upload-date: 2024-07-06T15:06:36Z
-md5sum-partial: "977edf9d"
-filesize: 69247
-availability: "savegames-only"
+upload-date: 2025-07-12T14:34:46Z
+md5sum-partial: "29ee9087"
+filesize: 75156
+availability: "new-games"
 dependencies:
-- "content-type": "game-script-library"
-  "md5sum-partial": "4b566c09"
-  "unique-id": "4753544c"
 - "content-type": "game-script-library"
   "md5sum-partial": "643a5092"
   "unique-id": "5343504c"
 - "content-type": "game-script-library"
   "md5sum-partial": "4b28bb33"
   "unique-id": "5350524c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "30c37814"
+  "unique-id": "544c4753"
 compatibility:
 - "conditions":
-  - ">= 12.0"
+  - ">= 14.0"
   "name": "vanilla"
 - "conditions":
   - ">= 0.45.0"

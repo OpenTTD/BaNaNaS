@@ -5,16 +5,16 @@ md5sum-partial: "70b453a2"
 filesize: 31223
 availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "4753544c"
-  md5sum-partial: "4b566c09"
-- content-type: "game-script-library"
-  unique-id: "5343504c"
-  md5sum-partial: "643a5092"
-- content-type: "game-script-library"
-  unique-id: "5350524c"
-  md5sum-partial: "4b28bb33"
+- "content-type": "game-script-library"
+  "md5sum-partial": "4b566c09"
+  "unique-id": "4753544c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "643a5092"
+  "unique-id": "5343504c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "4b28bb33"
+  "unique-id": "5350524c"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.10.0"
+  "name": "vanilla"

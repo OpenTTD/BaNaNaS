@@ -5,13 +5,13 @@ md5sum-partial: "907023a2"
 filesize: 25936
 availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "5350524c"
-  md5sum-partial: "4b28bb33"
+- "content-type": "game-script-library"
+  "md5sum-partial": "4b28bb33"
+  "unique-id": "5350524c"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.10.0"
+  "name": "vanilla"
 
 name: "Renewed Village Growth"
 description: "A combination of Renewed City Growth GS and City Growth Limiter GS. Towns require various cargo delivery to grow. Town growth is limited by percentage of transported PAX/mail. Supporting Baseset, FIRS, ECS, YETI, NAIS industries."
