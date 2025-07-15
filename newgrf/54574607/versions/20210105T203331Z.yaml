@@ -3,13 +3,13 @@ license: "CC-BY-SA v3.0"
 upload-date: 2021-01-05T20:33:31Z
 md5sum-partial: "dde6bae3"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 18471407
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.7.0"
+  "name": "vanilla"

@@ -3,15 +3,15 @@ license: "CC-BY-SA v3.0"
 upload-date: 2020-08-19T22:04:46Z
 md5sum-partial: "445f3744"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 14953069
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.7.0"
+  "name": "vanilla"
 
 description: "A maximalist UK train set including vehicles from 1870-2020. Features 2cc colours, long vehicle scale, 2x zoom and extra rotation sprites."
