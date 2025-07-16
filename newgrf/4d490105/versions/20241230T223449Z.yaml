@@ -3,12 +3,12 @@ license: "CC-BY v3.0"
 upload-date: 2024-12-30T22:34:49Z
 md5sum-partial: "3c0fdf3f"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "train"
 filesize: 124628943
-availability: "new-games"
+availability: "savegames-only"
 
 name: "CZTR Narrow gauge set"
 description: "Set of czech narrow gauge vehicles, rails and some objects"
