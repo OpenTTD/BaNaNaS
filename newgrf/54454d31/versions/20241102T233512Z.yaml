@@ -3,10 +3,10 @@ license: "Custom"
 upload-date: 2024-11-02T23:35:12Z
 md5sum-partial: "ea9570af"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "train"
 filesize: 16105109
 availability: "savegames-only"
 
