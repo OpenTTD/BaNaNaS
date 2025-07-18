@@ -3,12 +3,12 @@ license: "GPL v2"
 upload-date: 2023-12-23T18:15:47Z
 md5sum-partial: "81384be0"
 classification:
-  set: "road-infra"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "road-infra"
 filesize: 12478491
-availability: "new-games"
+availability: "savegames-only"
 
 name: "CZTR Road set"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
