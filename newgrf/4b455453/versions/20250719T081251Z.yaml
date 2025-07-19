@@ -1,15 +1,15 @@
-version: "1.1.0"
+version: "1.2.0"
 license: "GPL v3"
-upload-date: 2023-07-01T09:04:32Z
-md5sum-partial: "80c13c2a"
+upload-date: 2025-07-19T08:12:51Z
+md5sum-partial: "c5181628"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 204302
-availability: "savegames-only"
+filesize: 207318
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 1.2.0"
+  - ">= 12.0"
   "name": "vanilla"
