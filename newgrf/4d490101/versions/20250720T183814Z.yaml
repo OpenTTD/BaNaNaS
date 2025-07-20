@@ -9,3 +9,7 @@ classification:
   "set": "road-infra"
 filesize: 12478597
 availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.10.0"
+  "name": "vanilla"
