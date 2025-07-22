@@ -1,14 +1,14 @@
-version: "v1.3.2"
+version: "v1.4.0"
 license: "GPL v3"
-upload-date: 2024-02-06T04:43:59Z
-md5sum-partial: "f3a698df"
+upload-date: 2025-07-22T20:03:35Z
+md5sum-partial: "03ff0df7"
 classification:
   "has-high-res": false
   "has-sound-effects": false
-  "palette": "8bpp"
+  "palette": "32bpp"
   "set": "signal"
-filesize: 31933
-availability: "savegames-only"
+filesize: 35393
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 0.43.0"

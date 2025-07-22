@@ -3,13 +3,13 @@ license: "GPL v3"
 upload-date: 2024-02-04T03:29:12Z
 md5sum-partial: "3e4774a2"
 classification:
-  set: "signal"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "signal"
 filesize: 33304
 availability: "savegames-only"
 compatibility:
-- name: "jgrpp"
-  conditions:
+- "conditions":
   - ">= 0.43"
+  "name": "jgrpp"
