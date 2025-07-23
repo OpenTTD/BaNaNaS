@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2025-07-23T19:32:36Z
 md5sum-partial: "adb21fde"
 filesize: 7746
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 1.11.0"
