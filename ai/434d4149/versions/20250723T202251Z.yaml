@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2025-07-23T20:22:51Z
 md5sum-partial: "8fcd9380"
 filesize: 8143
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 1.11.0"
