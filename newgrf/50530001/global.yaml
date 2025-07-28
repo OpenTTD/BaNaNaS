@@ -1,4 +1,10 @@
 name: "Polish-Stations"
-description: "[RED]This is alpha version."
+description: |-
+  =============================
+
+  This is alpha version.
+  May not be future compatible.
+
+  =============================
 url: "https://codeberg.org/Rito12/OpenTTDPolishStations/src/branch/master"
 regions: []
