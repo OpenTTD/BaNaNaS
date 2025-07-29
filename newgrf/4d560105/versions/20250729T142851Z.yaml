@@ -1,0 +1,31 @@
+version: "0.15.6"
+license: "GPL v2"
+upload-date: 2025-07-29T14:28:51Z
+md5sum-partial: "e043b01c"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 1388056
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.14.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.59.0"
+  "name": "jgrpp"
+
+description: |-
+  Polish Rolling Stock Pack is a continuation of Polish PKP SET 3.0.3 pack made originally by TadeuszD.
+
+  PRSP contains most known Polish rolling stock used over the years, since 1918 to the present.
+
+  Author: kuba84pro
+  Graphics: 101ksl, kopuwka, Serek, snubek_, Takumi Fujiwara, Patrylec
+
+  Special thanks to previous author and all graphics designers
+
+  Discord: https://discord.gg/GNMWcCK4zh
+url: "https://github.com/kuba84pro/polish-rolling-stock-pack"
