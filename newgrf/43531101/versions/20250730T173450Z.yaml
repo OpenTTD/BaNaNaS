@@ -1,14 +1,14 @@
-version: "1.0.2"
+version: "1.2.1"
 license: "GPL v2"
-upload-date: 2023-03-11T17:17:15Z
-md5sum-partial: "668e18a7"
+upload-date: 2025-07-30T17:34:50Z
+md5sum-partial: "c570fe81"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "road-vehicle"
-filesize: 217422
-availability: "savegames-only"
+filesize: 269593
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.10.0"
