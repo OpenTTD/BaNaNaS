@@ -3,16 +3,16 @@ license: "GPL v3"
 upload-date: 2025-06-01T17:33:13Z
 md5sum-partial: "af44b018"
 classification:
-  set: "townname"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "townname"
 filesize: 15026
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 10.0.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 10.0.0"
+  "name": "jgrpp"
