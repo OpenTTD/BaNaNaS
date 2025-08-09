@@ -1,8 +1,8 @@
 name: "CZTR Stations"
 description: |-
-  Set železničních stanic ve 32bpp s extrazoomem. Více informací na TT-foru nebo našem FB (OTTD-Czech realistic replacement). Autoři: CZTR Team
+  Set železničních stanic ve 32bpp s extrazoomem. V budoucnu bude smázano. Více informací na TT-foru nebo našem FB (OTTD-Czech realistic replacement). Autoři: CZTR Team
 
-  Set of Czech railway stations in 32 bpp + extrazoom. More info in TT-forum in URL or our FB page (OTTD-Czech realistic replacement). By CZTR Team
+  Set of Czech railway stations in 32 bpp + extrazoom. Will be deleted in the future. More info in TT-forum in URL or our FB page (OTTD-Czech realistic replacement). By CZTR Team
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
 regions:
 - "CZ"
