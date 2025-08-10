@@ -1,0 +1,5 @@
+name: "Polroad - Road Price Fork"
+description: "This fork allows you to adjust road build and maintenance costs. Polroad is a set of vehicles produced or used in Poland from 1700 to modernity."
+url: "https://github.com/fkally/openttd-newgrf-polroad-roadprice"
+regions:
+- "PL"
