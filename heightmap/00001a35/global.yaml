@@ -1,5 +1,9 @@
-name: "BritishColumbiaLowerMainland"
+name: "BC, Canada - Low. Main. 2x1k"
 description: |-
   There weren't enough Canadian height maps, so I made one of the local Vancouver area, the lower mainland.
 
   used tangrams heightmapper for the base images, but I had to make a lot of edits, since the height differences in the lower mainland are so drastic.
+
+  2048 x 1024
+regions:
+- "CA-BC"
