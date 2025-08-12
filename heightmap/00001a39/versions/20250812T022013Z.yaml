@@ -1,0 +1,10 @@
+version: "OPENTTD v100"
+license: "GPL v2"
+upload-date: 2025-08-12T02:20:13Z
+md5sum-partial: "d5051c5a"
+classification:
+  "resolution": "high"
+  "shape": "square"
+  "terrain-type": "very-flat"
+filesize: 34306
+availability: "new-games"

@@ -1,0 +1,15 @@
+name: "Openttd NEW"
+description: |-
+  OPENTTD NEW
+
+  BEIJING
+  SHANGHAI
+  UK UNITED KINGDOM
+  KOREA
+  JAPAN
+  Tokyo
+regions:
+- "CN"
+- "GB"
+- "JP"
+- "KR"
