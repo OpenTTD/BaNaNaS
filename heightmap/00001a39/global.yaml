@@ -10,6 +10,9 @@ description: |-
   Tokyo
 regions:
 - "CN"
+- "CN-BJ"
+- "CN-SH"
 - "GB"
 - "JP"
+- "JP-13"
 - "KR"
