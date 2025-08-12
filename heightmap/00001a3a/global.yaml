@@ -2,9 +2,11 @@ name: "OPENTTD NEW PART 2"
 description: |-
   OPENTTD X TRAINZ SIMULATOR 10/12
 
-  CHINA VS UK
+  CHINA/japan VS UK
 
   Beijing VS British
+
+  Youtube
 
   Japan
   Korea
@@ -17,3 +19,4 @@ regions:
 - "GB"
 - "JP"
 - "KR"
+- "RU"
