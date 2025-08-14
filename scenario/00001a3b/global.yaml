@@ -1,0 +1,8 @@
+name: "Małopolska / Lesser Poland"
+description: |-
+  Map of the Lesser Poland region. Unfinished, will be migrated from FIRS to another industry set after this version. The full version will be published after completing.
+  Over 750 towns and villages. Using a growth limiter script strongly recommended.
+regions:
+- "PL"
+- "PL-12"
+- "PL-18"

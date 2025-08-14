@@ -1,0 +1,18 @@
+version: "0.8.1.6"
+license: "CC-0 v1.0"
+upload-date: 2025-08-14T22:43:24Z
+md5sum-partial: "74ae23d9"
+classification:
+  "climate": "temperate"
+  "shape": "square"
+  "size": "large"
+  "terrain-type": "mountainous"
+filesize: 346333
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13.3"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.54"
+  "name": "jgrpp"
