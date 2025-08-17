@@ -5,12 +5,12 @@ md5sum-partial: "299d821b"
 filesize: 25833
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 10"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.56"
+  "name": "jgrpp"
 
 description: |-
   City Controller

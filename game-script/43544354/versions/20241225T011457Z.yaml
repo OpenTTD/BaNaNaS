@@ -5,9 +5,9 @@ md5sum-partial: "ab794c19"
 filesize: 24668
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 12"
+  "name": "vanilla"
 
 name: "City Controller"
 description: |-

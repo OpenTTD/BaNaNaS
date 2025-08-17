@@ -5,9 +5,9 @@ md5sum-partial: "d3fe243f"
 filesize: 24708
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 12"
+  "name": "vanilla"
 
 description: |-
   City Controller

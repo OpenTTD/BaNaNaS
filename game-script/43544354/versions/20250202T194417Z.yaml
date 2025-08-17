@@ -3,14 +3,14 @@ license: "GPL v2"
 upload-date: 2025-02-02T19:44:17Z
 md5sum-partial: "6f173d3b"
 filesize: 32723
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 12"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.56"
+  "name": "jgrpp"
 
 description: |-
   City Controller
