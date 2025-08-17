@@ -1,0 +1,22 @@
+version: "1.5.2"
+license: "Custom"
+upload-date: 2025-08-17T17:25:24Z
+md5sum-partial: "7b116962"
+classification:
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "road-vehicle"
+filesize: 12968124
+availability: "new-games"
+
+name: "Temporal8 Real Cars 32bpp 4X"
+description: |-
+  122 Real cars models for Openttd in 32 bpp 4X ExtraZoom.
+
+  Use with StreetTraffic AI to populate your cities with car traffic.
+
+  Changelog: New parameter added, Zero purchase cost (for better use with AI´s)
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?p=1249244"

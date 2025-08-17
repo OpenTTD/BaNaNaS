@@ -3,10 +3,10 @@ license: "Custom"
 upload-date: 2024-05-25T20:05:17Z
 md5sum-partial: "bf7bde06"
 classification:
-  set: "road-vehicle"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "road-vehicle"
 filesize: 12284382
 availability: "savegames-only"
 

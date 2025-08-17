@@ -3,12 +3,12 @@ license: "Custom"
 upload-date: 2025-02-22T00:15:02Z
 md5sum-partial: "3b243b72"
 classification:
-  set: "road-vehicle"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "road-vehicle"
 filesize: 12956843
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Temporal8 Real Cars 32bpp 4X"
 description: |-
