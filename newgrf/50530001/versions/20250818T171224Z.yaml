@@ -9,3 +9,7 @@ classification:
   "set": "rail-station"
 filesize: 7981049
 availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 14.0"
+  "name": "vanilla"
