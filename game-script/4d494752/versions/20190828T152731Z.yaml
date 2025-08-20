@@ -5,9 +5,9 @@ md5sum-partial: "6ed590a6"
 filesize: 11203
 availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "5046524f"
-  md5sum-partial: "ac98ad57"
+- "content-type": "game-script-library"
+  "md5sum-partial": "ac98ad57"
+  "unique-id": "5046524f"
 
 description: |-
   Makes the people in your OpenTTD world migrate to places that provide work.

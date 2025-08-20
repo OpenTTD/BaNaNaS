@@ -5,9 +5,9 @@ md5sum-partial: "cb161707"
 filesize: 12153
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.10.0"
+  "name": "vanilla"
 
 description: |-
   Makes the people in your world migrate to places that provide work.

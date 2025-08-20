@@ -5,10 +5,10 @@ md5sum-partial: "1611fafe"
 filesize: 11550
 availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "5046524f"
-  md5sum-partial: "ac98ad57"
+- "content-type": "game-script-library"
+  "md5sum-partial": "ac98ad57"
+  "unique-id": "5046524f"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.4.0"
+  "name": "vanilla"
