@@ -3,9 +3,9 @@ license: "Custom"
 upload-date: 2023-12-28T05:45:05Z
 md5sum-partial: "e32d650d"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 106060
 availability: "savegames-only"
