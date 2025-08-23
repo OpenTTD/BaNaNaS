@@ -3,13 +3,13 @@ license: "CC-BY v3.0"
 upload-date: 2009-03-14T02:49:16Z
 md5sum-partial: "1b9f8518"
 classification:
-  shape: "square"
-  terrain-type: "hilly"
-  size: "large"
-  climate: "sub-arctic"
+  "climate": "sub-arctic"
+  "shape": "square"
+  "size": "large"
+  "terrain-type": "hilly"
 filesize: 499060
 availability: "new-games"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 0.6.3"
+  "name": "vanilla"
