@@ -3,13 +3,13 @@ license: "CC-0 v1.0"
 upload-date: 2009-10-02T14:43:19Z
 md5sum-partial: "efc7614c"
 classification:
-  shape: "square"
-  terrain-type: "mountainous"
-  size: "large"
-  climate: "temperate"
+  "climate": "temperate"
+  "shape": "square"
+  "size": "large"
+  "terrain-type": "mountainous"
 filesize: 278321
 availability: "new-games"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 0.7.2"
+  "name": "vanilla"
