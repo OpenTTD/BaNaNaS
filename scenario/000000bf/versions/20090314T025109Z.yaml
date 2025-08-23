@@ -3,13 +3,13 @@ license: "CC-BY v3.0"
 upload-date: 2009-03-14T02:51:09Z
 md5sum-partial: "adf71f96"
 classification:
-  shape: "rectangle"
-  terrain-type: "hilly"
-  size: "large"
-  climate: "temperate"
+  "climate": "temperate"
+  "shape": "rectangle"
+  "size": "large"
+  "terrain-type": "hilly"
 filesize: 99603
 availability: "new-games"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 0.6.3"
+  "name": "vanilla"
