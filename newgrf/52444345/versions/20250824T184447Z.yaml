@@ -1,22 +1,22 @@
-version: "1.1"
+version: "1.2.1"
 license: "Custom"
-upload-date: 2025-03-06T09:40:13Z
-md5sum-partial: "f5de8e83"
+upload-date: 2025-08-24T18:44:47Z
+md5sum-partial: "aef5c1fc"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "town"
-filesize: 135526209
-availability: "savegames-only"
+filesize: 135286426
+availability: "new-games"
 
 name: "Temporal8 Real Houses Townset"
 description: |-
-  New version of my Townset 4X Extra-Zoom 32 bpp.
-
-  Changelog: Some new houses, some cosmetic changes and some animated lights in buildings.
+  My 32bpp 4X Townset.
 
   For correct use, the option "disable original buildings" must be "ON" in newgrf "set parameters"
 
   Avaivable Years: 1970 to 9999.
+
+  I recommend using it with my Real Industries 32bpp set for better 32bpp experience!
 url: "https://www.tt-forums.net/viewtopic.php?t=87622"

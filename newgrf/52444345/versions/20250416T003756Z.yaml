@@ -3,12 +3,12 @@ license: "Custom"
 upload-date: 2025-04-16T00:37:56Z
 md5sum-partial: "cd07ce8d"
 classification:
-  set: "town"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "town"
 filesize: 135526998
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Temporal8 Real Houses Townset"
 description: |-
