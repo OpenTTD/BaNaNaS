@@ -1,0 +1,7 @@
+name: "Hoenn Region"
+description: |-
+  This is the Hoenn region recreated in OpenTTD.
+
+  As the base map, this has towns located in lore accurate locations, trees defining routes, and industries that have been handpicked to fit in to where the towns are located.
+
+  Version 2.0 has been updated with some NewGRFs to add better ships due to all the water as well as preventing secondary industries from shutting down, along with increasing primary industry outputs due to less industries to begin with.
