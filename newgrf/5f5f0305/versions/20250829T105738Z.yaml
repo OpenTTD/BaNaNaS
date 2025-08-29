@@ -1,13 +1,13 @@
-version: "0.13"
+version: "0.20.0"
 license: "GPL v2"
-upload-date: 2024-10-20T05:23:24Z
-md5sum-partial: "785b5021"
+upload-date: 2025-08-29T10:57:38Z
+md5sum-partial: "0fb10e72"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "train"
-filesize: 4163934
-availability: "savegames-only"
+filesize: 5305848
+availability: "new-games"
 
 name: "China Set: Metros"
