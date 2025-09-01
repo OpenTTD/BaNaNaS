@@ -1,0 +1,15 @@
+version: "0"
+license: "CC-BY v3.0"
+upload-date: 2025-09-01T18:29:10Z
+md5sum-partial: "4d44da1d"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 7558
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
