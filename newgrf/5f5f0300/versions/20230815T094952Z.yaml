@@ -3,15 +3,15 @@ license: "GPL v2"
 upload-date: 2023-08-15T09:49:52Z
 md5sum-partial: "cb6e22c4"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
 filesize: 1335408
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
 
 description: "The Train Sector of the China Set of OpenTTD. More contents in the future. By John Franklin, NACHN and other developers. License: GPLv2."
