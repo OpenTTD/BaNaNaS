@@ -1,14 +1,14 @@
-version: "241201"
+version: "1.0"
 license: "GPL v3"
-upload-date: 2024-12-01T10:16:35Z
-md5sum-partial: "ddd9ed6d"
+upload-date: 2025-09-02T08:00:33Z
+md5sum-partial: "15a02ba6"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "town"
-filesize: 40102
-availability: "savegames-only"
+filesize: 40115
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.2.0"
