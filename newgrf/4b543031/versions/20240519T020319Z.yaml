@@ -3,13 +3,13 @@ license: "GPL v3"
 upload-date: 2024-05-19T02:03:19Z
 md5sum-partial: "78142bcd"
 classification:
-  set: "rail-infra"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-infra"
 filesize: 414999
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.6.0"
+  "name": "vanilla"

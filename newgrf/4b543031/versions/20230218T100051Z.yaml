@@ -3,16 +3,16 @@ license: "GPL v3"
 upload-date: 2023-02-18T10:00:51Z
 md5sum-partial: "f010478f"
 classification:
-  set: "rail-infra"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-infra"
 filesize: 327642
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
 
 description: |-
   Korean Track Set adds train and metro tracks in South Korea. Highly recommended to use with Korean Train Set or Korean Train Set Plus. It is NOT guaranteed compatibility with other train GRFs or track GRFs.
