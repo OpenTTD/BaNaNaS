@@ -1,5 +1,11 @@
 name: "Korean Early Train Set"
-description: "Korean Early Train Set inclues train vehicles which are used in Korean Peninsula from Empire of Korea to early Republic of Korea."
+description: |-
+  Korean Early Train Set inclues train vehicles which are used in Korean Peninsula from Empire of Korea to early Republic of Korea.
+
+  이 NewGRF는 대한제국 시기부터 해방 후 초기 한국까지 쓰인 열차들을 추가해줍니다.
+
+
+  License: GNU GPL v3
 url: "https://github.com/SerpensNebula/Korean-Early-Train-Set"
 regions:
 - "KR"
