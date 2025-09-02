@@ -3,15 +3,15 @@ license: "GPL v3"
 upload-date: 2021-06-14T11:01:44Z
 md5sum-partial: "88d036a6"
 classification:
-  set: "road-vehicle"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "road-vehicle"
 filesize: 14332
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
 
 url: "https://github.com/Gamunbi/Korean-Tram-Set"
