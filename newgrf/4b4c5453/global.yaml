@@ -2,7 +2,10 @@ name: "Korean Longer Train Set"
 description: |-
   Korean Longer Train Set adds some train vehicles longer than Korean train NewGRFs. It's experimental NewGRF.
 
-  이 NewGRF는 기존 한국열차를 다루는 NewGRF들보다 긴 그래픽을 사용합니다. 개인 실험용 NewGRF이므로, 개인적으로 좋아하는 차량만 만들 계획입니다.
+  이 NewGRF는 기존 한국열차를 다루는 NewGRF들보다 긴 그래픽을 사용합니다.
+
+
+  License: GNU GPL v3
 url: "https://github.com/SerpensNebula/Korean-Longer-Train-Set"
 regions:
 - "KR"
