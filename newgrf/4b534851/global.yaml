@@ -4,6 +4,14 @@ description: |-
 
   Rating 4: KORAIL Seoul Headquarters
   Rating 5: KORAIL head office
+
+  이 NewGRF는 한국 스타일의 회사 본사 건물을 추가해줍니다. 1단계에서 3단계 건물은 추가 예정입니다.
+
+  4단계: 한국철도공사 서울본부
+  5단계: 한국철도공사 본사
+
+
+  License: GNU GPL v3
 url: "https://github.com/SerpensNebula/Korean-HQ"
 regions:
 - "KR"
