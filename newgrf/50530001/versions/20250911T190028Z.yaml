@@ -1,0 +1,23 @@
+version: "0.1.10"
+license: "GPL v2"
+upload-date: 2025-09-11T19:00:28Z
+md5sum-partial: "bc07b54e"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-station"
+filesize: 8405017
+availability: "new-games"
+
+description: |-
+  =============================
+
+  This is alpha version.
+  May not be future compatible.
+
+  Bridges over PolishStations
+  are supported from v.0.1.10
+  (Only for OpenTTD 15.0-beta3)
+
+  =============================
