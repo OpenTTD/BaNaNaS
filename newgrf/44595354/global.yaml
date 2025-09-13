@@ -1,0 +1,12 @@
+name: "Dystopian Town Names"
+description: |-
+  A bleak and immersive dystopian name generator for OpenTTD.
+  This set procedurally combines industrial-style prefixes and suffixes
+  with numbered sectors, zones, and blocks — producing names like
+  "Rustholm", "Blastford", "Voidgrad-77", or "Oblivion City-91".
+
+  Perfect for cyberpunk, post-apocalyptic, or industrial-themed playthroughs.
+
+  License: CC-BY-SA 3.0
+  Author: Maxx Dee (Illegal Mind)
+url: "https://github.com/maxsoulfly/dystopian-town-names"
