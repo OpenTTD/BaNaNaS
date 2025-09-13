@@ -8,6 +8,3 @@ compatibility:
 - "conditions":
   - ">= 14.0.0"
   "name": "vanilla"
-- "conditions":
-  - ">= 0.66.0"
-  "name": "jgrpp"
