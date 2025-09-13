@@ -1,0 +1,14 @@
+version: "v6-2025.1"
+license: "GPL v2"
+upload-date: 2025-09-13T17:18:34Z
+md5sum-partial: "0921d70e"
+filesize: 22522
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 14.0.0"
+  "name": "vanilla"
+
+name: "BeeReward-2025"
+description: "This is a reupload compatible with the newest version of OTTD. BeeReward is a fork of Busy Bee. It continuously gives you new goals for transportation, and can give rewards in the form of money for achieving it. There is no ultimate goal to achieve."
+url: "https://github.com/fkally/openttd-beereward-2025/"
