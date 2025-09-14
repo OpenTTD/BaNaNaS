@@ -5,6 +5,11 @@ description: |-
   This is alpha version.
   May not be future compatible.
 
+  Bridges over PolishStations
+  are supported from v.0.1.10
+  (Only for OpenTTD 15.0-beta3)
+
   =============================
 url: "https://codeberg.org/Rito12/OpenTTDPolishStations/src/branch/master"
-regions: []
+regions:
+- "PL"

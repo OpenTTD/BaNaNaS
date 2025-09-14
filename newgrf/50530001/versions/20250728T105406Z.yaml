@@ -9,3 +9,14 @@ classification:
   "set": "rail-station"
 filesize: 2595012
 availability: "savegames-only"
+
+description: |-
+  =============================
+
+  This is alpha version.
+  May not be future compatible.
+
+  Bridges over PolishStations
+  are supported from v.0.1.10
+
+  =============================

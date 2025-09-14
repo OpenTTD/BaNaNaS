@@ -13,3 +13,14 @@ compatibility:
 - "conditions":
   - ">= 14.0"
   "name": "vanilla"
+
+description: |-
+  =============================
+
+  This is alpha version.
+  May not be future compatible.
+
+  Bridges over PolishStations
+  are supported from v.0.1.10
+
+  =============================
