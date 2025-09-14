@@ -9,6 +9,10 @@ classification:
   "set": "rail-station"
 filesize: 8405017
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 15.0"
+  "name": "jgrpp"
 
 description: |-
   =============================
