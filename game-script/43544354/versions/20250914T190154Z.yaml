@@ -1,9 +1,9 @@
-version: "13"
+version: "14"
 license: "GPL v2"
-upload-date: 2025-08-17T09:19:15Z
-md5sum-partial: "043b3186"
-filesize: 46881
-availability: "savegames-only"
+upload-date: 2025-09-14T19:01:54Z
+md5sum-partial: "a2b4171f"
+filesize: 46986
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 13"
