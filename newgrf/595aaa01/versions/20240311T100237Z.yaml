@@ -3,16 +3,16 @@ license: "GPL v2"
 upload-date: 2024-03-11T10:02:37Z
 md5sum-partial: "4ba2f57c"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: false
-  has-sound-effects: true
+  "has-high-res": false
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "train"
 filesize: 1887254
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 13.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.50"
+  "name": "jgrpp"

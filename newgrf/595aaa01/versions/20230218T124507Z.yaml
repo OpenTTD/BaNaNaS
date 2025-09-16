@@ -3,19 +3,19 @@ license: "GPL v2"
 upload-date: 2023-02-18T12:45:07Z
 md5sum-partial: "0e35862c"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
 filesize: 308741
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 13.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.50"
+  "name": "jgrpp"
 
 name: "JP+ Metro - Osaka update"
 url: "https://github.com/Yozora3/JPplusMetro"

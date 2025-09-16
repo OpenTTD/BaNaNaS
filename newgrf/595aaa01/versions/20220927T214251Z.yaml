@@ -3,19 +3,19 @@ license: "GPL v2"
 upload-date: 2022-09-27T21:42:51Z
 md5sum-partial: "e0eb6574"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
 filesize: 60890
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 12.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.45.0"
+  "name": "jgrpp"
 
 name: "JP+ Metro Set v1.1"
 url: "https://github.com/Yozora3/JPplusMetro"
