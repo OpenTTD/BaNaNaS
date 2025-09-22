@@ -1,0 +1,5 @@
+name: "Upper Mid Atlantic"
+description: "A detailed map of the Mid-Atlantic region of the US. It ranges from southern New York through Northern Virginia, encompassing the entire states of Pennsylvania, Maryland, New Jersey and Delaware. It includes some parts of West Virginia, Virginia, New York, and Ohio. The towns are roughly proportional in size, and in roughly the correct place. There are no industries on the map."
+regions:
+- "UN-019"
+- "UN-021"
