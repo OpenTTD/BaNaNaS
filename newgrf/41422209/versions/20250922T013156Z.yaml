@@ -1,0 +1,15 @@
+version: "1"
+license: "LGPL v2.1"
+upload-date: 2025-09-22T01:31:56Z
+md5sum-partial: "60ffa5ed"
+classification:
+  "set": "unknown"
+filesize: 13412
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 1.2.0"
+  "name": "jgrpp"
