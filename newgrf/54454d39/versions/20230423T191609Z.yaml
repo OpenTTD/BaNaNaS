@@ -3,10 +3,10 @@ license: "Custom"
 upload-date: 2023-04-23T19:16:09Z
 md5sum-partial: "8668e91d"
 classification:
-  set: "industry"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "industry"
 filesize: 143590904
 availability: "savegames-only"
 

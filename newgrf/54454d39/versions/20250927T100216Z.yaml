@@ -1,0 +1,20 @@
+version: "Beta 4.0.4"
+license: "Custom"
+upload-date: 2025-09-27T10:02:16Z
+md5sum-partial: "fbd4729c"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "industry"
+filesize: 142939391
+availability: "new-games"
+
+name: "Temporal8 Real Industries 32bpp"
+description: |-
+  Beta version of my industries set, Use with "Real Houses Townset" , "Real Trucks" and "Real Semi Trucks" for a better 32bpp experience.
+
+  Changelog 4.0.4: Optimized Code, Performance improvements when zooming out.
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?t=90183"
