@@ -8,6 +8,6 @@ classification:
   "palette": "8bpp"
   "set": "townname"
 filesize: 4939
-availability: "new-games"
+availability: "savegames-only"
 
 url: "https://github.com/OfflcerSam/OTTD-FurryTownNamesPlus"
