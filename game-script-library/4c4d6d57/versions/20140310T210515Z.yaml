@@ -5,15 +5,15 @@ md5sum-partial: "94d9a924"
 filesize: 52999
 availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "47514648"
-  md5sum-partial: "6d8a2b4f"
-- content-type: "game-script-library"
-  unique-id: "47514248"
-  md5sum-partial: "98b83fdd"
-- content-type: "game-script-library"
-  unique-id: "4747412a"
-  md5sum-partial: "d8868b0f"
+- "content-type": "game-script-library"
+  "md5sum-partial": "6d8a2b4f"
+  "unique-id": "47514648"
+- "content-type": "game-script-library"
+  "md5sum-partial": "98b83fdd"
+  "unique-id": "47514248"
+- "content-type": "game-script-library"
+  "md5sum-partial": "d8868b0f"
+  "unique-id": "4747412a"
 
 description: |-
   Minchinweb's MetaLibrary is an GS library written to support WmDOT but I hope it will be useful to others. This version has the same functions as the AI version, but modified for GameScripts. (v.8-GS) [2014-03-10]

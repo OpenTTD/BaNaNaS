@@ -3,18 +3,18 @@ license: "Custom"
 upload-date: 2015-01-11T00:16:42Z
 md5sum-partial: "0bdabb21"
 filesize: 53099
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "47514648"
-  md5sum-partial: "6d8a2b4f"
-- content-type: "game-script-library"
-  unique-id: "47514248"
-  md5sum-partial: "98b83fdd"
-- content-type: "game-script-library"
-  unique-id: "4747412a"
-  md5sum-partial: "d8868b0f"
+- "content-type": "game-script-library"
+  "md5sum-partial": "6d8a2b4f"
+  "unique-id": "47514648"
+- "content-type": "game-script-library"
+  "md5sum-partial": "98b83fdd"
+  "unique-id": "47514248"
+- "content-type": "game-script-library"
+  "md5sum-partial": "d8868b0f"
+  "unique-id": "4747412a"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
