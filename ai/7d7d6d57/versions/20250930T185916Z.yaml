@@ -1,25 +1,25 @@
-version: "11"
+version: "15"
 license: "Custom"
-upload-date: 2013-01-01T02:43:38Z
-md5sum-partial: "653ed325"
-filesize: 34381
-availability: "savegames-only"
+upload-date: 2025-09-30T18:59:16Z
+md5sum-partial: "bcc2bc75"
+filesize: 43757
+availability: "new-games"
 dependencies:
 - "content-type": "ai-library"
-  "md5sum-partial": "b234d8bd"
-  "unique-id": "51554648"
-- "content-type": "ai-library"
-  "md5sum-partial": "6804ef38"
-  "unique-id": "5350524c"
-- "content-type": "ai-library"
-  "md5sum-partial": "b009f97e"
+  "md5sum-partial": "f308ca06"
   "unique-id": "4c4d6d57"
+- "content-type": "ai-library"
+  "md5sum-partial": "dcdcf35c"
+  "unique-id": "5350524c"
 
 description: |-
   An AI that doesn't compete with you but rather builds out the highway network. Our (*new*) revenue stream is transporting offshore oil to oil refineries.
 
+  v15 - better ship selection; experiemental Streetcar support; lots of bug fixes
+  v14 - fix ship orders
+  v13 - speed up Ship Pathfinder
   v11 - Freeways!!
   v10 - dynamically add ships
   v9 - supports all of FIRS' water industries
   v8 - bug fixes and minor improvements
-  v7 - adds Operation Hibernia (transport oil from Oil Rigs to Oil Refineries);
+  v7 - adds Operation Hibernia (transport oil from Oil Rigs to Oil Refineries)

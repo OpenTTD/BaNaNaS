@@ -5,9 +5,9 @@ md5sum-partial: "61ebc5e0"
 filesize: 24105
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5350524c"
-  md5sum-partial: "de01137e"
+- "content-type": "ai-library"
+  "md5sum-partial": "de01137e"
+  "unique-id": "5350524c"
 
 description: "An AI that doesn't compete with you but rather builds out the highway network. We're still looking for a revenue stream."
 tags:

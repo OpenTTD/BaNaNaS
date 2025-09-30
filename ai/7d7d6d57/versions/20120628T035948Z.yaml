@@ -5,15 +5,15 @@ md5sum-partial: "fcad8b31"
 filesize: 36377
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "51554648"
-  md5sum-partial: "b234d8bd"
-- content-type: "ai-library"
-  unique-id: "5350524c"
-  md5sum-partial: "7d846dd9"
-- content-type: "ai-library"
-  unique-id: "4c4d6d57"
-  md5sum-partial: "183951e7"
+- "content-type": "ai-library"
+  "md5sum-partial": "b234d8bd"
+  "unique-id": "51554648"
+- "content-type": "ai-library"
+  "md5sum-partial": "7d846dd9"
+  "unique-id": "5350524c"
+- "content-type": "ai-library"
+  "md5sum-partial": "183951e7"
+  "unique-id": "4c4d6d57"
 
 description: |-
   An AI that doesn't compete with you but rather builds out the highway network. Our (*new*) revenue stream is transporting offshore oil to oil refineries.

@@ -3,18 +3,18 @@ license: "Custom"
 upload-date: 2016-08-29T22:06:58Z
 md5sum-partial: "198d05ac"
 filesize: 35118
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "51554648"
-  md5sum-partial: "b234d8bd"
-- content-type: "ai-library"
-  unique-id: "4c4d6d57"
-  md5sum-partial: "a354aea1"
-- content-type: "ai-library"
-  unique-id: "5350524c"
-  md5sum-partial: "ca75d8b4"
+- "content-type": "ai-library"
+  "md5sum-partial": "b234d8bd"
+  "unique-id": "51554648"
+- "content-type": "ai-library"
+  "md5sum-partial": "a354aea1"
+  "unique-id": "4c4d6d57"
+- "content-type": "ai-library"
+  "md5sum-partial": "ca75d8b4"
+  "unique-id": "5350524c"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
