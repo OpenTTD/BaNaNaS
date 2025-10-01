@@ -3,16 +3,16 @@ license: "GPL v2"
 upload-date: 2024-12-18T02:54:03Z
 md5sum-partial: "3a5d4a2a"
 classification:
-  set: "rail-station"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "rail-station"
 filesize: 53571536
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 10.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.34.0"
+  "name": "jgrpp"

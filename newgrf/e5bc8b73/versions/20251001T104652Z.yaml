@@ -1,18 +1,18 @@
-version: "0.2.0"
+version: "0.4.0"
 license: "GPL v2"
-upload-date: 2024-05-31T10:27:15Z
-md5sum-partial: "9faf1c4c"
+upload-date: 2025-10-01T10:46:52Z
+md5sum-partial: "d15d839a"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "rail-station"
-filesize: 40169625
-availability: "savegames-only"
+filesize: 47888238
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 14.0"
+  - ">= 10.0"
   "name": "vanilla"
 - "conditions":
-  - ">= 0.58.0"
+  - ">= 0.34.0"
   "name": "jgrpp"
