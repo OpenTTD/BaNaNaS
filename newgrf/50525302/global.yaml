@@ -1,0 +1,9 @@
+name: "Polish Signal Set"
+description: |-
+  PSS is a fork of Multi-aspect-signal-grf made by JGREnnision.
+
+  It contains most signals used on the polish railways.
+
+
+  For full functionality please use a non-standard OpenTTD supporting Multi-aspect signals and signal styles such as JGRRP >= 0.53.0
+url: "https://github.com/legitscoper/polish-multi-aspect-signals-grf"
