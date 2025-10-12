@@ -3,15 +3,15 @@ license: "GPL v2"
 upload-date: 2021-07-28T20:13:09Z
 md5sum-partial: "242f78ff"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
 filesize: 1310830
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.3.0"
+  "name": "vanilla"
 
 url: "https://www.tt-forums.net/viewtopic.php?p=1238366#p1238366"
