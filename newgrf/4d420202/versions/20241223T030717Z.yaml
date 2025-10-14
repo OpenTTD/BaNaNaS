@@ -3,13 +3,13 @@ license: "GPL v2"
 upload-date: 2024-12-23T03:07:17Z
 md5sum-partial: "143d7821"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 199077
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 13.0"
+  "name": "vanilla"
