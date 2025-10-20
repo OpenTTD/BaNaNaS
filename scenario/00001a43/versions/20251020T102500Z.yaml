@@ -1,0 +1,11 @@
+version: "0.3"
+license: "CC-BY v3.0"
+upload-date: 2025-10-20T10:25:00Z
+md5sum-partial: "dbcd7a4e"
+classification:
+  "climate": "sub-arctic"
+  "shape": "rectangle"
+  "size": "huge"
+  "terrain-type": "mountainous"
+filesize: 1628017
+availability: "new-games"
