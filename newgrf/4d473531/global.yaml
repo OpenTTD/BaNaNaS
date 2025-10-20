@@ -1,0 +1,7 @@
+name: "CZOS - Czech Object Set"
+description: "This object set is meant to spice up your game with some Czech themed objects. Thanks, chujo, for the tool to make objects easily."
+url: "https://github.com/matematysek/CZOS"
+regions:
+- "CZ"
+- "UN-150"
+- "UN-151"
