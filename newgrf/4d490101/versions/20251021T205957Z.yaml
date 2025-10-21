@@ -1,14 +1,14 @@
-version: "2.2.3"
-license: "GPL v2"
-upload-date: 2025-07-20T18:38:14Z
-md5sum-partial: "8513f67a"
+version: "2.3.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2025-10-21T20:59:57Z
+md5sum-partial: "988b0527"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "road-infra"
-filesize: 12478597
-availability: "savegames-only"
+filesize: 13278938
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.10.0"
