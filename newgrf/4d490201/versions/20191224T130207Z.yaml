@@ -3,13 +3,13 @@ license: "GPL v2"
 upload-date: 2019-12-24T13:02:07Z
 md5sum-partial: "a5c7b7bd"
 classification:
-  set: "road-vehicle"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "road-vehicle"
 filesize: 4238170
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"

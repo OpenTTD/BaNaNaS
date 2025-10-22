@@ -1,0 +1,15 @@
+version: "1.1.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2025-10-22T19:45:19Z
+md5sum-partial: "e9371700"
+classification:
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "road-vehicle"
+filesize: 34168416
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.13.0"
+  "name": "vanilla"
