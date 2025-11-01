@@ -1,0 +1,7 @@
+name: "Danish Vehicle Set"
+description: |-
+  OpenTTD Danish Vehicle Set
+
+  OpenTTD Danish Vehicle Set is a fork of the original openttd-dsb project by @jeppeburchardt.
+  It updates and expands the Danish (DSB) trainset for the latest versions of OpenTTD, with rebalanced costs, improved graphics, and new vehicle details.
+url: "https://github.com/emilwkj/Openttd-Danish-Vehicle-Set/"
