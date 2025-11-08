@@ -16,3 +16,10 @@ compatibility:
 - "conditions":
   - ">= 1.2.0"
   "name": "jgrpp"
+
+description: |-
+  Are you easily confused by vanilla industry cargo coverage?
+
+  This NewGRF makes vanilla industries accept cargo on any tile instead of requiring specific tiles to be covered.
+
+  You no longer have to look at the Accepts/Supplies section of the build window (assuming you already know which cargo types an industry accepts.)
