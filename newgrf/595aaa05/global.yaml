@@ -1,0 +1,8 @@
+name: "JP+ Roads"
+description: |-
+  JP+ Roads is a road and tramtrack set based on the lovely scenery of Japan
+  Drawn by Yozora, Ufiby
+  Coded by Yozora
+url: "https://github.com/OpenTTD-JPplus/JPplusRoads"
+regions:
+- "JP"
