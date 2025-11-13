@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "aircraft"
 filesize: 12552669
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 14.1"

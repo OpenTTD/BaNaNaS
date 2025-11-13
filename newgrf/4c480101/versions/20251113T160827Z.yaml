@@ -1,0 +1,18 @@
+version: "1.2.0"
+license: "GPL v2"
+upload-date: 2025-11-13T16:08:27Z
+md5sum-partial: "0715f1cf"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "aircraft"
+filesize: 14393454
+availability: "new-games"
+
+name: "Aircraftpack-2025 by Illusive"
+description: |-
+  This package adds 32bpp, extra zoom aircraft to the game and replaces the aircraft in the base game. As in the original TT, the aircraft in the package are based on a cross-section of influential aircraft from the real world, covering the period from 1920 to 2042. This means that it also includes aircraft that currently only exist as concepts or which development was abondoned.
+
+  Currently includes no low resolution sprites!
+url: "https://www.tt-forums.net/viewtopic.php?t=92509&sid=d2ee323c04bb5660ef99669783baf0c8"
