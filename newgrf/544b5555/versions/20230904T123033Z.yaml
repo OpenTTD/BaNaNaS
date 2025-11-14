@@ -3,16 +3,16 @@ license: "CC-BY-NC-SA v3.0"
 upload-date: 2023-09-04T12:30:33Z
 md5sum-partial: "ac7d7b12"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 536324
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 13.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.53.0"
+  "name": "jgrpp"
