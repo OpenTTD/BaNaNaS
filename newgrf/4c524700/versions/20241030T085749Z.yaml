@@ -3,12 +3,12 @@ license: "GPL v2"
 upload-date: 2024-10-30T08:57:49Z
 md5sum-partial: "91de6eb3"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 8800
-availability: "new-games"
+availability: "savegames-only"
 
 name: "UFCF Metro Train"
 description: |-
