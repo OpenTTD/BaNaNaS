@@ -1,0 +1,22 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2025-11-19T17:01:27Z
+md5sum-partial: "45b17266"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 213735
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13.0"
+  "name": "vanilla"
+
+name: "Italian Modern Trainset"
+description: |-
+  This NewGRF file adds some Italian trains, also with some Trenitalia tper additions, the operator of regional services in the Emilia-Romagna region.
+
+  This is not complete, but has many trains that should allow for a good passenger game without the need of more sets. Read further for more information.
+url: "https://www.tt-forums.net/viewtopic.php?t=91954"
