@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 9683
-availability: "new-games"
+availability: "savegames-only"
 
 name: "UFCF Metro Train"
 description: "The Unrealistically Fast and Capacious Fictional Metro Train, now updated to add a Middle Power Car and Middle Trailer Car. Minor tweaks were made to End Power Car set - see .nml file for comments."
