@@ -1,0 +1,3 @@
+name: "Boomtown Or Bust"
+description: "Boomtown Or Bust is a gameplay where towns gradually shrink over time and can recover through player action. Buildings are removed from towns each day, and players must win certain subsidies to trigger bursts of town growth. The script creates a dynamic environment where towns can decline or expand depending on how players interact with the transport network."
+url: "https://github.com/MasterHellish/OpenTTDMods/tree/main/Scripts/BoomtownOrBust"
