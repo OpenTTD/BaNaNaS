@@ -1,0 +1,12 @@
+name: "Korean Town Set As Objects"
+description: |-
+  오브젝트로 된 한국도시세트의 도시건물들과, 고유의 랜드마크와 아파트 오브젝트를 추가하는 NewGRF입니다.
+
+  버전명은 한국도시세트와 같습니다.
+
+  Korean Town Set As Objects adds object version of town houses from Korean Town Set AND more unique landmarks of South Korea.
+
+  Its Version name is the same with Korean Town Set.
+url: "https://github.com/SerpensNebula/Korean-Town-Set-As-Objects"
+regions:
+- "KR"
