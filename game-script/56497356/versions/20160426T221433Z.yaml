@@ -5,9 +5,9 @@ md5sum-partial: "2101bb7d"
 filesize: 14253
 availability: "savegames-only"
 dependencies:
-- content-type: "game-script-library"
-  unique-id: "5350524c"
-  md5sum-partial: "73c82171"
+- "content-type": "game-script-library"
+  "md5sum-partial": "73c82171"
+  "unique-id": "5350524c"
 
 description: |-
   Keep villages as villages! Villages Is Villages will stop every village from growing into a metropolis, and prevent industries from taking over the map.
