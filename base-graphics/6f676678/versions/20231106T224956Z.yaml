@@ -5,9 +5,9 @@ md5sum-partial: "8fad14d1"
 filesize: 6332789
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.3.0"
+  "name": "vanilla"
 
 name: "OpenGFX2 Classic"
 description: "OpenGFX base graphics set v2. An \"OpenGFX director's edition\" redrawn or revised from my original source files. (Mostly) by Zephyris, standing on the shoulders of the OpenGFX team."

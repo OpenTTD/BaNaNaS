@@ -5,9 +5,9 @@ md5sum-partial: "527e5a0a"
 filesize: 10218477
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.3.0"
+  "name": "vanilla"
 
 name: "OpenGFX2 Classic"
 description: "OpenGFX2 pixel art style base graphics set for OpenTTD. \"Classic\" 8-bit 1x zoom (64px per tile) edition. An \"OpenGFX director's edition\" redrawn or revised from my original OpenGFX source files. (Mostly) by Zephyris, standing on the shoulders of the OpenGFX team."
