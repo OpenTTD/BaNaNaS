@@ -11,8 +11,10 @@ filesize: 5554460
 availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 14.0"
+  - ">= 16.0"
   "name": "vanilla"
 - "conditions":
-  - ">= 0.59.0"
+  - ">= 0.90.0"
   "name": "jgrpp"
+
+name: "HVW - Test Set"
