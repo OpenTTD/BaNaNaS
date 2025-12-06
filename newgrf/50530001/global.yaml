@@ -9,6 +9,9 @@ description: |-
   are supported from v.0.1.10
   (Only for OpenTTD 15.0-beta3)
 
+  Support for OpenTTD 13.0 since v.0.2.0
+  Badges since v.0.2.1
+
   =============================
 url: "https://codeberg.org/Rito12/OpenTTDPolishStations/src/branch/master"
 regions:
