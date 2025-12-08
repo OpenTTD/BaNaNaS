@@ -2,6 +2,9 @@ name: "WmDOT"
 description: |-
   An AI that doesn't compete with you but rather builds out the highway network. Our (*new*) revenue stream is transporting offshore oil to oil refineries.
 
+  v16 - fix typos
+  v15 - better ship selection; experimental Streetcar support; lots of bug fixes
+  v14 - fix ship orders
   v13 - speed up Ship Pathfinder
   v11 - Freeways!!
   v10 - dynamically add ships
@@ -15,3 +18,4 @@ tags:
 - "road"
 - "ship"
 - "wmdot"
+regions: []
