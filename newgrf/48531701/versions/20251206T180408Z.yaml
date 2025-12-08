@@ -11,7 +11,7 @@ filesize: 5554454
 availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 14.0"
+  - ">= 15.0"
   "name": "vanilla"
 - "conditions":
   - ">= 0.59.0"
