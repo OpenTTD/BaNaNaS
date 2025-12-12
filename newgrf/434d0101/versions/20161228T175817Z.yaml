@@ -3,9 +3,9 @@ license: "CC-BY-SA v3.0"
 upload-date: 2016-12-28T17:58:17Z
 md5sum-partial: "8e154a4f"
 classification:
-  set: "mixed"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
 filesize: 13072
 availability: "savegames-only"

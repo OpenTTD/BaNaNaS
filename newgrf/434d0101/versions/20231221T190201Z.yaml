@@ -3,9 +3,9 @@ license: "CC-BY-SA v3.0"
 upload-date: 2023-12-21T19:02:01Z
 md5sum-partial: "2525af83"
 classification:
-  set: "mixed"
-  palette: "32bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "mixed"
 filesize: 432465
-availability: "new-games"
+availability: "savegames-only"
