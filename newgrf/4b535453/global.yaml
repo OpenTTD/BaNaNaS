@@ -2,12 +2,11 @@ name: "Korean Town Set"
 description: |-
   Korean Town Set includes Korean style buildings except North Korea. Highly recommanded to use this NewGRF after year 1990. More buildings will be added soon!
 
-  Special thanks: Telk, Jakga, Myeong-un, Kiwitree
-
   이 NewGRF는 북한을 제외한 한국 스타일의 건물을 추가해줍니다. 1990년 이후부터 플레이를 권장합니다. 과거의 건물들은 추가 예정입니다!
 
-  도움을 주신 분들: 텔크, 작가, 명운, 키위트리
-
+  Code: 네뷸라
+  Graphics: 네뷸라, 명운, Kiwitree, CoconutKR
+  Special Thanks: TELK, 작가
 
   License: GNU GPL v3
 url: "https://github.com/SerpensNebula/Korean-Town-Set"
