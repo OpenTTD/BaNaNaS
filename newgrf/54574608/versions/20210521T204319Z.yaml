@@ -3,9 +3,9 @@ license: "CC-BY-SA v3.0"
 upload-date: 2021-05-21T20:43:19Z
 md5sum-partial: "8b455df3"
 classification:
-  set: "rail-station"
-  palette: "8bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-station"
 filesize: 6384684
-availability: "new-games"
+availability: "savegames-only"
