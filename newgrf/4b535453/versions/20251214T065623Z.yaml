@@ -1,14 +1,14 @@
-version: "beta0.9.0"
+version: "beta0.10.0"
 license: "GPL v3"
-upload-date: 2025-11-29T10:08:12Z
-md5sum-partial: "0af2006b"
+upload-date: 2025-12-14T06:56:23Z
+md5sum-partial: "ba035f39"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "town"
-filesize: 776585
-availability: "savegames-only"
+filesize: 795923
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.9.0"
