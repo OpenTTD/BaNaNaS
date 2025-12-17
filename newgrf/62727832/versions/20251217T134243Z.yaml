@@ -16,3 +16,9 @@ compatibility:
 - "conditions":
   - ">= 0.68.0"
   "name": "jgrpp"
+
+name: "BRETS 0.0.4"
+description: |-
+  British Rail Extended Train Set (BRETS)
+
+  An extended length, 4x zoom, real livery British train set.
