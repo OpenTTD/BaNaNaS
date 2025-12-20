@@ -1,0 +1,19 @@
+name: "Nemuro Surroundings(1024x1024)"
+description: |-
+  Nemuro Surroundings(1024x1024)
+
+  Based on the heightmap of Nemuro Surroundings
+
+  Features:
+  127 Towns
+  Realistic rivers
+  Public roads
+  JP+ series
+
+  You could dowload no house edition if you want to add another town set(on tt-forums)
+url: "https://www.tt-forums.net/viewtopic.php?t=92368"
+regions:
+- "JP"
+- "JP-01"
+- "UN-030"
+- "UN-142"
