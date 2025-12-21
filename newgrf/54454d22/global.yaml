@@ -5,4 +5,7 @@ description: |-
   This is the first Beta version, so it may contain some bugs.
 
   Enjoy!
+
+  Note: It does not automatically replace existing airports, you must delete them and immediately create a new one in the same location.
 url: "https://www.tt-forums.net/viewtopic.php?p=1277002"
+regions: []
