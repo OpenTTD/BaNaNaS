@@ -3,17 +3,17 @@ license: "CC-BY-SA v3.0"
 upload-date: 2021-02-19T18:09:43Z
 md5sum-partial: "19d0f628"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 2033489
 availability: "savegames-only"
 dependencies:
-- content-type: "newgrf"
-  unique-id: "54574607"
-  md5sum-partial: "2fb0a218"
+- "content-type": "newgrf"
+  "md5sum-partial": "2fb0a218"
+  "unique-id": "54574607"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.7.0"
+  "name": "vanilla"
