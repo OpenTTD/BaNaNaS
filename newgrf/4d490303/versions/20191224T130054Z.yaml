@@ -3,13 +3,13 @@ license: "GPL v2"
 upload-date: 2019-12-24T13:00:54Z
 md5sum-partial: "2d0b7bef"
 classification:
-  set: "bridge"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "bridge"
 filesize: 5819466
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
