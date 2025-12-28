@@ -3,13 +3,13 @@ license: "GPL v2"
 upload-date: 2019-04-29T16:57:53Z
 md5sum-partial: "87502fc3"
 classification:
-  set: "object"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "object"
 filesize: 4123526
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.2.0"
+  "name": "vanilla"
