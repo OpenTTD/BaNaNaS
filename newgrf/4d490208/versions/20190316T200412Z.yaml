@@ -3,9 +3,9 @@ license: "GPL v2"
 upload-date: 2019-03-16T20:04:12Z
 md5sum-partial: "f370c892"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "train"
 filesize: 52368676
 availability: "savegames-only"
