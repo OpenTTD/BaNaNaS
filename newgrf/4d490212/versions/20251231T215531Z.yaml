@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "train"
 filesize: 70572219
-availability: "new-games"
+availability: "savegames-only"
 
 name: "CZTR Engines - DMU"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
