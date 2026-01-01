@@ -1,13 +1,12 @@
 name: "Beginner Tutorial"
 description: |-
-  An interactive tutorial that teaches you how to play OpenTTD.
+  NOTE: NOT MAINTAINED
 
-  Completed chapters: (more to come)
-  * Navigation
-  * Aircraft
-  * Ships
-  * Trucks
-  * Buses
+  You might be better off reading the OpenTTD wiki or watching a YouTube tutorial.
+
+  ----
+
+  An interactive tutorial that teaches you how to play OpenTTD.
 
   How to get started:
   1. Download the scenario named "Beginner Tutorial"
@@ -17,3 +16,4 @@ description: |-
 
   Saving works best if you save after a completed chapter and not half-way through it.
 url: "http://www.tt-forums.net/viewtopic.php?f=65&t=57624"
+regions: []

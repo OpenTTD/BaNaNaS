@@ -3,19 +3,19 @@ license: "GPL v2"
 upload-date: 2013-03-31T19:47:23Z
 md5sum-partial: "e1caa4c7"
 classification:
-  shape: "square"
-  terrain-type: "flat"
-  size: "normal"
-  climate: "temperate"
+  "climate": "temperate"
+  "shape": "square"
+  "size": "normal"
+  "terrain-type": "flat"
 filesize: 52448
 availability: "savegames-only"
 dependencies:
-- content-type: "ai"
-  unique-id: "54534850"
-  md5sum-partial: "c39392d7"
-- content-type: "game-script"
-  unique-id: "5455545f"
-  md5sum-partial: "e05f8a66"
+- "content-type": "ai"
+  "md5sum-partial": "c39392d7"
+  "unique-id": "54534850"
+- "content-type": "game-script"
+  "md5sum-partial": "e05f8a66"
+  "unique-id": "5455545f"
 
 description: |-
   An interactive tutorial that teaches you how to play OpenTTD.
