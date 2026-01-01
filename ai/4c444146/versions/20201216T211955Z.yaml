@@ -5,16 +5,16 @@ md5sum-partial: "fb04c4ff"
 filesize: 64102
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5155534c"
-  md5sum-partial: "757d203b"
-- content-type: "ai-library"
-  unique-id: "5343504c"
-  md5sum-partial: "e1940278"
-- content-type: "ai-library"
-  unique-id: "73637056"
-  md5sum-partial: "0bfd7cab"
+- "content-type": "ai-library"
+  "md5sum-partial": "757d203b"
+  "unique-id": "5155534c"
+- "content-type": "ai-library"
+  "md5sum-partial": "e1940278"
+  "unique-id": "5343504c"
+- "content-type": "ai-library"
+  "md5sum-partial": "0bfd7cab"
+  "unique-id": "73637056"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.10.0"
+  "name": "vanilla"
