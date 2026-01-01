@@ -1,0 +1,10 @@
+name: "China Set: Buses"
+description: |-
+  China-Set-Buses
+
+  The Bus sector of the China Set of OpenTTD.
+  A very early DEMO.
+url: "https://github.com/OpenTTD-China-Set/China-Set-Buses"
+regions:
+- "CN"
+- "UN-142"

@@ -1,0 +1,18 @@
+version: "alpha 0.1"
+license: "GPL v2"
+upload-date: 2026-01-01T18:03:01Z
+md5sum-partial: "0d397aa2"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "road-vehicle"
+filesize: 578190
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13.1"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.65.0"
+  "name": "jgrpp"
