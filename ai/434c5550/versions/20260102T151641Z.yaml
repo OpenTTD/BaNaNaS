@@ -1,9 +1,9 @@
-version: "38"
+version: "39"
 license: "GPL v2"
-upload-date: 2017-04-01T10:27:03Z
-md5sum-partial: "20881849"
-filesize: 66391
-availability: "savegames-only"
+upload-date: 2026-01-02T15:16:41Z
+md5sum-partial: "f13be7c8"
+filesize: 64922
+availability: "new-games"
 dependencies:
 - "content-type": "ai-library"
   "md5sum-partial": "b234d8bd"
@@ -12,12 +12,12 @@ dependencies:
   "md5sum-partial": "e1940278"
   "unique-id": "5343504c"
 - "content-type": "ai-library"
-  "md5sum-partial": "07ecd3d8"
-  "unique-id": "7363704e"
-- "content-type": "ai-library"
   "md5sum-partial": "dcdcf35c"
   "unique-id": "5350524c"
+- "content-type": "ai-library"
+  "md5sum-partial": "07ecd3d8"
+  "unique-id": "7363704e"
 compatibility:
 - "conditions":
-  - ">= 1.2.1"
+  - ">= 15.0.0"
   "name": "vanilla"

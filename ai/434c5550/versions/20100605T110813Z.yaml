@@ -5,12 +5,12 @@ md5sum-partial: "81e361c9"
 filesize: 54145
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "3a165326"
-- content-type: "ai-library"
-  unique-id: "5350524c"
-  md5sum-partial: "719c56d8"
+- "content-type": "ai-library"
+  "md5sum-partial": "3a165326"
+  "unique-id": "5046524f"
+- "content-type": "ai-library"
+  "md5sum-partial": "719c56d8"
+  "unique-id": "5350524c"
 
 description: |-
   CluelessPlus connects towns and industries using road transport. CluelessPlus tries to do its job without causing major jams for other transport companies using jam detection mechanisms.

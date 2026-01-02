@@ -5,9 +5,9 @@ md5sum-partial: "b2b86b4d"
 filesize: 30372
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "3a165326"
+- "content-type": "ai-library"
+  "md5sum-partial": "3a165326"
+  "unique-id": "5046524f"
 
 description: |-
   Builds only bus routes between towns. Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless updated to work with current NoAI API. Extra in the Plus edition:

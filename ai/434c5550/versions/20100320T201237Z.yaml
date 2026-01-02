@@ -5,12 +5,12 @@ md5sum-partial: "323cbeef"
 filesize: 33256
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "3a165326"
-- content-type: "ai-library"
-  unique-id: "5350524c"
-  md5sum-partial: "2a24224b"
+- "content-type": "ai-library"
+  "md5sum-partial": "3a165326"
+  "unique-id": "5046524f"
+- "content-type": "ai-library"
+  "md5sum-partial": "2a24224b"
+  "unique-id": "5350524c"
 
 description: |-
   CluelessPlus is a simple but nice AI that makes bus routes.
