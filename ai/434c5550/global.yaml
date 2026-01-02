@@ -5,9 +5,10 @@ description: |-
   Clueless was the first user AI for NoAI published on tt-forums. CluelessPlus is Clueless that has been updated to work with current NoAI API. And since then there have been many improvements.
 
   Author: Zuu
-url: "http://junctioneer.net/o-ai/CLUP"
+url: "https://junctioneer.net/o-ai/CLUP"
 tags:
 - "aircraft"
 - "bus"
 - "save/load"
 - "truck"
+regions: []
