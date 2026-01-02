@@ -3,15 +3,15 @@ license: "GPL v2"
 upload-date: 2024-11-17T14:31:45Z
 md5sum-partial: "c586ad36"
 classification:
-  set: "gui"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "gui"
 filesize: 63772
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 14.0"
+  "name": "vanilla"
 
 name: "U&GUI"
