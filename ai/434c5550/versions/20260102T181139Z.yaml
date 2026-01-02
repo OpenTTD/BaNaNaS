@@ -1,9 +1,9 @@
-version: "39"
+version: "40"
 license: "GPL v2"
-upload-date: 2026-01-02T15:16:41Z
-md5sum-partial: "f13be7c8"
-filesize: 64922
-availability: "savegames-only"
+upload-date: 2026-01-02T18:11:39Z
+md5sum-partial: "56e583f0"
+filesize: 64769
+availability: "new-games"
 dependencies:
 - "content-type": "ai-library"
   "md5sum-partial": "b234d8bd"
@@ -19,5 +19,5 @@ dependencies:
   "unique-id": "7363704e"
 compatibility:
 - "conditions":
-  - ">= 15.0.0"
+  - ">= 15.0"
   "name": "vanilla"
