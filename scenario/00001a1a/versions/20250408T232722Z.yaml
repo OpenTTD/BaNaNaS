@@ -3,13 +3,13 @@ license: "CC-0 v1.0"
 upload-date: 2025-04-08T23:27:22Z
 md5sum-partial: "7f859ef3"
 classification:
-  shape: "rectangle"
-  terrain-type: "mountainous"
-  size: "huge"
-  climate: "sub-arctic"
+  "climate": "sub-arctic"
+  "shape": "rectangle"
+  "size": "huge"
+  "terrain-type": "mountainous"
 filesize: 3050338
 availability: "new-games"
 compatibility:
-- name: "vanilla"
-  conditions:
-  - ">= 13.0"
+- "conditions":
+  - "< 1"
+  "name": "vanilla"
