@@ -1,0 +1,11 @@
+version: "1.4.0"
+license: "GPL v2"
+upload-date: 2026-01-06T21:31:47Z
+md5sum-partial: "68ff5032"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "aircraft"
+filesize: 14394887
+availability: "new-games"
