@@ -1,0 +1,10 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2026-01-06T14:12:39Z
+md5sum-partial: "e483ad84"
+filesize: 10059
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"

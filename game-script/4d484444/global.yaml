@@ -1,0 +1,3 @@
+name: "Destruction Disaster"
+description: "Destruction Disaster is a lightweight OpenTTD Game Script that tracks how many passengers are lost in vehicle crashes, per company. It publishes those totals into a League Table so players can see, at a glance, which company has caused the most destruction."
+url: "https://github.com/MasterHellish/OpenTTDMods/tree/main/Scripts/DestructionDisaster"
