@@ -1,0 +1,7 @@
+name: "Short Austrian Town Names"
+description: |-
+  A list of over 1,400 names of places in Austria that are at most six letters long.
+  This list was created using data taken from GeoNames (https://www.geonames.org/about/)
+  GeoNames is licensed under a Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+  The data was filtered to remove place names of a length greater than 6, with a listed population of 0, or that may be otherwise inappropriate in the context of OpenTTD.
+url: "https://www.geonames.org/about.html"
