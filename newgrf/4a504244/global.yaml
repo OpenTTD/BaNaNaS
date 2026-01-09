@@ -1,0 +1,14 @@
+name: "JR Logo"
+description: |-
+  Add JR Logo and JNR to OpenTTD world!
+
+  How to use:
+  Add this grf to OpenTTD world
+  Click the compay icon and select "new face"
+  In the new interface click the "Advanced" button
+  Set the "style" on the top to 1 and change the "nose" style, 8 options to choose
+url: "https://www.tt-forums.net/viewtopic.php?t=91773&start=120"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
