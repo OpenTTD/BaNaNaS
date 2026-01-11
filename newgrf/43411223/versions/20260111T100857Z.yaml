@@ -1,14 +1,14 @@
-version: "4.3.0"
+version: "4.3.1"
 license: "GPL v2"
-upload-date: 2026-01-09T17:40:27Z
-md5sum-partial: "d42d54b4"
+upload-date: 2026-01-11T10:08:57Z
+md5sum-partial: "5bf903b5"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 5664415
-availability: "savegames-only"
+filesize: 5664077
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15.0"
