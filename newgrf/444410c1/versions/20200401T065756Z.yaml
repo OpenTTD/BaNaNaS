@@ -3,13 +3,13 @@ license: "Custom"
 upload-date: 2020-04-01T06:57:56Z
 md5sum-partial: "0c36a216"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "train"
 filesize: 1805746
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.6.0"
+  "name": "vanilla"

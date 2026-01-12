@@ -3,9 +3,9 @@ license: "Custom"
 upload-date: 2022-03-01T07:57:47Z
 md5sum-partial: "a695e105"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: true
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "train"
 filesize: 2388321
 availability: "savegames-only"
