@@ -3,19 +3,19 @@ license: "GPL v3"
 upload-date: 2023-09-07T18:46:56Z
 md5sum-partial: "76038f95"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 103326
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 13.4"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.55.1"
+  "name": "jgrpp"
 
 name: "SNCF - French Trainset"
 description: |-
