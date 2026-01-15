@@ -1,11 +1,11 @@
-version: "1"
+version: "1.1"
 license: "GPL v2"
-upload-date: 2026-01-15T10:15:33Z
-md5sum-partial: "b70c7eda"
+upload-date: 2026-01-15T13:52:07Z
+md5sum-partial: "c56dd536"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "landscape"
-filesize: 330881
-availability: "savegames-only"
+filesize: 329332
+availability: "new-games"
