@@ -1,0 +1,25 @@
+version: "0.2.3"
+license: "GPL v2"
+upload-date: 2026-01-17T08:23:40Z
+md5sum-partial: "ff504dbe"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-station"
+filesize: 10559914
+availability: "new-games"
+
+description: |-
+  =============================
+
+  This is alpha version.
+  May not be future compatible.
+
+  Support for OpenTTD 13.0 since v.0.2.0
+
+  Support for new features from OpenTTD 15.0:
+   - Bridges over stations since v.0.1.10
+   - Badges since v.0.2.1
+
+  =============================
