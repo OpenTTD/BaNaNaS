@@ -1,0 +1,11 @@
+version: "1.6.0"
+license: "GPL v2"
+upload-date: 2026-01-18T16:26:37Z
+md5sum-partial: "17f8518a"
+classification:
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "aircraft"
+filesize: 16186122
+availability: "new-games"
