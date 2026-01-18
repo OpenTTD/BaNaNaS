@@ -1,0 +1,15 @@
+version: "1.6.1"
+license: "Custom"
+upload-date: 2026-01-18T11:04:19Z
+md5sum-partial: "7d9fb779"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 86840
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
