@@ -1,17 +1,15 @@
-version: "3.0"
+version: "3.01"
 license: "Custom"
-upload-date: 2026-01-12T09:39:15Z
-md5sum-partial: "ccf0815c"
+upload-date: 2026-01-20T00:06:37Z
+md5sum-partial: "01674d92"
 classification:
   "has-high-res": true
   "has-sound-effects": true
   "palette": "32bpp"
   "set": "train"
-filesize: 2995590
-availability: "savegames-only"
+filesize: 2995587
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15"
   "name": "vanilla"
-
-url: "https://www.tt-forums.net/viewtopic.php?t=86854"
