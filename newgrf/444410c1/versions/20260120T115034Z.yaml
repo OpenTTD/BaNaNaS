@@ -1,14 +1,14 @@
-version: "3.01"
+version: "3.02"
 license: "Custom"
-upload-date: 2026-01-20T00:06:37Z
-md5sum-partial: "01674d92"
+upload-date: 2026-01-20T11:50:34Z
+md5sum-partial: "feeee8be"
 classification:
   "has-high-res": true
   "has-sound-effects": true
   "palette": "32bpp"
   "set": "train"
-filesize: 2995587
-availability: "savegames-only"
+filesize: 2995591
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15"
