@@ -1,0 +1,20 @@
+version: "12.2"
+license: "GPL v2"
+upload-date: 2026-01-20T20:58:49Z
+md5sum-partial: "9dd9106e"
+filesize: 75050
+availability: "new-games"
+dependencies:
+- "content-type": "game-script-library"
+  "md5sum-partial": "643a5092"
+  "unique-id": "5343504c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "4b28bb33"
+  "unique-id": "5350524c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "30c37814"
+  "unique-id": "544c4753"
+compatibility:
+- "conditions":
+  - ">= 14.0"
+  "name": "vanilla"

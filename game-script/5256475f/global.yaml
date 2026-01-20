@@ -1,0 +1,3 @@
+name: "RVG (fork by ChronosXYZ)"
+description: "Towns require various cargo deliveries to grow. Required cargos can be randomized. Town growth is limited by percentage of transported specific cargos. Supporting all Industry NewGRF sets. This is the fork of the original NewGRF set to fix some bugs for my server."
+url: "https://github.com/ChronosXYZ/RenewedVillageGrowth"
