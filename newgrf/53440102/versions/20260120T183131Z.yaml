@@ -1,0 +1,18 @@
+version: "0"
+license: "GPL v3"
+upload-date: 2026-01-20T18:31:31Z
+md5sum-partial: "d23baa43"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "road-vehicle"
+filesize: 16795
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.69"
+  "name": "jgrpp"
