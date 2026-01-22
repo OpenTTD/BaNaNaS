@@ -1,0 +1,15 @@
+version: "1.0"
+license: "Custom"
+upload-date: 2026-01-22T03:23:46Z
+md5sum-partial: "bd073608"
+classification:
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "aircraft"
+filesize: 2145273
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 14"
+  "name": "vanilla"
