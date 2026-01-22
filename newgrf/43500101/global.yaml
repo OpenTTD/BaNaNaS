@@ -1,0 +1,10 @@
+name: "Saskatchewan Town Names"
+description: |-
+  Adds the real life town names from the Canadian province of Saskatchewan.
+
+  This is released under the GPL v3 license.
+
+  Find the source code and grf files on GitHub: https://github.com/spthiessen/OpenTTD-NewGRFs/tree/main
+url: "https://github.com/spthiessen/OpenTTD-NewGRFs/tree/main"
+regions:
+- "CA-SK"

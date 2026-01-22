@@ -1,0 +1,11 @@
+version: "1.0"
+license: "GPL v3"
+upload-date: 2026-01-22T07:15:39Z
+md5sum-partial: "234c88bd"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "townname"
+filesize: 13517
+availability: "new-games"
