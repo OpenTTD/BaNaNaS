@@ -1,0 +1,18 @@
+version: "0.9"
+license: "Custom"
+upload-date: 2026-01-22T04:33:19Z
+md5sum-partial: "1aff9cf6"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "landscape"
+filesize: 47958681
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15"
+  "name": "vanilla"
+
+description: "2x/32bpp landscape and infrastructure newgrf, for temperate and arctic. Includes landscape tiles, roadtypes and railtypes, stations, objects, and airports. Core of the Sunshine set of 2x/32bpp newgrfs."
+url: "https://www.tt-forums.net/viewtopic.php?t=92649"
