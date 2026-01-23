@@ -1,0 +1,14 @@
+version: "3"
+license: "CC-BY v3.0"
+upload-date: 2026-01-23T00:19:09Z
+md5sum-partial: "1d6fd188"
+classification:
+  "has-high-res": false
+  "has-sound-effects": true
+  "palette": "8bpp"
+  "set": "train"
+filesize: 920868
+availability: "new-games"
+
+name: "NARP-Modern Locomotives"
+description: "Diesel and Electric locomotives from North America. Best used alongside other NARP sets or Iron Horse. Drawn and coded by Ragin (Zachary Moore)."
