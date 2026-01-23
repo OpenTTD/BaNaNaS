@@ -12,5 +12,4 @@ availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.0.0"
-  - "< 15"
   "name": "vanilla"
