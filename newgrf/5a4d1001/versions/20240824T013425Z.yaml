@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 248766
-availability: "new-games"
+availability: "savegames-only"
 
 name: "CNAPS"
 description: |-

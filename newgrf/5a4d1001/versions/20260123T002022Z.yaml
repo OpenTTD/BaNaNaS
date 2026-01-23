@@ -1,0 +1,13 @@
+version: "2"
+license: "CC-BY v3.0"
+upload-date: 2026-01-23T00:20:22Z
+md5sum-partial: "d493e002"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 51639
+availability: "new-games"
+
+description: "Diesel and Electric multiple units from North America. Best used alongside other NARP sets. Drawn and coded by Ragin (Zachary Moore)."
