@@ -1,11 +1,11 @@
-version: "5.1.1"
+version: "5.2.0"
 license: "GPL v2"
-upload-date: 2026-01-05T18:51:23Z
-md5sum-partial: "4bd3987e"
+upload-date: 2026-01-25T18:38:15Z
+md5sum-partial: "6bb8b38e"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "industry"
-filesize: 1380744
-availability: "savegames-only"
+filesize: 1380827
+availability: "new-games"
