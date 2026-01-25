@@ -1,0 +1,10 @@
+version: "v0.1 beta"
+license: "GPL v2"
+upload-date: 2026-01-25T17:39:33Z
+md5sum-partial: "75c678ca"
+filesize: 20386
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 12.0"
+  "name": "vanilla"
