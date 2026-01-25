@@ -1,15 +1,15 @@
-version: "2.15"
+version: "2.16"
 license: "GPL v3"
-upload-date: 2025-09-26T14:12:03Z
-md5sum-partial: "88af37f5"
+upload-date: 2026-01-25T16:52:31Z
+md5sum-partial: "e89c2d4d"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "industry"
-filesize: 40737
-availability: "savegames-only"
+filesize: 40768
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 14.0"
+  - ">= 15.0"
   "name": "vanilla"
