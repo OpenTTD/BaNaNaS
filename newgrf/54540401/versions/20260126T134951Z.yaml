@@ -1,14 +1,14 @@
-version: "2.16"
+version: "2.17"
 license: "GPL v3"
-upload-date: 2026-01-25T16:52:31Z
-md5sum-partial: "e89c2d4d"
+upload-date: 2026-01-26T13:49:51Z
+md5sum-partial: "867a0198"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "industry"
-filesize: 40768
-availability: "savegames-only"
+filesize: 40769
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15.0"
