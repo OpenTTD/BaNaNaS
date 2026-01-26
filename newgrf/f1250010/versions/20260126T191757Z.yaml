@@ -1,0 +1,15 @@
+version: "5.2.0"
+license: "Custom"
+upload-date: 2026-01-26T19:17:57Z
+md5sum-partial: "38681da5"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
+filesize: 2094887
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.7.0"
+  "name": "vanilla"
