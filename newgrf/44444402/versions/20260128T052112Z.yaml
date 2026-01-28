@@ -1,0 +1,15 @@
+version: "0.5"
+license: "Custom"
+upload-date: 2026-01-28T05:21:12Z
+md5sum-partial: "e8d427f2"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "town"
+filesize: 2788384
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15"
+  "name": "vanilla"

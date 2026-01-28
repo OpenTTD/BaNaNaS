@@ -1,0 +1,5 @@
+name: "Sunshine Houses"
+description: "2x/32bpp town houses newgrf, UK style. Preview version 0.5 - does not yet include construction stages or later, larger buildings, but is playable! Part of the Sunshine set of 2x/32bpp newgrfs."
+url: "https://www.tt-forums.net/viewtopic.php?t=92665"
+regions:
+- "GB"
