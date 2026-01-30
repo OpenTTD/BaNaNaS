@@ -3,7 +3,7 @@ license: "GPL v2"
 upload-date: 2026-01-30T04:15:02Z
 md5sum-partial: "e2e3e15a"
 filesize: 52318
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - "content-type": "ai-library"
   "md5sum-partial": "dcdcf35c"

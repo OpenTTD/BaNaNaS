@@ -1,0 +1,17 @@
+version: "1.5"
+license: "GPL v2"
+upload-date: 2026-01-30T04:31:36Z
+md5sum-partial: "c4832df2"
+filesize: 52317
+availability: "new-games"
+dependencies:
+- "content-type": "game-script-library"
+  "md5sum-partial": "4b28bb33"
+  "unique-id": "5350524c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "30c37814"
+  "unique-id": "544c4753"
+
+name: "O2ttdScriptPack"
+description: "see https://github.com/pulsexlb/O2ttdScriptPack/"
+url: "https://github.com/pulsexlb/O2ttdScriptPack/"
