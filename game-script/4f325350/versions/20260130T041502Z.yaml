@@ -5,8 +5,8 @@ md5sum-partial: "e2e3e15a"
 filesize: 52318
 availability: "savegames-only"
 dependencies:
-- "content-type": "ai-library"
-  "md5sum-partial": "dcdcf35c"
+- "content-type": "game-script-library"
+  "md5sum-partial": "4b28bb33"
   "unique-id": "5350524c"
 - "content-type": "game-script-library"
   "md5sum-partial": "30c37814"
