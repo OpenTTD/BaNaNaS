@@ -1,9 +1,9 @@
-version: "1.5"
+version: "1.6"
 license: "GPL v2"
-upload-date: 2026-01-30T04:31:36Z
-md5sum-partial: "c4832df2"
-filesize: 52317
-availability: "savegames-only"
+upload-date: 2026-01-30T07:48:48Z
+md5sum-partial: "9fd47035"
+filesize: 52705
+availability: "new-games"
 dependencies:
 - "content-type": "game-script-library"
   "md5sum-partial": "4b28bb33"
