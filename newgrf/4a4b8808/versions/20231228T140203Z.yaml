@@ -3,12 +3,12 @@ license: "GPL v2"
 upload-date: 2023-12-28T14:02:03Z
 md5sum-partial: "6dbc1f5e"
 classification:
-  set: "industry"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
 filesize: 1357268
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   AXIS: Another eXtreme Industry Set.
