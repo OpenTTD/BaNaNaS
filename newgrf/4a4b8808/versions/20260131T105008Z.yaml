@@ -9,3 +9,13 @@ classification:
   "set": "industry"
 filesize: 1387082
 availability: "new-games"
+
+description: |-
+  AXIS: Another Xtreme Industry Set
+
+  Contains 3 different economies, each with 64 cargo types:
+  Extreme Classic - A bit of everything, the successor to XIS
+  Steel City - Enhanced Steeltown, with added petrochemicals
+  Tropical Paradise - Agricultural focus for tropic maps
+
+  Credits: Designed by Emperor Jake, based on FIRS 4 code and graphics by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others.
