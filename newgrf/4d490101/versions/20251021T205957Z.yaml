@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "road-infra"
 filesize: 13278938
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 1.10.0"
