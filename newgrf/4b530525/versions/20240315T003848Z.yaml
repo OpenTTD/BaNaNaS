@@ -3,11 +3,11 @@ license: "CC-BY-NC-SA v3.0"
 upload-date: 2024-03-15T00:38:48Z
 md5sum-partial: "a4a4a04f"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 96495
-availability: "new-games"
+availability: "savegames-only"
 
 description: "ATOV - Add to original vehicles. Adds new graphics for each FIRS cargo, both loaded and unloaded, that is not already in openTTD. Created to have all cargos from FIRS 4, may be missing some cargos from other FIRS versions but is still useable. Designed to be used with original vehicle set."

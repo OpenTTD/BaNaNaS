@@ -1,11 +1,11 @@
-version: "1.0"
+version: "3.0"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2024-03-15T00:33:41Z
-md5sum-partial: "218fb015"
+upload-date: 2026-02-01T05:47:34Z
+md5sum-partial: "0a7118b6"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 96493
-availability: "savegames-only"
+filesize: 129068
+availability: "new-games"
