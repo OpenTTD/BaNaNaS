@@ -1,4 +1,4 @@
 name: "Production Booster"
-description: "Adjusts primary industry output based on transport performance, increasing production when 80% of cargo is delivered and decreasing it when delivery falls below 60%."
+description: "Dynamically adjusts primary industry production based on transport efficiency—boosting output when at least 80% of cargo is delivered and reducing production when delivery drops below 60%."
 url: "https://github.com/nelbin4/openttdprodboost"
 regions: []
