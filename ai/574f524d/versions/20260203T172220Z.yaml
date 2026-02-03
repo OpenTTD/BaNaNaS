@@ -1,16 +1,16 @@
-version: "8"
+version: "11"
 license: "GPL v2"
-upload-date: 2019-09-19T22:16:50Z
-md5sum-partial: "1d590137"
-filesize: 99759
-availability: "savegames-only"
+upload-date: 2026-02-03T17:22:20Z
+md5sum-partial: "15d349ed"
+filesize: 101105
+availability: "new-games"
 dependencies:
-- "content-type": "ai-library"
-  "md5sum-partial": "f385497c"
-  "unique-id": "4752412a"
 - "content-type": "ai-library"
   "md5sum-partial": "1a004fe2"
   "unique-id": "434c414c"
+- "content-type": "ai-library"
+  "md5sum-partial": "f385497c"
+  "unique-id": "4752412a"
 - "content-type": "ai-library"
   "md5sum-partial": "dcdcf35c"
   "unique-id": "5350524c"

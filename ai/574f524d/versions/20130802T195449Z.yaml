@@ -5,12 +5,12 @@ md5sum-partial: "a9abc881"
 filesize: 24900
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "434c414c"
-  md5sum-partial: "1a004fe2"
-- content-type: "ai-library"
-  unique-id: "5350524c"
-  md5sum-partial: "975478c5"
+- "content-type": "ai-library"
+  "md5sum-partial": "1a004fe2"
+  "unique-id": "434c414c"
+- "content-type": "ai-library"
+  "md5sum-partial": "975478c5"
+  "unique-id": "5350524c"
 
 description: "WormAI is an AI for OpenTTD that currently only uses PAX aircraft."
 tags:
