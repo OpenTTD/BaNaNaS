@@ -1,9 +1,9 @@
-version: "8"
+version: "9"
 license: "GPL v2"
-upload-date: 2023-03-20T21:24:50Z
-md5sum-partial: "96aff590"
-filesize: 129897
-availability: "savegames-only"
+upload-date: 2026-02-03T17:04:20Z
+md5sum-partial: "319453a4"
+filesize: 130024
+availability: "new-games"
 dependencies:
 - "content-type": "ai-library"
   "md5sum-partial": "8ce55e13"
