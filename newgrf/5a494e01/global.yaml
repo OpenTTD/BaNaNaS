@@ -1,0 +1,3 @@
+name: "Cargo Payment Randomiser"
+description: "Bored of always having the same payment rates for industries? Use the cargo payment rate randomiser! This NewGRF randomly alters cargo payment rates based on your game's map seed, by adding a random value to a minimum payment rate. Don't try to use in combination with any other NewGRF which defines cargos or industries. By Zephyris."
+url: "https://github.com/zephyris/openttd-newgrfs/"
