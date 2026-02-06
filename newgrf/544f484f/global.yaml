@@ -1,0 +1,7 @@
+name: "Touhou Project Townames"
+description: "A town named NewGRF featuring 234 characters and places from the Touhou Project series, as referenced in the Touhou Wiki."
+url: "https://www.tt-forums.net/viewtopic.php?p=1277942#p1277942"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
