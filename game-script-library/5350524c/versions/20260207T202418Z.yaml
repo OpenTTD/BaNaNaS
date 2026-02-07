@@ -1,14 +1,14 @@
-version: "40"
+version: "41"
 license: "GPL v2"
-upload-date: 2017-04-01T09:43:58Z
-md5sum-partial: "4b28bb33"
-filesize: 78591
-availability: "savegames-only"
+upload-date: 2026-02-07T20:24:18Z
+md5sum-partial: "ff7a19a9"
+filesize: 79139
+availability: "new-games"
 dependencies:
 - "content-type": "game-script-library"
   "md5sum-partial": "ac98ad57"
   "unique-id": "5046524f"
 compatibility:
 - "conditions":
-  - ">= 1.2.0"
+  - ">= 15.0"
   "name": "vanilla"
