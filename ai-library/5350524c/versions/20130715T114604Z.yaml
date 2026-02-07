@@ -5,9 +5,9 @@ md5sum-partial: "14722abb"
 filesize: 76037
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "999de61c"
+- "content-type": "ai-library"
+  "md5sum-partial": "999de61c"
+  "unique-id": "5046524f"
 
 description: |-
   SuperLib contains functions for

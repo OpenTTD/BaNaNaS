@@ -5,9 +5,9 @@ md5sum-partial: "7d846dd9"
 filesize: 65537
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "3a165326"
+- "content-type": "ai-library"
+  "md5sum-partial": "3a165326"
+  "unique-id": "5046524f"
 
 description: |-
   As you might know CluelessPlus, PAXLink, TownCars and TutorialAI are all created by the same author. To reduce code duplication among these AIs, this library has been created. As a bonus, other AI authors can also use the library.
