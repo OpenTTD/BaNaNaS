@@ -3,9 +3,9 @@ license: "GPL v2"
 upload-date: 2013-12-23T10:54:02Z
 md5sum-partial: "68b7dc64"
 classification:
-  set: "rail-station"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-station"
 filesize: 220435
 availability: "savegames-only"

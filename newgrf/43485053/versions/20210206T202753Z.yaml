@@ -3,9 +3,13 @@ license: "GPL v2"
 upload-date: 2021-02-06T20:27:53Z
 md5sum-partial: "73997f87"
 classification:
-  set: "rail-station"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "rail-station"
 filesize: 291213
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 0.1"
+  "name": "vanilla"
