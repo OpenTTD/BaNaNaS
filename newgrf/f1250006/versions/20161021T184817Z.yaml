@@ -3,13 +3,13 @@ license: "GPL v2"
 upload-date: 2016-10-21T18:48:17Z
 md5sum-partial: "05978af7"
 classification:
-  set: "industry"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
 filesize: 807947
 availability: "new-games"
 compatibility:
-- name: "vanilla"
-  conditions:
-  - ">= 1.6.0"
+- "conditions":
+  - "< 0.1"
+  "name": "vanilla"
