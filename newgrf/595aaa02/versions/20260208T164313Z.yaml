@@ -1,11 +1,11 @@
-version: "0.5.9"
+version: "0.7.0"
 license: "GPL v2"
-upload-date: 2025-10-07T16:55:51Z
-md5sum-partial: "d340c7fd"
+upload-date: 2026-02-08T16:43:13Z
+md5sum-partial: "b96369cc"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "rail-infra"
-filesize: 2741575
-availability: "savegames-only"
+filesize: 3250293
+availability: "new-games"
