@@ -3,11 +3,15 @@ license: "GPL v2"
 upload-date: 2023-01-08T09:21:14Z
 md5sum-partial: "4734b46c"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 4332743
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 0.1"
+  "name": "vanilla"
 
 url: "https://grf.farm/iron-horse/index.html"
