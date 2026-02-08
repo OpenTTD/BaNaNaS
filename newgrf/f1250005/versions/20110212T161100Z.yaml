@@ -3,10 +3,10 @@ license: "GPL v2"
 upload-date: 2011-02-12T16:11:00Z
 md5sum-partial: "8fba79be"
 classification:
-  set: "industry"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
 filesize: 349131
 availability: "savegames-only"
 
