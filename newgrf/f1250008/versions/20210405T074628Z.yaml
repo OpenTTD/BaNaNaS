@@ -3,9 +3,9 @@ license: "GPL v2"
 upload-date: 2021-04-05T07:46:28Z
 md5sum-partial: "70a472b5"
 classification:
-  set: "industry"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
 filesize: 798474
 availability: "savegames-only"

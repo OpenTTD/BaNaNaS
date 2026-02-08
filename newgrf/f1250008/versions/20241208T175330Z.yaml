@@ -3,9 +3,13 @@ license: "GPL v2"
 upload-date: 2024-12-08T17:53:30Z
 md5sum-partial: "7a216a9c"
 classification:
-  set: "industry"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
 filesize: 1218738
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 0.1"
+  "name": "vanilla"
