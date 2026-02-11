@@ -1,0 +1,7 @@
+name: "River Addon for OpenGFX2 'TG'"
+description: "Adds extra riverbank sprites for OpenGFX2'TropicalGrass'"
+url: "https://www.tt-forums.net/viewtopic.php?t=91773&start=140"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
