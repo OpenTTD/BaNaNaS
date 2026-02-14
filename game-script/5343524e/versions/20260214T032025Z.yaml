@@ -4,3 +4,10 @@ upload-date: 2026-02-14T03:20:25Z
 md5sum-partial: "9e362d3b"
 filesize: 14404
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 0"
+  "name": "vanilla"
+- "conditions":
+  - "< 0"
+  "name": "jgrpp"
