@@ -4,3 +4,13 @@ upload-date: 2026-02-14T03:27:41Z
 md5sum-partial: "4cdffa5f"
 filesize: 14403
 availability: "savegames-only"
+
+description: |-
+  Renames stations with unique 3-letter town codes. E.g.
+
+  Rail:   [TOW] Town
+  Bus:    [TOW] B-001
+  Tram:   [TOW] T-001
+  Truck:  [TOW] F-001
+  Air:    [TOW] Town Airport
+  Sea:    [TOW] Town Dock
