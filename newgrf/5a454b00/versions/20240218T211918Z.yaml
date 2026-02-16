@@ -3,19 +3,19 @@ license: "Custom"
 upload-date: 2024-02-18T21:19:18Z
 md5sum-partial: "49b7ff5e"
 classification:
-  set: "ship"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "ship"
 filesize: 52259
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 14.0"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.58.1"
+  "name": "jgrpp"
 
 name: "Ekranoplan"
 description: "High speed watercraft based on real-life ekranoplan: ground effect aircraft primarily designed and developed in the USSR. Classic (1x zoom, 8-bit pixel art) two company colour graphics."

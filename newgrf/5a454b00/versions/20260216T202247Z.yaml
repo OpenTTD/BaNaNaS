@@ -1,15 +1,15 @@
-version: "1"
+version: "4"
 license: "Custom"
-upload-date: 2024-01-29T08:36:56Z
-md5sum-partial: "2658de54"
+upload-date: 2026-02-16T20:22:47Z
+md5sum-partial: "8965abbb"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "ship"
-filesize: 52208
-availability: "savegames-only"
+filesize: 52880
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 1.3.0"
+  - ">= 14.0"
   "name": "vanilla"
