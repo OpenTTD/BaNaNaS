@@ -1,0 +1,7 @@
+name: "Aerotrain"
+description: |-
+  A NewGRF inspired by Jean Bertin’s Aérotrain.
+
+  Introduces high-speed ground-effect vehicles running on a dedicated concrete guideway.
+  Positioned between trains and aircraft, with low infrastructure costs and high operating costs.
+  Includes four historical Aérotrain vehicles and a dedicated track.
