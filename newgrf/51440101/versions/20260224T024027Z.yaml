@@ -1,14 +1,14 @@
-version: "1.2"
+version: "1.3"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2026-02-24T00:23:52Z
-md5sum-partial: "20371ce4"
+upload-date: 2026-02-24T02:40:27Z
+md5sum-partial: "9f3dc11b"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "object"
-filesize: 9496
-availability: "savegames-only"
+filesize: 10328
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.2.0"
