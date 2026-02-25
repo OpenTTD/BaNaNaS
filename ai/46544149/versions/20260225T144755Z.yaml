@@ -1,0 +1,16 @@
+version: "260225"
+license: "GPL v2"
+upload-date: 2026-02-25T14:47:55Z
+md5sum-partial: "2bb91eeb"
+filesize: 70485
+availability: "new-games"
+dependencies:
+- "content-type": "ai-library"
+  "md5sum-partial": "1a004fe2"
+  "unique-id": "434c414c"
+- "content-type": "ai-library"
+  "md5sum-partial": "e59a176a"
+  "unique-id": "434c4346"
+- "content-type": "ai-library"
+  "md5sum-partial": "61b8396e"
+  "unique-id": "434c5346"

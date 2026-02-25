@@ -5,15 +5,15 @@ md5sum-partial: "5f28d269"
 filesize: 56510
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "41494245"
-  md5sum-partial: "4c4e7263"
-- content-type: "ai-library"
-  unique-id: "434c5346"
-  md5sum-partial: "61b8396e"
-- content-type: "ai-library"
-  unique-id: "434c414c"
-  md5sum-partial: "1a004fe2"
+- "content-type": "ai-library"
+  "md5sum-partial": "4c4e7263"
+  "unique-id": "41494245"
+- "content-type": "ai-library"
+  "md5sum-partial": "61b8396e"
+  "unique-id": "434c5346"
+- "content-type": "ai-library"
+  "md5sum-partial": "1a004fe2"
+  "unique-id": "434c414c"
 
 description: |-
   An AI that is developed by Fanioz as an effort to be a transporter.

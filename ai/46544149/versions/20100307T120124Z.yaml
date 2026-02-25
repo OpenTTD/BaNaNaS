@@ -5,9 +5,9 @@ md5sum-partial: "39cfe287"
 filesize: 55106
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "51554648"
-  md5sum-partial: "1cfcb44b"
+- "content-type": "ai-library"
+  "md5sum-partial": "1cfcb44b"
+  "unique-id": "51554648"
 
 description: |-
   An AI that is developed by Fanioz as an effort to be a transporter.

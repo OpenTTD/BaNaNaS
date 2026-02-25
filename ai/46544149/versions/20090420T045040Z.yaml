@@ -5,12 +5,12 @@ md5sum-partial: "0b9a0d89"
 filesize: 41911
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "51554248"
-  md5sum-partial: "8ce55e13"
-- content-type: "ai-library"
-  unique-id: "4752412a"
-  md5sum-partial: "a8d4049c"
+- "content-type": "ai-library"
+  "md5sum-partial": "8ce55e13"
+  "unique-id": "51554248"
+- "content-type": "ai-library"
+  "md5sum-partial": "a8d4049c"
+  "unique-id": "4752412a"
 
 description: "An AI written by fanioz as an effort to be  a transporter"
 tags:
