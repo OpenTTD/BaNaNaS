@@ -1,0 +1,10 @@
+version: "v24"
+license: "GPL v2"
+upload-date: 2026-02-25T20:06:00Z
+md5sum-partial: "9fb2957c"
+filesize: 149696
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
