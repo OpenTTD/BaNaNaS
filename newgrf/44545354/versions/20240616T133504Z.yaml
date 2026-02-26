@@ -3,10 +3,10 @@ license: "GPL v3"
 upload-date: 2024-06-16T13:35:04Z
 md5sum-partial: "71acdf40"
 classification:
-  set: "mixed"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
 filesize: 276733
 availability: "savegames-only"
 
