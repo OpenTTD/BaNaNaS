@@ -1,0 +1,13 @@
+version: "3.71"
+license: "GPL v2"
+upload-date: 2026-02-27T11:35:40Z
+md5sum-partial: "20db8546"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "object"
+filesize: 3151565
+availability: "new-games"
+
+url: "https://github.com/zyliety/Japan-style-Objects-buildings"
