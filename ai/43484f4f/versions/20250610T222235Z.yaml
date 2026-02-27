@@ -5,10 +5,10 @@ md5sum-partial: "ef7dac22"
 filesize: 61150
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "3a165326"
+- "content-type": "ai-library"
+  "md5sum-partial": "3a165326"
+  "unique-id": "5046524f"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 12.0"
+  "name": "vanilla"

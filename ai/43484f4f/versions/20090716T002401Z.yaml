@@ -5,12 +5,12 @@ md5sum-partial: "1b99755a"
 filesize: 26203
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "5046524c"
-  md5sum-partial: "e6b1d198"
-- content-type: "ai-library"
-  unique-id: "5046524f"
-  md5sum-partial: "3a165326"
+- "content-type": "ai-library"
+  "md5sum-partial": "e6b1d198"
+  "unique-id": "5046524c"
+- "content-type": "ai-library"
+  "md5sum-partial": "3a165326"
+  "unique-id": "5046524f"
 
 tags:
 - "train"
