@@ -1,0 +1,18 @@
+version: "0.1.2 alpha"
+license: "GPL v3"
+upload-date: 2026-02-27T13:43:45Z
+md5sum-partial: "efc045e9"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 21108
+availability: "new-games"
+
+name: "Narrow Gauge fast train"
+description: |-
+  train
+  japan
+  Narrow Gauge
+url: "https://github.com/kimjostars/Narrow-Gauge-fast-train"
