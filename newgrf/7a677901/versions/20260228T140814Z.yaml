@@ -1,0 +1,26 @@
+version: "4"
+license: "GPL v2"
+upload-date: 2026-02-28T14:08:14Z
+md5sum-partial: "414eb83f"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "town"
+filesize: 16750
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.9.0"
+  "name": "vanilla"
+
+description: |-
+  https://github.com/GraionDilach/universal-climate-houses
+
+  A simple NewGRF to enable vanilla temperate/arctic/sub-tropic houses on other climates. It also allows Temperate houses and all flats to also accept Food and more reasonable Fizzy Drink handling on Toyland. Does not include additional artwork.
+
+  License: GPLv2
+
+  Specific thanks to EmperorJake, PikkaBird and 2TallTyler
+
+  Author: Graion Dilach
