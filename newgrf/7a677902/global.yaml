@@ -1,0 +1,12 @@
+name: "OpenGFX+ Towns"
+description: |-
+  Merges OpenGFX houses with UK Town Set v2.2 to allow combinations with other base sets and offer additional polish prevented due to being tied to TTD's own spritesheet. Includes all options from Universal Climate Houses.
+
+  License: GPLv2, source available at https://github.com/GraionDilach/opengfx-towns
+
+  Artwork: Zephyris and OpenGFX contributors
+
+  Specific thanks to EmperorJake, PikkaBird and 2TallTyler
+
+  Code author: Graion Dilach
+url: "https://github.com/GraionDilach/opengfx-towns"
