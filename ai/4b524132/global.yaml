@@ -1,0 +1,8 @@
+name: "KrakenAI2"
+description: |-
+  An AI that tries to be smart using trucks.
+
+  Use this version instead of old KrakenAI. I was unable to update the old AI after Bananas' update regarding github login.
+
+  Forum page: https://www.tt-forums.net/viewtopic.php?t=86173
+url: "https://github.com/krakeusz/krakenai"
