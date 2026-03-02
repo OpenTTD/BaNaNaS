@@ -1,0 +1,8 @@
+name: "North Carolina FIRS"
+description: |-
+  Includes the FIRS basic temperate industry set, as well as renewed village growth.
+
+  Map area is North Carolina, a bit of TN, SC, and VA. I also made some custom scenery additions like the ports of Norfolk, Wilmington, and Moorehead, and other things.
+regions:
+- "US"
+- "US-NC"
