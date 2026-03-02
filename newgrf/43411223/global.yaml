@@ -2,18 +2,13 @@ name: "Iron Horse 4 (Trains)"
 description: |-
   Iron Horse 4.
 
-  Comprehensive train set with a gameplay focus.
+  A comprehensive train set with a gameplay focus, including a full set of steam, diesel and electric trains spanning 1860 to 2020.
+
+  Also includes high speed trains, narrow gauge trains and metro trains.
 
   Inspired (mostly) by British and Irish trains.
 
-  It's mostly done and it's kind of fun.
-
-  Designed to be used with 'vehicles expire' set to to 'on', Iron Horse 4 has a *lot* of vehicles and crowds the buy menu unless expiry is used.
-
-  Earliest start: around 1860
-  Last new trains introduced: around 2020
-
-  Also includes narrow gauge and metro trains and railtypes.
+  Features options for simplified gameplay with fewer trains, including 'wagons-only' mode. Adjustable train cargo capacity.
 url: "https://grf.farm/iron-horse/index.html"
 regions:
 - "GB"
