@@ -3,9 +3,9 @@ license: "CC-BY-NC-SA v3.0"
 upload-date: 2023-06-17T15:31:32Z
 md5sum-partial: "7266c3ec"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 565076
 availability: "savegames-only"
