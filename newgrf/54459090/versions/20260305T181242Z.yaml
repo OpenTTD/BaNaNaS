@@ -9,3 +9,10 @@ classification:
   "set": "economy"
 filesize: 14362
 availability: "savegames-only"
+compatibility:
+- "conditions":
+  - "< 10.0"
+  "name": "vanilla"
+- "conditions":
+  - "< 0.50"
+  "name": "jgrpp"
