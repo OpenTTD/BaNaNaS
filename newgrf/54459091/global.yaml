@@ -1,0 +1,11 @@
+name: "ECS Price Factor Modifier"
+description: |-
+  This NewGRF allows adjusting cargo price factors used by the ECS economy.
+
+  Each parameter sets the ECS base value used in the original formula:
+
+  base_value * 51000 / 2097152
+
+  Only the base_value (first number) must be provided. The same ECS formula is applied internally.
+
+  If a parameter is set to 0, the original ECS value is kept. Parameters can also be changed during the game, but runtime calculations use integers only.
