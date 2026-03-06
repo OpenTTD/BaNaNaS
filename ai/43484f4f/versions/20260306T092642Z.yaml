@@ -1,9 +1,9 @@
-version: "432"
+version: "433"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-02-27T09:50:26Z
-md5sum-partial: "3f5bea03"
-filesize: 62295
-availability: "savegames-only"
+upload-date: 2026-03-06T09:26:42Z
+md5sum-partial: "5f392268"
+filesize: 63168
+availability: "new-games"
 dependencies:
 - "content-type": "ai-library"
   "md5sum-partial": "3a165326"
