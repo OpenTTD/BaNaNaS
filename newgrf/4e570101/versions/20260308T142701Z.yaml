@@ -1,0 +1,18 @@
+version: "0.0.3"
+license: "GPL v2"
+upload-date: 2026-03-08T14:27:01Z
+md5sum-partial: "c131460f"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 530321
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.69.0"
+  "name": "jgrpp"
