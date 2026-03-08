@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 16969
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Narrow Gauge fast train"
 url: "https://github.com/kimjostars/Narrow-Gauge-fast-train"
