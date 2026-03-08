@@ -8,6 +8,6 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 2027612
-availability: "new-games"
+availability: "savegames-only"
 
 url: "https://github.com/DTS-NewGRF/DTS_Virtual"
