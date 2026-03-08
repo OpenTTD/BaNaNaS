@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 3359954
-availability: "new-games"
+availability: "savegames-only"
 dependencies:
 - "content-type": "newgrf"
   "md5sum-partial": "6400cbe1"
