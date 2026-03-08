@@ -1,0 +1,13 @@
+version: "1.00.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2026-03-08T14:32:48Z
+md5sum-partial: "4eed43b9"
+classification:
+  "has-high-res": false
+  "has-sound-effects": true
+  "palette": "8bpp"
+  "set": "train"
+filesize: 2027612
+availability: "new-games"
+
+url: "https://github.com/DTS-NewGRF/DTS_Virtual"
