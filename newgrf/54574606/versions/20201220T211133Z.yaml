@@ -3,13 +3,13 @@ license: "CC-BY-SA v3.0"
 upload-date: 2020-12-20T21:11:33Z
 md5sum-partial: "96f67e5d"
 classification:
-  set: "rail-infra"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "rail-infra"
 filesize: 2484392
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.7.0"
+  "name": "vanilla"
