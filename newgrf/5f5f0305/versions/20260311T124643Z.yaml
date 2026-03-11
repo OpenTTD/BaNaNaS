@@ -1,0 +1,15 @@
+version: "0.21.0"
+license: "GPL v2"
+upload-date: 2026-03-11T12:46:43Z
+md5sum-partial: "2263687e"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
+filesize: 5950130
+availability: "new-games"
+
+name: "China Set: Metros"
+description: "中国地铁包合集"
+url: "https://github.com/OpenTTD-China-Set/china-set-metro"

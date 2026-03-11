@@ -8,6 +8,6 @@ classification:
   "palette": "32bpp"
   "set": "train"
 filesize: 5305848
-availability: "new-games"
+availability: "savegames-only"
 
 name: "China Set: Metros"
