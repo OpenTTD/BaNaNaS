@@ -1,17 +1,17 @@
-version: "v0.1.0"
+version: "v0.1.1"
 license: "GPL v3"
-upload-date: 2026-03-13T14:13:01Z
-md5sum-partial: "c10c6866"
+upload-date: 2026-03-13T16:52:06Z
+md5sum-partial: "0025d7cd"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "unknown"
-filesize: 23259
-availability: "savegames-only"
+filesize: 23547
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15.0"
   "name": "vanilla"
 
-url: "https://www.tt-forums.net/viewtopic.php?t=92736"
+url: "https://www.tt-forums.net/viewtopic.php?p=1278522"
