@@ -1,0 +1,11 @@
+version: "3.81"
+license: "GPL v2"
+upload-date: 2026-03-14T14:50:47Z
+md5sum-partial: "1f67b64a"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "object"
+filesize: 3306191
+availability: "new-games"
