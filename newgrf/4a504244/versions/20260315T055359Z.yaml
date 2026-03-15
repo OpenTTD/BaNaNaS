@@ -1,14 +1,14 @@
-version: "2"
+version: "3"
 license: "CC-BY v3.0"
-upload-date: 2026-01-23T15:29:23Z
-md5sum-partial: "1d3baad0"
+upload-date: 2026-03-15T05:53:59Z
+md5sum-partial: "c8324bb3"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "gui"
-filesize: 40360
-availability: "savegames-only"
+filesize: 42364
+availability: "new-games"
 
 description: |-
   Add JR Logo and JNR to OpenTTD world!
@@ -19,3 +19,5 @@ description: |-
   In the new interface click the "Advanced" button
   Set the "style" on the top to 1 and change the "nose" style, 8 options to choose
   Change the eyebrows button, 10 options to choose(I move the JR cargo to eyebrows)
+  Turn on the moustache button, 2  options to choose
+url: "https://github.com/zyliety/Zyliety-Minigrf-Collection/tree/main/JRLogo"
