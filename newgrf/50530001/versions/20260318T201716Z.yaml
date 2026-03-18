@@ -1,14 +1,14 @@
-version: "0.2.7"
+version: "0.2.8"
 license: "GPL v2"
-upload-date: 2026-03-17T19:10:16Z
-md5sum-partial: "22343728"
+upload-date: 2026-03-18T20:17:16Z
+md5sum-partial: "87bb67b2"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "rail-station"
-filesize: 10598687
-availability: "savegames-only"
+filesize: 10705344
+availability: "new-games"
 
 description: |-
   =============================
@@ -19,8 +19,8 @@ description: |-
   Support for OpenTTD 13.0 since v.0.2.0
 
   Support for new features from OpenTTD 15.0:
-   - Bridges over stations since v.0.1.10
-   - Badges since v.0.2.1
+  - Bridges over stations since v.0.1.10
+  - Badges since v.0.2.1
 
   Polish translation since v.0.2.5
 
