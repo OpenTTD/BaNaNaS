@@ -1,0 +1,10 @@
+version: "115"
+license: "GPL v3"
+upload-date: 2026-03-18T11:35:41Z
+md5sum-partial: "db5fd180"
+filesize: 260113
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.14.0"
+  "name": "vanilla"
