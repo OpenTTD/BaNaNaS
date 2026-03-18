@@ -1,0 +1,5 @@
+name: "Hungary"
+description: "Height map of Hungary and its surrounding area, in 8192×4096 resolution, with a recommended height range of 20-64."
+regions:
+- "HU"
+- "UN-151"
