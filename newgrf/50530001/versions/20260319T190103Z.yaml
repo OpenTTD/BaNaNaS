@@ -1,14 +1,14 @@
-version: "0.2.8"
+version: "0.2.9"
 license: "GPL v2"
-upload-date: 2026-03-18T20:17:16Z
-md5sum-partial: "87bb67b2"
+upload-date: 2026-03-19T19:01:03Z
+md5sum-partial: "7ac75255"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "rail-station"
-filesize: 10705344
-availability: "savegames-only"
+filesize: 10759118
+availability: "new-games"
 
 description: |-
   =============================
