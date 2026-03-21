@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "townname"
 filesize: 12370
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Iowan Town Names (2020)"
 description: |-
