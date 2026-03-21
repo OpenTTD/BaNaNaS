@@ -1,0 +1,11 @@
+version: "1.0.0"
+license: "Custom"
+upload-date: 2026-03-21T22:20:37Z
+md5sum-partial: "70d0b72e"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "townname"
+filesize: 12200
+availability: "new-games"
