@@ -1,0 +1,7 @@
+name: "Iowa Town Names"
+description: |-
+  941 town and city names from the US state of Iowa!
+  Probability of appearance weighted by population according to https://en.wikipedia.org/wiki/List_of_cities_in_Iowa circa stats from 2020.
+
+  Copyright © 2026 MindeKing CC BY-SA 4.0.
+url: "https://gitlab.com/mindeking-group/openttd-iowa-town-names"
