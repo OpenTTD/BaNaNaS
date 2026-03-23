@@ -1,0 +1,7 @@
+name: "Japanese Town Names Plus"
+description: "Add 1945 town names for Japan, data from wikipedia."
+url: "https://github.com/zyliety/Zyliety-Minigrf-Collection"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
