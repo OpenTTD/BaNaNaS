@@ -1,14 +1,14 @@
-version: "1.0.2"
+version: "1.0.3"
 license: "Custom"
-upload-date: 2025-03-29T18:29:08Z
-md5sum-partial: "6d102574"
+upload-date: 2026-03-24T05:48:56Z
+md5sum-partial: "93b69df4"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "industry"
-filesize: 26940
-availability: "savegames-only"
+filesize: 30436
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.10"
