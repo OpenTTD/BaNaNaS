@@ -1,0 +1,6 @@
+name: "Småland and Öland - 512 x 512"
+description: "Realistic 512 x 512 map of Småland and Öland. Population sizes correspond to real life divided by ten. Lots of industry."
+regions:
+- "SE"
+- "UN-150"
+- "UN-154"
