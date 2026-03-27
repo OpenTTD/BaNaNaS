@@ -1,0 +1,8 @@
+version: "3"
+license: "GPL v2"
+upload-date: 2026-03-27T17:06:16Z
+md5sum-partial: "215e105b"
+filesize: 8167
+availability: "new-games"
+
+description: "A priority queue implementation using AIList for efficient sorting. Items are stored with unique indexes, and the queue always returns the item with the lowest priority first."
