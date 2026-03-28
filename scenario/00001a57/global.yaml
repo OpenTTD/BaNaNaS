@@ -1,0 +1,12 @@
+name: "OÖ Three Cities Region"
+description: |-
+  Map of Upper Austria, mainly the three-cities-region Linz, Steyr and Wels. Despite being called "cities", only Linz is a city in the TTD sense.
+
+  The alpine region and sparse development apart from the center city of Linz should be a fun challenge. Keep in mind though that this is my first scenario, so I don't really know how to balance things very well. Just think of the rough edges as additional challenges :P
+
+  Includes all 20 midsized towns. Industries are loosely based on similar real-world locations.
+regions:
+- "001"
+- "AT"
+- "UN-150"
+- "UN-155"
