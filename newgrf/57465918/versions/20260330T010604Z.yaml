@@ -9,6 +9,10 @@ classification:
   "set": "train"
 filesize: 7172748
 availability: "new-games"
+dependencies:
+- "content-type": "newgrf"
+  "md5sum-partial": "6400cbe1"
+  "unique-id": "54574607"
 compatibility:
 - "conditions":
   - ">= 14.0"
