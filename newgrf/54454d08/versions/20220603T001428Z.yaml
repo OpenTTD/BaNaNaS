@@ -3,11 +3,11 @@ license: "Custom"
 upload-date: 2022-06-03T00:14:28Z
 md5sum-partial: "dce528db"
 classification:
-  set: "road-vehicle"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "road-vehicle"
 filesize: 2279414
-availability: "new-games"
+availability: "savegames-only"
 
 description: "I present Real Vehicles, a vehicle set in 32 bpp for Openttd, They can be used as game vehicles or in conjunction with AI's like TownAI to generate City traffic, the idea behind all this was add some emergency and miscellaneous vehicles. ENJOY!!"
