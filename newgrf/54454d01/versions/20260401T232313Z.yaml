@@ -1,0 +1,22 @@
+version: "1.5.3"
+license: "Custom"
+upload-date: 2026-04-01T23:23:13Z
+md5sum-partial: "8ea721e9"
+classification:
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "road-vehicle"
+filesize: 12969277
+availability: "new-games"
+
+name: "Temporal8 Real Cars 32bpp 4X"
+description: |-
+  A little update to my previous "Real Cars" version.
+
+  (Do not confuse with my other newgrf named "Real Vehicles" that has a different theme.)
+
+  Changelog: New parameter added: Zero Passengers Capacity (for use with AI´s)
+
+  Enjoy!
+url: "https://www.tt-forums.net/viewtopic.php?t=89431"
