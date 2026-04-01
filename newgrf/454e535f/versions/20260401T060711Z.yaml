@@ -1,0 +1,18 @@
+version: "1.0.0"
+license: "GPL v2"
+upload-date: 2026-04-01T06:07:11Z
+md5sum-partial: "4eeced0d"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 10257
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 10.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.34.0"
+  "name": "jgrpp"

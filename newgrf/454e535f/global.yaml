@@ -1,0 +1,6 @@
+name: "Emperor's New Station"
+description: |-
+  It is rumored that this NewGRF contains magnificent new stations, visible only to the wise and completely invisible to anyone who is stupid or unfit for their position.
+
+  On a more serious note, this NewGRF provides railway stations, bus stations, and waypoints that reuse base set bare ground graphics. They can be used to make functional stations that are "invisible".
+url: "https://github.com/ahyangyi-openttd/emperors-new-station"
