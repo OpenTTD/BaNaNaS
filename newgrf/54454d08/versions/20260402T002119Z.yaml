@@ -1,18 +1,22 @@
-version: "1.0.1"
+version: "1.0.2"
 license: "Custom"
-upload-date: 2026-03-31T22:16:07Z
-md5sum-partial: "aaaadce2"
+upload-date: 2026-04-02T00:21:19Z
+md5sum-partial: "87637284"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "road-vehicle"
-filesize: 1968211
-availability: "savegames-only"
+filesize: 1968819
+availability: "new-games"
 
 name: "Temporal8 Real Vehicles 32bpp"
 description: |-
   I present Real Vehicles, a vehicle set in 32 bpp 4x Zoom / ExtraZoom for Openttd, They can be used as game vehicles or in conjunction with AI's like TownCars or Street Traffic to generate City traffic, the idea behind all this was add some emergency and miscellaneous vehicles. ENJOY!!
 
-  Changelog 1.0.1: New parameter added, Zero purchase cost (for better use with AI´s)
-url: "https://www.tt-forums.net/viewtopic.php?p=1253581"
+  Changelog 1.0.2:
+
+  -New parameter added: Zero Cargo Capacity (for use with AI´s)
+
+  - Police Vehicles now support Real Industries Prisioners cargo.
+url: "https://www.tt-forums.net/viewtopic.php?t=87622"
