@@ -5,4 +5,5 @@ description: |-
 
   Copyright © 2026 MindeKing CC BY-SA 4.0.
 url: "https://gitlab.com/mindeking-group/openttd-iowa-town-names"
-regions: []
+regions:
+- "US-IA"
