@@ -1,0 +1,10 @@
+version: "v25"
+license: "GPL v2"
+upload-date: 2026-04-06T22:19:29Z
+md5sum-partial: "51fbe101"
+filesize: 153819
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
