@@ -1,0 +1,15 @@
+version: "0.1"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2026-04-08T20:19:34Z
+md5sum-partial: "98641762"
+classification:
+  "climate": "temperate"
+  "shape": "rectangle"
+  "size": "huge"
+  "terrain-type": "mountainous"
+filesize: 32205716
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 0.68.0"
+  "name": "jgrpp"
