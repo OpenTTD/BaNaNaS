@@ -1,0 +1,13 @@
+name: "Hungary Artic JGRPP 8K*4K"
+description: "A scenario of Hungary based on a real heightmap, including the major rivers. Map size: 8192×4096, no NewGRFs required. Available in two separate versions: Temperate and Arctic (the latter can be turned into Alpine setting with NewGRFs). The map covers Hungary and parts of the surrounding countries, including Austria, Slovakia, Ukraine, Romania, Serbia, Croatia, and Slovenia. A settlement list is included for import, containing nearly 8,000 towns at GitHub."
+url: "https://github.com/harbonah/games-openttd-scenario-hungary"
+regions:
+- "AT"
+- "HR"
+- "HU"
+- "RO"
+- "RS"
+- "SI"
+- "SK"
+- "UA"
+- "UN-151"
