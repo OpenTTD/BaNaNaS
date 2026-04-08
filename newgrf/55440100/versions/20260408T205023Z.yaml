@@ -1,14 +1,14 @@
-version: "0.20.0"
+version: "0.21.0"
 license: "GPL v2"
-upload-date: 2026-03-29T14:56:01Z
-md5sum-partial: "8a0b42b3"
+upload-date: 2026-04-08T20:50:23Z
+md5sum-partial: "0061f8d6"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "industry"
-filesize: 678184
-availability: "savegames-only"
+filesize: 681645
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 14.0"
