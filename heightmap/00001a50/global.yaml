@@ -1,5 +1,16 @@
-name: "Hungary"
-description: "Height map of Hungary and its surrounding area, in 8192×4096 resolution, with a recommended height range of 20-64."
+name: "Hungary 8K*4K"
+description: |-
+  Height map of Hungary and its surrounding area, in 8192×4096 resolution, with a recommended height range of 20-64.
+
+  A settlement list is included for import, containing nearly 8,000 towns at GitHub.
+url: "https://github.com/harbonah/games-openttd-scenario-hungary"
 regions:
+- "AT"
+- "HR"
 - "HU"
+- "RO"
+- "RS"
+- "SI"
+- "SK"
+- "UA"
 - "UN-151"
