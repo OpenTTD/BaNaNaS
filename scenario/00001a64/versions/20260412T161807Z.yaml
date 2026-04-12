@@ -1,0 +1,15 @@
+version: "0.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2026-04-12T16:18:07Z
+md5sum-partial: "4f3a9d52"
+classification:
+  "climate": "sub-arctic"
+  "shape": "rectangle"
+  "size": "huge"
+  "terrain-type": "mountainous"
+filesize: 47373868
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 0.68.0"
+  "name": "jgrpp"
