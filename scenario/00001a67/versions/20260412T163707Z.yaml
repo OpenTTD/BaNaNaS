@@ -1,0 +1,22 @@
+version: "0.2"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2026-04-12T16:37:07Z
+md5sum-partial: "56b30b0f"
+classification:
+  "climate": "sub-arctic"
+  "shape": "rectangle"
+  "size": "huge"
+  "terrain-type": "mountainous"
+filesize: 49174089
+availability: "new-games"
+dependencies:
+- "content-type": "newgrf"
+  "md5sum-partial": "f63b2c61"
+  "unique-id": "44545401"
+- "content-type": "newgrf"
+  "md5sum-partial": "136d889f"
+  "unique-id": "4f472b34"
+compatibility:
+- "conditions":
+  - ">= 0.68.0"
+  "name": "jgrpp"
