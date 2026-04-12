@@ -1,0 +1,5 @@
+name: "Wolfie's Extension Deduplicator"
+description: |-
+  I'm kind of a stickler and I want to change things
+  inside Timberwolf's set, but it's a little annoying when you start having multiple copies of the same vehicle, so this will hide vehicles in Timberwolf's set that are also present in my addon set.
+url: "https://github.com/WolfieFox/wolfiewolfs_trains"
