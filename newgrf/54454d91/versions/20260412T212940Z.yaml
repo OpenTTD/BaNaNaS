@@ -1,0 +1,20 @@
+version: "1.2.2"
+license: "Custom"
+upload-date: 2026-04-12T21:29:40Z
+md5sum-partial: "c0b03e21"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "road-vehicle"
+filesize: 28463061
+availability: "new-games"
+
+name: "Temporal8 Real Bus 32 bpp 4X"
+description: |-
+  Real Bus models for Openttd in 32bpp 4X ExtraZoom since 1958!
+
+  This newgrf include Korean, Japanese, CZ, European, South American and North American buses.
+
+  Changelog 1.2.2: Parking Buses Added! (eyecandy objects)
+url: "https://www.tt-forums.net/viewtopic.php?t=89432"
