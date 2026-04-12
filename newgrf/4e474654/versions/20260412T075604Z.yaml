@@ -1,0 +1,15 @@
+version: "0.2.1 beta"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2026-04-12T07:56:04Z
+md5sum-partial: "80f68dc2"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 32895
+availability: "new-games"
+
+description: |-
+  Narrow Gauge Fast Train SET is a set of trains that can run over 200 km/h on 1067mm narrow guage.
+  JP+ Track {BLACK}is required to run this newGRF.
