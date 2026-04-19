@@ -1,0 +1,6 @@
+name: "FIRS Forked: Oil Town"
+description: |-
+  A single-economy fork of FIRS built entirely around oil and petrochemistry. Five tiers of supply chain — from offshore rigs and coal mines, through refineries and gas processors, into cracking plants and fertiliser / plastics / petroleum-fuel producers, finishing at coastal trading ports, power stations, and in-town petrol stations.
+
+  Runs on any climate; sub-tropical recommended. Based on FIRS 5.2.0 by andythenorth et al. GPL v2.
+url: "https://firs-forked-oiltown.netlify.app/"
