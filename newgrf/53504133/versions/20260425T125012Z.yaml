@@ -1,0 +1,23 @@
+version: "1.1"
+license: "GPL v3"
+upload-date: 2026-04-25T12:50:12Z
+md5sum-partial: "7880d418"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 125842
+availability: "new-games"
+
+name: "Spanish Trainset"
+description: |-
+  A trainset that contains Spanish Trains... now all the way from 1848 to 2050!
+  Note 1: It's recomended to use in the temperate climate. It should work in subartic and subtropical but there'll be some missing graphics. Not compatible with Toyland.
+  Note 2: Don't use with industry sets as FIRS
+  Note 3: AI doesn't know how to play with the set.
+  Changelog:
+  -Added fictional trains between 2028 and 2050
+  -Added RENFE Class 333 Diesel train
+  -Some minor changes
+url: "https://github.com/battobsai/spain-high-speed-trainset"
