@@ -9,3 +9,10 @@ classification:
   "set": "train"
 filesize: 9324558
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 16"
+  "name": "vanilla"
+- "conditions":
+  - "< 0.72"
+  "name": "jgrpp"
