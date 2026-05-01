@@ -1,2 +1,3 @@
 name: "Iberian Peninsula"
-description: "A new scenario containing all of Spain and Portugal and the south of France"
+description: "A new scenario containing all of Spain and Portugal and the south of France. Note: Scenario comes with Spanish Trainset 1.1, but you can update to 1.2 with scenario developer mode set to true."
+regions: []
