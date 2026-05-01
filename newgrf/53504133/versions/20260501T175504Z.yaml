@@ -1,0 +1,19 @@
+version: "1.2"
+license: "GPL v3"
+upload-date: 2026-05-01T17:55:04Z
+md5sum-partial: "d10ac0e9"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 127623
+availability: "new-games"
+
+description: |-
+  This newGRF provides Spanish Trains all the way from 1848 to 2050!
+  It's recommended to use in the temperate climate, as there are some graphics missing for subartic/subtropical cargo. Don't use it with industry sets or in Toyland.
+  AI doesn't know how to play with this set.
+  Changelog:
+  -Added Class 316 and 319 diesel trains
+  -Modified prices (WARNING: Prices are higher.)
