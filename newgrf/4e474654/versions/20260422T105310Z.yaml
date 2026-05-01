@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 32924
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Narrow Gauge fast train"
 description: "Narrow Gauge Fast Train SET is a set of trains that can run over 200 km/h on 1067mm narrow guage. JP+ Track is required to run this newGRF."
