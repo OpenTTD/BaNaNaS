@@ -1,0 +1,6 @@
+name: "RVG byh-fork + P&T"
+description: |-
+  bigyihsuan fork of Renewed Village Growth, by F1rrel; includes Peaks & Troughs by Erato. This fork implements some outstanding merge requests that (at time of release) have not been added to RVG. Check changelog.txt for more details.
+
+  Towns require various cargo deliveries to grow. Required cargos can be randomized. Town growth is limited by percentage of transported specific cargos. Supporting most Industry NewGRF sets.
+url: "https://github.com/bigyihsuan/RenewedVillageGrowth/tree/bigy-fork-p-and-t"
