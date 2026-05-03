@@ -3,19 +3,19 @@ license: "GPL v2"
 upload-date: 2022-09-14T19:45:02Z
 md5sum-partial: "b6b86442"
 classification:
-  set: "train"
-  palette: "32bpp"
-  has-high-res: true
-  has-sound-effects: false
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
 filesize: 146832351
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 0.5"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - ">= 0.36"
+  "name": "jgrpp"
 
 name: "GETS German Extrazoom Trainset"
 description: |-
