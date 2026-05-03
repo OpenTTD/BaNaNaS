@@ -1,14 +1,14 @@
-version: "0.18.1"
+version: "0.19.0"
 license: "GPL v2"
-upload-date: 2026-02-22T17:27:04Z
-md5sum-partial: "b370c825"
+upload-date: 2026-05-03T20:02:25Z
+md5sum-partial: "958322b2"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 1603569
-availability: "savegames-only"
+filesize: 1688039
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 1.14.0"
@@ -16,3 +16,5 @@ compatibility:
 - "conditions":
   - ">= 0.59.0"
   "name": "jgrpp"
+
+url: "https://github.com/kuba84pro/polish-rolling-stock-pack"
