@@ -1,11 +1,11 @@
-version: "0.1"
+version: "0.2"
 license: "GPL v3"
-upload-date: 2022-10-26T22:59:15Z
-md5sum-partial: "15d74e6e"
+upload-date: 2026-05-09T15:25:59Z
+md5sum-partial: "42f44073"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "object"
-filesize: 19150
-availability: "savegames-only"
+filesize: 20194
+availability: "new-games"
