@@ -1,0 +1,11 @@
+name: "Wolfie's Unified UK Trains"
+description: |-
+  "Maximalism Means Maximalism"
+
+  No more compromises. Timberwolf's train set, rendered at 4x, with badge support and a lot of extras.
+
+  Consider this an alpha release, I make no promises that future versions are savegame compatible.
+url: "https://github.com/WolfieFox/wolfiewolfs_trains"
+regions:
+- "GB"
+- "UN-150"
