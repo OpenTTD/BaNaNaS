@@ -1,0 +1,4 @@
+name: "U&ReRMM 2: IH4 plugin"
+description: |-
+  Adds LGV capability badges to U&ReRMM 2's high-speed track types, allowing Iron Horse 4 vehicles to use their maximum speed on them.
+  NOTE: This is not required for U&ReRMM 3, as these fixes are already built in.
