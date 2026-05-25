@@ -1,0 +1,3 @@
+name: "AAAHogNet"
+description: "HogNet is a fork of AAAHogEx. HogNet changes the core objective away from profit maximisation: the AI tries to connect towns into a single large network, using a hub-and-spoke strategy. For industries, the AI tries to reuse infrastructure as much as possible, using a spine-and-branch strategy."
+url: "https://www.tt-forums.net/viewtopic.php?t=92803"
