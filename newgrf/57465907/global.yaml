@@ -5,6 +5,8 @@ description: |-
   No more compromises. Timberwolf's train set, rendered at 4x, with badge support and a lot of extras.
 
   Consider this an alpha release, I make no promises that future versions are savegame compatible.
+
+  This set contains everything from Timberwolf's Trains 1.7.2, Timberwolf's Community Addon and Wolfie's UK Trains. You don't need anything else to run it, but you probably want a track GRF.
 url: "https://github.com/WolfieFox/wolfiewolfs_trains"
 regions:
 - "GB"
