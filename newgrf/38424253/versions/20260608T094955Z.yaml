@@ -1,14 +1,14 @@
-version: "v0.2.0"
+version: "v0.2.1"
 license: "GPL v3"
-upload-date: 2026-05-05T00:15:42Z
-md5sum-partial: "107a8edf"
+upload-date: 2026-06-08T09:49:55Z
+md5sum-partial: "eec185cc"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "unknown"
-filesize: 26061
-availability: "savegames-only"
+filesize: 26284
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15.0"
