@@ -1,14 +1,14 @@
-version: "0.1.1"
+version: "0.1.2"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2026-05-25T09:29:16Z
-md5sum-partial: "d6561aaa"
+upload-date: 2026-06-10T23:21:53Z
+md5sum-partial: "3d2a4069"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 140594239
-availability: "savegames-only"
+filesize: 144650660
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 14.0"
