@@ -1,5 +1,8 @@
 name: "Vanilla Industry Cargo Coverage"
 description: |-
-  Are you easily confused by vanilla industry cargo coverage?
+  Are you confused by vanilla industry cargo coverage?
 
-  This NewGRF makes vanilla industries accept cargo on any tile instead of require specific tiles to be covered.
+  This NewGRF makes vanilla industries accept cargo on any tile instead of requiring specific tiles to be covered.
+
+  You no longer need to pay attention to coverage.
+regions: []
