@@ -1,0 +1,14 @@
+version: "v1.1"
+license: "Custom"
+upload-date: 2026-06-12T14:48:29Z
+md5sum-partial: "68a2622e"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "road-vehicle"
+filesize: 6108
+availability: "new-games"
+
+name: "STAMPS"
+url: "https://orchid.moe/projects/stamps/"
