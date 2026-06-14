@@ -1,0 +1,9 @@
+name: "Warworks"
+description: |-
+  Warworks is a military themed mod for OTTD that changes the key motivator from making money to capturing and holding territory. Territory is claimed by building and supplying outposts with new resources Materiel and Troops. The game is won when a % of the map is owned by a single player or when a time limit is reached.
+
+  V1 is a single-player build.
+  V2 will have PvP combat.
+
+  This requires the companion "Warworks" NEWGRF (BaNaNaS, GS, author YK7942).
+url: "https://github.com/yk42/openttd-battle"
