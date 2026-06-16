@@ -1,0 +1,22 @@
+version: "Beta 1.0.1"
+license: "Custom"
+upload-date: 2026-06-16T00:10:41Z
+md5sum-partial: "4c2caf7b"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "airport"
+filesize: 37207556
+availability: "new-games"
+
+name: "Temporal8 Real Airports 32bpp"
+description: |-
+  Real Airports replaces the original airports and adds new ones, all with 32bpp 4X Extra-zoom graphics.
+
+  Changelog 1.0.1: Fixed some graphical bugs.
+
+  Enjoy!
+
+  Note: It does not automatically replace existing airports, you must delete them and immediately create a new one in the same location.
+url: "https://www.tt-forums.net/viewtopic.php?t=92579"
