@@ -1,0 +1,10 @@
+version: "113"
+license: "GPL v2"
+upload-date: 2026-06-18T21:00:25Z
+md5sum-partial: "43ec7b4f"
+filesize: 81325
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13"
+  "name": "vanilla"
