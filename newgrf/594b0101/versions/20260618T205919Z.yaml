@@ -1,14 +1,14 @@
-version: "112"
-license: "GPL v3"
-upload-date: 2026-06-14T21:27:21Z
-md5sum-partial: "e98cd9e6"
+version: "113"
+license: "GPL v2"
+upload-date: 2026-06-18T20:59:19Z
+md5sum-partial: "a9d6778d"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "industry"
-filesize: 46236
-availability: "savegames-only"
+filesize: 40968
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 13"
