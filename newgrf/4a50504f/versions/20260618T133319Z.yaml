@@ -1,11 +1,11 @@
-version: "3.9"
+version: "4"
 license: "GPL v2"
-upload-date: 2026-04-16T11:30:07Z
-md5sum-partial: "e94c79a9"
+upload-date: 2026-06-18T13:33:19Z
+md5sum-partial: "1340094a"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "object"
-filesize: 3644871
-availability: "savegames-only"
+filesize: 4162777
+availability: "new-games"
