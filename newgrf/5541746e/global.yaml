@@ -1,0 +1,7 @@
+name: "Ukrainian Town Names (Latin)"
+description: |-
+  Over 1400 real Ukrainian towns and cities as town names in Latin script. Enable the GRF, then choose the "Ukrainian (Latin)" town-name style when generating a map. Names are weighted by population, so big cities (Kyiv, Kharkiv, Odesa, Lviv...) appear more often than small towns.
+
+  Town data: GeoNames (https://www.geonames.org/), CC-BY 4.0.
+  Source: https://github.com/skhakirov/openttd-ukr-town-names-latin (GPL v2)
+url: "https://github.com/skhakirov/openttd-ukr-town-names-latin"
