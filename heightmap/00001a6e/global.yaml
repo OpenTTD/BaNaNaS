@@ -1,0 +1,17 @@
+name: "LAncER's Ukraine"
+description: |-
+  A recognizable real-Ukraine heightmap: the Black Sea & Crimea, the Dnieper, the Danube and other major rivers, the Carpathians, and the open steppe — processed into a smooth, buildable relief. 16-bit, 4096x4096.
+
+  Recommended Size: 4096 x 4096
+  Recommended Map height limit: 30.
+  Recommended Orientation: Clockwise
+
+  Generated programmatically from open elevation data. Terrain: AWS Terrain Tiles (Terrarium / Mapzen; sources incl. SRTM & GMTED2010).
+  Hydrography: Natural Earth.
+regions:
+- "BY"
+- "HU"
+- "PL"
+- "RO"
+- "RU"
+- "UA"
