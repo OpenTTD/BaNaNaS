@@ -3,14 +3,11 @@ description: |-
   An AI that is developed by Fanioz as an effort to be a transporter.
   Had Bus, Truck, Tram, Ship, Airplane and Chopper.
 
-  * Fixes 🛠️ :
-  Resolved crashes in AIEventDisasterZeppelinerCleared, XVehicle.ReadRoute (cargo detection), and stale data (#8).
-
-  Fixed AIEngine.GetMaximumOrderDistance for vanilla aircraft and improved route assignment (#6).
-
-  Rail: New check prevents adding trains to full single-track lines (#5).
-
-  API: Support for API 14; removed obsolete adjacent_stations.
+  * Fixes  :
+  Resolved pathfinding bugs and distance calc logic (sloped terrain, path tracing).
+  Improved routing reliability on source-station failures.
+  Rail: Added double track PBS signaling and new signal spacing.
+  Other: Circular town influence areas, cleaned up dead code, fixed UTF-8 errors.
 
   See changelog.txt
 url: "http://www.tt-forums.net/viewtopic.php?f=65&t=42272"
