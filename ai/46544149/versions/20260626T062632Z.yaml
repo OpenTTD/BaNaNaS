@@ -1,0 +1,18 @@
+version: "200626"
+license: "GPL v2"
+upload-date: 2026-06-26T06:26:32Z
+md5sum-partial: "397d4a34"
+filesize: 70207
+availability: "new-games"
+
+description: |-
+  An AI that is developed by Fanioz as an effort to be a transporter.
+  Had Bus, Truck, Tram, Ship, Airplane and Chopper.
+
+  * Fixes  :
+  Resolved pathfinding bugs and distance calc logic (sloped terrain, path tracing).
+  Improved routing reliability on source-station failures.
+  Rail: New signal spacing.
+  Other: Circular town influence areas, cleaned up dead code.
+
+  See changelog.txt
