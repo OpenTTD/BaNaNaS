@@ -1,11 +1,11 @@
-version: "2.1.1"
+version: "2.2.0"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-01-31T11:36:40Z
-md5sum-partial: "e2601deb"
+upload-date: 2026-07-03T21:44:39Z
+md5sum-partial: "b68f2294"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "rail-station"
-filesize: 68038919
-availability: "savegames-only"
+filesize: 100872066
+availability: "new-games"
