@@ -1,0 +1,6 @@
+name: "QuartermasterGS"
+description: |-
+  Quartermaster turns OpenTTD into a fight for territory. Found your HQ, raise Outposts, and keep them fed - Materiel to hold your ground, Troops to push the enemy back. Every crate you deliver widens the land you control, drawn as company-coloured flags; hold the most ground to win.
+
+  Munitions Works make Materiel, Barracks train Troops - your transport keeps them stocked. Choose a rule at game start: persist (ground stays until contested) or decay (unsupplied land reverts). Fight a rival, human or AI.
+url: "https://github.com/yk42/openttd-battle"
