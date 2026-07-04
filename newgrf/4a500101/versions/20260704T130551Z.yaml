@@ -1,0 +1,21 @@
+version: "200"
+license: "GPL v2"
+upload-date: 2026-07-04T13:05:51Z
+md5sum-partial: "84c579cf"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
+filesize: 26937
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13"
+  "name": "vanilla"
+
+name: "QuartermasterGRF"
+description: |-
+  The industries, cargoes and flags behind Quartermaster's war for territory. A Munitions Works processes resources into Materiel to defend your ground; a Barracks trains Civilians into Troops to attack; Outposts anchor your claim; and company-coloured flags mark every border. Enable this GRF and run the Quartermaster Game Script together.
+
+  Civilians are relabelled Passengers. The version is auto-stamped to always match the Game Script.
