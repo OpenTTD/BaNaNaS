@@ -1,15 +1,14 @@
-version: "0.8.9g"
+version: "0.8.9h"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-07-03T22:27:23Z
-md5sum-partial: "38f00a4b"
+upload-date: 2026-07-04T09:25:21Z
+md5sum-partial: "f44a46cf"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "rail-station"
-filesize: 3677002
-availability: "savegames-only"
+filesize: 3916542
+availability: "new-games"
 
-name: "CZTR_Infrastructure"
-description: "CZTR DLC"
+name: "CZTR Infrastructure"
 url: "https://www.tt-forums.net/viewtopic.php?f=26&t=76558"
