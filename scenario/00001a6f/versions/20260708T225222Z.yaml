@@ -1,0 +1,15 @@
+version: "0.0"
+license: "CC-0 v1.0"
+upload-date: 2026-07-08T22:52:22Z
+md5sum-partial: "969ec27b"
+classification:
+  "climate": "temperate"
+  "shape": "square"
+  "size": "normal"
+  "terrain-type": "mountainous"
+filesize: 55049
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
