@@ -1,0 +1,19 @@
+version: "0.3.0"
+license: "GPL v2"
+upload-date: 2026-07-11T08:59:29Z
+md5sum-partial: "3cb6057d"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 9022
+availability: "new-games"
+
+description: |-
+  A tiny invisible engine with no power that you can place front of trains to overcome coupling restrictions and other NewGRF limitations. Or place at the rear to enable any train to drive backwards.
+
+  Now also includes an invisible wagon that can be used to override the backwards driving feature. Includes a parameter for a power booster engine. Supports all vanilla railtypes, as well as narrow gauge, metro and vactrain.
+
+  Coded and (not) drawn by Emperor Jake.
+url: "https://github.com/EmperorJake/invisible-engine"
