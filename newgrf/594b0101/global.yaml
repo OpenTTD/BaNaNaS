@@ -1,4 +1,4 @@
-name: "Warworks"
+name: "QuartermasterGRF"
 description: |-
   Warworks is a military themed mod for OTTD that changes the key motivator from making money to capturing and holding territory.
 
@@ -9,3 +9,4 @@ description: |-
 
   This GRF is designed to be played with the companion "Warworks" Game Script (BaNaNaS, GS, author YK7942).
 url: "https://github.com/yk42/openttd-battle"
+regions: []
