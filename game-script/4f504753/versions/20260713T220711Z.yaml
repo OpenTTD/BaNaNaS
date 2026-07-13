@@ -1,0 +1,13 @@
+version: "202"
+license: "GPL v2"
+upload-date: 2026-07-13T22:07:11Z
+md5sum-partial: "3c08cd35"
+filesize: 194848
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13"
+  "name": "vanilla"
+
+name: "QuartermasterGS"
+url: "https://github.com/yk42/openttd-battle"
