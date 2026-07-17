@@ -1,14 +1,18 @@
-version: "202"
+version: "203"
 license: "GPL v2"
-upload-date: 2026-07-13T22:05:38Z
-md5sum-partial: "8711daf8"
+upload-date: 2026-07-17T20:29:02Z
+md5sum-partial: "54e08954"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
-  "set": "industry"
-filesize: 27023
-availability: "savegames-only"
+  "set": "mixed"
+filesize: 77872
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13"
+  "name": "vanilla"
 
 name: "QuartermasterGRF"
 description: |-
