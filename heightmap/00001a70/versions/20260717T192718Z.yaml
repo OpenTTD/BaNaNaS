@@ -1,4 +1,4 @@
-version: "1.0"
+version: "0.1"
 license: "CC-BY v3.0"
 upload-date: 2026-07-17T19:27:18Z
 md5sum-partial: "e9257c9b"
@@ -9,4 +9,6 @@ classification:
 filesize: 10030378
 availability: "new-games"
 
+name: "Drehmal (Old Heightmap, 4k)"
+description: "DEPRECATED"
 url: "https://github.com/MoutonDemocrate/drehmal-openttd"
