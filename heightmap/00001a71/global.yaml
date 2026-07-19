@@ -1,0 +1,10 @@
+name: "Drehmal (Simple Heightmap, 4k)"
+description: |-
+  This is a simple heightmap from Drehmal : Primordial, a massive open-world survival adventure map with a focus on narrative, world-building and environmental design.
+
+  This is a processed version of the original world heightmap which works a bit better with OpenTTD.
+
+  I recommend a max height of around 100-150 for this heightmap to really look good.
+
+  Thanks to my good bossman Keeko100 for giving me the 2.2 Worldpainter file for me to extract the original heightmap.
+url: "https://github.com/MoutonDemocrate/drehmal-openttd"
