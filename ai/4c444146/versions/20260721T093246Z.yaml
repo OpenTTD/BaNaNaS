@@ -1,0 +1,10 @@
+version: "v27"
+license: "GPL v2"
+upload-date: 2026-07-21T09:32:46Z
+md5sum-partial: "db665650"
+filesize: 151363
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
