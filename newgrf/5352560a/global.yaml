@@ -1,0 +1,2 @@
+name: "AXIS, revenue distance-less"
+description: "Takes axis temperate industry set goods, and modifies revenue to be fixed distance-wise (except passangers and mail), thus removes the inherent gamey mechanic of building one diagonal long line to get most money possible. This likely forces into dense concentrated networks if funding industies is allowed, or lot of disjointed short networks/lines where rng industry placemnt was favourable. This is a test grf."
