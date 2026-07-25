@@ -1,11 +1,11 @@
-version: "3"
+version: "4"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-07-25T09:36:30Z
-md5sum-partial: "f393a712"
+upload-date: 2026-07-25T11:44:43Z
+md5sum-partial: "938e1a43"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "vehicle"
-filesize: 29915
-availability: "savegames-only"
+filesize: 29172
+availability: "new-games"
