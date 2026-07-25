@@ -1,0 +1,7 @@
+name: "AXIS realistic revenue"
+description: |-
+  Takes AXIS temperate industry set goods(for now), and modifies delivery income to have distance be less important(square root of distance) and more harsh towards time allowed per delivery(14 days max for passangers, 90 days max for coal...).
+
+  This removes the inherent gamey mechanic of building one diagonal long line to get most income possible and forces into "regional" concentrated networks if funding industries is allowed.
+
+  Goal is to make more realistic simulation.
