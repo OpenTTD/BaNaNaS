@@ -1,11 +1,11 @@
-version: "6"
+version: "9"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-07-25T14:32:20Z
-md5sum-partial: "2073587a"
+upload-date: 2026-07-25T16:04:10Z
+md5sum-partial: "cf30f320"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "mixed"
-filesize: 32597
-availability: "savegames-only"
+filesize: 35449
+availability: "new-games"
