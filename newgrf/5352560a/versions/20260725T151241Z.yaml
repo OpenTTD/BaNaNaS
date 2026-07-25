@@ -9,3 +9,7 @@ classification:
   "set": "economy"
 filesize: 9550
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 1.0"
+  "name": "vanilla"
