@@ -13,3 +13,6 @@ compatibility:
 - "conditions":
   - "< 1.0"
   "name": "vanilla"
+- "conditions":
+  - "< 1.0"
+  "name": "jgrpp"
