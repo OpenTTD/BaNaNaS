@@ -9,3 +9,10 @@ classification:
   "set": "economy"
 filesize: 9257
 availability: "new-games"
+compatibility:
+- "conditions":
+  - "< 1.0"
+  "name": "vanilla"
+- "conditions":
+  - "< 1.0"
+  "name": "jgrpp"
