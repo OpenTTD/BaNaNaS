@@ -9,7 +9,4 @@ classification:
   "set": "industry"
 filesize: 1899001
 availability: "new-games"
-compatibility:
-- "conditions":
-  - ">= 15.3"
-  "name": "vanilla"
+compatibility: []
