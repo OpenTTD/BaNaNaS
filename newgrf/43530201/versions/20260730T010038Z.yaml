@@ -1,14 +1,14 @@
-version: "32"
+version: "33"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-07-30T00:19:04Z
-md5sum-partial: "0cb97b0b"
+upload-date: 2026-07-30T01:00:38Z
+md5sum-partial: "42305c12"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "mixed"
-filesize: 188689
-availability: "savegames-only"
+filesize: 189140
+availability: "new-games"
 
 description: |-
   584 talents. 8 classes. 1,285 vehicles to unlock.
