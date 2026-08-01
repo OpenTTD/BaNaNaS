@@ -12,11 +12,7 @@ availability: "new-games"
 
 name: "Temporal8 Real Cars 32bpp 4X"
 description: |-
-  A little update to my previous "Real Cars" version.
+  The ultimate civilian traffic expansion for OpenTTD. Adds 120+ iconic, real-world vehicles spanning multiple eras from vintage classics to modern hypercars.All in 32bpp HD graphics with 4x ExtraZoom.
 
-  (Do not confuse with my other newgrf named "Real Vehicles" that has a different theme.)
-
-  Changelog: New parameter added: Zero Passengers Capacity (for use with AI´s)
-
-  Enjoy!
+  100% compatible with AI scripts (StreetTraffic, TownCars, CityLifeAI) to perfectly simulate alive and realistic city streets through all eras.
 url: "https://www.tt-forums.net/viewtopic.php?t=89431"
