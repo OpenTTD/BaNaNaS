@@ -1,0 +1,19 @@
+version: "0.9.2"
+license: "GPL v2"
+upload-date: 2026-08-04T01:01:17Z
+md5sum-partial: "77277e8e"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 21512
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.9.3"
+  "name": "vanilla"
+
+name: "PTTS - Portuguese Trainset"
+description: "A NewGRF for OpenTTD that contains portuguese trains. Graphics and code by João Génio ('Genix3')."
+url: "https://github.com/joaogenio/openttd-portuguese-trainset"
