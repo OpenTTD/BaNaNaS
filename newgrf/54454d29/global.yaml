@@ -1,12 +1,7 @@
 name: "Temporal8 Real Aircrafts 32bpp"
 description: |-
-  Real Aircrafts add 32bpp 4X Extrazoom Aircrafts to the game.
+  "Real Aircrafts" adds real-world aircraft and helicopters from various actual airlines and manufacturers to OpenTTD, featuring highly detailed 32bpp graphics with 4x ExtraZoom support. The pack includes distinct graphics for ground, flight, and takeoff/landing phases, along with unique details such as both static and animated navigation lights.
 
-  For this first beta, I've selected some iconic aircraft from history. Some of them have several liveries available, while others don't yet.
-
-  This is the first beta, so it may contain some bugs.
-
-   I'll be adding more aircraft and liveries over time, as my free time allows.
-
-  Enjoy!
+  It also allows you to customize aircraft purchase and maintenance costs according to your preferences.
 url: "https://www.tt-forums.net/viewtopic.php?t=92580"
+regions: []
