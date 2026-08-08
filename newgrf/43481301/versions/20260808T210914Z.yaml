@@ -1,0 +1,24 @@
+version: "1.1"
+license: "GPL v2"
+upload-date: 2026-08-08T21:09:14Z
+md5sum-partial: "f80ff4e7"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "landscape"
+filesize: 35715613
+availability: "new-games"
+
+description: |-
+  Adds desert tiles from OpenGFX, OpenGFX2 and Toyland2mars as objects (and more).
+  Also includes options to:
+  - replace the current baseset's desert terrain tiles
+  - replace cacti with alternative vegetation
+  - spawn random objects during map generation
+  Use parameters to choose from available variants.
+
+  Graphics: OpenGFX, OpenGFX2, Toyland2mars, OpenGFX+ Landscape, OpenGFX2 Objects (all licensed under GPLv2)
+  Additions and coding: chujo
+
+  August 8, 2026
