@@ -9,3 +9,7 @@ classification:
   "terrain-type": "mountainous"
 filesize: 32725
 availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 12.0"
+  "name": "vanilla"
