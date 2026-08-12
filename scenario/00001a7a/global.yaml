@@ -1,0 +1,11 @@
+name: "West Cornwall"
+description: |-
+  West Cornwall, UK
+
+  60 Towns and villages
+
+  20 Industries - Mostly farming and iron ore
+
+  Towns sized based on current population (roughly 50:1)
+regions:
+- "GB-CON"
