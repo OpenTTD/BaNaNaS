@@ -1,14 +1,14 @@
-version: "73"
+version: "74"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-08-13T20:46:31Z
-md5sum-partial: "1ed9778f"
+upload-date: 2026-08-13T21:30:35Z
+md5sum-partial: "57d2126b"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "mixed"
-filesize: 255709
-availability: "savegames-only"
+filesize: 263265
+availability: "new-games"
 
 description: |-
   584 talents. 8 classes. over 3300 vehicles to unlock across 4 map climates.
