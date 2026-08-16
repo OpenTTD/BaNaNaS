@@ -1,0 +1,15 @@
+version: "1.0"
+license: "GPL v2"
+upload-date: 2026-08-16T03:07:38Z
+md5sum-partial: "b7fbe6ff"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
+filesize: 803890
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
