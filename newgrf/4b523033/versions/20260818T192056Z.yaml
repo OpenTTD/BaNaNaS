@@ -1,14 +1,14 @@
-version: "0.7.0"
+version: "0.7.1"
 license: "GPL v2"
-upload-date: 2026-08-14T16:38:50Z
-md5sum-partial: "65f307e1"
+upload-date: 2026-08-18T19:20:56Z
+md5sum-partial: "69c9a279"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "train"
-filesize: 635892
-availability: "savegames-only"
+filesize: 642587
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 15.3"
