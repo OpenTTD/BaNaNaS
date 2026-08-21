@@ -1,0 +1,10 @@
+name: "Shikoku 8192"
+description: |-
+  Shikoku 8192, 226 towns~
+
+  Download the town data from project site
+url: "https://www.tt-forums.net/viewtopic.php?p=1279922#p1279922"
+regions:
+- "JP"
+- "UN-030"
+- "UN-142"
