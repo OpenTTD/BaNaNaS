@@ -1,17 +1,17 @@
-version: "92"
+version: "93"
 license: "CC-BY-SA v3.0"
-upload-date: 2026-08-16T06:38:08Z
-md5sum-partial: "e22ff839"
+upload-date: 2026-08-21T22:31:01Z
+md5sum-partial: "60e9f6d2"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "mixed"
-filesize: 368300
-availability: "savegames-only"
+filesize: 370713
+availability: "new-games"
 
 description: |-
-  584 talents. 8 classes. over 6500 vehicles to unlock across 4 map climates.
+  584 talents. 8 classes. Over 9000 vehicles to unlock across 4 map climates.
 
   OpenTTD with RPG progression. How you spend talent points decides which vehicles reach your buy menu, and your level, perks and records carry over from one session to the next, all the way to level 100.
 
