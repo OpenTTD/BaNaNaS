@@ -1,0 +1,6 @@
+name: "Duisburg"
+description: "2048 x 2048 scenario of Duisburg, the heart of the Germany heavy industry on the Rhine river, with plenty of industries placed at the correct positions, super-high resolution at about 25 meters per tile"
+url: "https://www.tt-forums.net/viewtopic.php?t=92864"
+regions:
+- "DE"
+- "DE-NW"

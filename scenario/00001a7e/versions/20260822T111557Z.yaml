@@ -1,0 +1,15 @@
+version: "1.0"
+license: "CC-BY-SA v3.0"
+upload-date: 2026-08-22T11:15:57Z
+md5sum-partial: "519a0982"
+classification:
+  "climate": "sub-arctic"
+  "shape": "square"
+  "size": "huge"
+  "terrain-type": "flat"
+filesize: 1822497
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.3"
+  "name": "vanilla"
