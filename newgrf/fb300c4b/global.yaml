@@ -1,6 +1,5 @@
-name: "Ultimate Badge Set"
-description: |-
-  Ultimate set of all badges arranged into a tree in UI.
-
-  The name might be changed in future version.
+name: "SUBS is an Ultimate Badge Set"
+description: "SUBS is an ultimate set of all badges arranged into a tree in UI."
 url: "https://codeberg.org/Rito12/UltimateBadgeSet-OpenTTD"
+regions:
+- "001"
