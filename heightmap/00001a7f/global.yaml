@@ -1,0 +1,7 @@
+name: "Czechoslovakia 4k*2k"
+description: "Map of post WWII Czechoslovakia (without Subcarpathian Ruthenia), recommended height 50 for real life accuracy. Rotated so there ís not much from other countries."
+regions:
+- "CZ"
+- "SK"
+- "UN-150"
+- "UN-151"
