@@ -1,14 +1,14 @@
-version: "2"
+version: "3"
 license: "GPL v3"
-upload-date: 2026-08-24T22:25:47Z
-md5sum-partial: "6d4cf0e6"
+upload-date: 2026-08-24T22:32:16Z
+md5sum-partial: "2c1e8883"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "object"
-filesize: 23871
-availability: "savegames-only"
+filesize: 23550
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 14.0"
@@ -18,3 +18,5 @@ compatibility:
   "name": "jgrpp"
 
 name: "Fantasy Banners - Object"
+description: "A set of fantasy banners to liven up your world!"
+url: "https://github.com/AH1684/fantasybanners-openttd"
