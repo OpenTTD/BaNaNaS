@@ -1,0 +1,7 @@
+name: "Calabria (Vanilla)"
+description: "This heightmap allows you to generate Calabria along with the Strait of Messina. In addition, the Aeolian Islands have been moved toward the Gulf of Gioia Tauro to include them on the map. This version is compatible with both vanilla OpenTTD and JGRPP (size 4096x4096). On the TT-Forum, you can download a JSON file that allows you to place cities in their actual locations with their populations."
+url: "https://www.tt-forums.net/viewtopic.php?p=1280051#p1280051"
+regions:
+- "IT"
+- "UN-039"
+- "UN-150"
