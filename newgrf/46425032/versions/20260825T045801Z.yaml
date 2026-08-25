@@ -1,0 +1,20 @@
+version: "5"
+license: "GPL v3"
+upload-date: 2026-08-25T04:58:01Z
+md5sum-partial: "db1afdda"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "object"
+filesize: 117374
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 14.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.70.0"
+  "name": "jgrpp"
+
+description: "A set of 17 ANIMATED fantasy banners to decorate your world!"
