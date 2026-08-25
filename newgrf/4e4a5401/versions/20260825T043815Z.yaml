@@ -1,14 +1,14 @@
-version: "v4"
+version: "v5"
 license: "GPL v3"
-upload-date: 2026-08-24T19:42:24Z
-md5sum-partial: "131da93e"
+upload-date: 2026-08-25T04:38:15Z
+md5sum-partial: "bfbb7aee"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
-  "set": "train"
-filesize: 40148
-availability: "savegames-only"
+  "set": "vehicle"
+filesize: 51927
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 13.4"
