@@ -9,3 +9,7 @@ classification:
   "set": "rail-station"
 filesize: 38503941
 availability: "new-games"
+
+description: |-
+  Oh no I uploaded the new grf with the wrong GRFID!
+  please don't use it because grf with this ID is no longer updated
