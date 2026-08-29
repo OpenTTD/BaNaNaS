@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2026-08-29T16:20:41Z
+md5sum-partial: "292fd84d"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "rail-station"
+filesize: 38503946
+availability: "new-games"
