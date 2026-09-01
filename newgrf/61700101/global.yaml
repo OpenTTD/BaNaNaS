@@ -1,0 +1,6 @@
+name: "Romanian stations"
+description: "A NewGRF with nice Romania-inspired railway stations for OpenTTD."
+url: "https://github.com/ALEX11BR/romanian-stations"
+regions:
+- "RO"
+- "UN-151"
