@@ -1,17 +1,17 @@
-version: "v1.1.0-alpha"
+version: "v1.1.1-alpha"
 license: "GPL v2"
-upload-date: 2025-11-03T13:18:58Z
-md5sum-partial: "f531dae0"
+upload-date: 2026-09-03T15:28:24Z
+md5sum-partial: "adde3516"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 26501
-availability: "savegames-only"
+filesize: 26509
+availability: "new-games"
 
-name: "OpenTTD Danish Vehicle Set"
+name: "Danish Vehicle Set"
 description: |-
   OpenTTD Danish Vehicle Set is a fork of the original openttd-dsb project by @jeppeburchardt.
   It updates and expands the Danish (DSB) trainset for the latest versions of OpenTTD, with rebalanced costs, improved graphics, and new vehicle details.
-url: "https://github.com/emilwkj/Openttd-Danish-Vehicle-Set"
+url: "https://github.com/emilwkj/Openttd-Danish-Vehicle-Set/"
