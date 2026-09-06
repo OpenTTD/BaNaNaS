@@ -1,0 +1,11 @@
+version: "204"
+license: "GPL v3"
+upload-date: 2026-09-06T19:50:48Z
+md5sum-partial: "850c1476"
+filesize: 224184
+availability: "new-games"
+
+description: |-
+  Quartermaster turns OpenTTD into a fight for territory. Found your HQ, raise Outposts, and keep them fed - Materiel to hold your ground, Troops to push the enemy back. Every crate you deliver widens the land you control, drawn as company-coloured flags; hold the most ground to win.
+
+  Munitions Works make Materiel, Barracks train Troops - your transport keeps them stocked. Choose a rule at game start: persist (ground stays until contested) or decay (unsupplied land reverts). Fight a rival, human or AI.
