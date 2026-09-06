@@ -8,6 +8,6 @@ classification:
   "palette": "8bpp"
   "set": "mixed"
 filesize: 88130
-availability: "new-games"
+availability: "savegames-only"
 
 description: "The industries, cargoes and flags behind Quartermaster's war for territory. A Munitions Works processes resources into Materiel to defend your ground; a Barracks trains Civilians into Troops to attack; Outposts anchor your claim; and company-coloured flags mark every border. Enable this GRF and run the Quartermaster Game Script together."

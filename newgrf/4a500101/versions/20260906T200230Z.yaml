@@ -1,0 +1,13 @@
+version: "205"
+license: "GPL v3"
+upload-date: 2026-09-06T20:02:30Z
+md5sum-partial: "dbeee6fe"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 80731
+availability: "new-games"
+
+description: "The graphics necessary for QuartermasterGS to run smoothly. Includes additional cargo types, industries, and vehicles."
