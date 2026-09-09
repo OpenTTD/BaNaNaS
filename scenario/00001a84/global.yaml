@@ -1,0 +1,20 @@
+name: "Toronto - New York 8192 JGRPP"
+description: |-
+  Toronto - New York, North East US + South East Canada
+  size: 8192x8192
+  orientation: top is North
+  scale: 1 tile = 120m
+  cities and towns: 300+3083
+  total population: 24.5m
+  data source: OSM+AWS Terrarium DEM
+url: "https://www.tt-forums.net/viewtopic.php?t=92885"
+regions:
+- "CA"
+- "CA-ON"
+- "US"
+- "US-CT"
+- "US-DC"
+- "US-DE"
+- "US-MD"
+- "US-NY"
+- "US-RI"
