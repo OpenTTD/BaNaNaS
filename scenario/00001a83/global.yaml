@@ -1,0 +1,12 @@
+name: "Switzerland 8192 JGRPP"
+description: |-
+  Switzerland (and parts of neightboring countries)
+  size: 8192x8192
+  orientation: top is North
+  scale: 1 tile = 48m
+  cities and towns: 6175
+  total population: 30.3m
+  data source: protomaps (OpenStreetMap) + AWS Terrarium DEM (updated: 02.09.2026)
+url: "https://www.tt-forums.net/viewtopic.php?t=92888"
+regions:
+- "CH"
