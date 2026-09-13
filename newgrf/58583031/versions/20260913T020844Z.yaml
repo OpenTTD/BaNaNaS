@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "mixed"
 filesize: 8450
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Clooppy Mod"
 description: "This is a lil mod that adds an industry, road vehicle and 2 new cargo types. prolly not balanced."
