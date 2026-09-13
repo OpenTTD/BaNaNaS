@@ -1,0 +1,15 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2026-09-13T01:49:02Z
+md5sum-partial: "a3a97d31"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 8452
+availability: "new-games"
+
+name: "Clooppy Mod"
+description: "This is a lil mod that adds an industry and 2 new cargo types, prolly not balanced."
+url: "https://github.com/Clooppy/Clooppy-Mod"
