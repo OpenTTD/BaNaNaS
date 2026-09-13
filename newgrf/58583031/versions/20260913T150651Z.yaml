@@ -1,0 +1,13 @@
+version: "6"
+license: "GPL v2"
+upload-date: 2026-09-13T15:06:51Z
+md5sum-partial: "a391c24b"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 8901
+availability: "new-games"
+
+name: "Clooppy Mod"
