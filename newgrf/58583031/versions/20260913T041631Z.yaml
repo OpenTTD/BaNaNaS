@@ -1,14 +1,14 @@
-version: "4"
+version: "5"
 license: "GPL v2"
-upload-date: 2026-09-13T02:47:47Z
-md5sum-partial: "b37b5290"
+upload-date: 2026-09-13T04:16:31Z
+md5sum-partial: "62d477d3"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "mixed"
-filesize: 8462
-availability: "savegames-only"
+filesize: 8899
+availability: "new-games"
 
 name: "Clooppy Mod"
 description: "This is a lil mod that adds an industry, a road vehicle, and 2 new cargo types. prolly not balanced."
