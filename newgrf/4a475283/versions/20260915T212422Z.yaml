@@ -1,14 +1,14 @@
-version: "v1.1"
+version: "v1.2"
 license: "GPL v2"
-upload-date: 2024-04-23T19:41:33Z
-md5sum-partial: "058a1a34"
+upload-date: 2026-09-15T21:24:22Z
+md5sum-partial: "7bbad9d1"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "ship"
-filesize: 1341782
-availability: "savegames-only"
+filesize: 1340427
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 0.52"
