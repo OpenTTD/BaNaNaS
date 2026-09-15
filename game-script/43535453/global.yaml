@@ -1,0 +1,5 @@
+name: "Cargo Statistics"
+description: |-
+  Tracks the total amount of cargo transported by your company and displays statistics for each cargo type in the Story Book. Automatically detects available cargo types and uses localized cargo names. ///
+  Cargo Statistics sleduje celkové množství nákladu přepraveného vaší společností a zobrazuje statistiku jednotlivých druhů nákladu v Knize společnosti. Dostupné druhy nákladu jsou rozpoznány automaticky a jejich názvy se zobrazují v jazyce nastaveném v OpenTTD.
+url: "https://github.com/gruntzcz/Cargo-Statistics"
