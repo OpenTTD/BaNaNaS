@@ -1,14 +1,14 @@
-version: "0.0.3"
+version: "0.0.5"
 license: "GPL v2"
-upload-date: 2026-09-09T13:03:12Z
-md5sum-partial: "d6747918"
+upload-date: 2026-09-15T20:24:57Z
+md5sum-partial: "e9606a87"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "road-vehicle"
-filesize: 184636
-availability: "savegames-only"
+filesize: 286175
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 14.0"
@@ -16,3 +16,6 @@ compatibility:
 - "conditions":
   - ">= 0.72.0"
   "name": "jgrpp"
+
+name: "Personal vox trucks"
+url: "https://github.com/Babel-TTT/August-1st"
