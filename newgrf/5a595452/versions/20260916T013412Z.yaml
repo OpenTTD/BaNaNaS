@@ -1,13 +1,13 @@
-version: "1.4"
+version: "1.5"
 license: "GPL v2"
-upload-date: 2026-02-17T15:51:16Z
-md5sum-partial: "4aefe04e"
+upload-date: 2026-09-16T01:34:12Z
+md5sum-partial: "1ea72f95"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "landscape"
-filesize: 339173
-availability: "savegames-only"
+filesize: 348435
+availability: "new-games"
 
 url: "https://github.com/zyliety/Zyliety-Tree-Set"
