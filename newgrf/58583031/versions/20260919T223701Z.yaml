@@ -1,0 +1,13 @@
+version: "8"
+license: "GPL v3"
+upload-date: 2026-09-19T22:37:01Z
+md5sum-partial: "13060d4e"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 18752
+availability: "new-games"
+
+description: "Adds a million things"
