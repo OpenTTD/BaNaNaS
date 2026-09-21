@@ -1,17 +1,17 @@
-version: "0.0.6"
+version: "0.0.7"
 license: "GPL v2"
-upload-date: 2026-09-16T06:01:53Z
-md5sum-partial: "48d43e98"
+upload-date: 2026-09-21T11:31:09Z
+md5sum-partial: "0e742fb4"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "road-vehicle"
-filesize: 286199
-availability: "savegames-only"
+filesize: 406190
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 14.0"
+  - ">= 15.0"
   "name": "vanilla"
 - "conditions":
   - ">= 0.72.0"
