@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "train"
 filesize: 43359
-availability: "new-games"
+availability: "savegames-only"
 
 name: "Narrow Gauge fast train"
 description: "Narrow Gauge Fast Train Set is an OpenTTD NewGRF that adds fictional 1067 mm gauge trains capable of speeds over 200 km/h, along with other rolling stock. You can download it from the Github release page. It is recommended to use this set together with JP+ Track when applying it to the game."
