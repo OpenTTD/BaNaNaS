@@ -1,8 +1,9 @@
 name: "European Train Set fork"
 description: |-
-  Major overhaul adding configurable economics and a broad speed rebalance across the French high-speed roster.
-
+  Major overhaul adding configurable economics and a broad speed rebalance across EU high-speed trains.
+  Based on https://bananas.openttd.org/package/newgrf/45555453
       Adjustable costs:
       Speed increases, several units now use year-dependent adaptive speed callbacks with significant top-speed bumps.
       Cargo flexibility Passenger vehicles can now be refitted to carry mail and valuables in addition to passengers.
 url: "https://github.com/tlpwka/EuropeanTrainSet-fork-cost-speed"
+regions: []
