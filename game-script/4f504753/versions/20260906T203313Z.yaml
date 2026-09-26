@@ -3,7 +3,7 @@ license: "GPL v3"
 upload-date: 2026-09-06T20:33:13Z
 md5sum-partial: "0b26cf93"
 filesize: 236009
-availability: "new-games"
+availability: "savegames-only"
 
 description: |-
   Quartermaster twists OpenTTD into a logistics-focused RTS where games are won entirely on supply lines.  Found your HQ, build outposts, claim territory, defend it with supplies, and push out the competition with military force.
