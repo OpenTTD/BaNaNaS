@@ -13,3 +13,5 @@ compatibility:
 - "conditions":
   - ">= 13"
   "name": "vanilla"
+
+description: "Retired."
