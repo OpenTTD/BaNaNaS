@@ -1,17 +1,17 @@
-version: "0.2.4"
+version: "0.3.0"
 license: "CC-BY-NC-SA v3.0"
-upload-date: 2026-08-18T19:30:38Z
-md5sum-partial: "f1689956"
+upload-date: 2026-09-26T21:16:17Z
+md5sum-partial: "c53bc445"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 104278583
-availability: "savegames-only"
+filesize: 108420662
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 14.0"
+  - ">= 15.0"
   "name": "vanilla"
 - "conditions":
   - ">= 0.72"
