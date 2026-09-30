@@ -1,11 +1,11 @@
-version: "0.7.0"
+version: "0.8.0"
 license: "CC-0 v1.0"
-upload-date: 2026-09-30T17:14:47Z
-md5sum-partial: "960ab3c4"
+upload-date: 2026-09-30T18:51:23Z
+md5sum-partial: "0f6b5323"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "object"
-filesize: 1288344
-availability: "savegames-only"
+filesize: 1458693
+availability: "new-games"
