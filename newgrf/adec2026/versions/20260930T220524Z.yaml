@@ -1,13 +1,13 @@
-version: "2.6.0"
+version: "2.7.0"
 license: "Custom"
-upload-date: 2026-09-30T21:52:10Z
-md5sum-partial: "883e92a2"
+upload-date: 2026-09-30T22:05:24Z
+md5sum-partial: "e8f8590d"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "object"
-filesize: 1330425
-availability: "savegames-only"
+filesize: 1330512
+availability: "new-games"
 
 description: "AutoDecor adds 159 decorative landmarks, improved coastlines, terrain variety and visual assets for the Natural Worlds system. IMPORTANT: this NewGRF requires the companion GameScript \"AutoDecor WorldGen\". Download and activate both before starting a NEW game. Without the GameScript, terrain regions and decorative path networks will not be generated. Enable AutoDecor in NewGRF Settings, select AutoDecor WorldGen in GameScript Settings, then create a new map."
