@@ -1,8 +1,8 @@
-version: "2.1.0"
+version: "2.2.0"
 license: "Custom"
-upload-date: 2026-09-30T20:32:52Z
-md5sum-partial: "be5104c5"
-filesize: 6468
-availability: "savegames-only"
+upload-date: 2026-09-30T20:47:07Z
+md5sum-partial: "84f95c20"
+filesize: 6627
+availability: "new-games"
 
 description: "AutoDecor WorldGen is the required companion GameScript for the AutoDecor NewGRF. It generates coherent terrain regions and decorative dirt-path networks connecting towns, industries and scenery. IMPORTANT: download and activate the \"AutoDecor\" NewGRF before starting a NEW game. This script is not designed to work alone. Enable AutoDecor in NewGRF Settings, select AutoDecor WorldGen here, then generate a completely new map."
