@@ -8,6 +8,6 @@ classification:
   "palette": "32bpp"
   "set": "object"
 filesize: 1330701
-availability: "new-games"
+availability: "savegames-only"
 
 description: "AutoDecor adds 60 automatically generated decorative scenery objects to OpenTTD maps. The objects are placed during map generation and include ruins, rocks, towers, radar stations, wells, cabins, monuments, industrial structures, lighthouses, beacons and other small landmarks. Most objects generate on land, while selected maritime objects generate on water. Designed to make newly generated maps feel more varied and alive without requiring manual placement."
