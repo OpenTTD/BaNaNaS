@@ -1,0 +1,2 @@
+name: "AutoDecor WorldGen"
+description: "Companion world-generation GameScript for AutoDecor v0.6. Generates AutoDecor landmarks, builds decorative dirt-path networks linking towns, industries and generated landmarks, adds sandy coastal edge tiles, and creates coherent regions of varied meadow, grass, flower, scrub, rocky and marsh terrain. Requires the AutoDecor NewGRF to be enabled before starting a new game."
