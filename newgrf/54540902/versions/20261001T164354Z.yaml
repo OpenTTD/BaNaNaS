@@ -1,0 +1,15 @@
+version: "1"
+license: "CC-0 v1.0"
+upload-date: 2026-10-01T16:43:54Z
+md5sum-partial: "a6af0685"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "townname"
+filesize: 3667
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
