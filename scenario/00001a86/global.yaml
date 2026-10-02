@@ -1,0 +1,17 @@
+name: "Rhine Neckar 8192 JGRPP"
+description: |-
+  basemap + matching NewGRFs for trains only
+  area: Germany, Rhine/Neckar region
+  bbox: diamond inside of 6.9587,47.5147,10.905,50.1207
+  size: 8192x8192
+  orientation: top is North
+  scale: 1 tile = 25m
+  cities and towns: 862
+  total population: 24m
+  data source: protomaps (OpenStreetMap) + AWS Terrarium DEM (updated: 02.09.2026)
+url: "https://www.tt-forums.net/viewtopic.php?t=92911"
+regions:
+- "DE"
+- "DE-BW"
+- "DE-HE"
+- "DE-RP"
