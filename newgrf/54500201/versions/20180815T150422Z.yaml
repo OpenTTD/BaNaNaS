@@ -3,10 +3,10 @@ license: "GPL v3"
 upload-date: 2018-08-15T15:04:22Z
 md5sum-partial: "8dfed966"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: false
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
 filesize: 64375
 availability: "savegames-only"
 

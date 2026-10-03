@@ -3,16 +3,16 @@ license: "GPL v3"
 upload-date: 2021-10-14T22:08:46Z
 md5sum-partial: "1f0e34eb"
 classification:
-  set: "train"
-  palette: "8bpp"
-  has-high-res: false
-  has-sound-effects: true
+  "has-high-res": false
+  "has-sound-effects": true
+  "palette": "8bpp"
+  "set": "train"
 filesize: 324444
 availability: "savegames-only"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - ">= 1.7.0"
+  "name": "vanilla"
 
 name: "North American Passenger RR"
 description: |-
