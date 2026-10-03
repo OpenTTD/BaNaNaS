@@ -1,0 +1,11 @@
+version: "1.4.1"
+license: "Custom"
+upload-date: 2026-10-03T14:55:20Z
+md5sum-partial: "c60857d1"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 120674
+availability: "new-games"
