@@ -1,0 +1,11 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2026-10-04T18:00:10Z
+md5sum-partial: "f207798b"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "economy"
+filesize: 10146
+availability: "new-games"
