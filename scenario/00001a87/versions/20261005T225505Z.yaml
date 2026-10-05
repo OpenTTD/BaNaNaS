@@ -1,0 +1,11 @@
+version: "v1.1"
+license: "CC-BY-SA v3.0"
+upload-date: 2026-10-05T22:55:05Z
+md5sum-partial: "ccfe8b29"
+classification:
+  "climate": "sub-arctic"
+  "shape": "square"
+  "size": "huge"
+  "terrain-type": "flat"
+filesize: 1824051
+availability: "new-games"
