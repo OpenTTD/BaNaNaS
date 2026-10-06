@@ -1,0 +1,8 @@
+name: "Speeded Tracks"
+description: |-
+  Speeded Tracks adds 6 speed tiers to the standard OpenTTD railway tracks without altering the original graphics style.
+
+  Features:
+  • 6 Speed Tiers: 80, 120, 160, 200, 250, and 400 km/h
+  • Both Standard (Diesel/Steam) and Electrified (Catenary) variants available
+  • Fully configurable speed limits via NewGRF parameters (0–1000 km/h, 0 = unlimited)
