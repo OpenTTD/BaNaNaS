@@ -1,18 +1,21 @@
-version: "0.3"
+version: "0.4"
 license: "GPL v2"
-upload-date: 2026-08-15T11:24:10Z
-md5sum-partial: "c83ed7cf"
+upload-date: 2026-10-07T08:46:58Z
+md5sum-partial: "ee2c7060"
 classification:
   "has-high-res": true
   "has-sound-effects": false
   "palette": "32bpp"
   "set": "road-vehicle"
-filesize: 11009857
-availability: "savegames-only"
+filesize: 12343310
+availability: "new-games"
 compatibility:
 - "conditions":
-  - ">= 13.1"
+  - ">= 14.0"
   "name": "vanilla"
 - "conditions":
   - ">= 0.62.0"
   "name": "jgrpp"
+
+name: "China Set: Buses"
+url: "https://github.com/OpenTTD-China-Set/China-Set-Buses"
