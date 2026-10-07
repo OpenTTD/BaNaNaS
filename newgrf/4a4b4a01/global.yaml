@@ -1,0 +1,2 @@
+name: "JakoJako Tweaks"
+description: "Hard-server tweaks (temperate). All values are parameters. Fast bridges timed for an early locomotive schedule: 320 km/h from 1975, 512 km/h from 1980, silicon 640 km/h from 1989; 208/240/256 km/h from 1966/1969. Bridge cost rises steeply with speed. Every full rail wagon carries ~300 t (freight x10); passengers and mail count as freight; steel 400 t. Note: passenger DMUs and full road vehicles get much heavier."
