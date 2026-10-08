@@ -1,11 +1,11 @@
-version: "2"
+version: "3"
 license: "GPL v2"
-upload-date: 2026-10-08T03:58:41Z
-md5sum-partial: "d8a6dacb"
+upload-date: 2026-10-08T14:05:36Z
+md5sum-partial: "8a1a6ac5"
 classification:
   "has-high-res": false
   "has-sound-effects": false
   "palette": "8bpp"
   "set": "train"
-filesize: 8375
-availability: "savegames-only"
+filesize: 8475
+availability: "new-games"
