@@ -1,0 +1,5 @@
+name: "AeroLiners-Set"
+description: "AeroLiners Set is an aircraft NewGRF for OpenTTD. Its goal is to bring real-world airliners and freighters — both recent and historic — into OpenTTD, and to let every aircraft be refit into the authentic livery of a real airline."
+url: "https://github.com/Maicarons/AeroLiners-Set"
+regions:
+- "001"
