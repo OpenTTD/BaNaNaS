@@ -1,14 +1,14 @@
-version: "2.7.3"
+version: "2.7.4"
 license: "GPL v2"
-upload-date: 2026-10-03T11:01:00Z
-md5sum-partial: "da3cd287"
+upload-date: 2026-10-08T18:13:00Z
+md5sum-partial: "866191d7"
 classification:
   "has-high-res": false
   "has-sound-effects": true
   "palette": "32bpp"
   "set": "train"
-filesize: 2053059
-availability: "savegames-only"
+filesize: 2058433
+availability: "new-games"
 compatibility:
 - "conditions":
   - ">= 13.0"
