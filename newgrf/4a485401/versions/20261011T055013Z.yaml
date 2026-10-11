@@ -1,0 +1,11 @@
+version: "1.0.1"
+license: "GPL v2"
+upload-date: 2026-10-11T05:50:13Z
+md5sum-partial: "fc7287ae"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
+filesize: 200354
+availability: "new-games"
