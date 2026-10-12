@@ -13,3 +13,5 @@ compatibility:
 - "conditions":
   - ">= 1.2.0"
   "name": "vanilla"
+
+name: "Ukrainian City Names"
