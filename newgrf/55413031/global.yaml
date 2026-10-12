@@ -1,0 +1,7 @@
+name: "Ukraine City Names"
+description: |-
+  Names of the cities of Ukraine. Each name comes up in proportion to the city's population, per the Ukrstat estimate for 1 January 2022.
+  Two styles: "Ukrainian" in Cyrillic and "Ukrainian (Latin)" in the official transliteration.
+url: "https://openttd.dovaogedot.online"
+regions:
+- "UA"
