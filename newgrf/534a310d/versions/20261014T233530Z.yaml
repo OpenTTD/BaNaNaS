@@ -1,0 +1,19 @@
+version: "0.1W"
+license: "CC-BY v3.0"
+upload-date: 2026-10-14T23:35:30Z
+md5sum-partial: "4faeb6c6"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 1955457
+availability: "new-games"
+
+name: "JamesTrains (For Wolfies)"
+description: |-
+  This is an addon set, using existing sprites made by Timberwolf himself, but this version is for Wolfies Train Set. This set massively
+  expands the selection of early BR (1950s), Grouping (1923-1948) and Pre-Grouping (Pre-1923) steam locomotives from
+  1869 to 1954. This should enable the determined rail fan to run any one of the major railways from the period with
+  only locomotives from that railway.
+url: "https://github.com/SquireJames/james-trains"
