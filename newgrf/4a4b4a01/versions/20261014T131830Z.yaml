@@ -1,0 +1,18 @@
+version: "1.2"
+license: "CC-BY-SA v3.0"
+upload-date: 2026-10-14T13:18:30Z
+md5sum-partial: "731df92c"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 11436
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
+
+name: "JakoJako Tweaks"
+description: "Bridges priced by speed and timed for a fast locomotive schedule; every full temperate rail wagon carries about 300 t of cargo, steel 400 t; passengers and mail count as freight. New in 1.2: optional full-wagon weight per cargo (11 parameters, one per temperate cargo, in tonnes; 0 = old rule), e.g. passengers 200 t, steel 600 t. Without the new parameters it behaves exactly like 1.1. Everything is a GRF parameter. Made for the JakoJako server, tested on OpenTTD 15.3. License: CC-BY-SA 3.0."
