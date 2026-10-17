@@ -1,0 +1,7 @@
+name: "San Jose & South SF Bay Area"
+description: |-
+  South SF Bay Area 1024x1024 for openttd jgr patch pack, I made it using https://map-town-parser.hygames.eu/ to grab the heightmap and towns, I just added some roads and location markers (Communications Hill, etc) to the map.
+
+  Hope you enjoy!
+regions:
+- "US-CA"
