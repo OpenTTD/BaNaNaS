@@ -1,0 +1,20 @@
+version: "2"
+license: "GPL v3"
+upload-date: 2026-10-20T12:34:15Z
+md5sum-partial: "19f3371f"
+filesize: 16363
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.73.3"
+  "name": "jgrpp"
+
+name: "Configurable Subsidies"
+description: |-
+  Configurable Subsidies is an OpenTTD Game Script that supplements the game's built-in subsidy system by generating additional subsidy offers at configurable intervals.
+
+  The script works alongside vanilla subsidies rather than replacing them. It gives players more opportunities to establish new cargo routes, connect industries, and serve towns.
+url: "https://github.com/Krelsis/openttd-configurable-subsidies"
