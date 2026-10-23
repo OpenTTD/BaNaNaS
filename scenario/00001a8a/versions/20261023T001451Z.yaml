@@ -1,0 +1,15 @@
+version: "1.0"
+license: "CC-BY v3.0"
+upload-date: 2026-10-23T00:14:51Z
+md5sum-partial: "70f02af4"
+classification:
+  "climate": "temperate"
+  "shape": "rectangle"
+  "size": "huge"
+  "terrain-type": "mountainous"
+filesize: 810210
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.3"
+  "name": "vanilla"
