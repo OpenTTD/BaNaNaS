@@ -1,0 +1,12 @@
+name: "ASoIaF: Westeros (2h/year)"
+description: |-
+  A variant of the ASoIaF: Westeros scenario with each year taking 2 hours to play, in order to allow more of the map to be built out.
+
+  Original scenario description:
+
+  Westeros, from A Song of Ice and Fire / Game of Thrones fame - in OpenTTD. Play as any house you want!
+
+  Painstakingly put together using canon and semi-canon sources, terrain put together mostly by hand, and towns are hand-placed.
+
+  It's a big map (2048x1024).
+url: "https://github.com/rexxars/openttd-westeros"
