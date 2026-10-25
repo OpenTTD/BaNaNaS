@@ -1,0 +1,14 @@
+version: "5"
+license: "GPL v2"
+upload-date: 2026-10-25T17:44:24Z
+md5sum-partial: "b00499bd"
+filesize: 17865
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 0.7.0"
+  "name": "vanilla"
+
+name: "HeliFerry"
+description: "AI using only helicopters and ferries"
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=75384"
