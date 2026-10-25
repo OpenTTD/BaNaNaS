@@ -1,0 +1,18 @@
+version: "1"
+license: "Custom"
+upload-date: 2026-10-25T09:09:10Z
+md5sum-partial: "adbbdd72"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "landscape"
+filesize: 48251106
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 16"
+  "name": "vanilla"
+
+description: "32bpp Landscape and infrastructure set. The core module for the other Sunshine newgrfs."
+url: "https://www.tt-forums.net/viewtopic.php?t=92649"

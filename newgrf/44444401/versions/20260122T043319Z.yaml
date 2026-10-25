@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "landscape"
 filesize: 47958681
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 15"
