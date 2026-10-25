@@ -1,0 +1,11 @@
+version: "7"
+license: "GPL v2"
+upload-date: 2026-10-25T18:46:19Z
+md5sum-partial: "83ff57d2"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "town"
+filesize: 15445516
+availability: "new-games"
