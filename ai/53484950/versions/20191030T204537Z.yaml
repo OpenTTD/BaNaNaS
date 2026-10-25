@@ -5,9 +5,9 @@ md5sum-partial: "5f59b2c2"
 filesize: 26623
 availability: "savegames-only"
 dependencies:
-- content-type: "ai-library"
-  unique-id: "4752412a"
-  md5sum-partial: "f385497c"
+- "content-type": "ai-library"
+  "md5sum-partial": "f385497c"
+  "unique-id": "4752412a"
 
 description: |-
   AI that operates only ships.

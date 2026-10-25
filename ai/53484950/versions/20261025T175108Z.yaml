@@ -1,0 +1,23 @@
+version: "11"
+license: "GPL v2"
+upload-date: 2026-10-25T17:51:08Z
+md5sum-partial: "9a15ec32"
+filesize: 35867
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
+
+name: "ShipAI"
+description: |-
+  AI that operates only ships.
+
+  It supports:
+  - freight & passenger cargos
+  - building canals, locks and aqueducts
+  - autoreplacing vehicle model when the new, better model appears
+  - selling unprofitable vehicles
+  - autoreplacing old vehicles with new ones
+  - demolishing ghost stations
+url: "https://www.tt-forums.net/viewtopic.php?f=65&t=75531"
