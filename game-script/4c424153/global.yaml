@@ -1,0 +1,6 @@
+name: "Lafe Build Assistant"
+description: |-
+  Build roads, railways and ship lines from the Story Book: pick A and B, press Plan, check the preview and cost, press Build. The script finds the route (bridges, tunnels, smooth curves, no levelling under the track), builds stations, depots, signals and buys the vehicles with orders.
+
+  Source and full manual: https://github.com/doktorlafe/openttd-build-assistent-script
+url: "https://github.com/doktorlafe/openttd-build-assistent-script"
