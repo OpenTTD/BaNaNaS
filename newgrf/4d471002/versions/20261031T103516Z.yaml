@@ -1,0 +1,11 @@
+version: "3.3.0"
+license: "GPL v2"
+upload-date: 2026-10-31T10:35:16Z
+md5sum-partial: "403924ea"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "industry"
+filesize: 600083
+availability: "new-games"
