@@ -1,0 +1,10 @@
+version: "208"
+license: "GPL v2"
+upload-date: 2026-10-31T15:35:53Z
+md5sum-partial: "df2decd9"
+filesize: 744834
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13"
+  "name": "vanilla"
