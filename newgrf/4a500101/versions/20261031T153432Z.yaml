@@ -1,0 +1,15 @@
+version: "208"
+license: "GPL v2"
+upload-date: 2026-10-31T15:34:32Z
+md5sum-partial: "f8126d9c"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "mixed"
+filesize: 159447
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13"
+  "name": "vanilla"

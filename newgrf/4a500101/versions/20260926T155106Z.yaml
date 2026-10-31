@@ -8,6 +8,6 @@ classification:
   "palette": "8bpp"
   "set": "mixed"
 filesize: 84467
-availability: "new-games"
+availability: "savegames-only"
 
 description: "The graphics necessary for QuartermasterGS to run smoothly. Includes additional cargo types, industries, and vehicles."
