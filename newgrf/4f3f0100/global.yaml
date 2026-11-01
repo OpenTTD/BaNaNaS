@@ -1,0 +1,15 @@
+name: "China-Fictional-Maglev-Set"
+description: |-
+  China Fictional Maglev Set - DEMO
+
+  OpenTTD set of fictional Chinese maglev vehicles: Passenger/freight stock and MR2015 engineering vehicle. Multiple liveries, configurable parameters. Dining cars and more trains planned.
+  By Zhengyu Huo, Alexei124r, Justinli489, Xianyu, Misaka13113 and Luoyezhiqiu. AI-assisted and human-reviewed.
+  License: GPL v2 only.
+
+  Unofficial fan project and is not affiliated with or endorsed by Shanghai Metro, Transrapid, ThyssenKrupp, or any railway operator.
+url: "https://github.com/Alexei124r/OpenTTD-China-Fictional-Maglev-Set"
+regions:
+- "CN"
+- "CN-SH"
+- "UN-030"
+- "UN-142"
