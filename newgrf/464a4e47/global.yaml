@@ -1,0 +1,4 @@
+name: "JapanSet No-Grid Add-on"
+description: |-
+  Removes the grid lines from JapanSet Landscape 3.2 ground tiles. Keep JapanSet Landscape in the list and put this add-on directly below it with the same parameters; without it the add-on disables itself. Grid positions derived from OpenGFX+ Landscape. Source code is in the readme.
+  去掉 JapanSet Landscape 地面网格线。放在原版正下方，参数一致。
