@@ -1,0 +1,25 @@
+version: "0.1.1-alpha"
+license: "GPL v2"
+upload-date: 2026-11-03T14:26:43Z
+md5sum-partial: "f4779deb"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
+filesize: 3727164
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13.1"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.65.4"
+  "name": "jgrpp"
+
+name: "China-Fictional-Maglev-Set"
+description: |-
+  China Fictional Maglev Set
+  An unofficial fictional Chinese maglev vehicle set for OpenTTD. This demo includes passenger and freight stock, and the MR2015 maglev engineering vehicle, with multiple liveries and configurable operating parameters.
+  This is an unofficial fan project and is not affiliated with or endorsed by Shanghai Metro, Transrapid, ThyssenKrupp, or any railway operator.
+url: "https://github.com/Alexei124r/OpenTTD-China-Fictional-Maglev-Set"
