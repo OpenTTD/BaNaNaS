@@ -1,0 +1,15 @@
+version: "1.2"
+license: "Custom"
+upload-date: 2026-11-04T05:29:47Z
+md5sum-partial: "950f39d2"
+classification:
+  "has-high-res": true
+  "has-sound-effects": true
+  "palette": "32bpp"
+  "set": "road-vehicle"
+filesize: 605659
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15"
+  "name": "vanilla"
