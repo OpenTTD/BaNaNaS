@@ -1,0 +1,24 @@
+version: "0.1.2-alpha"
+license: "GPL v2"
+upload-date: 2026-11-04T09:46:33Z
+md5sum-partial: "1cae7991"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
+filesize: 3725317
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 13.1"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.65.4"
+  "name": "jgrpp"
+
+name: "China-Fictional-Maglev-Set"
+description: |-
+  Fictional Chinese maglev vehicles: TR08, TR2012, TR2015, TR2015F and MR2015 with multiple livery schemes. Runs on maglev track.
+  This is an unofficial fan project and is not affiliated with or endorsed by Shanghai Metro, Transrapid, ThyssenKrupp, or any railway operator.
+url: "https://github.com/Alexei124r/OpenTTD-China-Fictional-Maglev-Set"
