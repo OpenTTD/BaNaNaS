@@ -1,0 +1,15 @@
+version: "0.1.0"
+license: "GPL v2"
+upload-date: 2026-11-05T19:53:50Z
+md5sum-partial: "adb35557"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "landscape"
+filesize: 109604582
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"

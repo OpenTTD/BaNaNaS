@@ -1,0 +1,10 @@
+name: "ModernGFX"
+description: |-
+  Modern low-poly 32bpp graphics rendered in Blender: soft light, clean shapes.
+
+  Replaces terrain, water, trees, rails, roads, trams, monorail, maglev, stations, bridges, airports, docks, houses, industries, all vehicles, smoke and disasters in all climates including toyland.
+
+  1x, 2x and 4x zoom, company colours kept. Use the 32bpp blitter.
+
+  Source: https://github.com/cognisanceug/moderngfx
+url: "https://github.com/cognisanceug/moderngfx"
