@@ -1,0 +1,7 @@
+name: "German-ish Town Names"
+description: "Thousands of possible names that could be German town names. All nonsense, many of them funny. This NewGRF might allow you to go from Ganz am Anfang to Abseilen auf dem Acker via Bad Turn. At least basic knowledge of the German language helps enjoying it."
+url: "https://github.com/MarlongGd/OpenTTD-German-ish_Town_Names"
+regions:
+- "AT"
+- "CH"
+- "DE"
