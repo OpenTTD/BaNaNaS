@@ -1,0 +1,7 @@
+name: "Israeli Town Names (Heb + Eng)"
+description: |-
+  Real Israeli town names: over 1,100 cities, towns, kibbutzim, moshavim and villages. Two town name styles:
+  Hebrew and English. Based on the original Hebrew set by ZvikaZ.
+url: "https://github.com/maximunited/OpenTTD-Israeli-Town-Names"
+regions:
+- "IL"
