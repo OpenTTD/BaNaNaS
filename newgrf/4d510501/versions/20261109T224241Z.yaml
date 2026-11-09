@@ -1,0 +1,11 @@
+version: "7.4"
+license: "GPL v2"
+upload-date: 2026-11-09T22:42:41Z
+md5sum-partial: "913a6136"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "industry"
+filesize: 432500
+availability: "new-games"
