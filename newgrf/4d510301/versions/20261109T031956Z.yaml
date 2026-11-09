@@ -1,0 +1,11 @@
+version: "7.4"
+license: "GPL v2"
+upload-date: 2026-11-09T03:19:56Z
+md5sum-partial: "ac160089"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 16678
+availability: "new-games"
