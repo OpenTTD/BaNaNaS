@@ -1,0 +1,15 @@
+version: "1.0.0"
+license: "CC-BY-NC-SA v3.0"
+upload-date: 2026-11-10T17:40:41Z
+md5sum-partial: "9fbb76e4"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "gui"
+filesize: 8077242
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
