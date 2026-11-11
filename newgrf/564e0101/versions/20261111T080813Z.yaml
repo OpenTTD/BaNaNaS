@@ -1,0 +1,18 @@
+version: "4.1"
+license: "GPL v3"
+upload-date: 2026-11-11T08:08:13Z
+md5sum-partial: "bf988e40"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 2520821
+availability: "new-games"
+
+name: "2cc Trains In NML (Revival)"
+description: |-
+  An updated and revamped version of the original 2cc Trains project with over 200 new vehicles added, support for various track types, push-pull and voltages as well as badges.
+
+  Please refer to the project website for complete details.
+url: "https://github.com/nemethviktor/2ccts_revival"
