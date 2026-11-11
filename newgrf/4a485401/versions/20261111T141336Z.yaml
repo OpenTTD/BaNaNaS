@@ -1,0 +1,13 @@
+version: "v1.1.0"
+license: "GPL v2"
+upload-date: 2026-11-11T14:13:36Z
+md5sum-partial: "7d5e87f0"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "train"
+filesize: 189443
+availability: "new-games"
+
+name: "Hokkaido Train Set"
