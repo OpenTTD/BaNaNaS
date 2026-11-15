@@ -1,0 +1,3 @@
+name: "CIRS Growth"
+description: "CIRS Growth is an OpenTTD Game Script: town growth depends on cargo deliveries plus passenger/mail transport. Towns need 3-6 cargo categories that unlock as they grow; surplus is stockpiled and growth follows the transported share. Adapted from Renewed Village Growth, it supports the six CIRS economies and other industry sets. 12 in-game translations; English settings menu. Localized builds: GitHub releases. Source: https://github.com/Maicarons/CIRS-Growth - GPL v2"
+url: "https://github.com/Maicarons/CIRS-Growth"
