@@ -8,3 +8,5 @@ classification:
   "terrain-type": "hilly"
 filesize: 4867875
 availability: "new-games"
+
+description: "A fantasy island nation. A land of 1000 lakes in the middle of ocean. Quite hilly, some fjords in north and east. Correct position if rotated clockwise in scenario editor. Best if played 1024x1024 or 2048x2048."
