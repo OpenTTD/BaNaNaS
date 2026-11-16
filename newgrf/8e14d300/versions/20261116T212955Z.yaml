@@ -1,0 +1,23 @@
+version: "1.01"
+license: "Custom"
+upload-date: 2026-11-16T21:29:55Z
+md5sum-partial: "48e7e9d8"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "townname"
+filesize: 61358
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
+
+description: |-
+  Deutschige Städtenamen
+
+  Tausende mögliche Namen, die deutsche Städte bezeichnen könnten. Alle hoffentlich sinnlos, viele davon lustig. Mit Glück kann man so zum Beispiel von Ganz am Anfang über Links Abbiegen nach Bremswegen fahren.
+
+  Thousands of possible names that could be German town names. Hopefully all nonsense and many of them funny. This NewGRF might allow you to go from Ganz am Anfang to Abseilen auf dem Acker via Bad Turn.
+  At least some basic understanding of German helps enjoying it.
