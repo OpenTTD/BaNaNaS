@@ -1,4 +1,4 @@
-version: "1.00"
+version: "1.00 (obsolete)"
 license: "Custom"
 upload-date: 2026-11-06T21:47:07Z
 md5sum-partial: "0d3c7697"
@@ -13,3 +13,5 @@ compatibility:
 - "conditions":
   - ">= 1.2.0"
   "name": "vanilla"
+
+description: "Now obsolete, as v1.01 is compatible with existing savegames."
