@@ -1,0 +1,20 @@
+version: "1.7.9"
+license: "CC-BY-SA v3.0"
+upload-date: 2026-11-16T21:24:43Z
+md5sum-partial: "5071588d"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 27976695
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 14.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.68.2"
+  "name": "jgrpp"
+
+description: "A maximalist UK train set including vehicles from 1700 to the present day. Features 2cc colours, long vehicle scale, 2x zoom, and extra rotation sprites."
