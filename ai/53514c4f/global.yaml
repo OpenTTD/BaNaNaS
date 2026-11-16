@@ -1,0 +1,2 @@
+name: "SqualoAI"
+description: "Competitive AI: buses between towns, trucks between industries and to towns, aircraft between big towns, simple freight trains (one train per line). Uses statues, advertising, exclusive rights, building funding and bribes (each can be disabled); buys bankrupt competitors after 5 years. Lower the max-routes settings for an easier opponent. Requires OpenTTD 15+. Logs in Italian. Source: the .nut files in this package (GPL v2)."
