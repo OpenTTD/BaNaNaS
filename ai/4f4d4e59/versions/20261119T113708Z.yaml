@@ -1,0 +1,13 @@
+version: "15"
+license: "Custom"
+upload-date: 2026-11-19T11:37:08Z
+md5sum-partial: "0b380191"
+filesize: 37514
+availability: "new-games"
+dependencies:
+- "content-type": "ai-library"
+  "md5sum-partial": "e6b1d198"
+  "unique-id": "5046524c"
+- "content-type": "ai-library"
+  "md5sum-partial": "999de61c"
+  "unique-id": "5046524f"
