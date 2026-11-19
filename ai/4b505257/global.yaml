@@ -1,0 +1,14 @@
+name: "KaipirinhaRailways"
+description: |-
+  Self-optimizing multimodal AI for rail, road, aircraft and ships.
+
+  Features:
+  - ROI-driven branch choice & bandit learning memory
+  - Passing-lane rail, road, air & passenger/cargo ships
+  - Financial leverage, town campaigns, industry funding & takeovers
+  - Endgame mode & stagnation recovery
+
+  Based on SuperSimpleAI (jaume-sabater) & SimpleAI (Brumi) under GPL v2.
+  Author: Kai Fischer (ELBTALWERK)
+  Feedback: elbtalwerk.kontakt@gmx.de
+url: "https://github.com/KaipirinhaReal/KaipirinhaRailways"
