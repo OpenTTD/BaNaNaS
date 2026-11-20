@@ -1,0 +1,15 @@
+version: "v0.8.1"
+license: "GPL v3"
+upload-date: 2026-11-20T23:52:51Z
+md5sum-partial: "be5233aa"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "train"
+filesize: 546776
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
