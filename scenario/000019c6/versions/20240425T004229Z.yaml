@@ -3,18 +3,18 @@ license: "GPL v3"
 upload-date: 2024-04-25T00:42:29Z
 md5sum-partial: "3a5be95b"
 classification:
-  shape: "square"
-  terrain-type: "mountainous"
-  size: "huge"
-  climate: "temperate"
+  "climate": "temperate"
+  "shape": "square"
+  "size": "huge"
+  "terrain-type": "mountainous"
 filesize: 3042467
 availability: "new-games"
 compatibility:
-- name: "vanilla"
-  conditions:
+- "conditions":
   - "< 0.1"
-- name: "jgrpp"
-  conditions:
+  "name": "vanilla"
+- "conditions":
   - "< 0.1"
+  "name": "jgrpp"
 
 name: "(Old Version: UK 4K NR)"
