@@ -8,7 +8,7 @@ classification:
   "palette": "8bpp"
   "set": "town"
 filesize: 1276461
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 14.1"
