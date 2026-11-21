@@ -1,0 +1,15 @@
+version: "0.1.2"
+license: "GPL v2"
+upload-date: 2026-11-21T15:51:59Z
+md5sum-partial: "775b084d"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "object"
+filesize: 556137
+availability: "new-games"
+
+name: "Chinese Landmarks"
+description: "为 OpenTTD 提供中国地标与公共广场装饰物件"
+url: "https://github.com/dramadeveloper/Chinese-Landmarks"
