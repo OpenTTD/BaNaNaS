@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "train"
 filesize: 90784089
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 13.1"
