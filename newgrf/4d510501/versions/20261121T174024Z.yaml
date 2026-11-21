@@ -1,0 +1,11 @@
+version: "7.5"
+license: "GPL v2"
+upload-date: 2026-11-21T17:40:24Z
+md5sum-partial: "71e1466a"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "industry"
+filesize: 14823020
+availability: "new-games"
