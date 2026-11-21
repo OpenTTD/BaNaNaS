@@ -1,0 +1,18 @@
+version: "1"
+license: "GPL v2"
+upload-date: 2026-11-21T13:10:49Z
+md5sum-partial: "3eab3768"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "rail-infra"
+filesize: 18847336
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.72.0"
+  "name": "jgrpp"
