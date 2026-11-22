@@ -1,0 +1,15 @@
+version: "3"
+license: "GPL v3"
+upload-date: 2026-11-22T11:52:32Z
+md5sum-partial: "ee42e42c"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "unknown"
+filesize: 269682
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
