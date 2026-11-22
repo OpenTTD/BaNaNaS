@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "train"
 filesize: 5950145
-availability: "new-games"
+availability: "savegames-only"
 
 name: "China Set: Metros"
 url: "https://github.com/OpenTTD-China-Set/china-set-metro"
