@@ -1,0 +1,24 @@
+version: "1.02"
+license: "Custom"
+upload-date: 2026-11-24T20:30:25Z
+md5sum-partial: "7756d382"
+classification:
+  "has-high-res": false
+  "has-sound-effects": false
+  "palette": "8bpp"
+  "set": "townname"
+filesize: 61442
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 1.2.0"
+  "name": "vanilla"
+
+name: "German-ish Town Names"
+description: |-
+  German-ish Town Names / Deutschige Städtenamen
+
+  Tausende mögliche Namen, die deutsche Städte bezeichnen könnten. Alle hoffentlich sinnlos, viele davon lustig. Mit Glück kann man so zum Beispiel von Ganz am Anfang über Links Abbiegen nach Bremswegen fahren.
+
+  Thousands of possible names that could be German town names. Many of them funny. This NewGRF might allow you to go from Ganz am Anfang to Abseilen auf dem Acker via Bad Turn. At least a basic understanding of German helps enjoying it.
+url: "https://github.com/MarlongGd/OpenTTD-German-ish_Town_Names"
