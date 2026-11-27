@@ -1,0 +1,20 @@
+version: "2"
+license: "GPL v2"
+upload-date: 2026-11-27T12:05:28Z
+md5sum-partial: "5d55c320"
+classification:
+  "has-high-res": true
+  "has-sound-effects": false
+  "palette": "32bpp"
+  "set": "rail-infra"
+filesize: 18847608
+availability: "new-games"
+compatibility:
+- "conditions":
+  - ">= 15.0"
+  "name": "vanilla"
+- "conditions":
+  - ">= 0.62.0"
+  "name": "jgrpp"
+
+name: "Chinese Rail"

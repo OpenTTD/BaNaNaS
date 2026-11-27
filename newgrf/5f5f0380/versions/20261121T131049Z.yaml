@@ -8,7 +8,7 @@ classification:
   "palette": "32bpp"
   "set": "rail-infra"
 filesize: 18847336
-availability: "new-games"
+availability: "savegames-only"
 compatibility:
 - "conditions":
   - ">= 15.0"
