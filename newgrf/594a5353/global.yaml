@@ -1,0 +1,8 @@
+name: "Yujing's Space Set"
+description: |-
+  The Apollo Rocket Industry Set rebuilt as placeable objects.
+  Licence: GNU General Public License v3 or later. Artwork (C) 2019 Erato Nysiad, from the Apollo Rocket Industry Set, used under GPL v3. Object code and animation sequencing (C) 2026 Yujing, also GPL v3.
+  Source code:https://github.com/Yujing233/Yujing-s-Space-Set
+url: "https://github.com/Yujing233/Yujing-s-Space-Set"
+regions:
+- "001"
